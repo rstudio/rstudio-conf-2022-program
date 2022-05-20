@@ -1,7 +1,7 @@
 ---
 # Do not edit
 talk_id: 22044
-talk_slug: of-favorite-things-quarto-presentations
+talk_slug: my-favorite-things-quarto-presentations
 talk_type: regular
 session_slug: quarto-deep-dive
 block: 4-8-session
