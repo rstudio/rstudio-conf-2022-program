@@ -24,7 +24,7 @@ speakers:
     book Introduction to Empirical Bayes. David is passionate about R,
     statistics, education, live-coding, probability, and his two children.
 
-  photo: /assets/img/2022conf/_talks/22214_david-robinson.jpg
+  photo: /assets/img/2022Conf/_talks/22214_david-robinson.jpg
   url:
     webpage: http://varianceexplained.org/
     twitter: https://twitter.com/drob

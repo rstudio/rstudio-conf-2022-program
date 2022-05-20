@@ -25,7 +25,7 @@ speakers:
     Websites with R Markdown”, “R Markdown: The Definitive Guide”, and “R
     Markdown Cookbook.”
 
-  photo: /assets/img/2022conf/_talks/22181_yihui-xie.png
+  photo: /assets/img/2022Conf/_talks/22181_yihui-xie.png
   url:
     webpage: https://yihui.org
     twitter: https://twitter.com/xieyihui

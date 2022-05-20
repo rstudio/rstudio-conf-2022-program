@@ -24,7 +24,7 @@ speakers:
     cats, the musical stylings of [The Screaming Females](https://
     screamingfemales.bandcamp.com/), platelet donation, and baking.
 
-  photo: /assets/img/2022conf/_talks/22120_zhian-n-kamvar.png
+  photo: /assets/img/2022Conf/_talks/22120_zhian-n-kamvar.png
   url:
     webpage: https://zkamvar.netlify.app
     twitter: https://twitter.com/zkamvar

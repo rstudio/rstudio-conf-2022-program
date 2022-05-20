@@ -25,7 +25,7 @@ speakers:
     (the author of The Grammar of Graphics) back in the 1970’s when they
     were both graduate students in Psychology at Yale.
 
-  photo: /assets/img/2022conf/_talks/22156_john-goldin.jpeg
+  photo: /assets/img/2022Conf/_talks/22156_john-goldin.jpeg
   url:
     webpage: https://www.johngoldin.com
     twitter: https://twitter.com/johngoldin

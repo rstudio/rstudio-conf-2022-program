@@ -25,7 +25,7 @@ speakers:
     Washington State University and his PhD in Cellular and Molecular
     Medicine at the University of Arizona.
 
-  photo: /assets/img/2022conf/_talks/22121_jon-nye.png
+  photo: /assets/img/2022Conf/_talks/22121_jon-nye.png
   url:
     webpage: ~
     twitter: ~

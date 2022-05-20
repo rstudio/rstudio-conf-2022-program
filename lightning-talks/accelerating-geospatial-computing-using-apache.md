@@ -22,7 +22,7 @@ speakers:
     R Developer at [Voltron Data](https://voltrondata.com/) working on all
     things [Apache Arrow](https://arrow.apache.org/) + R.
 
-  photo: /assets/img/2022conf/_talks/22036_dewey-dunnington.jpg
+  photo: /assets/img/2022Conf/_talks/22036_dewey-dunnington.jpg
   url:
     webpage: https://dewey.dunnington.ca
     twitter: https://twitter.com/paleolimbot

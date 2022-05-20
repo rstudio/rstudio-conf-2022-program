@@ -26,7 +26,7 @@ speakers:
     a situation where everyone's thoughts and actions matter, raising
     attention and awareness is a useful thing to do.
 
-  photo: /assets/img/2022conf/_talks/22008_sigrid-keydana.jpg
+  photo: /assets/img/2022Conf/_talks/22008_sigrid-keydana.jpg
   url:
     webpage: https://divergences.xyz
     twitter: twitter.com/zkajdan

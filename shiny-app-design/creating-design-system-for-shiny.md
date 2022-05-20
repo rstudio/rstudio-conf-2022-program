@@ -27,7 +27,7 @@ speakers:
     passionate about data science education and has given many talks and
     workshops about using and creating tools in R.
 
-  photo: /assets/img/2022conf/_talks/22109_maya-gans.png
+  photo: /assets/img/2022Conf/_talks/22109_maya-gans.png
   url:
     webpage: maya.rbind.io
     twitter: https://twitter.com/Mayacelium

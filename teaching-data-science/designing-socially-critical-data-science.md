@@ -28,7 +28,7 @@ speakers:
     Brian enjoys improv, games of all kinds, and being inspired by others’
     favorite forms of geekery.
 
-  photo: /assets/img/2022conf/_talks/22222_brian-danielak.jpg
+  photo: /assets/img/2022Conf/_talks/22222_brian-danielak.jpg
   url:
     webpage: ~
     twitter: https://twitter.com/Capbri

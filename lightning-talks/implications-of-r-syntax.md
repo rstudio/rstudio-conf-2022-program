@@ -22,7 +22,7 @@ speakers:
     intersection of the two. You may know her as "the woman with the
     tidyverse dress."
 
-  photo: /assets/img/2022conf/_talks/22195_amelia-mcnamara.jpg
+  photo: /assets/img/2022Conf/_talks/22195_amelia-mcnamara.jpg
   url:
     webpage: www.amelia.mn
     twitter: www.twitter.com/AmeliaMN

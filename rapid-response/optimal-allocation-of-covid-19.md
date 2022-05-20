@@ -26,7 +26,7 @@ speakers:
     Sciences from Cornell University and is pursuing an MS in Data Science
     from the University of California, Berkeley.
 
-  photo: /assets/img/2022conf/_talks/22230_allison-fox.jpg
+  photo: /assets/img/2022Conf/_talks/22230_allison-fox.jpg
   url:
     webpage: ~
     twitter: ~
@@ -43,7 +43,7 @@ speakers:
     allocation vaccine allocation models. She really enjoys working low
     resource, high impact data environments.
 
-  photo: /assets/img/2022conf/_talks/22230_anubhuti-mishra.png
+  photo: /assets/img/2022Conf/_talks/22230_anubhuti-mishra.png
   url:
     webpage: ~
     twitter: ~

@@ -18,7 +18,7 @@ speakers:
   bio: |+
     NA
 
-  photo: /assets/img/2022conf/_talks/22301_julia-silge.jpeg
+  photo: /assets/img/2022Conf/_talks/22301_julia-silge.jpeg
   url:
     webpage: https://juliasilge.com/
     twitter: https://twitter.com/juliasilge
@@ -30,7 +30,7 @@ speakers:
   bio: |+
     NA
 
-  photo: /assets/img/2022conf/_talks/22301_max-kuhn.jpeg
+  photo: /assets/img/2022Conf/_talks/22301_max-kuhn.jpeg
   url:
     webpage: ~
     twitter: https://twitter.com/topepos

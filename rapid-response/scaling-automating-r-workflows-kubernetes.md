@@ -28,7 +28,7 @@ speakers:
     as well as on some soon-to-be-announced open source projects on
     scaling and containerising R workloads.
 
-  photo: /assets/img/2022conf/_talks/22199_isaac-florence.jpg
+  photo: /assets/img/2022Conf/_talks/22199_isaac-florence.jpg
   url:
     webpage: https://isaacflorence.co.uk/
     twitter: https://twitter.com/isaacatflorence

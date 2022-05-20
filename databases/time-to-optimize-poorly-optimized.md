@@ -22,7 +22,7 @@ speakers:
     University of Washington. Rebecca loves automating and optimizing
     processes, building Shiny apps, and helping others learn to code.
 
-  photo: /assets/img/2022conf/_talks/22007_rebecca-hadi.jpg
+  photo: /assets/img/2022Conf/_talks/22007_rebecca-hadi.jpg
   url:
     webpage: www.rebeccahadi.dev
     twitter: https://twitter.com/beehadi26

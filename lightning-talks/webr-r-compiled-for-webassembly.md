@@ -26,7 +26,7 @@ speakers:
     more. George is now lead developer for the webR project, aiming to
     compile R and its packages for WebAssembly.
 
-  photo: /assets/img/2022conf/_talks/22027_george-stagg.jpeg
+  photo: /assets/img/2022Conf/_talks/22027_george-stagg.jpeg
   url:
     webpage: https://www.gwstagg.co.uk
     twitter: https://twitter.com/Tegglington

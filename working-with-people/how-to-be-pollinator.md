@@ -22,7 +22,7 @@ speakers:
     across the education and health sectors. He earned his PhD in
     political science from MIT.
 
-  photo: /assets/img/2022conf/_talks/22075_weihuang-wong.jpg
+  photo: /assets/img/2022Conf/_talks/22075_weihuang-wong.jpg
   url:
     webpage: https://www.norc.org/Experts/Pages/weihuang-wong.aspx
     twitter: https://twitter.com/weihuang
@@ -41,7 +41,7 @@ speakers:
     statistical and computational reproducibility in forensic evidence
     analysis.
 
-  photo: /assets/img/2022conf/_talks/22075_kiegan-rice.jpg
+  photo: /assets/img/2022Conf/_talks/22075_kiegan-rice.jpg
   url:
     webpage: ~
     twitter: https://twitter.com/kieganer

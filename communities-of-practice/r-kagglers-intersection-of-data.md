@@ -18,7 +18,7 @@ speakers:
   bio: |+
     Data Scientist @ YipitData | Kaggle Grandmaster | PhD Astrophysicist
 
-  photo: /assets/img/2022conf/_talks/22208_martin-henze.jpg
+  photo: /assets/img/2022Conf/_talks/22208_martin-henze.jpg
   url:
     webpage: https://www.kaggle.com/headsortails
     twitter: https://twitter.com/heads0rtai1s

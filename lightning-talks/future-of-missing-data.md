@@ -33,7 +33,7 @@ speakers:
     really far, run ultra marathons, brew coffee, take photographs, and
     have long meandering conversations.
 
-  photo: /assets/img/2022conf/_talks/22233_nicholas-tierney.jpeg
+  photo: /assets/img/2022Conf/_talks/22233_nicholas-tierney.jpeg
   url:
     webpage: https://njtierney.com/
     twitter: https://twitter.com/nj_tierney

@@ -26,7 +26,7 @@ speakers:
     improving her artistic skills through painting, quilting, needlepoint,
     and other creative pursuits.
 
-  photo: /assets/img/2022conf/_talks/22062_alice-walsh-phd.jpg
+  photo: /assets/img/2022Conf/_talks/22062_alice-walsh-phd.jpg
   url:
     webpage: https://awalsh17.github.io/
     twitter: https://twitter.com/sciencealice

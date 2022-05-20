@@ -22,7 +22,7 @@ speakers:
     of the R Graphics Cookbook, published by O'Reilly Media, and has a PhD
     in psychology from Northwestern University.
 
-  photo: /assets/img/2022conf/_talks/22232_winston-chang.jpeg
+  photo: /assets/img/2022Conf/_talks/22232_winston-chang.jpeg
   url:
     webpage: ~
     twitter: https://twitter.com/winston_chang

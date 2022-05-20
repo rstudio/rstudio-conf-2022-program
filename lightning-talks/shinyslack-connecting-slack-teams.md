@@ -23,7 +23,7 @@ speakers:
     last several years. He lives in Austin, Texas, with his spouse, two
     children, and two large dogs.
 
-  photo: /assets/img/2022conf/_talks/22108_jon-harmon.jpg
+  photo: /assets/img/2022Conf/_talks/22108_jon-harmon.jpg
   url:
     webpage: ~
     twitter: https://twitter.com/JonTheGeek

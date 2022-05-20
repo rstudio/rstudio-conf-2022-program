@@ -20,7 +20,7 @@ speakers:
     scientists and IT communicate about their needs. Before joining
     RStudio, he worked as a data scientist in the public sector.
 
-  photo: /assets/img/2022conf/_talks/22067_e-david-aja.jpg
+  photo: /assets/img/2022Conf/_talks/22067_e-david-aja.jpg
   url:
     webpage: https://edavidaja.com
     twitter: https://twitter.com/peeltothepity

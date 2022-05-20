@@ -29,7 +29,7 @@ speakers:
     newsletters of various public policy wonks or listening to podcasts
     while cooking, cleaning, running, ...{insert any activity}.
 
-  photo: /assets/img/2022conf/_talks/22103_bryan-shalloway.jpg
+  photo: /assets/img/2022Conf/_talks/22103_bryan-shalloway.jpg
   url:
     webpage: https://www.bryanshalloway.com/
     twitter: https://twitter.com/brshallo

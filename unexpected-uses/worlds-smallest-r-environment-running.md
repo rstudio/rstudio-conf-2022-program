@@ -24,7 +24,7 @@ speakers:
     Orchard](https://www.dataorchard.org.uk), a small, UK-based, social
     enterprise helping underserved groups get the most from their data.
 
-  photo: /assets/img/2022conf/_talks/22105_mark-sellors.jpg
+  photo: /assets/img/2022Conf/_talks/22105_mark-sellors.jpg
   url:
     webpage: https://blog.sellorm.com
     twitter: https://twitter.com/sellorm

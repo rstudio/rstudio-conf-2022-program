@@ -23,7 +23,7 @@ speakers:
     jazzy piano. I live in Houston, TX, with my fiancé and two obnoxious
     yet lovable pets.
 
-  photo: /assets/img/2022conf/_talks/22033_mark-rieke.png
+  photo: /assets/img/2022Conf/_talks/22033_mark-rieke.png
   url:
     webpage: https://markjrieke.github.io/workboots/
     twitter: https://twitter.com/markjrieke

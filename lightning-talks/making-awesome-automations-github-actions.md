@@ -24,7 +24,7 @@ speakers:
     (https://twitter.com/RLadiesSaoPaulo), [satRday Sao Paulo](https://
     twitter.com/satRdaySP) and [LatinR](https://twitter.com/LatinR_Conf).
 
-  photo: /assets/img/2022conf/_talks/22066_beatriz-milz.jpeg
+  photo: /assets/img/2022Conf/_talks/22066_beatriz-milz.jpeg
   url:
     webpage: https://beatrizmilz.com/
     twitter: https://twitter.com/BeaMilz

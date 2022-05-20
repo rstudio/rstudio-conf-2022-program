@@ -26,7 +26,7 @@ speakers:
     probably find me outside: either biking fast, playing Spikeball or
     wandering the neighborhood listening to a podcast.
 
-  photo: /assets/img/2022conf/_talks/22025_caro-buck.jpg
+  photo: /assets/img/2022Conf/_talks/22025_caro-buck.jpg
   url:
     webpage: https://carobuck.com/
     twitter: https://twitter.com/caroissilly

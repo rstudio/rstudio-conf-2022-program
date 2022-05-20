@@ -23,7 +23,7 @@ speakers:
     Although her love for R is eternal and unwavering, she is currently
     begrudgingly allowing a little python into her heart.
 
-  photo: /assets/img/2022conf/_talks/22047_kelly-bodwin.jpg
+  photo: /assets/img/2022Conf/_talks/22047_kelly-bodwin.jpg
   url:
     webpage: www.kelly-bodwin.com
     twitter: twitter.com/kellybodwin

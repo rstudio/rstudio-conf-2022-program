@@ -26,7 +26,7 @@ speakers:
     (https://mjskay.github.io/ggdist/) R packages for visualizing Bayesian
     statistical model output and uncertainty.
 
-  photo: /assets/img/2022conf/_talks/22228_matthew-kay.jpg
+  photo: /assets/img/2022Conf/_talks/22228_matthew-kay.jpg
   url:
     webpage: https://www.mjskay.com/
     twitter: https://twitter.com/mjskay

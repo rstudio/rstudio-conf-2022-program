@@ -23,7 +23,7 @@ speakers:
     public radio reporter across rural Alaska and covered the Iditarod. He
     enjoys getting deep into the mountains.
 
-  photo: /assets/img/2022conf/_talks/22139_ben-matheson.jpg
+  photo: /assets/img/2022Conf/_talks/22139_ben-matheson.jpg
   url:
     webpage: https://benmatheson.com/
     twitter: https://twitter.com/benmatheson

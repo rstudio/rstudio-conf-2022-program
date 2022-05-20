@@ -27,7 +27,7 @@ speakers:
     organizer of DekutR data science club at Dedan Kimathi University of
     Technology, Kenya. He plays the guitar (terribly but passionately).
 
-  photo: /assets/img/2022conf/_talks/22132_eric-wanjau.png
+  photo: /assets/img/2022Conf/_talks/22132_eric-wanjau.png
   url:
     webpage: ~
     twitter: https://twitter.com/ericntay
@@ -42,7 +42,7 @@ speakers:
     researcher in the field of Internet of Things, Data Science and
     Electronics (Embedded System Design).
 
-  photo: /assets/img/2022conf/_talks/22132_ian-muchiri.png
+  photo: /assets/img/2022Conf/_talks/22132_ian-muchiri.png
   url:
     webpage: ~
     twitter: https://twitter.com/Entity_4004

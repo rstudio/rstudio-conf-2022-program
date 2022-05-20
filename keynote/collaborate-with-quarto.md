@@ -18,7 +18,7 @@ speakers:
   bio: |+
     NA
 
-  photo: /assets/img/2022conf/_talks/22303_mine-çetinkaya-rundel.jpg
+  photo: /assets/img/2022Conf/_talks/22303_mine-çetinkaya-rundel.jpg
   url:
     webpage: https://mine-cr.com/
     twitter: https://twitter.com/minebocek
@@ -30,7 +30,7 @@ speakers:
   bio: |+
     NA
 
-  photo: /assets/img/2022conf/_talks/22303_julia-stewart-lowndes.jpeg
+  photo: /assets/img/2022Conf/_talks/22303_julia-stewart-lowndes.jpeg
   url:
     webpage: https://jules32.github.io/
     twitter: https://twitter.com/juliesquid

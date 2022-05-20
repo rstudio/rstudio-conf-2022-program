@@ -25,7 +25,7 @@ speakers:
     and speaker promoting the use of R for data science. Learn more on his
     website, <http://hadley.nz>.
 
-  photo: /assets/img/2022conf/_talks/22110_hadley-wickham.jpg
+  photo: /assets/img/2022Conf/_talks/22110_hadley-wickham.jpg
   url:
     webpage: https://hadley.nz
     twitter: https://twitter.com/hadleywickham/

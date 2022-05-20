@@ -29,7 +29,7 @@ speakers:
     enhance clinical trial design workflows using machine learning, big
     data technologies, and data visualization.
 
-  photo: /assets/img/2022conf/_talks/22091_sydeaka-watson.jpeg
+  photo: /assets/img/2022Conf/_talks/22091_sydeaka-watson.jpeg
   url:
     webpage: https://www.sydeaka.com/
     twitter: https://twitter.com/SydeakaWatson

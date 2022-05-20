@@ -23,7 +23,7 @@ speakers:
     group, the Cascadia R Conference, and hosts a weekly R screencast,
     TidyX, to explain data science concepts.
 
-  photo: /assets/img/2022conf/_talks/22209_ellis-hughes.jpg
+  photo: /assets/img/2022Conf/_talks/22209_ellis-hughes.jpg
   url:
     webpage: ~
     twitter: twitter.com/ellis_hughes

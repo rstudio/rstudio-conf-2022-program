@@ -23,7 +23,7 @@ speakers:
     work you can find him at a local bookstore or exploring the beautiful
     Pacific Northwest.
 
-  photo: /assets/img/2022conf/_talks/22126_gagandeep-singh.jpg
+  photo: /assets/img/2022Conf/_talks/22126_gagandeep-singh.jpg
   url:
     webpage: ~
     twitter: ~
@@ -36,7 +36,7 @@ speakers:
     Xu Fei is a solutions engineer at RStudio with experience building
     Python data science applications.
 
-  photo: /assets/img/2022conf/_talks/22126_xu-fei.png
+  photo: /assets/img/2022Conf/_talks/22126_xu-fei.png
   url:
     webpage: ~
     twitter: ~

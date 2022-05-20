@@ -26,7 +26,7 @@ speakers:
     agencies, and data literacy. In Meghan’s spare time, Meghan creates
     generative art in the R programming language, called Rtistry.
 
-  photo: /assets/img/2022conf/_talks/22005_meghan-s-harris.jpg
+  photo: /assets/img/2022Conf/_talks/22005_meghan-s-harris.jpg
   url:
     webpage: https://www.thetidytrekker.com/
     twitter: https://twitter.com/meghansharris

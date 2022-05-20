@@ -25,7 +25,7 @@ speakers:
     geographic information systems and general mathematics from Plymouth
     State University.
 
-  photo: /assets/img/2022conf/_talks/22014_josiah-parry.jpg
+  photo: /assets/img/2022Conf/_talks/22014_josiah-parry.jpg
   url:
     webpage: https://josiahparry.com/
     twitter: https://twitter.com/josiahParry/

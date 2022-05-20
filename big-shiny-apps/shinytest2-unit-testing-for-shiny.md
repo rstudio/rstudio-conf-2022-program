@@ -21,7 +21,7 @@ speakers:
     surrounding the Shiny ecosystem, including `{shiny}`, `{shinytest2}`,
     `{reactlog}`, and `{plumber}`.
 
-  photo: /assets/img/2022conf/_talks/22115_barret-schloerke.png
+  photo: /assets/img/2022Conf/_talks/22115_barret-schloerke.png
   url:
     webpage: http://schloerke.com/
     twitter: https://twitter.com/schloerke

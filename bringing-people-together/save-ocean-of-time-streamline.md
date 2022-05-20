@@ -23,7 +23,7 @@ speakers:
     wrangling and analysis, and designed Shiny dashboards for interactive
     data visualization.
 
-  photo: /assets/img/2022conf/_talks/22146_danielle-dempsey.jpg
+  photo: /assets/img/2022Conf/_talks/22146_danielle-dempsey.jpg
   url:
     webpage: ~
     twitter: ~

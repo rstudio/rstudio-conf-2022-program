@@ -21,7 +21,7 @@ speakers:
     interpretable machine learning. He holds a B.Sc. in Economics and an
     M.Sc. in Statistics from LMU Munich.
 
-  photo: /assets/img/2022conf/_talks/22128_andreas-hofheinz.jpg
+  photo: /assets/img/2022Conf/_talks/22128_andreas-hofheinz.jpg
   url:
     webpage: ~
     twitter: ~

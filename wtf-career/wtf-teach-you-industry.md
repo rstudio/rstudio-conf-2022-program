@@ -24,7 +24,7 @@ speakers:
     working environments (I live and work in an RV). My favorite activity
     is helping other data scientists become successful.
 
-  photo: /assets/img/2022conf/_talks/22165_travis-gerke.jpg
+  photo: /assets/img/2022Conf/_talks/22165_travis-gerke.jpg
   url:
     webpage: https://travisgerke.com/
     twitter: https://twitter.com/travisgerke

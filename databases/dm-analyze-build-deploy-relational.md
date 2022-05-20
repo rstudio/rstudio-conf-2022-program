@@ -23,7 +23,7 @@ speakers:
     including dplyr and tibble. He holds a Ph.D. in Civil Engineering from
     ETH Zurich and is a founder and partner at cynkra.
 
-  photo: /assets/img/2022conf/_talks/22187_kirill-muller.jpeg
+  photo: /assets/img/2022Conf/_talks/22187_kirill-muller.jpeg
   url:
     webpage: https://cynkra.com/about/
     twitter: https://twitter.com/krlmlr

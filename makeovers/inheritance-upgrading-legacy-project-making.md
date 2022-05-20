@@ -18,7 +18,7 @@ speakers:
   bio: |+
     Liz Roten is a data scientist and cartographer in St. Paul, Minnesota.
 
-  photo: /assets/img/2022conf/_talks/22094_liz-roten.jpg
+  photo: /assets/img/2022Conf/_talks/22094_liz-roten.jpg
   url:
     webpage: https://lizroten.com
     twitter: https://twitter.com/LizRoten

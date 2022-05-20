@@ -18,7 +18,7 @@ speakers:
   bio: |+
     Charles Teague is a Software Architect at RStudio working on Quarto.
 
-  photo: /assets/img/2022conf/_talks/22142_charles-teague.jpg
+  photo: /assets/img/2022Conf/_talks/22142_charles-teague.jpg
   url:
     webpage: https://www.charlesteague.com
     twitter: https://twitter/dragonstyle

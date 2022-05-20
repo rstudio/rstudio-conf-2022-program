@@ -24,7 +24,7 @@ speakers:
     "R", and is also a founding member of the R Consortium. Follow David
     on Twitter as @revodavid.
 
-  photo: /assets/img/2022conf/_talks/22056_david-smith.png
+  photo: /assets/img/2022Conf/_talks/22056_david-smith.png
   url:
     webpage: https://blog.revolutionanalytics.com
     twitter: https://twitter.com/revodavid

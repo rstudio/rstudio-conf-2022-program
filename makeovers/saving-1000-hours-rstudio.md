@@ -26,7 +26,7 @@ speakers:
     handle thousands of daily requests and works on fun Shiny apps in his
     free time.
 
-  photo: /assets/img/2022conf/_talks/22164_tiger-tang.jpg
+  photo: /assets/img/2022Conf/_talks/22164_tiger-tang.jpg
   url:
     webpage: tigertang.org
     twitter: https://twitter.com/tigerloveslobs1

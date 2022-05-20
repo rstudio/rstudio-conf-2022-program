@@ -31,7 +31,7 @@ speakers:
     University of Virginia after studying economics and foreign affairs
     there as well for his undergraduate degree.
 
-  photo: /assets/img/2022conf/_talks/22102_aaron-chafetz.jpg
+  photo: /assets/img/2022Conf/_talks/22102_aaron-chafetz.jpg
   url:
     webpage: ~
     twitter: https://twitter.com/achafetz

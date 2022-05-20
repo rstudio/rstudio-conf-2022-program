@@ -21,7 +21,7 @@ speakers:
     consultancy as well as interdisciplinary research at University
     College London in cooperation with Team GB Hockey.
 
-  photo: /assets/img/2022conf/_talks/22073_hannah-frick.jpeg
+  photo: /assets/img/2022Conf/_talks/22073_hannah-frick.jpeg
   url:
     webpage: https://www.frick.ws/
     twitter: https://twitter.com/hfcfrick

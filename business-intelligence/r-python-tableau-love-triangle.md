@@ -22,7 +22,7 @@ speakers:
     science and finds any excuse he can to write R code and ride his bike,
     although usually not at the same time.
 
-  photo: /assets/img/2022conf/_talks/22042_james-blair.jpg
+  photo: /assets/img/2022Conf/_talks/22042_james-blair.jpg
   url:
     webpage: ~
     twitter: https://twitter.com/Blair09M

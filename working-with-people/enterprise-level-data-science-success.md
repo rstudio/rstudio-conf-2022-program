@@ -30,7 +30,7 @@ speakers:
     Virginia Tech (USA) and a Bachelor of Engineering Degree in Mechanical
     Engineering from College of Engineering Guindy (Chennai, India).
 
-  photo: /assets/img/2022conf/_talks/22169_prabhakar-thanikasalam.jpg
+  photo: /assets/img/2022Conf/_talks/22169_prabhakar-thanikasalam.jpg
   url:
     webpage: https://www.prabhaworkmusings.com/
     twitter: ~

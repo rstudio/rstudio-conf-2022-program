@@ -28,7 +28,7 @@ speakers:
     excited to share them with others interested in using their R skills
     to start their own businesses.
 
-  photo: /assets/img/2022conf/_talks/22037_david-keyes.jpg
+  photo: /assets/img/2022Conf/_talks/22037_david-keyes.jpg
   url:
     webpage: https://rfortherestofus.com
     twitter: '@dgkeyes/@rfortherest'

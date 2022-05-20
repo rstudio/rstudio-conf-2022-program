@@ -20,7 +20,7 @@ speakers:
     are a committer on Apache Arrow, and are passionate about developer
     experience.
 
-  photo: /assets/img/2022conf/_talks/22048_nic-crane.jpg
+  photo: /assets/img/2022Conf/_talks/22048_nic-crane.jpg
   url:
     webpage: https://thisisnic.github.io/
     twitter: https://twitter.com/nic_crane

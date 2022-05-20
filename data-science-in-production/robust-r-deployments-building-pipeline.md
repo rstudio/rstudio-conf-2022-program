@@ -26,7 +26,7 @@ speakers:
     at dv01, David manages a customer facing plumber API. This API is the
     entry point to one of dv01's top products, Tape Cracker.
 
-  photo: /assets/img/2022conf/_talks/22198_david-maguire.jpg
+  photo: /assets/img/2022Conf/_talks/22198_david-maguire.jpg
   url:
     webpage: ~
     twitter: ~

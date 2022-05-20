@@ -27,7 +27,7 @@ speakers:
     lives now in Fairfax, VA with her husband and doggy Moka and likes to
     bake cakes on the weekends.
 
-  photo: /assets/img/2022conf/_talks/22136_ivonne-carrillo-dominguez.jpeg
+  photo: /assets/img/2022Conf/_talks/22136_ivonne-carrillo-dominguez.jpeg
   url:
     webpage: https://www.linkedin.com/in/ivonne-carrillo-dominguez/
     twitter: ~

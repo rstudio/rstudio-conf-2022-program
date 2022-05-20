@@ -30,7 +30,7 @@ speakers:
     access to tools that help people use data to answer the questions that
     are important to them.
 
-  photo: /assets/img/2022conf/_talks/22044_tracy-teal.jpg
+  photo: /assets/img/2022Conf/_talks/22044_tracy-teal.jpg
   url:
     webpage: https://tracykteal.net/
     twitter: https://twitter.com/tracykteal

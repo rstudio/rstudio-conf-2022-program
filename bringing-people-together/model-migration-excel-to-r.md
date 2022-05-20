@@ -23,7 +23,7 @@ speakers:
     programme in London. It has since developed over the past 6 years into
     a loving relationship, which I would not change for the world!
 
-  photo: /assets/img/2022conf/_talks/22024_johnny-breen.jpeg
+  photo: /assets/img/2022Conf/_talks/22024_johnny-breen.jpeg
   url:
     webpage: https://non-std-dev.netlify.app/
     twitter: https://twitter.com/johnnyb1694

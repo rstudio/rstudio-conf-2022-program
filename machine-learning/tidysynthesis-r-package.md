@@ -23,7 +23,7 @@ speakers:
     to Data Science in the McCourt School of Public Policy at Georgetown
     University.
 
-  photo: /assets/img/2022conf/_talks/22119_aaron-r-williams.jpeg
+  photo: /assets/img/2022Conf/_talks/22119_aaron-r-williams.jpeg
   url:
     webpage: https://aaronrwilliams.com/home/
     twitter: https://twitter.com/awunderground

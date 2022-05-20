@@ -21,7 +21,7 @@ speakers:
     degree. I mostly work to understand consumers experiences by listening
     to them at scale.
 
-  photo: /assets/img/2022conf/_talks/22175_lewis-kirvan.jpg
+  photo: /assets/img/2022Conf/_talks/22175_lewis-kirvan.jpg
   url:
     webpage: https://www.duck-rabbit-soup.com/
     twitter: ~

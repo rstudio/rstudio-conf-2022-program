@@ -23,7 +23,7 @@ speakers:
     an adjunct professor at American University. He and Julia authored the
     book Supervised Machine Learning for Text Analysis in R.
 
-  photo: /assets/img/2022conf/_talks/22098_emil-hvitfeldt.png
+  photo: /assets/img/2022Conf/_talks/22098_emil-hvitfeldt.png
   url:
     webpage: https://www.emilhvitfeldt.com/
     twitter: https://twitter.com/Emil_Hvitfeldt

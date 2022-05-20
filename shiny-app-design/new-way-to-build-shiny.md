@@ -21,7 +21,7 @@ speakers:
     Biostatistics from Vanderbilt University and previously worked as a
     data journalist at the New York Times.
 
-  photo: /assets/img/2022conf/_talks/22058_nick-strayer.jpg
+  photo: /assets/img/2022Conf/_talks/22058_nick-strayer.jpg
   url:
     webpage: nickstrayer.me
     twitter: https://twitter.com/NicholasStrayer

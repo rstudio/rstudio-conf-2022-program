@@ -31,7 +31,7 @@ speakers:
     technology to drive mission outcomes in supply chain risk management
     (SCRM) for our national security clients.
 
-  photo: /assets/img/2022conf/_talks/22018_benjamin-braun.jpg
+  photo: /assets/img/2022Conf/_talks/22018_benjamin-braun.jpg
   url:
     webpage: https://www.linkedin.com/in/benjybraun/
     twitter: ~

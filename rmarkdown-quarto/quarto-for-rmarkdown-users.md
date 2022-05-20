@@ -23,7 +23,7 @@ speakers:
     learning challenge, and presenting on various Data Science topics on
     YouTube or at conferences.
 
-  photo: /assets/img/2022conf/_talks/22149_tom-mock.jpeg
+  photo: /assets/img/2022Conf/_talks/22149_tom-mock.jpeg
   url:
     webpage: https://themockup.blog
     twitter: https://twitter.com/thomas_mock

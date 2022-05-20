@@ -18,7 +18,7 @@ speakers:
   bio: |+
     NA
 
-  photo: /assets/img/2022conf/_talks/22304_jeff-leek.jpeg
+  photo: /assets/img/2022Conf/_talks/22304_jeff-leek.jpeg
   url:
     webpage: https://jtleek.com/
     twitter: https://twitter.com/jtleek

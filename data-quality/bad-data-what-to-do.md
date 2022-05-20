@@ -19,7 +19,7 @@ speakers:
     Jim Kloet (_Kloet_ rhymes with _flute_) is a data professional in
     Chicago. He encourages you to stay hydrated.
 
-  photo: /assets/img/2022conf/_talks/22153_jim-kloet.png
+  photo: /assets/img/2022Conf/_talks/22153_jim-kloet.png
   url:
     webpage: guesswh.at
     twitter: https://twitter.com/JimKloet

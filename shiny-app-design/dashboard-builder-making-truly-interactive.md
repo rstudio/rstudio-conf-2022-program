@@ -22,7 +22,7 @@ speakers:
     the no-code/low-code dashboard-builder which allows users to create
     shiny dashboards without writing R-code.
 
-  photo: /assets/img/2022conf/_talks/22178_peter-gandenberger.jpg
+  photo: /assets/img/2022Conf/_talks/22178_peter-gandenberger.jpg
   url:
     webpage: ~
     twitter: ~
@@ -37,7 +37,7 @@ speakers:
     interpretable machine learning. He holds a B.Sc. in Economics and an
     M.Sc. in Statistics from LMU Munich.
 
-  photo: /assets/img/2022conf/_talks/22178_andreas-hofheinz.jpg
+  photo: /assets/img/2022Conf/_talks/22178_andreas-hofheinz.jpg
   url:
     webpage: ~
     twitter: ~

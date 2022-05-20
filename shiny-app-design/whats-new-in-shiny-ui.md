@@ -22,7 +22,7 @@ speakers:
     ghostwritten Hadley Wickham's books, that is probably not true. Greg
     is currently working alongside the Shiny team on UI.
 
-  photo: /assets/img/2022conf/_talks/22063_greg-swinehart.jpg
+  photo: /assets/img/2022Conf/_talks/22063_greg-swinehart.jpg
   url:
     webpage: ~
     twitter: ~

@@ -21,7 +21,7 @@ speakers:
     over 500 data enthusiasts, has helped universities launch data science
     programs, and is a frequent speaker at tech conferences.
 
-  photo: /assets/img/2022conf/_talks/22191_tanya-cashorali.jpg
+  photo: /assets/img/2022Conf/_talks/22191_tanya-cashorali.jpg
   url:
     webpage: http://www.tcbanalytics.com
     twitter: https://twitter.com/tanyacash21

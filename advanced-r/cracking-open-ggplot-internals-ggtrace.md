@@ -28,7 +28,7 @@ speakers:
     breaks from his computer by cooking, ice skating, and hanging out with
     friends.
 
-  photo: /assets/img/2022conf/_talks/22100_june-choe.jpg
+  photo: /assets/img/2022Conf/_talks/22100_june-choe.jpg
   url:
     webpage: https://yjunechoe.github.io
     twitter: https://twitter.com/yjunechoe

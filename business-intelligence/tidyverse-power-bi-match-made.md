@@ -22,7 +22,7 @@ speakers:
     and M. He is the author of the book, ***Advanced Analytics in Power BI
     with R and Python***.
 
-  photo: /assets/img/2022conf/_talks/22013_ryan-e-wade.jpg
+  photo: /assets/img/2022Conf/_talks/22013_ryan-e-wade.jpg
   url:
     webpage: ~
     twitter: ~

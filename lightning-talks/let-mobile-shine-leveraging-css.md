@@ -23,7 +23,7 @@ speakers:
     their skills in R. Her interests are data analytics, data science,
     spatial analytics, causal inference and impact evaluation.
 
-  photo: /assets/img/2022conf/_talks/22035_shelmith-nyagathiri-kariuki.jpg
+  photo: /assets/img/2022Conf/_talks/22035_shelmith-nyagathiri-kariuki.jpg
   url:
     webpage: https://shelkariuki.netlify.app/
     twitter: https://twitter.com/Shel_Kariuki

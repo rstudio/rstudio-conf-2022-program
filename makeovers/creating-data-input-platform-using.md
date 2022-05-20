@@ -23,7 +23,7 @@ speakers:
     science skills, and always on a lookout for challenging obstacles that
     can be overcome with creative thinking.
 
-  photo: /assets/img/2022conf/_talks/22070_hezi-buba.jpg
+  photo: /assets/img/2022Conf/_talks/22070_hezi-buba.jpg
   url:
     webpage: ~
     twitter: ~

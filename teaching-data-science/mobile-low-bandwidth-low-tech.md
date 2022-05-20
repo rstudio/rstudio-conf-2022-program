@@ -23,7 +23,7 @@ speakers:
     decade, and is the author of several related R-packages available on
     github and CRAN.
 
-  photo: /assets/img/2022conf/_talks/22212_aleksander-dietrichson.png
+  photo: /assets/img/2022Conf/_talks/22212_aleksander-dietrichson.png
   url:
     webpage: http://www.chi2labs.com
     twitter: ~

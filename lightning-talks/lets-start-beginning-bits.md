@@ -28,7 +28,7 @@ speakers:
     analysis, making beautiful charts, and helping others learn data
     science.
 
-  photo: /assets/img/2022conf/_talks/22154_alex-farach.jpeg
+  photo: /assets/img/2022Conf/_talks/22154_alex-farach.jpeg
   url:
     webpage: ~
     twitter: ~

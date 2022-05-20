@@ -23,7 +23,7 @@ speakers:
     aided by R. Lawrence is a fan of using snake_case, destigmatizing
     mental illness, and is a donut enthusiast.
 
-  photo: /assets/img/2022conf/_talks/22227_lawrence-y-tello.jpg
+  photo: /assets/img/2022Conf/_talks/22227_lawrence-y-tello.jpg
   url:
     webpage: ~
     twitter: ~

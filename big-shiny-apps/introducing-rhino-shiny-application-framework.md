@@ -23,7 +23,7 @@ speakers:
     software development processes and working across technologies. He’s
     passionate about jazz, spirituality and psychology.
 
-  photo: /assets/img/2022conf/_talks/22080_kamil-zyla.jpg
+  photo: /assets/img/2022Conf/_talks/22080_kamil-zyla.jpg
   url:
     webpage: ~
     twitter: ~

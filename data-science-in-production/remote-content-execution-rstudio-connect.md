@@ -18,7 +18,7 @@ speakers:
   bio: |+
     Kelly O'Briant is the Product Manager for RStudio Connect.
 
-  photo: /assets/img/2022conf/_talks/22010_kelly-obriant.jpg
+  photo: /assets/img/2022Conf/_talks/22010_kelly-obriant.jpg
   url:
     webpage: ~
     twitter: https://twitter.com/kellrstats

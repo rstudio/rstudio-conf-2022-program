@@ -22,7 +22,7 @@ speakers:
     easier. Outside work he likes going for walks with his dog Margie and
     baking bread. He lives in Cardiff, Wales.
 
-  photo: /assets/img/2022conf/_talks/22038_jamie-ralph.jpg
+  photo: /assets/img/2022Conf/_talks/22038_jamie-ralph.jpg
   url:
     webpage: ~
     twitter: ~

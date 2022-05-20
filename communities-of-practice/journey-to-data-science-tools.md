@@ -24,7 +24,7 @@ speakers:
     advocate for HBCU engagement and equity in open science and marine
     science through her consulting and volunteer work.
 
-  photo: /assets/img/2022conf/_talks/22083_ileana-fenwick.jpg
+  photo: /assets/img/2022Conf/_talks/22083_ileana-fenwick.jpg
   url:
     webpage: ~
     twitter: https://twitter.com/_ileanaf

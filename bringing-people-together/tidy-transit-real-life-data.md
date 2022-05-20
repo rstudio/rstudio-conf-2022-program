@@ -21,7 +21,7 @@ speakers:
     Data Science and Public Policy, and Obama for America. I spend a lot
     of time thinking about cities, data pipelines and tacos.
 
-  photo: /assets/img/2022conf/_talks/22059_hunter-owens.png
+  photo: /assets/img/2022Conf/_talks/22059_hunter-owens.png
   url:
     webpage: hunterowens.net
     twitter: https://twitter.com/hunter_owens

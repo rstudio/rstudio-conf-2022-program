@@ -25,7 +25,7 @@ speakers:
     UC Berkeley, where in 2020 he graduated with a Master’s in Information
     and Data Science program.
 
-  photo: /assets/img/2022conf/_talks/22194_mike-stackhouse.jpg
+  photo: /assets/img/2022Conf/_talks/22194_mike-stackhouse.jpg
   url:
     webpage: https://www.atorusresearch.com/
     twitter: https://twitter.com/mike_at_atorus

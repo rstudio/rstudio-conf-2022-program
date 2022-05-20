@@ -23,7 +23,7 @@ speakers:
     at [R4DS Slack Community](https://r4ds.io). Away\nfrom my keyboard, I enjoy rowing\U0001F6A3‍♂️,
     skiing ⛷, lifting weights \U0001F3CB️‍♂️, and\nhanging out with my dog Jasper
     \U0001F436\n\n"
-  photo: /assets/img/2022conf/_talks/22168_tan-ho.jpg
+  photo: /assets/img/2022Conf/_talks/22168_tan-ho.jpg
   url:
     webpage: https://tanho.ca
     twitter: https://twitter.com/_TanHo

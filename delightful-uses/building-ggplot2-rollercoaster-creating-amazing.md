@@ -25,7 +25,7 @@ speakers:
     University and lives and works in the DC area at the Institute for
     Defense Analyses.
 
-  photo: /assets/img/2022conf/_talks/22131_tyler-morgan-wall.jpg
+  photo: /assets/img/2022Conf/_talks/22131_tyler-morgan-wall.jpg
   url:
     webpage: www.tylermw.com
     twitter: www.twitter.com/tylermorganwall

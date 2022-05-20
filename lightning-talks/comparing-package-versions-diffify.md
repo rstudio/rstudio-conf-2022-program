@@ -20,7 +20,7 @@ speakers:
     packages, the co-founder of Jumping Rivers and has published the book
     Efficient R Programming with O'Reilly.
 
-  photo: /assets/img/2022conf/_talks/22196_colin-gillespie.jpg
+  photo: /assets/img/2022Conf/_talks/22196_colin-gillespie.jpg
   url:
     webpage: ~
     twitter: https://twitter.com/csgillespie

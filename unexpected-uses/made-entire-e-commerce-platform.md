@@ -25,7 +25,7 @@ speakers:
     science for humor—like using deep learning to generate offensive
     license plates.
 
-  photo: /assets/img/2022conf/_talks/22065_jacqueline-nolis.jpg
+  photo: /assets/img/2022Conf/_talks/22065_jacqueline-nolis.jpg
   url:
     webpage: https://jnolis.com
     twitter: https://github.com/jnolis/ggirl

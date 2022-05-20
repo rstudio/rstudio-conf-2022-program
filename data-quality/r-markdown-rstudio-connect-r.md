@@ -23,7 +23,7 @@ speakers:
     Psychology, and is interested in leveraging data and technology to
     further public health goals.
 
-  photo: /assets/img/2022conf/_talks/22221_kolbi-parrish.jpg
+  photo: /assets/img/2022Conf/_talks/22221_kolbi-parrish.jpg
   url:
     webpage: ~
     twitter: ~
@@ -39,7 +39,7 @@ speakers:
     gathering, processing and reporting. Andy has a Master's in Health
     Informatics and has been an avid R user since 2017.
 
-  photo: /assets/img/2022conf/_talks/22221_andy-pham.jpg
+  photo: /assets/img/2022Conf/_talks/22221_andy-pham.jpg
   url:
     webpage: ~
     twitter: ~

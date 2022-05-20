@@ -18,7 +18,7 @@ speakers:
   bio: |+
     NA
 
-  photo: /assets/img/2022conf/_talks/22302_joe-cheng.jpeg
+  photo: /assets/img/2022Conf/_talks/22302_joe-cheng.jpeg
   url:
     webpage: ~
     twitter: ~

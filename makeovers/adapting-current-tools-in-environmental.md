@@ -24,7 +24,7 @@ speakers:
     making and improve communication between team members, clients, and
     the public.
 
-  photo: /assets/img/2022conf/_talks/22158_hannah-podzorski.jpg
+  photo: /assets/img/2022Conf/_talks/22158_hannah-podzorski.jpg
   url:
     webpage: ~
     twitter: https://www.twitter.com/hpodz

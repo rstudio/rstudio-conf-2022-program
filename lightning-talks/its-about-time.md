@@ -20,7 +20,7 @@ speakers:
     tidyverse and tidymodels ecosystems. He works on packages such as
     tidyr, vctrs, furrr, slider, clock, hardhat, and yardstick.
 
-  photo: /assets/img/2022conf/_talks/22028_davis-vaughan.jpg
+  photo: /assets/img/2022Conf/_talks/22028_davis-vaughan.jpg
   url:
     webpage: https://blog.davisvaughan.com
     twitter: https://twitter.com/dvaughan32

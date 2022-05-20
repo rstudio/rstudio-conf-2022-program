@@ -27,7 +27,7 @@ speakers:
     videos](https://www.youtube.com/c/ggnot2) in her spare time, covering
     topics such as R programming and Machine Learning.
 
-  photo: /assets/img/2022conf/_talks/22082_melissa-van-bussel.jpg
+  photo: /assets/img/2022Conf/_talks/22082_melissa-van-bussel.jpg
   url:
     webpage: https://www.melissavanbussel.com/
     twitter: ~

@@ -23,7 +23,7 @@ speakers:
     her knowledge of R, creating data visualisations, and helping clients
     learn from their data.
 
-  photo: /assets/img/2022conf/_talks/22141_nicola-rennie.jpg
+  photo: /assets/img/2022Conf/_talks/22141_nicola-rennie.jpg
   url:
     webpage: https://nrennie.rbind.io/
     twitter: https://twitter.com/nrennie35

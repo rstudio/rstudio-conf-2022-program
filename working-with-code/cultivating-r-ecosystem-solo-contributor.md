@@ -23,7 +23,7 @@ speakers:
     particularly for beginners, and frequently delivers talks, workshops,
     and classes.
 
-  photo: /assets/img/2022conf/_talks/22041_meghan-hall.jpeg
+  photo: /assets/img/2022Conf/_talks/22041_meghan-hall.jpeg
   url:
     webpage: https://meghan.rbind.io/
     twitter: https://twitter.com/meghanmhall

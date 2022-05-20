@@ -21,7 +21,7 @@ speakers:
     spending time with family and friends, being outdoors, and any
     opportunity to find live music.
 
-  photo: /assets/img/2022conf/_talks/22123_rachael-dempsey.png
+  photo: /assets/img/2022Conf/_talks/22123_rachael-dempsey.png
   url:
     webpage: rstudio.com/champion
     twitter: https://twitter.com/_RachaelDempsey

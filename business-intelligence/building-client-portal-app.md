@@ -23,7 +23,7 @@ speakers:
     customers to solve their problems in the field of data analytics. He
     will highlight the topic on how to embed Power BI in Rstudio.
 
-  photo: /assets/img/2022conf/_talks/22053_thomas-wouters.jpg
+  photo: /assets/img/2022Conf/_talks/22053_thomas-wouters.jpg
   url:
     webpage: https://www.axi.be/nl/business-insights
     twitter: ~
@@ -40,7 +40,7 @@ speakers:
     or finance sector. He will highlight the topic on how to embed Power
     BI in Rstudio.
 
-  photo: /assets/img/2022conf/_talks/22053_joran-de-wilde.png
+  photo: /assets/img/2022Conf/_talks/22053_joran-de-wilde.png
   url:
     webpage: https://www.axi.be/nl/business-insights
     twitter: ~

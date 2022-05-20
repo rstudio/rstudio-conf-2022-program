@@ -18,7 +18,7 @@ speakers:
   bio: |+
     TBD. Will write this when I get the chance
 
-  photo: /assets/img/2022conf/_talks/22135_mike-cheng.png
+  photo: /assets/img/2022Conf/_talks/22135_mike-cheng.png
   url:
     webpage: www.coolbutuseless.com
     twitter: https://twitter.com/coolbutuseless

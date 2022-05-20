@@ -21,7 +21,7 @@ speakers:
     geeking out over new data science techniques, she can be found hanging
     out with her dog or watching Marvel movies.
 
-  photo: /assets/img/2022conf/_talks/22166_isabel-zimmerman.jpg
+  photo: /assets/img/2022Conf/_talks/22166_isabel-zimmerman.jpg
   url:
     webpage: ~
     twitter: https://twitter.com/isabelizimm
