@@ -2,6 +2,62 @@
 
 This repository contains files relating to the program for [rstudio::conf(2022)](https://rstd.io/conf).
 
+## How to Edit
+
+Each talk has a corresponding markdown file, stored in a folder representing the planned sessions. You can find your talk and session in [the table below](#talks). Click on the talk slug in the **Talk** column to view the markdown file for your talk.
+
+To make changes to your talk information, please submit a pull request. The easiest way to do this is to [edit the file directly on GitHub](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files). (If you're comfortable with git and GitHub, you're welcome to create a pull request that way as well.)
+
+### Talk Metadata
+
+Each markdown file contains a YAML header block which describes the talk. We've filled everything in with the information we have now, but there are a few fields you may wish to edit as you revise your talk. The part of the YAML that you are intended to edit is very clearly marked.
+
+Here's an example from [introducing-rhino-shiny-application-framework](big-shiny-apps/introducing-rhino-shiny-application-framework.md):
+
+```yaml
+# The title of your talk
+talk_title: Introducing Rhino: Shiny application framework for enterprise
+# A short version of the title, suitable for small displays
+talk_title_short: Introducing Rhino
+# A link to your talk's materials, when ready
+talk_materials_url: ~
+```
+
+* `talk_title` should include the full title for your talk.
+
+* `talk_title_short` is a shorter version of the full title, appropriate for listing pages or for printing in places where the full title would be too long.
+
+* `talk_materials_url`: once you've prepared your talk, if you choose to publish your slides or other materials online, you may provide a link here to those materials.
+
+You'll notice that some fields may contain `~`. This is an explicit indication that the field is missing and you may choose to fill in the field with an appropriate value.
+
+### Speaker Information
+
+The speakers and their information are also listed in the YAML header of each talk. Please edit these fields as needed.
+
+Here is an example speaker entry. The `bio` field may contain simple markdown. The URLs are all optional and should be a full link to the speaker's personal `webpage`, `twitter`, `github` or `linkedin` profile, or the speaker's `affiliation` webpage.
+
+```yaml
+speakers:
+- name: Jacqui Ofalltrades
+  affiliation: DataCo
+  bio: |+
+    A one-paragraph biographical sketch of the speaker.
+    This text may include basic markdown: links, code style, bold, italics.
+
+  photo: /assets/img/2022Conf/_talks/22080_jacqui-ofalltrades.jpg
+  url:
+    webpage: https://jacquiofalltrades.com
+    twitter: https://twitter.com/jacquiofalltrades
+    github: https://github.com/jacquiofalltrades
+    linkedin: https://www.linkedin.com/in/jacqui-ofalltrades/
+    affiliation: https://dataco.com
+```
+
+If you have a co-speaker, please ensure that the first speaker listed is the one presenting the material, either in person or via video.
+
+## Talks
+
 |Speakers                                                                                                                                                                  |Session                                                   |Talk                                                                                                                        |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|
 |[Bryan Shalloway](assets/img/2022Conf/_talks/22103_bryan-shalloway.jpg)                                                                                                   |[advanced-r](advanced-r/)                                 |[summarizing-projects-to-setting-tags](advanced-r/summarizing-projects-to-setting-tags.md)                                  |
