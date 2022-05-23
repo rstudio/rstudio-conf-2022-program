@@ -1,6 +1,6 @@
 # rstudio::conf(2022, "program")
 
-This repository contains files relating to the program for [rstudio::conf(2022)](https://rstd.io/conf).
+This repository contains files relating to the program for [rstudio::conf(2022)](https://rstd.io/conf). Jump to the [talk listing table](#talks).
 
 ## How to Edit
 
