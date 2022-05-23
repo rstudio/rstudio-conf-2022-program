@@ -21,7 +21,7 @@ speakers:
 
   photo: /assets/img/2022Conf/_talks/22153_jim-kloet.png
   url:
-    webpage: guesswh.at
+    webpage: http://jimkloet.com/
     twitter: https://twitter.com/JimKloet
     github: https://github.com/jimtheflash
     linkedin: https://www.linkedin.com/in/jimkloet/
