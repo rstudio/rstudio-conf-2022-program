@@ -4,6 +4,7 @@
 # TODO: replace generic track names with room names
 # TODO: add workshops (https://docs.google.com/spreadsheets/d/1wW2vkBxbV-AYUOA4wRrFPNSodIABWUiHSEL3LDPCgNs/edit#gid=0)
 # TODO: add speaker info
+# TODO: markdownify abstract + bio
 
 library(lubridate)
 library(tidyverse)
@@ -28,6 +29,14 @@ talks <- tibble(
   tags = map(yaml, "talk_tags", .default = NULL) |> map_chr(paste, collapse = ", ")
 )
 talks
+
+speakers <- yaml |>
+  keep(~ !is.null(.$speakers)) |>
+  map(~ map(.$speakers, modifyList, list(talk_id = .$talk_id))) |>
+  flatten() |>
+  tibble() |>
+  tidyr::unnest_wider(1) |>
+  tidyr::unnest_wider(url, names_sep = "_")
 
 # Combine with talk times to generate program -----------------------------
 
@@ -105,3 +114,12 @@ for (i in 1:nrow(program_sched)) {
   }
   cli::cli_progress_update()
 }
+
+speaker_sched <- speakers |> transmute(
+  username = speaker_slug,
+  role = "speaker",
+  sessions = talk_id,
+  full_name = name,
+  about = bio,
+  company = affiliation,
+)
