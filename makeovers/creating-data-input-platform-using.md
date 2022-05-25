@@ -3,11 +3,11 @@
 talk_id: 22070
 talk_slug: creating-data-input-platform-using
 talk_type: regular
+talk_tags: [process, story, tidyverse]
 session_slug: makeovers
-block: 3-7-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Creating a data input platform using tidyverse
+talk_title: "Creating a data input platform using tidyverse"
 # A short version of the title, suitable for small displays
 talk_title_short: Creating a data input platform using tidyverse
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Hezi Buba
   affiliation: Tel Aviv University
+  url:
+    webpage: ~
+    twitter: ~
+    github: https://github.com/hezibu/
+    linkedin: ~
+    affiliation: https://belmaker.weebly.com/
+  slug: hezi-buba
+  photo: /assets/img/2022Conf/_talks/22070_hezi-buba.jpg
   bio: |+
     Hezi is currently finishing his PhD in marine ecology at Tel Aviv
     University, where he also taught R to other graduate students.
@@ -23,13 +31,6 @@ speakers:
     science skills, and always on a lookout for challenging obstacles that
     can be overcome with creative thinking.
 
-  photo: /assets/img/2022Conf/_talks/22070_hezi-buba.jpg
-  url:
-    webpage: ~
-    twitter: ~
-    github: https://github.com/hezibu/
-    linkedin: ~
-    affiliation: https://belmaker.weebly.com/
 
 ---
 

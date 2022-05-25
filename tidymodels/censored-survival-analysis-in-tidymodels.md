@@ -3,11 +3,11 @@
 talk_id: 22073
 talk_slug: censored-survival-analysis-in-tidymodels
 talk_type: regular
+talk_tags: [modeling, tool]
 session_slug: tidymodels
-block: 3-5-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: censored - Survival Analysis in tidymodels
+talk_title: "censored - Survival Analysis in tidymodels"
 # A short version of the title, suitable for small displays
 talk_title_short: censored - Survival Analysis in tidymodels
 # A link to your talk's materials, when ready
@@ -15,19 +15,20 @@ talk_materials_url: ~
 speakers:
 - name: Hannah Frick
   affiliation: RStudio
-  bio: |+
-    Hannah Frick is a software engineer on the tidymodels team at
-    RStudio. She holds a PhD in statistics and has worked in data science
-    consultancy as well as interdisciplinary research at University
-    College London in cooperation with Team GB Hockey.
-
-  photo: /assets/img/2022Conf/_talks/22073_hannah-frick.jpeg
   url:
     webpage: https://www.frick.ws/
     twitter: https://twitter.com/hfcfrick
     github: https://github.com/hfrick
     linkedin: https://www.linkedin.com/in/hannah-frick
     affiliation: https://www.rstudio.com/
+  slug: hannah-frick
+  photo: /assets/img/2022Conf/_talks/22073_hannah-frick.jpeg
+  bio: |+
+    Hannah Frick is a software engineer on the tidymodels team at
+    RStudio. She holds a PhD in statistics and has worked in data science
+    consultancy as well as interdisciplinary research at University
+    College London in cooperation with Team GB Hockey.
+
 
 ---
 

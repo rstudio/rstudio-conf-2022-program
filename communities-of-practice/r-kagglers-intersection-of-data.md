@@ -3,11 +3,11 @@
 talk_id: 22208
 talk_slug: r-kagglers-intersection-of-data
 talk_type: regular
+talk_tags: [communication, community, story, tidyverse]
 session_slug: communities-of-practice
-block: 4-6-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: We R KaggleRs - At the Intersection of Data Science Communities
+talk_title: "We R KaggleRs - At the Intersection of Data Science Communities"
 # A short version of the title, suitable for small displays
 talk_title_short: We R KaggleRs - At the Intersection of Data Science Communities
 # A link to your talk's materials, when ready
@@ -15,16 +15,17 @@ talk_materials_url: ~
 speakers:
 - name: Martin Henze
   affiliation: YipitData
-  bio: |+
-    Data Scientist @ YipitData | Kaggle Grandmaster | PhD Astrophysicist
-
-  photo: /assets/img/2022Conf/_talks/22208_martin-henze.jpg
   url:
     webpage: https://www.kaggle.com/headsortails
     twitter: https://twitter.com/heads0rtai1s
     github: ~
     linkedin: https://www.linkedin.com/in/martin-henze/
     affiliation: https://www.yipitdata.com/
+  slug: martin-henze
+  photo: /assets/img/2022Conf/_talks/22208_martin-henze.jpg
+  bio: |+
+    Data Scientist @ YipitData | Kaggle Grandmaster | PhD Astrophysicist
+
 
 ---
 

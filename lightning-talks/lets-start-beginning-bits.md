@@ -3,11 +3,11 @@
 talk_id: 22154
 talk_slug: lets-start-beginning-bits
 talk_type: lightning
+talk_tags: [programming]
 session_slug: lightning-talks
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Let's start at the beginning - bits to character encoding in R
+talk_title: "Let's start at the beginning - bits to character encoding in R"
 # A short version of the title, suitable for small displays
 talk_title_short: Let's start at the beginning - bits to character encoding in R
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Alex Farach
   affiliation: Accenture Federal Services
+  url:
+    webpage: ~
+    twitter: ~
+    github: https://github.com/farach
+    linkedin: https://www.linkedin.com/in/alex-farach/
+    affiliation: https://www.accenture.com/us-en/services/us-federal-government/artificial-intelligence
+  slug: alex-farach
+  photo: /assets/img/2022Conf/_talks/22154_alex-farach.jpeg
   bio: |+
     Alex Farach is an Analytics Manager and Data Scientist in the Applied
     Intelligence Discovery Lab at Accenture Federal Services (AFS) where
@@ -28,13 +36,6 @@ speakers:
     analysis, making beautiful charts, and helping others learn data
     science.
 
-  photo: /assets/img/2022Conf/_talks/22154_alex-farach.jpeg
-  url:
-    webpage: ~
-    twitter: ~
-    github: https://github.com/farach
-    linkedin: https://www.linkedin.com/in/alex-farach/
-    affiliation: https://www.accenture.com/us-en/services/us-federal-government/artificial-intelligence
 
 ---
 

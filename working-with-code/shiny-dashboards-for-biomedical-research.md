@@ -3,11 +3,11 @@
 talk_id: 22121
 talk_slug: shiny-dashboards-for-biomedical-research
 talk_type: regular
+talk_tags: [champion, public-sector, shiny]
 session_slug: working-with-code
-block: 4-6-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Shiny Dashboards for Biomedical Research Funding
+talk_title: "Shiny Dashboards for Biomedical Research Funding"
 # A short version of the title, suitable for small displays
 talk_title_short: Shiny Dashboards for Biomedical Research Funding
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Jon Nye
   affiliation: National Institutes of Health
+  url:
+    webpage: ~
+    twitter: ~
+    github: ~
+    linkedin: ~
+    affiliation: https://www.niaid.nih.gov/
+  slug: jon-nye
+  photo: /assets/img/2022Conf/_talks/22121_jon-nye.png
   bio: |+
     Jon Nye is a Lead Health Science Policy Analyst at the National
     Institute of Allergy and Infectious Diseases (NIAID) at the National
@@ -25,13 +33,6 @@ speakers:
     Washington State University and his PhD in Cellular and Molecular
     Medicine at the University of Arizona.
 
-  photo: /assets/img/2022Conf/_talks/22121_jon-nye.png
-  url:
-    webpage: ~
-    twitter: ~
-    github: ~
-    linkedin: ~
-    affiliation: https://www.niaid.nih.gov/
 
 ---
 

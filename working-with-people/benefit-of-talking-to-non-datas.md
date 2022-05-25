@@ -3,11 +3,11 @@
 talk_id: 22025
 talk_slug: benefit-of-talking-to-non-datas
 talk_type: regular
+talk_tags: [access, career-development, communication, community]
 session_slug: working-with-people
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: The Benefit of Talking to the "Non-Datas"
+talk_title: "The Benefit of Talking to the "Non-Datas""
 # A short version of the title, suitable for small displays
 talk_title_short: The Benefit of Talking to the "Non-Datas"
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Caro Buck
   affiliation: Wunderman Thompson
+  url:
+    webpage: https://carobuck.com/
+    twitter: https://twitter.com/caroissilly
+    github: https://github.com/carobuck
+    linkedin: https://www.linkedin.com/in/caro-buck/
+    affiliation: https://www.wundermanthompson.com/
+  slug: caro-buck
+  photo: /assets/img/2022Conf/_talks/22025_caro-buck.jpg
   bio: |+
     I’m Caro, short for Caroline! I’m a curious and creative human, with
     a passion for data of all sorts. I love wrangling unconventional
@@ -26,13 +34,6 @@ speakers:
     probably find me outside: either biking fast, playing Spikeball or
     wandering the neighborhood listening to a podcast.
 
-  photo: /assets/img/2022Conf/_talks/22025_caro-buck.jpg
-  url:
-    webpage: https://carobuck.com/
-    twitter: https://twitter.com/caroissilly
-    github: https://github.com/carobuck
-    linkedin: https://www.linkedin.com/in/caro-buck/
-    affiliation: https://www.wundermanthompson.com/
 
 ---
 

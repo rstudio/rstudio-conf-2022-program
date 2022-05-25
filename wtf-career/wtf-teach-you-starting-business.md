@@ -3,11 +3,11 @@
 talk_id: 22037
 talk_slug: wtf-teach-you-starting-business
 talk_type: regular
+talk_tags: [career-development, champion, story]
 session_slug: wtf-career
-block: 3-9-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: What they forgot to teach you about starting a business with R
+talk_title: "What they forgot to teach you about starting a business with R"
 # A short version of the title, suitable for small displays
 talk_title_short: What they forgot to teach you about starting a business with R
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: David Keyes
   affiliation: R for the Rest of Us
+  url:
+    webpage: https://rfortherestofus.com
+    twitter: '@dgkeyes/@rfortherest'
+    github: https://github.com/dgkeyes
+    linkedin: https://www.linkedin.com/in/dgkeyes/
+    affiliation: https://rfortherestofus.com
+  slug: david-keyes
+  photo: /assets/img/2022Conf/_talks/22037_david-keyes.jpg
   bio: |+
     David Keyes is the CEO and founder of R for the Rest of Us. Since
     2019, R for the Rest of Us has helped hundreds of people and dozens
@@ -28,13 +36,6 @@ speakers:
     excited to share them with others interested in using their R skills
     to start their own businesses.
 
-  photo: /assets/img/2022Conf/_talks/22037_david-keyes.jpg
-  url:
-    webpage: https://rfortherestofus.com
-    twitter: '@dgkeyes/@rfortherest'
-    github: https://github.com/dgkeyes
-    linkedin: https://www.linkedin.com/in/dgkeyes/
-    affiliation: https://rfortherestofus.com
 
 ---
 

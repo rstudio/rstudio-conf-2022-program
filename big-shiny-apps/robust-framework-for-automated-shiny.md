@@ -3,11 +3,11 @@
 talk_id: 22091
 talk_slug: robust-framework-for-automated-shiny
 talk_type: regular
+talk_tags: [production, programming, shiny]
 session_slug: big-shiny-apps
-block: 4-8-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: A Robust Framework for Automated Shiny App Testing
+talk_title: "A Robust Framework for Automated Shiny App Testing"
 # A short version of the title, suitable for small displays
 talk_title_short: A Robust Framework for Automated Shiny App Testing
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Sydeaka Watson
   affiliation: Eli Lilly and Co
+  url:
+    webpage: https://www.sydeaka.com/
+    twitter: https://twitter.com/SydeakaWatson
+    github: https://github.com/sydeaka
+    linkedin: https://www.linkedin.com/in/sydeakawatson/
+    affiliation: https://www.lilly.com/
+  slug: sydeaka-watson
+  photo: /assets/img/2022Conf/_talks/22091_sydeaka-watson.jpeg
   bio: |+
     Dr. Sydeaka Watson earned a Ph.D. in Statistics from Baylor University
     and has several years of teaching experience. As a Research Assistant
@@ -29,13 +37,6 @@ speakers:
     enhance clinical trial design workflows using machine learning, big
     data technologies, and data visualization.
 
-  photo: /assets/img/2022Conf/_talks/22091_sydeaka-watson.jpeg
-  url:
-    webpage: https://www.sydeaka.com/
-    twitter: https://twitter.com/SydeakaWatson
-    github: https://github.com/sydeaka
-    linkedin: https://www.linkedin.com/in/sydeakawatson/
-    affiliation: https://www.lilly.com/
 
 ---
 

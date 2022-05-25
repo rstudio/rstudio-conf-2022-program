@@ -3,11 +3,11 @@
 talk_id: 22126
 talk_slug: develop-deploy-python-rstudio
 talk_type: regular
+talk_tags: [interop, pro-products, python]
 session_slug: python
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Develop and Deploy Python with RStudio
+talk_title: "Develop and Deploy Python with RStudio"
 # A short version of the title, suitable for small displays
 talk_title_short: Develop and Deploy Python with RStudio
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Gagandeep Singh
   affiliation: RStudio
+  url:
+    webpage: ~
+    twitter: ~
+    github: https://github.com/gsingh91
+    linkedin: https://www.linkedin.com/in/gagandeeepuw/
+    affiliation: www.rstudio.com/about
+  slug: gagandeep-singh
+  photo: /assets/img/2022Conf/_talks/22126_gagandeep-singh.jpg
   bio: |+
     Gagandeep works as a Solutions Engineer with RStudio. He is a former
     software engineer and data scientist who has worked in a variety of
@@ -23,26 +31,20 @@ speakers:
     work you can find him at a local bookstore or exploring the beautiful
     Pacific Northwest.
 
-  photo: /assets/img/2022Conf/_talks/22126_gagandeep-singh.jpg
-  url:
-    webpage: ~
-    twitter: ~
-    github: https://github.com/gsingh91
-    linkedin: https://www.linkedin.com/in/gagandeeepuw/
-    affiliation: www.rstudio.com/about
 - name: Xu Fei
   affiliation: RStudio
-  bio: |+
-    Xu Fei is a solutions engineer at RStudio with experience building
-    Python data science applications.
-
-  photo: /assets/img/2022Conf/_talks/22126_xu-fei.png
   url:
     webpage: ~
     twitter: ~
     github: https://github.com/xuf12
     linkedin: https://www.linkedin.com/in/xufei1/
     affiliation: www.rstudio.com
+  slug: xu-fei
+  photo: /assets/img/2022Conf/_talks/22126_xu-fei.png
+  bio: |+
+    Xu Fei is a solutions engineer at RStudio with experience building
+    Python data science applications.
+
 
 ---
 

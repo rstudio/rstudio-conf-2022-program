@@ -3,11 +3,11 @@
 talk_id: 22142
 talk_slug: journal-articles-quarto
 talk_type: regular
+talk_tags: [communication, interop]
 session_slug: quarto-deep-dive
-block: 4-8-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Journal Articles With Quarto
+talk_title: "Journal Articles With Quarto"
 # A short version of the title, suitable for small displays
 talk_title_short: Journal Articles With Quarto
 # A link to your talk's materials, when ready
@@ -15,16 +15,17 @@ talk_materials_url: ~
 speakers:
 - name: Charles Teague
   affiliation: RStudio, PBC
-  bio: |+
-    Charles Teague is a Software Architect at RStudio working on Quarto.
-
-  photo: /assets/img/2022Conf/_talks/22142_charles-teague.jpg
   url:
     webpage: https://www.charlesteague.com
     twitter: https://twitter/dragonstyle
     github: https://github.com/dragonstyle
     linkedin: https://www.linkedin.com/in/cteague/
     affiliation: https://www.rstudio.com
+  slug: charles-teague
+  photo: /assets/img/2022Conf/_talks/22142_charles-teague.jpg
+  bio: |+
+    Charles Teague is a Software Architect at RStudio working on Quarto.
+
 
 ---
 

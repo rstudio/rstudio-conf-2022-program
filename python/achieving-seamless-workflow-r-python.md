@@ -3,11 +3,11 @@
 talk_id: 22082
 talk_slug: achieving-seamless-workflow-r-python
 talk_type: regular
+talk_tags: [interop, modeling, public-sector, story]
 session_slug: python
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Achieving a seamless workflow between R, Python and SAS from within RStudio
+talk_title: "Achieving a seamless workflow between R, Python and SAS from within RStudio"
 # A short version of the title, suitable for small displays
 talk_title_short: Achieving a seamless workflow between R, Python and SAS from within RStudio
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Melissa Van Bussel
   affiliation: Statistics Canada
+  url:
+    webpage: https://www.melissavanbussel.com/
+    twitter: ~
+    github: https://github.com/melissavanbussel
+    linkedin: https://www.linkedin.com/in/melissavanbussel/
+    affiliation: https://www.statcan.gc.ca/en/start
+  slug: melissa-van-bussel
+  photo: /assets/img/2022Conf/_talks/22082_melissa-van-bussel.jpg
   bio: |+
     Melissa Van Bussel is an accredited [Associate Statistician](https://
     ssc.ca/en/accreditation) (A. Stat.) and an Analyst at [Statistics
@@ -27,13 +35,6 @@ speakers:
     videos](https://www.youtube.com/c/ggnot2) in her spare time, covering
     topics such as R programming and Machine Learning.
 
-  photo: /assets/img/2022Conf/_talks/22082_melissa-van-bussel.jpg
-  url:
-    webpage: https://www.melissavanbussel.com/
-    twitter: ~
-    github: https://github.com/melissavanbussel
-    linkedin: https://www.linkedin.com/in/melissavanbussel/
-    affiliation: https://www.statcan.gc.ca/en/start
 
 ---
 

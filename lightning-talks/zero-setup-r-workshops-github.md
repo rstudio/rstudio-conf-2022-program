@@ -3,11 +3,11 @@
 talk_id: 22056
 talk_slug: zero-setup-r-workshops-github
 talk_type: lightning
+talk_tags: [community, teaching, tool]
 session_slug: lightning-talks
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Zero-setup R workshops with GitHub Codespaces
+talk_title: "Zero-setup R workshops with GitHub Codespaces"
 # A short version of the title, suitable for small displays
 talk_title_short: Zero-setup R workshops with GitHub Codespaces
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: David Smith
   affiliation: Microsoft
+  url:
+    webpage: https://blog.revolutionanalytics.com
+    twitter: https://twitter.com/revodavid
+    github: https://github.com/revodavid
+    linkedin: https://www.linkedin.com/in/dmsmith/
+    affiliation: www.microsoft.com
+  slug: david-smith
+  photo: /assets/img/2022Conf/_talks/22056_david-smith.png
   bio: |+
     David is a Cloud Advocate for Microsoft, specializing in the
     topics of artificial intelligence and machine learning. Since
@@ -24,13 +32,6 @@ speakers:
     "R", and is also a founding member of the R Consortium. Follow David
     on Twitter as @revodavid.
 
-  photo: /assets/img/2022Conf/_talks/22056_david-smith.png
-  url:
-    webpage: https://blog.revolutionanalytics.com
-    twitter: https://twitter.com/revodavid
-    github: https://github.com/revodavid
-    linkedin: https://www.linkedin.com/in/dmsmith/
-    affiliation: www.microsoft.com
 
 ---
 

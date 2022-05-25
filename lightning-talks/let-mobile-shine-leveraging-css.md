@@ -3,11 +3,11 @@
 talk_id: 22035
 talk_slug: let-mobile-shine-leveraging-css
 talk_type: lightning
+talk_tags: [design, html/css/js, shiny]
 session_slug: lightning-talks
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Let your mobile shine - Leveraging CSS concepts to make shiny apps mobile responsive.
+talk_title: "Let your mobile shine - Leveraging CSS concepts to make shiny apps mobile responsive."
 # A short version of the title, suitable for small displays
 talk_title_short: Let your mobile shine - Leveraging CSS concepts to make shiny apps mobile responsive.
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Shelmith Nyagathiri Kariuki
   affiliation: Data Analytics Consultant
+  url:
+    webpage: https://shelkariuki.netlify.app/
+    twitter: https://twitter.com/Shel_Kariuki
+    github: https://github.com/Shelmith-Kariuki
+    linkedin: https://www.linkedin.com/in/shelmith-kariuki-44351363/
+    affiliation: ~
+  slug: shelmith-nyagathiri-kariuki
+  photo: /assets/img/2022Conf/_talks/22035_shelmith-nyagathiri-kariuki.jpg
   bio: |+
     Shel Kariuki is a Data Analytics consultant based in Nairobi, Kenya.
     She currently works as a short term consultant at The World Bank . She
@@ -23,13 +31,6 @@ speakers:
     their skills in R. Her interests are data analytics, data science,
     spatial analytics, causal inference and impact evaluation.
 
-  photo: /assets/img/2022Conf/_talks/22035_shelmith-nyagathiri-kariuki.jpg
-  url:
-    webpage: https://shelkariuki.netlify.app/
-    twitter: https://twitter.com/Shel_Kariuki
-    github: https://github.com/Shelmith-Kariuki
-    linkedin: https://www.linkedin.com/in/shelmith-kariuki-44351363/
-    affiliation: ~
 
 ---
 

@@ -3,11 +3,11 @@
 talk_id: 22094
 talk_slug: inheritance-upgrading-legacy-project-making
 talk_type: regular
+talk_tags: [process, story]
 session_slug: makeovers
-block: 3-7-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Inheritance – upgrading a legacy project and making it your own
+talk_title: "Inheritance – upgrading a legacy project and making it your own"
 # A short version of the title, suitable for small displays
 talk_title_short: Inheritance – upgrading a legacy project and making it your own
 # A link to your talk's materials, when ready
@@ -15,16 +15,17 @@ talk_materials_url: ~
 speakers:
 - name: Liz Roten
   affiliation: Metropolitan Council
-  bio: |+
-    Liz Roten is a data scientist and cartographer in St. Paul, Minnesota.
-
-  photo: /assets/img/2022Conf/_talks/22094_liz-roten.jpg
   url:
     webpage: https://lizroten.com
     twitter: https://twitter.com/LizRoten
     github: https://github.com/eroten
     linkedin: https://www.linkedin.com/in/eroten
     affiliation: https://metrocouncil.org
+  slug: liz-roten
+  photo: /assets/img/2022Conf/_talks/22094_liz-roten.jpg
+  bio: |+
+    Liz Roten is a data scientist and cartographer in St. Paul, Minnesota.
+
 
 ---
 

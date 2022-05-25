@@ -3,11 +3,11 @@
 talk_id: 22059
 talk_slug: tidy-transit-real-life-data
 talk_type: regular
+talk_tags: [design, interop, process, tidyverse]
 session_slug: bringing-people-together
-block: 4-6-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Tidy Transit: Real Life Data Modeling for Public Transportation
+talk_title: "Tidy Transit: Real Life Data Modeling for Public Transportation"
 # A short version of the title, suitable for small displays
 talk_title_short: Tidy Transit
 # A link to your talk's materials, when ready
@@ -15,19 +15,20 @@ talk_materials_url: ~
 speakers:
 - name: Hunter Owens
   affiliation: California Department of Transportation
-  bio: |+
-    Hunter Owens does data science in the public interest. Current at
-    Caltrans, he has worked at the City of Los Angeles, the Center for
-    Data Science and Public Policy, and Obama for America. I spend a lot
-    of time thinking about cities, data pipelines and tacos.
-
-  photo: /assets/img/2022Conf/_talks/22059_hunter-owens.png
   url:
     webpage: hunterowens.net
     twitter: https://twitter.com/hunter_owens
     github: https://github.com/hunterowens
     linkedin: ~
     affiliation: calitp.org
+  slug: hunter-owens
+  photo: /assets/img/2022Conf/_talks/22059_hunter-owens.png
+  bio: |+
+    Hunter Owens does data science in the public interest. Current at
+    Caltrans, he has worked at the City of Los Angeles, the Center for
+    Data Science and Public Policy, and Obama for America. I spend a lot
+    of time thinking about cities, data pipelines and tacos.
+
 
 ---
 

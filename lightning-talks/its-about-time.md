@@ -3,11 +3,11 @@
 talk_id: 22028
 talk_slug: its-about-time
 talk_type: lightning
+talk_tags: [programming, tool]
 session_slug: lightning-talks
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: It's About Time
+talk_title: "It's About Time"
 # A short version of the title, suitable for small displays
 talk_title_short: It's About Time
 # A link to your talk's materials, when ready
@@ -15,18 +15,19 @@ talk_materials_url: ~
 speakers:
 - name: Davis Vaughan
   affiliation: RStudio
-  bio: |+
-    Davis is a software engineer at RStudio working on improving the
-    tidyverse and tidymodels ecosystems. He works on packages such as
-    tidyr, vctrs, furrr, slider, clock, hardhat, and yardstick.
-
-  photo: /assets/img/2022Conf/_talks/22028_davis-vaughan.jpg
   url:
     webpage: https://blog.davisvaughan.com
     twitter: https://twitter.com/dvaughan32
     github: https://github.com/DavisVaughan
     linkedin: ~
     affiliation: ~
+  slug: davis-vaughan
+  photo: /assets/img/2022Conf/_talks/22028_davis-vaughan.jpg
+  bio: |+
+    Davis is a software engineer at RStudio working on improving the
+    tidyverse and tidymodels ecosystems. He works on packages such as
+    tidyr, vctrs, furrr, slider, clock, hardhat, and yardstick.
+
 
 ---
 

@@ -3,11 +3,11 @@
 talk_id: 22014
 talk_slug: exploratory-spatial-data-analysis
 talk_type: lightning
+talk_tags: [spatial, tidyverse, tool]
 session_slug: lightning-talks
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Exploratory Spatial Data Analysis in the tidyverse
+talk_title: "Exploratory Spatial Data Analysis in the tidyverse"
 # A short version of the title, suitable for small displays
 talk_title_short: Exploratory Spatial Data Analysis in the tidyverse
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Josiah Parry
   affiliation: The NPD Group
+  url:
+    webpage: https://josiahparry.com/
+    twitter: https://twitter.com/josiahParry/
+    github: https://github.com/josiahparry
+    linkedin: https://www.linkedin.com/in/josiahparry/
+    affiliation: https://www.npd.com/
+  slug: josiah-parry
+  photo: /assets/img/2022Conf/_talks/22014_josiah-parry.jpg
   bio: |+
     Josiah Parry is a Research Analyst in the Research Science division
     at The NPD Group focusing on modernization and methodology. Formerly
@@ -25,13 +33,6 @@ speakers:
     geographic information systems and general mathematics from Plymouth
     State University.
 
-  photo: /assets/img/2022Conf/_talks/22014_josiah-parry.jpg
-  url:
-    webpage: https://josiahparry.com/
-    twitter: https://twitter.com/josiahParry/
-    github: https://github.com/josiahparry
-    linkedin: https://www.linkedin.com/in/josiahparry/
-    affiliation: https://www.npd.com/
 
 ---
 

@@ -3,11 +3,11 @@
 talk_id: 22169
 talk_slug: enterprise-level-data-science-success
 talk_type: regular
+talk_tags: [career-development, champion]
 session_slug: working-with-people
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Enterprise-Level Data Science Success
+talk_title: "Enterprise-Level Data Science Success"
 # A short version of the title, suitable for small displays
 talk_title_short: Enterprise-Level Data Science Success
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Prabhakar Thanikasalam
   affiliation: Flex (flex.com)
+  url:
+    webpage: https://www.prabhaworkmusings.com/
+    twitter: ~
+    github: https://github.com/prabhakar1978
+    linkedin: https://www.linkedin.com/in/prabhakart/
+    affiliation: https://flex.com/
+  slug: prabhakar-thanikasalam
+  photo: /assets/img/2022Conf/_talks/22169_prabhakar-thanikasalam.jpg
   bio: |+
     Prabhakar (Prabha) Thanikasalam has 16+ years of experience in data,
     optimization and analytics focused areas for various organizations
@@ -30,13 +38,6 @@ speakers:
     Virginia Tech (USA) and a Bachelor of Engineering Degree in Mechanical
     Engineering from College of Engineering Guindy (Chennai, India).
 
-  photo: /assets/img/2022Conf/_talks/22169_prabhakar-thanikasalam.jpg
-  url:
-    webpage: https://www.prabhaworkmusings.com/
-    twitter: ~
-    github: https://github.com/prabhakar1978
-    linkedin: https://www.linkedin.com/in/prabhakart/
-    affiliation: https://flex.com/
 
 ---
 

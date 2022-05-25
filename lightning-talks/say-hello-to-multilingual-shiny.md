@@ -3,11 +3,11 @@
 talk_id: 22141
 talk_slug: say-hello-to-multilingual-shiny
 talk_type: lightning
+talk_tags: [access, interop, shiny, story]
 session_slug: lightning-talks
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Say Hello! to Multilingual Shiny Apps
+talk_title: "Say Hello! to Multilingual Shiny Apps"
 # A short version of the title, suitable for small displays
 talk_title_short: Say Hello! to Multilingual Shiny Apps
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Nicola Rennie
   affiliation: Jumping Rivers
+  url:
+    webpage: https://nrennie.rbind.io/
+    twitter: https://twitter.com/nrennie35
+    github: https://github.com/nrennie
+    linkedin: https://www.linkedin.com/in/nicola-rennie-076511b3/
+    affiliation: https://www.jumpingrivers.com/
+  slug: nicola-rennie
+  photo: /assets/img/2022Conf/_talks/22141_nicola-rennie.jpg
   bio: |+
     Nicola Rennie is a statistician and data scientist, passionate about
     using R to solve problems. She currently works as a data scientist
@@ -23,13 +31,6 @@ speakers:
     her knowledge of R, creating data visualisations, and helping clients
     learn from their data.
 
-  photo: /assets/img/2022Conf/_talks/22141_nicola-rennie.jpg
-  url:
-    webpage: https://nrennie.rbind.io/
-    twitter: https://twitter.com/nrennie35
-    github: https://github.com/nrennie
-    linkedin: https://www.linkedin.com/in/nicola-rennie-076511b3/
-    affiliation: https://www.jumpingrivers.com/
 
 ---
 

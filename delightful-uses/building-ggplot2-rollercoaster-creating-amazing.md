@@ -3,11 +3,11 @@
 talk_id: 22131
 talk_slug: building-ggplot2-rollercoaster-creating-amazing
 talk_type: regular
+talk_tags: [recreational, visualisation]
 session_slug: delightful-uses
-block: 4-8-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Building a ggplot2 rollercoaster: Creating amazing 3D data visualizations in R
+talk_title: "Building a ggplot2 rollercoaster: Creating amazing 3D data visualizations in R"
 # A short version of the title, suitable for small displays
 talk_title_short: Building a ggplot2 rollercoaster
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Tyler Morgan-Wall
   affiliation: Institute for Defense Analyses
+  url:
+    webpage: www.tylermw.com
+    twitter: www.twitter.com/tylermorganwall
+    github: www.github.com/tylermorganwall
+    linkedin: https://www.linkedin.com/in/tyler-morgan-wall-88227015/
+    affiliation: www.ida.org
+  slug: tyler-morgan-wall
+  photo: /assets/img/2022Conf/_talks/22131_tyler-morgan-wall.jpg
   bio: |+
     Dr. Tyler Morgan-Wall is the developer of the **rayverse**:
     a collection of packages that includes the mapping and data
@@ -25,13 +33,6 @@ speakers:
     University and lives and works in the DC area at the Institute for
     Defense Analyses.
 
-  photo: /assets/img/2022Conf/_talks/22131_tyler-morgan-wall.jpg
-  url:
-    webpage: www.tylermw.com
-    twitter: www.twitter.com/tylermorganwall
-    github: www.github.com/tylermorganwall
-    linkedin: https://www.linkedin.com/in/tyler-morgan-wall-88227015/
-    affiliation: www.ida.org
 
 ---
 

@@ -3,11 +3,11 @@
 talk_id: 22054
 talk_slug: demystifying-art-of-creating-custom
 talk_type: regular
+talk_tags: [communication, process, programming, tool]
 session_slug: working-with-code
-block: 4-6-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Demystifying the Art of creating custom Libraries for your organization.
+talk_title: "Demystifying the Art of creating custom Libraries for your organization."
 # A short version of the title, suitable for small displays
 talk_title_short: Demystifying the Art of creating custom Libraries for your organization.
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Dan Caley
   affiliation: Custom Ink
+  url:
+    webpage: ~
+    twitter: ~
+    github: https://github.com/dcaley5005?tab=repositories
+    linkedin: https://www.linkedin.com/in/daniel-caley/
+    affiliation: https://www.customink.com/about
+  slug: dan-caley
+  photo: /assets/img/2022Conf/_talks/22054_dan-caley.jpg
   bio: |+
     Dan Caley is a Senior Data Analyst at Custom Ink covering descriptive,
     inferential, and predictive analytics. He has over 10 years experience
@@ -26,13 +34,6 @@ speakers:
     Now, Dan wants to share how to build flexible libraries with you, so
     you have time to go hiking with Helmet too.
 
-  photo: /assets/img/2022Conf/_talks/22054_dan-caley.jpg
-  url:
-    webpage: ~
-    twitter: ~
-    github: https://github.com/dcaley5005?tab=repositories
-    linkedin: https://www.linkedin.com/in/daniel-caley/
-    affiliation: https://www.customink.com/about
 
 ---
 

@@ -3,11 +3,11 @@
 talk_id: 22153
 talk_slug: bad-data-what-to-do
 talk_type: regular
+talk_tags: [career-development, process, story]
 session_slug: data-quality
-block: 3-7-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Bad Data, And What To Do About Them (Don't Panic!)
+talk_title: "Bad Data, And What To Do About Them (Don't Panic!)"
 # A short version of the title, suitable for small displays
 talk_title_short: Bad Data, And What To Do About Them (Don't Panic!)
 # A link to your talk's materials, when ready
@@ -15,17 +15,18 @@ talk_materials_url: ~
 speakers:
 - name: Jim Kloet
   affiliation: ~
-  bio: |+
-    Jim Kloet (_Kloet_ rhymes with _flute_) is a data professional in
-    Chicago. He encourages you to stay hydrated.
-
-  photo: /assets/img/2022Conf/_talks/22153_jim-kloet.png
   url:
     webpage: http://jimkloet.com/
     twitter: https://twitter.com/JimKloet
     github: https://github.com/jimtheflash
     linkedin: https://www.linkedin.com/in/jimkloet/
     affiliation: ~
+  slug: jim-kloet
+  photo: /assets/img/2022Conf/_talks/22153_jim-kloet.png
+  bio: |+
+    Jim Kloet (_Kloet_ rhymes with _flute_) is a data professional in
+    Chicago. He encourages you to stay hydrated.
+
 
 ---
 

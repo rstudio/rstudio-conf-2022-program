@@ -3,11 +3,11 @@
 talk_id: 22047
 talk_slug: teaching-bilingual-classes-tidymodels-scikit
 talk_type: regular
+talk_tags: [interop, python, teaching]
 session_slug: teaching-data-science
-block: 3-5-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Teaching "bilingual" classes with {tidymodels} and scikit-learn
+talk_title: "Teaching "bilingual" classes with {tidymodels} and scikit-learn"
 # A short version of the title, suitable for small displays
 talk_title_short: Teaching "bilingual" classes with {tidymodels} and scikit-learn
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Kelly Bodwin
   affiliation: California Polytechnic State University
+  url:
+    webpage: www.kelly-bodwin.com
+    twitter: twitter.com/kellybodwin
+    github: github.com/kbodwin
+    linkedin: ~
+    affiliation: statistics.calpoly.edu
+  slug: kelly-bodwin
+  photo: /assets/img/2022Conf/_talks/22047_kelly-bodwin.jpg
   bio: |+
     Kelly Bodwin is an Assistant Professor of Statistics and Data
     Science and an RStudio Certified Instructor. She is passionate about
@@ -23,13 +31,6 @@ speakers:
     Although her love for R is eternal and unwavering, she is currently
     begrudgingly allowing a little python into her heart.
 
-  photo: /assets/img/2022Conf/_talks/22047_kelly-bodwin.jpg
-  url:
-    webpage: www.kelly-bodwin.com
-    twitter: twitter.com/kellybodwin
-    github: github.com/kbodwin
-    linkedin: ~
-    affiliation: statistics.calpoly.edu
 
 ---
 

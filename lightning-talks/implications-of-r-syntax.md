@@ -3,11 +3,11 @@
 talk_id: 22195
 talk_slug: implications-of-r-syntax
 talk_type: lightning
+talk_tags: [design, teaching, tidyverse]
 session_slug: lightning-talks
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Implications of R syntax in intro stats
+talk_title: "Implications of R syntax in intro stats"
 # A short version of the title, suitable for small displays
 talk_title_short: Implications of R syntax in intro stats
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Amelia McNamara
   affiliation: University of St Thomas
+  url:
+    webpage: www.amelia.mn
+    twitter: www.twitter.com/AmeliaMN
+    github: www.github.com/AmeliaMN
+    linkedin: ~
+    affiliation: ~
+  slug: amelia-mcnamara
+  photo: /assets/img/2022Conf/_talks/22195_amelia-mcnamara.jpg
   bio: |+
     Amelia McNamara is an assistant professor of statistics at the
     University of St Thomas, in St Paul, MN. Her research interests
@@ -22,13 +30,6 @@ speakers:
     intersection of the two. You may know her as "the woman with the
     tidyverse dress."
 
-  photo: /assets/img/2022Conf/_talks/22195_amelia-mcnamara.jpg
-  url:
-    webpage: www.amelia.mn
-    twitter: www.twitter.com/AmeliaMN
-    github: www.github.com/AmeliaMN
-    linkedin: ~
-    affiliation: ~
 
 ---
 

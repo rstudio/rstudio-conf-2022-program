@@ -3,11 +3,11 @@
 talk_id: 22005
 talk_slug: making-data-pipelines-in-r
 talk_type: regular
+talk_tags: [career-development, communication, story]
 session_slug: data-quality
-block: 3-7-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Making Data Pipelines in R: A Story From A “Self-Taught” Perspective
+talk_title: "Making Data Pipelines in R: A Story From A “Self-Taught” Perspective"
 # A short version of the title, suitable for small displays
 talk_title_short: Making Data Pipelines in R
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Meghan S Harris
   affiliation: University at Buffalo
+  url:
+    webpage: https://www.thetidytrekker.com/
+    twitter: https://twitter.com/meghansharris
+    github: https://github.com/Meghansaha
+    linkedin: https://www.linkedin.com/in/meghan-harris/
+    affiliation: https://medicine.buffalo.edu/departments/family-medicine/research.html
+  slug: meghan-s-harris
+  photo: /assets/img/2022Conf/_talks/22005_meghan-s-harris.jpg
   bio: |+
     Meghan Harris is a self-taught R user that is a data integration
     specialist at the University at Buffalo and the Erie County government
@@ -26,13 +34,6 @@ speakers:
     agencies, and data literacy. In Meghan’s spare time, Meghan creates
     generative art in the R programming language, called Rtistry.
 
-  photo: /assets/img/2022Conf/_talks/22005_meghan-s-harris.jpg
-  url:
-    webpage: https://www.thetidytrekker.com/
-    twitter: https://twitter.com/meghansharris
-    github: https://github.com/Meghansaha
-    linkedin: https://www.linkedin.com/in/meghan-harris/
-    affiliation: https://medicine.buffalo.edu/departments/family-medicine/research.html
 
 ---
 

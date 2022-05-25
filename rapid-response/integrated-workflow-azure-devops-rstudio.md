@@ -3,11 +3,11 @@
 talk_id: 22227
 talk_slug: integrated-workflow-azure-devops-rstudio
 talk_type: regular
+talk_tags: [pro-products, process, public-sector]
 session_slug: rapid-response
-block: 3-7-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: An Integrated Workflow: Azure DevOps, RStudio IDE, RStudio Connect
+talk_title: "An Integrated Workflow: Azure DevOps, RStudio IDE, RStudio Connect"
 # A short version of the title, suitable for small displays
 talk_title_short: An Integrated Workflow
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Lawrence Y. Tello
   affiliation: California Department of Public Health
+  url:
+    webpage: ~
+    twitter: ~
+    github: ~
+    linkedin: www.linkedin.com/in/lytello
+    affiliation: https://www.cdph.ca.gov/
+  slug: lawrence-y-tello
+  photo: /assets/img/2022Conf/_talks/22227_lawrence-y-tello.jpg
   bio: |+
     Lawrence is an informatics specialist at the California Department
     of Public Health working on products that contribute to California’s
@@ -23,13 +31,6 @@ speakers:
     aided by R. Lawrence is a fan of using snake_case, destigmatizing
     mental illness, and is a donut enthusiast.
 
-  photo: /assets/img/2022Conf/_talks/22227_lawrence-y-tello.jpg
-  url:
-    webpage: ~
-    twitter: ~
-    github: ~
-    linkedin: www.linkedin.com/in/lytello
-    affiliation: https://www.cdph.ca.gov/
 
 ---
 

@@ -3,11 +3,11 @@
 talk_id: 22168
 talk_slug: levelling-github-to-automate-powerful
 talk_type: regular
+talk_tags: [process, production, programming]
 session_slug: data-quality
-block: 3-7-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Levelling Up With GitHub: How To Automate Powerful Open Source Data Projects For Free
+talk_title: "Levelling Up With GitHub: How To Automate Powerful Open Source Data Projects For Free"
 # A short version of the title, suitable for small displays
 talk_title_short: Levelling Up With GitHub
 # A link to your talk's materials, when ready
@@ -15,21 +15,25 @@ talk_materials_url: ~
 speakers:
 - name: Tan Ho
   affiliation: ~
-  bio: "I'm a data enthusiast who loves R \U0001F680, Shiny✨, fantasy football\n\U0001F3C8
-    and carving pumpkins \U0001F383 By day, I'm a data developer for [ABIC\nBuilds
-    \U0001F528](https://abicbuilds.com) in Ottawa, Canada. I started\n[DynastyProcess.com](https://dynastyprocess.com)
-    and [ffverse]\n(https://ffverse.com), maintain [nflverse](https://github.com/\nnflverse)
-    data and packages, stream on [Twitch](https://twitch.tv/\ntanho_), and mentor
-    at [R4DS Slack Community](https://r4ds.io). Away\nfrom my keyboard, I enjoy rowing\U0001F6A3‍♂️,
-    skiing ⛷, lifting weights \U0001F3CB️‍♂️, and\nhanging out with my dog Jasper
-    \U0001F436\n\n"
-  photo: /assets/img/2022Conf/_talks/22168_tan-ho.jpg
   url:
     webpage: https://tanho.ca
     twitter: https://twitter.com/_TanHo
     github: https://github.com/tanho63
-    linkedin: https://l
+    linkedin: ~
     affiliation: ~
+  slug: tan-ho
+  photo: /assets/img/2022Conf/_talks/22168_tan-ho.jpg
+  bio: |-
+    I'm a data enthusiast who loves R 🚀, Shiny ✨, fantasy football 🏈
+    and carving pumpkins 🎃 By day, I'm a data developer for 
+    [ABIC Builds 🔨](https://abicbuilds.com) in Ottawa, Canada. I started
+    [DynastyProcess.com](https://dynastyprocess.com)
+    and [ffverse](https://ffverse.com), maintain
+    [nflverse](https://github.com/nflverse)
+    data and packages, stream on [Twitch](https://twitch.tv/tanho_), and mentor
+    at [R4DS Slack Community](https://r4ds.io). Away from my keyboard, I enjoy
+    rowing 🚣️, skiing ⛷, lifting weights 🏋️, and hanging out with my dog
+    Jasper 🐶
 
 ---
 

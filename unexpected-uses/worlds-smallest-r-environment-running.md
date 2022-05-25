@@ -3,11 +3,11 @@
 talk_id: 22105
 talk_slug: worlds-smallest-r-environment-running
 talk_type: regular
+talk_tags: [access, programming, recreational]
 session_slug: unexpected-uses
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: The worlds smallest R environment? Running R on a $15 computer.
+talk_title: "The worlds smallest R environment? Running R on a $15 computer."
 # A short version of the title, suitable for small displays
 talk_title_short: The worlds smallest R environment? Running R on a $15 computer.
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Mark Sellors
   affiliation: R4Pi.org
+  url:
+    webpage: https://blog.sellorm.com
+    twitter: https://twitter.com/sellorm
+    github: https://github.com/sellorm
+    linkedin: https://www.linkedin.com/in/msellors/
+    affiliation: https://r4pi.org
+  slug: mark-sellors
+  photo: /assets/img/2022Conf/_talks/22105_mark-sellors.jpg
   bio: |+
     A life-long technologist, Mark has always been fascinated by the
     intersection of people and technology. He is the founder of the R4Pi
@@ -24,13 +32,6 @@ speakers:
     Orchard](https://www.dataorchard.org.uk), a small, UK-based, social
     enterprise helping underserved groups get the most from their data.
 
-  photo: /assets/img/2022Conf/_talks/22105_mark-sellors.jpg
-  url:
-    webpage: https://blog.sellorm.com
-    twitter: https://twitter.com/sellorm
-    github: https://github.com/sellorm
-    linkedin: https://www.linkedin.com/in/msellors/
-    affiliation: https://r4pi.org
 
 ---
 

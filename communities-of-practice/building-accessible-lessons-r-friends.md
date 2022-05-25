@@ -3,11 +3,11 @@
 talk_id: 22120
 talk_slug: building-accessible-lessons-r-friends
 talk_type: regular
+talk_tags: [access, communication, community, teaching, tool]
 session_slug: communities-of-practice
-block: 4-6-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Building Accessible Lessons with R and Friends
+talk_title: "Building Accessible Lessons with R and Friends"
 # A short version of the title, suitable for small displays
 talk_title_short: Building Accessible Lessons with R and Friends
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Zhian N. Kamvar
   affiliation: The Carpentries
+  url:
+    webpage: https://zkamvar.netlify.app
+    twitter: https://twitter.com/zkamvar
+    github: https://github.com/zkamvar
+    linkedin: https://linkedin.com/in/zkamvar
+    affiliation: https://carpentries.org
+  slug: zhian-n-kamvar
+  photo: /assets/img/2022Conf/_talks/22120_zhian-n-kamvar.png
   bio: |+
     Zhian is the Lesson Infrastructure Technology Developer for [The
     Carpentries](https://carpentries.org), brining data science skills to
@@ -24,13 +32,6 @@ speakers:
     cats, the musical stylings of [The Screaming Females](https://
     screamingfemales.bandcamp.com/), platelet donation, and baking.
 
-  photo: /assets/img/2022Conf/_talks/22120_zhian-n-kamvar.png
-  url:
-    webpage: https://zkamvar.netlify.app
-    twitter: https://twitter.com/zkamvar
-    github: https://github.com/zkamvar
-    linkedin: https://linkedin.com/in/zkamvar
-    affiliation: https://carpentries.org
 
 ---
 

@@ -3,11 +3,11 @@
 talk_id: 22192
 talk_slug: r-package-assessment-lessons-pharma
 talk_type: regular
+talk_tags: [pharma, process, programming]
 session_slug: r-in-pharma
-block: 3-5-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: R Package Assessment: Lessons from Pharma
+talk_title: "R Package Assessment: Lessons from Pharma"
 # A short version of the title, suitable for small displays
 talk_title_short: R Package Assessment
 # A link to your talk's materials, when ready
@@ -15,18 +15,19 @@ talk_materials_url: ~
 speakers:
 - name: Becca Krouse
   affiliation: GSK
-  bio: |+
-    Becca Krouse is a Data Science Leader in the Statistics and Data
-    Science Innovation Hub at GSK. She is a biostatistician by training
-    with nearly 12 years of experience working on clinical research.
-
-  photo: /assets/img/2022Conf/_talks/22192_becca-krouse.png
   url:
     webpage: ~
     twitter: ~
     github: ~
     linkedin: ~
     affiliation: ~
+  slug: becca-krouse
+  photo: /assets/img/2022Conf/_talks/22192_becca-krouse.png
+  bio: |+
+    Becca Krouse is a Data Science Leader in the Statistics and Data
+    Science Innovation Hub at GSK. She is a biostatistician by training
+    with nearly 12 years of experience working on clinical research.
+
 
 ---
 

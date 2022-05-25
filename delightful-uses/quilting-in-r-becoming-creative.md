@@ -3,11 +3,11 @@
 talk_id: 22062
 talk_slug: quilting-in-r-becoming-creative
 talk_type: regular
+talk_tags: [recreational, story]
 session_slug: delightful-uses
-block: 4-8-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Quilting in R and becoming more creative
+talk_title: "Quilting in R and becoming more creative"
 # A short version of the title, suitable for small displays
 talk_title_short: Quilting in R and becoming more creative
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Alice Walsh, PhD
   affiliation: Pathos, R-ladies Philly
+  url:
+    webpage: https://awalsh17.github.io/
+    twitter: https://twitter.com/sciencealice
+    github: https://github.com/awalsh17
+    linkedin: https://www.linkedin.com/in/alice-walsh/
+    affiliation: ~
+  slug: alice-walsh-phd
+  photo: /assets/img/2022Conf/_talks/22062_alice-walsh-phd.jpg
   bio: |+
     Alice is a computational biologist who applies data science
     tools to solve drug development challenges. She is currently VP
@@ -26,13 +34,6 @@ speakers:
     improving her artistic skills through painting, quilting, needlepoint,
     and other creative pursuits.
 
-  photo: /assets/img/2022Conf/_talks/22062_alice-walsh-phd.jpg
-  url:
-    webpage: https://awalsh17.github.io/
-    twitter: https://twitter.com/sciencealice
-    github: https://github.com/awalsh17
-    linkedin: https://www.linkedin.com/in/alice-walsh/
-    affiliation: ~
 
 ---
 

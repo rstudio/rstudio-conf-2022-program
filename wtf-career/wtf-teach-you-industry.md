@@ -3,11 +3,11 @@
 talk_id: 22165
 talk_slug: wtf-teach-you-industry
 talk_type: regular
+talk_tags: [career-development, story]
 session_slug: wtf-career
-block: 3-9-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: What they forgot to teach you about industry transitions from academia (WTF AITA)
+talk_title: "What they forgot to teach you about industry transitions from academia (WTF AITA)"
 # A short version of the title, suitable for small displays
 talk_title_short: What they forgot to teach you about industry transitions from academia (WTF AITA)
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Travis Gerke
   affiliation: The Prostate Cancer Clinical Trials Consortium
+  url:
+    webpage: https://travisgerke.com/
+    twitter: https://twitter.com/travisgerke
+    github: https://github.com/tgerke/
+    linkedin: https://www.linkedin.com/in/travisgerke/
+    affiliation: https://pcctc.org/
+  slug: travis-gerke
+  photo: /assets/img/2022Conf/_talks/22165_travis-gerke.jpg
   bio: |+
     As academic faculty, I led cancer-focused research teams in the
     application and development of tools for applied machine learning,
@@ -24,13 +32,6 @@ speakers:
     working environments (I live and work in an RV). My favorite activity
     is helping other data scientists become successful.
 
-  photo: /assets/img/2022Conf/_talks/22165_travis-gerke.jpg
-  url:
-    webpage: https://travisgerke.com/
-    twitter: https://twitter.com/travisgerke
-    github: https://github.com/tgerke/
-    linkedin: https://www.linkedin.com/in/travisgerke/
-    affiliation: https://pcctc.org/
 
 ---
 

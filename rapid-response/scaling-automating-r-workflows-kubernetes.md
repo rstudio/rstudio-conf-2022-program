@@ -3,11 +3,11 @@
 talk_id: 22199
 talk_slug: scaling-automating-r-workflows-kubernetes
 talk_type: regular
+talk_tags: [interop, production]
 session_slug: rapid-response
-block: 3-7-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Scaling and automating R workflows with Kubernetes and Airflow
+talk_title: "Scaling and automating R workflows with Kubernetes and Airflow"
 # A short version of the title, suitable for small displays
 talk_title_short: Scaling and automating R workflows with Kubernetes and Airflow
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Isaac Florence
   affiliation: UK Health Security Agency
+  url:
+    webpage: https://isaacflorence.co.uk/
+    twitter: https://twitter.com/isaacatflorence
+    github: https://github.com/isaac-florence
+    linkedin: https://uk.linkedin.com/in/isaacflorence
+    affiliation: https://www.gov.uk/government/organisations/uk-health-security-agency
+  slug: isaac-florence
+  photo: /assets/img/2022Conf/_talks/22199_isaac-florence.jpg
   bio: |+
     I am an epidemiologist and public health policy professional working
     for the UK Health Security Agency (UKHSA). I have been using R and
@@ -28,13 +36,6 @@ speakers:
     as well as on some soon-to-be-announced open source projects on
     scaling and containerising R workloads.
 
-  photo: /assets/img/2022Conf/_talks/22199_isaac-florence.jpg
-  url:
-    webpage: https://isaacflorence.co.uk/
-    twitter: https://twitter.com/isaacatflorence
-    github: https://github.com/isaac-florence
-    linkedin: https://uk.linkedin.com/in/isaacflorence
-    affiliation: https://www.gov.uk/government/organisations/uk-health-security-agency
 
 ---
 

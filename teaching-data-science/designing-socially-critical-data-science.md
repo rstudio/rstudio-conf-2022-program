@@ -3,11 +3,11 @@
 talk_id: 22222
 talk_slug: designing-socially-critical-data-science
 talk_type: regular
+talk_tags: [data-for-good, teaching]
 session_slug: teaching-data-science
-block: 3-5-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Designing a Socially-Critical Data Science Course
+talk_title: "Designing a Socially-Critical Data Science Course"
 # A short version of the title, suitable for small displays
 talk_title_short: Designing a Socially-Critical Data Science Course
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Brian Danielak
   affiliation: University of Maryland – College Park
+  url:
+    webpage: ~
+    twitter: https://twitter.com/Capbri
+    github: https://github.com/briandk/
+    linkedin: https://www.linkedin.com/in/briandanielak/
+    affiliation: http://briandk.github.io/
+  slug: brian-danielak
+  photo: /assets/img/2022Conf/_talks/22222_brian-danielak.jpg
   bio: |+
     Brian's career has spanned teaching, researching, and being a
     practicing software engineer. His Ph.D. in Computing Education
@@ -28,13 +36,6 @@ speakers:
     Brian enjoys improv, games of all kinds, and being inspired by others’
     favorite forms of geekery.
 
-  photo: /assets/img/2022Conf/_talks/22222_brian-danielak.jpg
-  url:
-    webpage: ~
-    twitter: https://twitter.com/Capbri
-    github: https://github.com/briandk/
-    linkedin: https://www.linkedin.com/in/briandanielak/
-    affiliation: http://briandk.github.io/
 
 ---
 

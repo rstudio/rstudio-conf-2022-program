@@ -3,11 +3,11 @@
 talk_id: 22132
 talk_slug: touch-of-r-in-robotics
 talk_type: regular
+talk_tags: [champion, interop, recreational]
 session_slug: unexpected-uses
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: A touch of R in Robotics
+talk_title: "A touch of R in Robotics"
 # A short version of the title, suitable for small displays
 talk_title_short: A touch of R in Robotics
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Eric Wanjau
   affiliation: Leeds Institute for Data Analytics
+  url:
+    webpage: ~
+    twitter: https://twitter.com/ericntay
+    github: https://github.com/R-icntay
+    linkedin: ~
+    affiliation: https://lida.leeds.ac.uk/
+  slug: eric-wanjau
+  photo: /assets/img/2022Conf/_talks/22132_eric-wanjau.png
   bio: |+
     Eric is an Early Career Researcher who continually seeks to tackle
     real-world challenges using applied research, data analytics and
@@ -27,28 +35,22 @@ speakers:
     organizer of DekutR data science club at Dedan Kimathi University of
     Technology, Kenya. He plays the guitar (terribly but passionately).
 
-  photo: /assets/img/2022Conf/_talks/22132_eric-wanjau.png
-  url:
-    webpage: ~
-    twitter: https://twitter.com/ericntay
-    github: https://github.com/R-icntay
-    linkedin: ~
-    affiliation: https://lida.leeds.ac.uk/
 - name: Ian Muchiri
   affiliation: Dedan Kimathi University of Technology
-  bio: |+
-    I am a co-founder and co-organizer of DekutR data science club at
-    Dedan Kimathi University of Technology. Also, I am an early career
-    researcher in the field of Internet of Things, Data Science and
-    Electronics (Embedded System Design).
-
-  photo: /assets/img/2022Conf/_talks/22132_ian-muchiri.png
   url:
     webpage: ~
     twitter: https://twitter.com/Entity_4004
     github: https://github.com/ian011
     linkedin: ~
     affiliation: https://www.dkut.ac.ke/ and https://sunculture.com/
+  slug: ian-muchiri
+  photo: /assets/img/2022Conf/_talks/22132_ian-muchiri.png
+  bio: |+
+    I am a co-founder and co-organizer of DekutR data science club at
+    Dedan Kimathi University of Technology. Also, I am an early career
+    researcher in the field of Internet of Things, Data Science and
+    Electronics (Embedded System Design).
+
 
 ---
 

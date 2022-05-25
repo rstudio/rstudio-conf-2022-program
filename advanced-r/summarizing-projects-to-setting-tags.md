@@ -3,11 +3,11 @@
 talk_id: 22103
 talk_slug: summarizing-projects-to-setting-tags
 talk_type: regular
+talk_tags: [programming, recreational, tool]
 session_slug: advanced-r
-block: 4-8-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: From summarizing projects to setting tags, uses of parsing R files
+talk_title: "From summarizing projects to setting tags, uses of parsing R files"
 # A short version of the title, suitable for small displays
 talk_title_short: From summarizing projects to setting tags, uses of parsing R files
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Bryan Shalloway
   affiliation: NetApp
+  url:
+    webpage: https://www.bryanshalloway.com/
+    twitter: https://twitter.com/brshallo
+    github: https://github.com/brshallo
+    linkedin: https://www.linkedin.com/in/bryanshalloway
+    affiliation: https://www.netapp.com/
+  slug: bryan-shalloway
+  photo: /assets/img/2022Conf/_talks/22103_bryan-shalloway.jpg
   bio: |+
     Bryan is a Data Scientist at NetApp where he has worked on a
     wide range of internal operations problems in Customer Support,
@@ -29,13 +37,6 @@ speakers:
     newsletters of various public policy wonks or listening to podcasts
     while cooking, cleaning, running, ...{insert any activity}.
 
-  photo: /assets/img/2022Conf/_talks/22103_bryan-shalloway.jpg
-  url:
-    webpage: https://www.bryanshalloway.com/
-    twitter: https://twitter.com/brshallo
-    github: https://github.com/brshallo
-    linkedin: https://www.linkedin.com/in/bryanshalloway
-    affiliation: https://www.netapp.com/
 
 ---
 

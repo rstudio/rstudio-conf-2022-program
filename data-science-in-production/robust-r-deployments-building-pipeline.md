@@ -3,11 +3,11 @@
 talk_id: 22198
 talk_slug: robust-r-deployments-building-pipeline
 talk_type: regular
+talk_tags: [html/css/js, interop, production]
 session_slug: data-science-in-production
-block: 3-7-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Robust R Deployments: Building a Pipeline from RStudio to Production
+talk_title: "Robust R Deployments: Building a Pipeline from RStudio to Production"
 # A short version of the title, suitable for small displays
 talk_title_short: Robust R Deployments
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: David Maguire
   affiliation: dv01
+  url:
+    webpage: ~
+    twitter: ~
+    github: github.com/davemaguire
+    linkedin: https://www.linkedin.com/in/david-maguire-30636956/
+    affiliation: https://www.dv01.co/offerings/tape-cracker/
+  slug: david-maguire
+  photo: /assets/img/2022Conf/_talks/22198_david-maguire.jpg
   bio: |+
     A physical scientist by training, David leverages the scientific
     method along with the statistical capabilities of R to solve business
@@ -26,13 +34,6 @@ speakers:
     at dv01, David manages a customer facing plumber API. This API is the
     entry point to one of dv01's top products, Tape Cracker.
 
-  photo: /assets/img/2022Conf/_talks/22198_david-maguire.jpg
-  url:
-    webpage: ~
-    twitter: ~
-    github: github.com/davemaguire
-    linkedin: https://www.linkedin.com/in/david-maguire-30636956/
-    affiliation: https://www.dv01.co/offerings/tape-cracker/
 
 ---
 

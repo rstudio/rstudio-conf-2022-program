@@ -3,11 +3,11 @@
 talk_id: 22234
 talk_slug: websites-books-blogs-oh-creating
 talk_type: regular
+talk_tags: [communication]
 session_slug: quarto-deep-dive
-block: 4-8-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Websites & Books & Blogs, oh my! Creating Rich Content with Quarto
+talk_title: "Websites & Books & Blogs, oh my! Creating Rich Content with Quarto"
 # A short version of the title, suitable for small displays
 talk_title_short: Websites & Books & Blogs, oh my! Creating Rich Content with Quarto
 # A link to your talk's materials, when ready
@@ -15,18 +15,19 @@ talk_materials_url: ~
 speakers:
 - name: Devin Pastoor
   affiliation: RStudio
-  bio: |+
-    Devin is a solutions engineer at RStudio. He has a PhD in
-    Pharmaceutical Sciences and has focused his career on helping
-    companies leverage technology to enable faster, better decisions.
-
-  photo: /assets/img/2022Conf/_talks/22234_devin-pastoor.png
   url:
     webpage: ~
     twitter: ~
     github: ~
     linkedin: ~
     affiliation: ~
+  slug: devin-pastoor
+  photo: /assets/img/2022Conf/_talks/22234_devin-pastoor.png
+  bio: |+
+    Devin is a solutions engineer at RStudio. He has a PhD in
+    Pharmaceutical Sciences and has focused his career on helping
+    companies leverage technology to enable faster, better decisions.
+
 
 ---
 

@@ -3,11 +3,11 @@
 talk_id: 22228
 talk_slug: visualizing-distributions-uncertainty-using-ggdist
 talk_type: lightning
+talk_tags: [modeling, tool, visualisation]
 session_slug: lightning-talks
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Visualizing distributions and uncertainty using ggdist
+talk_title: "Visualizing distributions and uncertainty using ggdist"
 # A short version of the title, suitable for small displays
 talk_title_short: Visualizing distributions and uncertainty using ggdist
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Matthew Kay
   affiliation: Northwestern University
+  url:
+    webpage: https://www.mjskay.com/
+    twitter: https://twitter.com/mjskay
+    github: https://github.com/mjskay
+    linkedin: ~
+    affiliation: https://www.northwestern.edu/
+  slug: matthew-kay
+  photo: /assets/img/2022Conf/_talks/22228_matthew-kay.jpg
   bio: |+
     Matthew Kay is an Assistant Professor jointly appointed in Computer
     Science and Communications Studies at Northwestern University. He
@@ -26,13 +34,6 @@ speakers:
     (https://mjskay.github.io/ggdist/) R packages for visualizing Bayesian
     statistical model output and uncertainty.
 
-  photo: /assets/img/2022Conf/_talks/22228_matthew-kay.jpg
-  url:
-    webpage: https://www.mjskay.com/
-    twitter: https://twitter.com/mjskay
-    github: https://github.com/mjskay
-    linkedin: ~
-    affiliation: https://www.northwestern.edu/
 
 ---
 

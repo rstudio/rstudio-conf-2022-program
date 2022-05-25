@@ -3,11 +3,11 @@
 talk_id: 22065
 talk_slug: made-entire-e-commerce-platform
 talk_type: regular
+talk_tags: [process, recreational, shiny, visualisation]
 session_slug: unexpected-uses
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: I made an entire e-commerce platform on Shiny
+talk_title: "I made an entire e-commerce platform on Shiny"
 # A short version of the title, suitable for small displays
 talk_title_short: I made an entire e-commerce platform on Shiny
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Jacqueline Nolis
   affiliation: Saturn Cloud
+  url:
+    webpage: https://jnolis.com
+    twitter: https://github.com/jnolis/ggirl
+    github: https://github.com/jnolis/ggirl
+    linkedin: ~
+    affiliation: ~
+  slug: jacqueline-nolis
+  photo: /assets/img/2022Conf/_talks/22065_jacqueline-nolis.jpg
   bio: |+
     Dr. Jacqueline Nolis is a data science leader with 15 years of
     experience in running data science teams and projects at companies
@@ -25,13 +33,6 @@ speakers:
     science for humor—like using deep learning to generate offensive
     license plates.
 
-  photo: /assets/img/2022Conf/_talks/22065_jacqueline-nolis.jpg
-  url:
-    webpage: https://jnolis.com
-    twitter: https://github.com/jnolis/ggirl
-    github: https://github.com/jnolis/ggirl
-    linkedin: ~
-    affiliation: ~
 
 ---
 

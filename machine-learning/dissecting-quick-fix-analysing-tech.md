@@ -3,11 +3,11 @@
 talk_id: 22008
 talk_slug: dissecting-quick-fix-analysing-tech
 talk_type: regular
+talk_tags: [career-development, community, data-for-good, modeling, production]
 session_slug: machine-learning
-block: 3-9-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Dissecting the quick fix: Analysing tech-solutionist solutions
+talk_title: "Dissecting the quick fix: Analysing tech-solutionist solutions"
 # A short version of the title, suitable for small displays
 talk_title_short: Dissecting the quick fix
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Sigrid Keydana
   affiliation: RStudio
+  url:
+    webpage: https://divergences.xyz
+    twitter: twitter.com/zkajdan
+    github: github.com/skeydan
+    linkedin: https://de.linkedin.com/in/sigrid-keydana-9a16b410
+    affiliation: https://blogs.rstudio.com/ai/
+  slug: sigrid-keydana
+  photo: /assets/img/2022Conf/_talks/22008_sigrid-keydana.jpg
   bio: |+
     Sigrid works at RStudio, where she writes about open-source deep
     learning, machine learning, and scientific-computation frameworks.
@@ -26,13 +34,6 @@ speakers:
     a situation where everyone's thoughts and actions matter, raising
     attention and awareness is a useful thing to do.
 
-  photo: /assets/img/2022Conf/_talks/22008_sigrid-keydana.jpg
-  url:
-    webpage: https://divergences.xyz
-    twitter: twitter.com/zkajdan
-    github: github.com/skeydan
-    linkedin: https://de.linkedin.com/in/sigrid-keydana-9a16b410
-    affiliation: https://blogs.rstudio.com/ai/
 
 ---
 

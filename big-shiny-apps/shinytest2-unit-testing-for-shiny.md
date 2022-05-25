@@ -3,11 +3,11 @@
 talk_id: 22115
 talk_slug: shinytest2-unit-testing-for-shiny
 talk_type: regular
+talk_tags: [programming, shiny]
 session_slug: big-shiny-apps
-block: 4-8-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: {shinytest2}: Unit testing for Shiny applications
+talk_title: "{shinytest2}: Unit testing for Shiny applications"
 # A short version of the title, suitable for small displays
 talk_title_short: {shinytest2}
 # A link to your talk's materials, when ready
@@ -15,19 +15,20 @@ talk_materials_url: ~
 speakers:
 - name: Barret Schloerke
   affiliation: RStudio
-  bio: |+
-    `hello()`! Dr. Barret Schloerke is a Shiny Software Engineer
-    at RStudio. He currently maintains and creates many R packages
-    surrounding the Shiny ecosystem, including `{shiny}`, `{shinytest2}`,
-    `{reactlog}`, and `{plumber}`.
-
-  photo: /assets/img/2022Conf/_talks/22115_barret-schloerke.png
   url:
     webpage: http://schloerke.com/
     twitter: https://twitter.com/schloerke
     github: https://github.com/schloerke
     linkedin: https://www.linkedin.com/in/schloerke/
     affiliation: https://www.rstudio.com/
+  slug: barret-schloerke
+  photo: /assets/img/2022Conf/_talks/22115_barret-schloerke.png
+  bio: |+
+    `hello()`! Dr. Barret Schloerke is a Shiny Software Engineer
+    at RStudio. He currently maintains and creates many R packages
+    surrounding the Shiny ecosystem, including `{shiny}`, `{shinytest2}`,
+    `{reactlog}`, and `{plumber}`.
+
 
 ---
 

@@ -3,11 +3,11 @@
 talk_id: 22136
 talk_slug: r-shiny-conception-to-cloud
 talk_type: regular
+talk_tags: [process, production, shiny]
 session_slug: data-science-in-production
-block: 3-7-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: R Shiny - From Conception to the Cloud
+talk_title: "R Shiny - From Conception to the Cloud"
 # A short version of the title, suitable for small displays
 talk_title_short: R Shiny - From Conception to the Cloud
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Ivonne Carrillo Dominguez
   affiliation: ~
+  url:
+    webpage: https://www.linkedin.com/in/ivonne-carrillo-dominguez/
+    twitter: ~
+    github: ~
+    linkedin: https://www.linkedin.com/in/ivonne-carrillo-dominguez/
+    affiliation: https://www.bixal.com/about/ivonne-carrillo-dominguez/
+  slug: ivonne-carrillo-dominguez
+  photo: /assets/img/2022Conf/_talks/22136_ivonne-carrillo-dominguez.jpeg
   bio: |+
     Ivonne is a data engineer on the Data Science team at Bixal where
     she has worked for 5 years now. She works on data visualization,
@@ -27,13 +35,6 @@ speakers:
     lives now in Fairfax, VA with her husband and doggy Moka and likes to
     bake cakes on the weekends.
 
-  photo: /assets/img/2022Conf/_talks/22136_ivonne-carrillo-dominguez.jpeg
-  url:
-    webpage: https://www.linkedin.com/in/ivonne-carrillo-dominguez/
-    twitter: ~
-    github: ~
-    linkedin: https://www.linkedin.com/in/ivonne-carrillo-dominguez/
-    affiliation: https://www.bixal.com/about/ivonne-carrillo-dominguez/
 
 ---
 

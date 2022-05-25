@@ -3,11 +3,11 @@
 talk_id: 22156
 talk_slug: introduction-to-apple-health-export
 talk_type: regular
+talk_tags: [interop, recreational, story]
 session_slug: unexpected-uses
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: An Introduction to the Apple Health Export
+talk_title: "An Introduction to the Apple Health Export"
 # A short version of the title, suitable for small displays
 talk_title_short: An Introduction to the Apple Health Export
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: John Goldin
   affiliation: Yale University
+  url:
+    webpage: https://www.johngoldin.com
+    twitter: https://twitter.com/johngoldin
+    github: https://github.com/johngoldin
+    linkedin: ~
+    affiliation: https://oir.yale.edu
+  slug: john-goldin
+  photo: /assets/img/2022Conf/_talks/22156_john-goldin.jpeg
   bio: |+
     John Goldin spent his career as a data analyst for the Yale University
     administration. He was the Director of Institutional Research for over
@@ -25,13 +33,6 @@ speakers:
     (the author of The Grammar of Graphics) back in the 1970’s when they
     were both graduate students in Psychology at Yale.
 
-  photo: /assets/img/2022Conf/_talks/22156_john-goldin.jpeg
-  url:
-    webpage: https://www.johngoldin.com
-    twitter: https://twitter.com/johngoldin
-    github: https://github.com/johngoldin
-    linkedin: ~
-    affiliation: https://oir.yale.edu
 
 ---
 

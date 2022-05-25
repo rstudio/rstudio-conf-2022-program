@@ -3,11 +3,11 @@
 talk_id: 22209
 talk_slug: packages-and-process
 talk_type: regular
+talk_tags: [design, pharma, process]
 session_slug: r-in-pharma
-block: 3-5-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Packages and Process
+talk_title: "Packages and Process"
 # A short version of the title, suitable for small displays
 talk_title_short: Packages and Process
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Ellis Hughes
   affiliation: GSK
+  url:
+    webpage: ~
+    twitter: twitter.com/ellis_hughes
+    github: github.com/thebioengineer
+    linkedin: linkedin.com/in/ellishughes
+    affiliation: gsk.com
+  slug: ellis-hughes
+  photo: /assets/img/2022Conf/_talks/22209_ellis-hughes.jpg
   bio: |+
     Ellis Hughes is a Data Science Leader and has worked in the
     pharmaceutical industry for 8 years. He focuses on how organizations
@@ -23,13 +31,6 @@ speakers:
     group, the Cascadia R Conference, and hosts a weekly R screencast,
     TidyX, to explain data science concepts.
 
-  photo: /assets/img/2022Conf/_talks/22209_ellis-hughes.jpg
-  url:
-    webpage: ~
-    twitter: twitter.com/ellis_hughes
-    github: github.com/thebioengineer
-    linkedin: linkedin.com/in/ellishughes
-    affiliation: gsk.com
 
 ---
 

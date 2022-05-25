@@ -3,11 +3,11 @@
 talk_id: 22098
 talk_slug: celery-expanding-tidymodels-to-clustering
 talk_type: regular
+talk_tags: [access, modeling]
 session_slug: tidymodels
-block: 3-5-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: celery - expanding tidymodels to clustering
+talk_title: "celery - expanding tidymodels to clustering"
 # A short version of the title, suitable for small displays
 talk_title_short: celery - expanding tidymodels to clustering
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Emil Hvitfeldt
   affiliation: RStudio
+  url:
+    webpage: https://www.emilhvitfeldt.com/
+    twitter: https://twitter.com/Emil_Hvitfeldt
+    github: https://github.com/emilhvitfeldt
+    linkedin: https://www.linkedin.com/in/emilhvitfeldt/
+    affiliation: https://www.rstudio.com/
+  slug: emil-hvitfeldt
+  photo: /assets/img/2022Conf/_talks/22098_emil-hvitfeldt.png
   bio: |+
     Emil Hvitfeldt is a software engineer at RStudio. Part of the
     tidymodels team's effort to improve R's modeling capabilities.
@@ -23,13 +31,6 @@ speakers:
     an adjunct professor at American University. He and Julia authored the
     book Supervised Machine Learning for Text Analysis in R.
 
-  photo: /assets/img/2022Conf/_talks/22098_emil-hvitfeldt.png
-  url:
-    webpage: https://www.emilhvitfeldt.com/
-    twitter: https://twitter.com/Emil_Hvitfeldt
-    github: https://github.com/emilhvitfeldt
-    linkedin: https://www.linkedin.com/in/emilhvitfeldt/
-    affiliation: https://www.rstudio.com/
 
 ---
 

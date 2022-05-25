@@ -3,11 +3,11 @@
 talk_id: 22013
 talk_slug: tidyverse-power-bi-match-made
 talk_type: regular
+talk_tags: [interop, tidyverse]
 session_slug: business-intelligence
-block: 3-5-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Tidyverse and Power BI:  A Match Made in Heaven
+talk_title: "Tidyverse and Power BI:  A Match Made in Heaven"
 # A short version of the title, suitable for small displays
 talk_title_short: Tidyverse and Power BI
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Ryan E Wade
   affiliation: ~
+  url:
+    webpage: ~
+    twitter: ~
+    github: ~
+    linkedin: https://www.linkedin.com/in/mrdatageek/
+    affiliation: ~
+  slug: ryan-e-wade
+  photo: /assets/img/2022Conf/_talks/22013_ryan-e-wade.jpg
   bio: |+
     Ryan is a data and analytics solutions architect. He can present
     complex data intuitively using proper analytical and visualization
@@ -22,13 +30,6 @@ speakers:
     and M. He is the author of the book, ***Advanced Analytics in Power BI
     with R and Python***.
 
-  photo: /assets/img/2022Conf/_talks/22013_ryan-e-wade.jpg
-  url:
-    webpage: ~
-    twitter: ~
-    github: ~
-    linkedin: https://www.linkedin.com/in/mrdatageek/
-    affiliation: ~
 
 ---
 

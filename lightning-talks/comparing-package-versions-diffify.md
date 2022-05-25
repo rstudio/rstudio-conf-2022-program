@@ -3,11 +3,11 @@
 talk_id: 22196
 talk_slug: comparing-package-versions-diffify
 talk_type: lightning
+talk_tags: [career-development, programming, shiny]
 session_slug: lightning-talks
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Comparing package versions with Diffify
+talk_title: "Comparing package versions with Diffify"
 # A short version of the title, suitable for small displays
 talk_title_short: Comparing package versions with Diffify
 # A link to your talk's materials, when ready
@@ -15,18 +15,19 @@ talk_materials_url: ~
 speakers:
 - name: Colin Gillespie
   affiliation: Jumping Rivers
-  bio: |+
-    Colin has been using R since 1999. He's the author of a number of R
-    packages, the co-founder of Jumping Rivers and has published the book
-    Efficient R Programming with O'Reilly.
-
-  photo: /assets/img/2022Conf/_talks/22196_colin-gillespie.jpg
   url:
     webpage: ~
     twitter: https://twitter.com/csgillespie
     github: https://github.com/csgillespie/
     linkedin: https://www.linkedin.com/in/colin-gillespie-25028332/
     affiliation: https://jumpingrivers.com/
+  slug: colin-gillespie
+  photo: /assets/img/2022Conf/_talks/22196_colin-gillespie.jpg
+  bio: |+
+    Colin has been using R since 1999. He's the author of a number of R
+    packages, the co-founder of Jumping Rivers and has published the book
+    Efficient R Programming with O'Reilly.
+
 
 ---
 

@@ -3,11 +3,11 @@
 talk_id: 22083
 talk_slug: journey-to-data-science-tools
 talk_type: regular
+talk_tags: [access, career-development, community, story]
 session_slug: communities-of-practice
-block: 4-6-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: A Journey to Data Science: Tools for Equity and Diversity in STEM
+talk_title: "A Journey to Data Science: Tools for Equity and Diversity in STEM"
 # A short version of the title, suitable for small displays
 talk_title_short: A Journey to Data Science
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Ileana Fenwick
   affiliation: UNC Chapel Hill
+  url:
+    webpage: ~
+    twitter: https://twitter.com/_ileanaf
+    github: https://github.com/IleanaF
+    linkedin: https://www.linkedin.com/in/ileana-fenwick-0238ba132/
+    affiliation: https://nye.unc.edu/
+  slug: ileana-fenwick
+  photo: /assets/img/2022Conf/_talks/22083_ileana-fenwick.jpg
   bio: |+
     Ileana Fenwick is an open science advocate and Marine Sciences Ph.D.
     Student at UNC Chapel Hill . Ileana's research focuses on evaluating
@@ -24,13 +32,6 @@ speakers:
     advocate for HBCU engagement and equity in open science and marine
     science through her consulting and volunteer work.
 
-  photo: /assets/img/2022Conf/_talks/22083_ileana-fenwick.jpg
-  url:
-    webpage: ~
-    twitter: https://twitter.com/_ileanaf
-    github: https://github.com/IleanaF
-    linkedin: https://www.linkedin.com/in/ileana-fenwick-0238ba132/
-    affiliation: https://nye.unc.edu/
 
 ---
 

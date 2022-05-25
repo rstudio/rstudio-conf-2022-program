@@ -3,11 +3,11 @@
 talk_id: 22027
 talk_slug: webr-r-compiled-for-webassembly
 talk_type: lightning
+talk_tags: [programming,interop,tool]
 session_slug: lightning-talks
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: WebR: R compiled for WebAssembly and running in the browser
+talk_title: "WebR: R compiled for WebAssembly and running in the browser"
 # A short version of the title, suitable for small displays
 talk_title_short: WebR
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: George Stagg
   affiliation: RStudio
+  url:
+    webpage: https://www.gwstagg.co.uk
+    twitter: https://twitter.com/Tegglington
+    github: https://github.com/georgestagg
+    linkedin: ~
+    affiliation: ~
+  slug: george-stagg
+  photo: /assets/img/2022Conf/_talks/22027_george-stagg.jpeg
   bio: |+
     George Stagg is a Software Engineer with experience in research
     computing and mathematical digital learning software. He holds a
@@ -26,13 +34,6 @@ speakers:
     more. George is now lead developer for the webR project, aiming to
     compile R and its packages for WebAssembly.
 
-  photo: /assets/img/2022Conf/_talks/22027_george-stagg.jpeg
-  url:
-    webpage: https://www.gwstagg.co.uk
-    twitter: https://twitter.com/Tegglington
-    github: https://github.com/georgestagg
-    linkedin: ~
-    affiliation: ~
 
 ---
 

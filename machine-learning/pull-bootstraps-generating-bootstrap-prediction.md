@@ -3,11 +3,11 @@
 talk_id: 22033
 talk_slug: pull-bootstraps-generating-bootstrap-prediction
 talk_type: regular
+talk_tags: [modeling, tool]
 session_slug: machine-learning
-block: 3-9-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Pull Yourself Up by your Bootstraps! Generating bootstrap prediction intervals from a tidymodels workflow with the workboots package
+talk_title: "Pull Yourself Up by your Bootstraps! Generating bootstrap prediction intervals from a tidymodels workflow with the workboots package"
 # A short version of the title, suitable for small displays
 talk_title_short: Pull Yourself Up by your Bootstraps! Generating bootstrap prediction intervals from a tidymodels workflow with the workboots package
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Mark Rieke
   affiliation: Memorial Hermann Health System
+  url:
+    webpage: https://markjrieke.github.io/workboots/
+    twitter: https://twitter.com/markjrieke
+    github: ~
+    linkedin: ~
+    affiliation: ~
+  slug: mark-rieke
+  photo: /assets/img/2022Conf/_talks/22033_mark-rieke.png
   bio: |+
     I am the senior consumer experience (CX) analyst at Memorial Hermann
     Health System where I use R and tidymodels to provide actionable
@@ -23,13 +31,6 @@ speakers:
     jazzy piano. I live in Houston, TX, with my fiancé and two obnoxious
     yet lovable pets.
 
-  photo: /assets/img/2022Conf/_talks/22033_mark-rieke.png
-  url:
-    webpage: https://markjrieke.github.io/workboots/
-    twitter: https://twitter.com/markjrieke
-    github: ~
-    linkedin: ~
-    affiliation: ~
 
 ---
 

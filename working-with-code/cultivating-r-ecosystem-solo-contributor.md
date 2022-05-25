@@ -3,11 +3,11 @@
 talk_id: 22041
 talk_slug: cultivating-r-ecosystem-solo-contributor
 talk_type: regular
+talk_tags: [career-development, champion, communication, interop, production]
 session_slug: working-with-code
-block: 4-6-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Cultivating Your Own R Ecosystem as a Solo Contributor
+talk_title: "Cultivating Your Own R Ecosystem as a Solo Contributor"
 # A short version of the title, suitable for small displays
 talk_title_short: Cultivating Your Own R Ecosystem as a Solo Contributor
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Meghan Hall
   affiliation: Brown University
+  url:
+    webpage: https://meghan.rbind.io/
+    twitter: https://twitter.com/meghanmhall
+    github: https://github.com/meghall06/
+    linkedin: ~
+    affiliation: ~
+  slug: meghan-hall
+  photo: /assets/img/2022Conf/_talks/22041_meghan-hall.jpeg
   bio: |+
     Meghan Hall has spent over seven years as a data professional in
     higher education. She also has experience in sports analytics, as
@@ -23,13 +31,6 @@ speakers:
     particularly for beginners, and frequently delivers talks, workshops,
     and classes.
 
-  photo: /assets/img/2022Conf/_talks/22041_meghan-hall.jpeg
-  url:
-    webpage: https://meghan.rbind.io/
-    twitter: https://twitter.com/meghanmhall
-    github: https://github.com/meghall06/
-    linkedin: ~
-    affiliation: ~
 
 ---
 

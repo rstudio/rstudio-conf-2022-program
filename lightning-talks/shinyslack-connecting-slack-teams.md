@@ -3,11 +3,11 @@
 talk_id: 22108
 talk_slug: shinyslack-connecting-slack-teams
 talk_type: lightning
+talk_tags: [community, shiny]
 session_slug: lightning-talks
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: {shinyslack}: Connecting Slack Teams to Shiny Apps
+talk_title: "{shinyslack}: Connecting Slack Teams to Shiny Apps"
 # A short version of the title, suitable for small displays
 talk_title_short: {shinyslack}
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Jon Harmon
   affiliation: R4DS Online Learning Community
+  url:
+    webpage: ~
+    twitter: https://twitter.com/JonTheGeek
+    github: https://github.com/jonthegeek/
+    linkedin: https://www.linkedin.com/in/jonthegeek/
+    affiliation: r4ds.io
+  slug: jon-harmon
+  photo: /assets/img/2022Conf/_talks/22108_jon-harmon.jpg
   bio: |+
     Jon runs the R4DS Online Learning Community and is the Principal Data
     Scientist of the Content Science team at Macmillan Learning. When
@@ -23,13 +31,6 @@ speakers:
     last several years. He lives in Austin, Texas, with his spouse, two
     children, and two large dogs.
 
-  photo: /assets/img/2022Conf/_talks/22108_jon-harmon.jpg
-  url:
-    webpage: ~
-    twitter: https://twitter.com/JonTheGeek
-    github: https://github.com/jonthegeek/
-    linkedin: https://www.linkedin.com/in/jonthegeek/
-    affiliation: r4ds.io
 
 ---
 

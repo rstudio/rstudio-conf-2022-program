@@ -3,11 +3,11 @@
 talk_id: 22194
 talk_slug: dive-deep-metadata-tplyr
 talk_type: regular
+talk_tags: [medicine, pharma, process, tool]
 session_slug: r-in-pharma
-block: 3-5-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Dive Deep into Metadata with Tplyr
+talk_title: "Dive Deep into Metadata with Tplyr"
 # A short version of the title, suitable for small displays
 talk_title_short: Dive Deep into Metadata with Tplyr
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Mike Stackhouse
   affiliation: Atorus Research
+  url:
+    webpage: https://www.atorusresearch.com/
+    twitter: https://twitter.com/mike_at_atorus
+    github: https://github.com/mstackhouse
+    linkedin: https://www.linkedin.com/in/michael-s-stackhouse/
+    affiliation: https://www.atorusresearch.com/
+  slug: mike-stackhouse
+  photo: /assets/img/2022Conf/_talks/22194_mike-stackhouse.jpg
   bio: |+
     Mike Stackhouse is the Chief Innovation Officer of Atorus Research
     and leads Atorus’ Analytics Engineering department. Mike has a long
@@ -25,13 +33,6 @@ speakers:
     UC Berkeley, where in 2020 he graduated with a Master’s in Information
     and Data Science program.
 
-  photo: /assets/img/2022Conf/_talks/22194_mike-stackhouse.jpg
-  url:
-    webpage: https://www.atorusresearch.com/
-    twitter: https://twitter.com/mike_at_atorus
-    github: https://github.com/mstackhouse
-    linkedin: https://www.linkedin.com/in/michael-s-stackhouse/
-    affiliation: https://www.atorusresearch.com/
 
 ---
 

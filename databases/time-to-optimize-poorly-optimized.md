@@ -3,11 +3,11 @@
 talk_id: 22007
 talk_slug: time-to-optimize-poorly-optimized
 talk_type: regular
+talk_tags: [communication, databases, story]
 session_slug: databases
-block: 3-9-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: No Time to Optimize: A Poorly Optimized Query Story
+talk_title: "No Time to Optimize: A Poorly Optimized Query Story"
 # A short version of the title, suitable for small displays
 talk_title_short: No Time to Optimize
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Rebecca Hadi
   affiliation: Lyn Health
+  url:
+    webpage: www.rebeccahadi.dev
+    twitter: https://twitter.com/beehadi26
+    github: https://github.com/bhadi26
+    linkedin: https://www.linkedin.com/in/rebeccahadi/
+    affiliation: https://lynhealth.io
+  slug: rebecca-hadi
+  photo: /assets/img/2022Conf/_talks/22007_rebecca-hadi.jpg
   bio: |+
     Rebecca Hadi is the Head of Data Science at Lyn Health. She holds a
     Master's degree in Applied and Computational Mathematics from Johns
@@ -22,13 +30,6 @@ speakers:
     University of Washington. Rebecca loves automating and optimizing
     processes, building Shiny apps, and helping others learn to code.
 
-  photo: /assets/img/2022Conf/_talks/22007_rebecca-hadi.jpg
-  url:
-    webpage: www.rebeccahadi.dev
-    twitter: https://twitter.com/beehadi26
-    github: https://github.com/bhadi26
-    linkedin: https://www.linkedin.com/in/rebeccahadi/
-    affiliation: https://lynhealth.io
 
 ---
 

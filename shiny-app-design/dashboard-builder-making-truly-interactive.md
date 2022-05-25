@@ -3,11 +3,11 @@
 talk_id: 22178
 talk_slug: dashboard-builder-making-truly-interactive
 talk_type: regular
+talk_tags: [shiny, tool, visualisation]
 session_slug: shiny-app-design
-block: 4-6-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Dashboard-Builder: Making truly interactive R-Shiny Apps
+talk_title: "Dashboard-Builder: Making truly interactive R-Shiny Apps"
 # A short version of the title, suitable for small displays
 talk_title_short: Dashboard-Builder
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Peter Gandenberger
   affiliation: ~
+  url:
+    webpage: ~
+    twitter: ~
+    github: https://github.com/petergandenberger/
+    linkedin: https://www.linkedin.com/in/peter-gandenberger-a7a2ba172/
+    affiliation: ~
+  slug: peter-gandenberger
+  photo: /assets/img/2022Conf/_talks/22178_peter-gandenberger.jpg
   bio: |+
     Peter is about to finish his Masters in Data Engineering & Analytics
     from the TU-Munich. Besides his studies, he has a passion for R-
@@ -22,28 +30,22 @@ speakers:
     the no-code/low-code dashboard-builder which allows users to create
     shiny dashboards without writing R-code.
 
-  photo: /assets/img/2022Conf/_talks/22178_peter-gandenberger.jpg
-  url:
-    webpage: ~
-    twitter: ~
-    github: https://github.com/petergandenberger/
-    linkedin: https://www.linkedin.com/in/peter-gandenberger-a7a2ba172/
-    affiliation: ~
 - name: Andreas Hofheinz
   affiliation: ~
-  bio: |+
-    Andreas is a consultant at d-fine and maintainer of the leafdown R
-    package. He is passionate about interactive data visualizations and
-    interpretable machine learning. He holds a B.Sc. in Economics and an
-    M.Sc. in Statistics from LMU Munich.
-
-  photo: /assets/img/2022Conf/_talks/22178_andreas-hofheinz.jpg
   url:
     webpage: ~
     twitter: ~
     github: ~
     linkedin: ~
     affiliation: ~
+  slug: andreas-hofheinz
+  photo: /assets/img/2022Conf/_talks/22178_andreas-hofheinz.jpg
+  bio: |+
+    Andreas is a consultant at d-fine and maintainer of the leafdown R
+    package. He is passionate about interactive data visualizations and
+    interpretable machine learning. He holds a B.Sc. in Economics and an
+    M.Sc. in Statistics from LMU Munich.
+
 
 ---
 

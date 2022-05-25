@@ -3,11 +3,11 @@
 talk_id: 22075
 talk_slug: how-to-be-pollinator
 talk_type: regular
+talk_tags: [communication, community, interop]
 session_slug: working-with-people
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: How to be a pollinatoR
+talk_title: "How to be a pollinatoR"
 # A short version of the title, suitable for small displays
 talk_title_short: How to be a pollinatoR
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Weihuang Wong
   affiliation: NORC at the University of Chicago
+  url:
+    webpage: https://www.norc.org/Experts/Pages/weihuang-wong.aspx
+    twitter: https://twitter.com/weihuang
+    github: https://github.com/weihuangwong
+    linkedin: ~
+    affiliation: https://www.norc.org/
+  slug: weihuang-wong
+  photo: /assets/img/2022Conf/_talks/22075_weihuang-wong.jpg
   bio: |+
     Weihuang (Wei) Wong is a Senior Research Methodologist at NORC, where
     he develops tools that help researchers and analysts produce high
@@ -22,15 +30,16 @@ speakers:
     across the education and health sectors. He earned his PhD in
     political science from MIT.
 
-  photo: /assets/img/2022Conf/_talks/22075_weihuang-wong.jpg
-  url:
-    webpage: https://www.norc.org/Experts/Pages/weihuang-wong.aspx
-    twitter: https://twitter.com/weihuang
-    github: https://github.com/weihuangwong
-    linkedin: ~
-    affiliation: https://www.norc.org/
 - name: Kiegan Rice
   affiliation: NORC at the University of Chicago
+  url:
+    webpage: ~
+    twitter: https://twitter.com/kieganer
+    github: https://github.com/kiegan
+    linkedin: ~
+    affiliation: https://www.norc.org/Pages/default.aspx
+  slug: kiegan-rice
+  photo: /assets/img/2022Conf/_talks/22075_kiegan-rice.jpg
   bio: |+
     Kiegan is a Statistician at NORC at the University of Chicago
     specializing in static and interactive data visualization,
@@ -41,13 +50,6 @@ speakers:
     statistical and computational reproducibility in forensic evidence
     analysis.
 
-  photo: /assets/img/2022Conf/_talks/22075_kiegan-rice.jpg
-  url:
-    webpage: ~
-    twitter: https://twitter.com/kieganer
-    github: https://github.com/kiegan
-    linkedin: ~
-    affiliation: https://www.norc.org/Pages/default.aspx
 
 ---
 

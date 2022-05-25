@@ -3,11 +3,11 @@
 talk_id: 22119
 talk_slug: tidysynthesis-r-package
 talk_type: regular
+talk_tags: [modeling, tool]
 session_slug: machine-learning
-block: 3-9-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: The tidysynthesis R package
+talk_title: "The tidysynthesis R package"
 # A short version of the title, suitable for small displays
 talk_title_short: The tidysynthesis R package
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Aaron R. Williams
   affiliation: Urban Institute
+  url:
+    webpage: https://aaronrwilliams.com/home/
+    twitter: https://twitter.com/awunderground
+    github: https://github.com/awunderground
+    linkedin: https://www.linkedin.com/in/aaronrwilliams100
+    affiliation: https://www.urban.org/
+  slug: aaron-r-williams
+  photo: /assets/img/2022Conf/_talks/22119_aaron-r-williams.jpeg
   bio: |+
     Aaron R. Williams is a senior data scientist at the Urban Institute
     where he works on microsimulation models, data imputation methods,
@@ -23,13 +31,6 @@ speakers:
     to Data Science in the McCourt School of Public Policy at Georgetown
     University.
 
-  photo: /assets/img/2022Conf/_talks/22119_aaron-r-williams.jpeg
-  url:
-    webpage: https://aaronrwilliams.com/home/
-    twitter: https://twitter.com/awunderground
-    github: https://github.com/awunderground
-    linkedin: https://www.linkedin.com/in/aaronrwilliams100
-    affiliation: https://www.urban.org/
 
 ---
 

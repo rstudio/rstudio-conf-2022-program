@@ -3,11 +3,11 @@
 talk_id: 22149
 talk_slug: quarto-for-rmarkdown-users
 talk_type: regular
+talk_tags: [communication, tool]
 session_slug: rmarkdown-quarto
-block: 3-9-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Quarto for RMarkdown Users
+talk_title: "Quarto for RMarkdown Users"
 # A short version of the title, suitable for small displays
 talk_title_short: Quarto for RMarkdown Users
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Tom Mock
   affiliation: RStudio, PBC
+  url:
+    webpage: https://themockup.blog
+    twitter: https://twitter.com/thomas_mock
+    github: https://github.com/jthomasmock
+    linkedin: https://www.linkedin.com/in/jthomasmock/
+    affiliation: https://www.rstudio.com/about/
+  slug: tom-mock
+  photo: /assets/img/2022Conf/_talks/22149_tom-mock.jpeg
   bio: |+
     Thomas is the Customer Enablement Lead at RStudio, helping RStudio’s
     customers be as successful as possible. He is deeply involved global
@@ -23,13 +31,6 @@ speakers:
     learning challenge, and presenting on various Data Science topics on
     YouTube or at conferences.
 
-  photo: /assets/img/2022Conf/_talks/22149_tom-mock.jpeg
-  url:
-    webpage: https://themockup.blog
-    twitter: https://twitter.com/thomas_mock
-    github: https://github.com/jthomasmock
-    linkedin: https://www.linkedin.com/in/jthomasmock/
-    affiliation: https://www.rstudio.com/about/
 
 ---
 

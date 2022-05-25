@@ -3,11 +3,11 @@
 talk_id: 22036
 talk_slug: accelerating-geospatial-computing-using-apache
 talk_type: lightning
+talk_tags: [interop, production, spatial]
 session_slug: lightning-talks
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Accelerating geospatial computing using Apache Arrow
+talk_title: "Accelerating geospatial computing using Apache Arrow"
 # A short version of the title, suitable for small displays
 talk_title_short: Accelerating geospatial computing using Apache Arrow
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Dewey Dunnington
   affiliation: Voltron Data
+  url:
+    webpage: https://dewey.dunnington.ca
+    twitter: https://twitter.com/paleolimbot
+    github: https://github.com/paleolimbot/
+    linkedin: https://www.linkedin.com/in/deweydunnington/
+    affiliation: https://voltrondata.com/
+  slug: dewey-dunnington
+  photo: /assets/img/2022Conf/_talks/22036_dewey-dunnington.jpg
   bio: |+
     Dewey Dunnington (Ph.D., P.Geo.) is an environmental researcher,
     programmer, and educator based in Nova Scotia, Canada. He recently
@@ -22,13 +30,6 @@ speakers:
     R Developer at [Voltron Data](https://voltrondata.com/) working on all
     things [Apache Arrow](https://arrow.apache.org/) + R.
 
-  photo: /assets/img/2022Conf/_talks/22036_dewey-dunnington.jpg
-  url:
-    webpage: https://dewey.dunnington.ca
-    twitter: https://twitter.com/paleolimbot
-    github: https://github.com/paleolimbot/
-    linkedin: https://www.linkedin.com/in/deweydunnington/
-    affiliation: https://voltrondata.com/
 
 ---
 

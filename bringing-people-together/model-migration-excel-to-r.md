@@ -3,11 +3,11 @@
 talk_id: 22024
 talk_slug: model-migration-excel-to-r
 talk_type: regular
+talk_tags: [interop, modeling, story]
 session_slug: bringing-people-together
-block: 4-6-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Model Migration: from Excel to R
+talk_title: "Model Migration: from Excel to R"
 # A short version of the title, suitable for small displays
 talk_title_short: Model Migration
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Johnny Breen
   affiliation: Tokio Marine Kiln
+  url:
+    webpage: https://non-std-dev.netlify.app/
+    twitter: https://twitter.com/johnnyb1694
+    github: https://github.com/johnnyb1694
+    linkedin: https://www.linkedin.com/in/johnnybreen/
+    affiliation: https://www.tokiomarinekiln.com/
+  slug: johnny-breen
+  photo: /assets/img/2022Conf/_talks/22024_johnny-breen.jpeg
   bio: |+
     Currently working as Portfolio Optimisation Lead at Tokio Marine Kiln,
     I am passionate about enhancing the computational aspects of actuarial
@@ -23,13 +31,6 @@ speakers:
     programme in London. It has since developed over the past 6 years into
     a loving relationship, which I would not change for the world!
 
-  photo: /assets/img/2022Conf/_talks/22024_johnny-breen.jpeg
-  url:
-    webpage: https://non-std-dev.netlify.app/
-    twitter: https://twitter.com/johnnyb1694
-    github: https://github.com/johnnyb1694
-    linkedin: https://www.linkedin.com/in/johnnybreen/
-    affiliation: https://www.tokiomarinekiln.com/
 
 ---
 

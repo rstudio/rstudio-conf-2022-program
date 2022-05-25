@@ -3,11 +3,11 @@
 talk_id: 22181
 talk_slug: highlights-of-knitr-package-past
 talk_type: regular
+talk_tags: [communication, programming]
 session_slug: rmarkdown-quarto
-block: 3-9-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Highlights of the knitr package from the past two years
+talk_title: "Highlights of the knitr package from the past two years"
 # A short version of the title, suitable for small displays
 talk_title_short: Highlights of the knitr package from the past two years
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Yihui Xie
   affiliation: RStudio, PBC
+  url:
+    webpage: https://yihui.org
+    twitter: https://twitter.com/xieyihui
+    github: https://github.com/yihui
+    linkedin: ~
+    affiliation: ~
+  slug: yihui-xie
+  photo: /assets/img/2022Conf/_talks/22181_yihui-xie.png
   bio: |+
     Yihui Xie is a software engineer at RStudio. He earned his PhD from
     the Department of Statistics, Iowa State University. He has authored
@@ -25,13 +33,6 @@ speakers:
     Websites with R Markdown”, “R Markdown: The Definitive Guide”, and “R
     Markdown Cookbook.”
 
-  photo: /assets/img/2022Conf/_talks/22181_yihui-xie.png
-  url:
-    webpage: https://yihui.org
-    twitter: https://twitter.com/xieyihui
-    github: https://github.com/yihui
-    linkedin: ~
-    affiliation: ~
 
 ---
 

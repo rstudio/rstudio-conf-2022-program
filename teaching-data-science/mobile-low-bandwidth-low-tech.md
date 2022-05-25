@@ -3,11 +3,11 @@
 talk_id: 22212
 talk_slug: mobile-low-bandwidth-low-tech
 talk_type: regular
+talk_tags: [data-for-good, interop, story, teaching]
 session_slug: teaching-data-science
-block: 3-5-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Mobile, Low-Bandwidth and Low-Tech. The Story of Chi-Square Mobile.
+talk_title: "Mobile, Low-Bandwidth and Low-Tech. The Story of Chi-Square Mobile."
 # A short version of the title, suitable for small displays
 talk_title_short: Mobile, Low-Bandwidth and Low-Tech. The Story of Chi-Square Mobile.
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Aleksander Dietrichson
   affiliation: Universidad de San Martin & Chi Square Laboratories
+  url:
+    webpage: http://www.chi2labs.com
+    twitter: ~
+    github: https://github.com/dietrichson
+    linkedin: https://www.linkedin.com/in/dietrichson/
+    affiliation: http://www.chi2labs.com
+  slug: aleksander-dietrichson
+  photo: /assets/img/2022Conf/_talks/22212_aleksander-dietrichson.png
   bio: |+
     Aleksander (Sasha) Dietrichson, Phd is a professor of Data Science and
     AI, and the founder of Chi Square Laboratories, a company dedicated
@@ -23,13 +31,6 @@ speakers:
     decade, and is the author of several related R-packages available on
     github and CRAN.
 
-  photo: /assets/img/2022Conf/_talks/22212_aleksander-dietrichson.png
-  url:
-    webpage: http://www.chi2labs.com
-    twitter: ~
-    github: https://github.com/dietrichson
-    linkedin: https://www.linkedin.com/in/dietrichson/
-    affiliation: http://www.chi2labs.com
 
 ---
 

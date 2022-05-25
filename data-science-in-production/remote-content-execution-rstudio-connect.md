@@ -3,11 +3,11 @@
 talk_id: 22010
 talk_slug: remote-content-execution-rstudio-connect
 talk_type: regular
+talk_tags: [interop, pro-products, production]
 session_slug: data-science-in-production
-block: 3-7-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Remote Content Execution with RStudio Connect and Kubernetes
+talk_title: "Remote Content Execution with RStudio Connect and Kubernetes"
 # A short version of the title, suitable for small displays
 talk_title_short: Remote Content Execution with RStudio Connect and Kubernetes
 # A link to your talk's materials, when ready
@@ -15,16 +15,17 @@ talk_materials_url: ~
 speakers:
 - name: Kelly O'Briant
   affiliation: RStudio
-  bio: |+
-    Kelly O'Briant is the Product Manager for RStudio Connect.
-
-  photo: /assets/img/2022Conf/_talks/22010_kelly-obriant.jpg
   url:
     webpage: ~
     twitter: https://twitter.com/kellrstats
     github: https://github.com/kellobri
     linkedin: https://www.linkedin.com/in/kellyobriant/
     affiliation: ~
+  slug: kelly-obriant
+  photo: /assets/img/2022Conf/_talks/22010_kelly-obriant.jpg
+  bio: |+
+    Kelly O'Briant is the Product Manager for RStudio Connect.
+
 
 ---
 

@@ -3,11 +3,11 @@
 talk_id: 22018
 talk_slug: rapidly-building-secure-customer-facing
 talk_type: regular
+talk_tags: [communication, pro-products, process]
 session_slug: data-science-in-production
-block: 3-7-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Rapidly Building and Secure Customer Facing Data Science Products: How to Prototype and Deploy Applications and Portals with Rmarkdown and Rstudio-Connect
+talk_title: "Rapidly Building and Secure Customer Facing Data Science Products: How to Prototype and Deploy Applications and Portals with Rmarkdown and Rstudio-Connect"
 # A short version of the title, suitable for small displays
 talk_title_short: Rapidly Building and Secure Customer Facing Data Science Products
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Benjamin Braun
   affiliation: 202 Group
+  url:
+    webpage: https://www.linkedin.com/in/benjybraun/
+    twitter: ~
+    github: ~
+    linkedin: https://www.linkedin.com/in/benjybraun/
+    affiliation: www.202group.com
+  slug: benjamin-braun
+  photo: /assets/img/2022Conf/_talks/22018_benjamin-braun.jpg
   bio: |+
     I am a mission-driven problem solver with expertise in bringing data
     science applications from inception to profitability and acquisition.
@@ -31,13 +39,6 @@ speakers:
     technology to drive mission outcomes in supply chain risk management
     (SCRM) for our national security clients.
 
-  photo: /assets/img/2022Conf/_talks/22018_benjamin-braun.jpg
-  url:
-    webpage: https://www.linkedin.com/in/benjybraun/
-    twitter: ~
-    github: ~
-    linkedin: https://www.linkedin.com/in/benjybraun/
-    affiliation: www.202group.com
 
 ---
 

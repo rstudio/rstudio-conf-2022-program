@@ -3,11 +3,11 @@
 talk_id: 22164
 talk_slug: saving-1000-hours-rstudio
 talk_type: regular
+talk_tags: [champion, pro-products, production, story]
 session_slug: makeovers
-block: 3-7-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Saving 1,000 hours with RStudio
+talk_title: "Saving 1,000 hours with RStudio"
 # A short version of the title, suitable for small displays
 talk_title_short: Saving 1,000 hours with RStudio
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Tiger Tang
   affiliation: CARFAX, Inc.
+  url:
+    webpage: tigertang.org
+    twitter: https://twitter.com/tigerloveslobs1
+    github: https://github.com/CodingTigerTang
+    linkedin: https://www.linkedin.com/in/chongtaitang/
+    affiliation: ~
+  slug: tiger-tang
+  photo: /assets/img/2022Conf/_talks/22164_tiger-tang.jpg
   bio: |+
     Tiger(Chongtai) Tang is a Data Science Manager at CARFAX, dedicated
     to building the Data Science team specializing in NLP and forecasting.
@@ -26,13 +34,6 @@ speakers:
     handle thousands of daily requests and works on fun Shiny apps in his
     free time.
 
-  photo: /assets/img/2022Conf/_talks/22164_tiger-tang.jpg
-  url:
-    webpage: tigertang.org
-    twitter: https://twitter.com/tigerloveslobs1
-    github: https://github.com/CodingTigerTang
-    linkedin: https://www.linkedin.com/in/chongtaitang/
-    affiliation: ~
 
 ---
 

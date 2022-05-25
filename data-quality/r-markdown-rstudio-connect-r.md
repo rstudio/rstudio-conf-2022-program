@@ -3,11 +3,11 @@
 talk_id: 22221
 talk_slug: r-markdown-rstudio-connect-r
 talk_type: regular
+talk_tags: [communication, pro-products, process]
 session_slug: data-quality
-block: 3-7-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: R Markdown + RStudio Connect + R Shiny: A Recipe for Automated Data Processing, Error Logging, and Process Monitoring
+talk_title: "R Markdown + RStudio Connect + R Shiny: A Recipe for Automated Data Processing, Error Logging, and Process Monitoring"
 # A short version of the title, suitable for small displays
 talk_title_short: R Markdown + RStudio Connect + R Shiny
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Kolbi Parrish
   affiliation: California Dept. Public Health & UCSF
+  url:
+    webpage: ~
+    twitter: ~
+    github: ~
+    linkedin: ~
+    affiliation: ~
+  slug: kolbi-parrish
+  photo: /assets/img/2022Conf/_talks/22221_kolbi-parrish.jpg
   bio: |+
     Kolbi Parrish is an Informatics Specialist working at the California
     Department of Public Health (CDPH) through the University of
@@ -23,15 +31,16 @@ speakers:
     Psychology, and is interested in leveraging data and technology to
     further public health goals.
 
-  photo: /assets/img/2022Conf/_talks/22221_kolbi-parrish.jpg
+- name: Andy Pham
+  affiliation: UCSF & CA Dept. Public Health
   url:
     webpage: ~
     twitter: ~
-    github: ~
-    linkedin: ~
+    github: https://github.com/PoppinHandy
+    linkedin: https://www.linkedin.com/in/handy94/
     affiliation: ~
-- name: Andy Pham
-  affiliation: UCSF & CA Dept. Public Health
+  slug: andy-pham
+  photo: /assets/img/2022Conf/_talks/22221_andy-pham.jpg
   bio: |+
     Andy is a clinical informatics specialist working at the California
     Department of Public Health Data Processing and Informatics section,
@@ -39,13 +48,6 @@ speakers:
     gathering, processing and reporting. Andy has a Master's in Health
     Informatics and has been an avid R user since 2017.
 
-  photo: /assets/img/2022Conf/_talks/22221_andy-pham.jpg
-  url:
-    webpage: ~
-    twitter: ~
-    github: https://github.com/PoppinHandy
-    linkedin: https://www.linkedin.com/in/handy94/
-    affiliation: ~
 
 ---
 

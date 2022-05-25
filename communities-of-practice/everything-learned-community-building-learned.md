@@ -3,11 +3,11 @@
 talk_id: 22123
 talk_slug: everything-learned-community-building-learned
 talk_type: regular
+talk_tags: [career-development, community, story]
 session_slug: communities-of-practice
-block: 4-6-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Everything I learned about community building, I learned from growing up in a restaurant
+talk_title: "Everything I learned about community building, I learned from growing up in a restaurant"
 # A short version of the title, suitable for small displays
 talk_title_short: Everything I learned about community building, I learned from growing up in a restaurant
 # A link to your talk's materials, when ready
@@ -15,19 +15,20 @@ talk_materials_url: ~
 speakers:
 - name: Rachael Dempsey
   affiliation: RStudio
-  bio: |+
-    Rachael is a community leader at RStudio with a passion for customer
-    experience and making people happy. She enjoys connecting people,
-    spending time with family and friends, being outdoors, and any
-    opportunity to find live music.
-
-  photo: /assets/img/2022Conf/_talks/22123_rachael-dempsey.png
   url:
     webpage: rstudio.com/champion
     twitter: https://twitter.com/_RachaelDempsey
     github: ~
     linkedin: linkedin.com/in/rachaeldempsey
     affiliation: rstudio.com/champion
+  slug: rachael-dempsey
+  photo: /assets/img/2022Conf/_talks/22123_rachael-dempsey.png
+  bio: |+
+    Rachael is a community leader at RStudio with a passion for customer
+    experience and making people happy. She enjoys connecting people,
+    spending time with family and friends, being outdoors, and any
+    opportunity to find live music.
+
 
 ---
 

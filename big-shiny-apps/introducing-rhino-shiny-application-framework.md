@@ -3,11 +3,11 @@
 talk_id: 22080
 talk_slug: introducing-rhino-shiny-application-framework
 talk_type: regular
+talk_tags: [production, shiny, tool]
 session_slug: big-shiny-apps
-block: 4-8-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Introducing Rhino: Shiny application framework for enterprise
+talk_title: "Introducing Rhino: Shiny application framework for enterprise"
 # A short version of the title, suitable for small displays
 talk_title_short: Introducing Rhino
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Kamil Zyla
   affiliation: Appsilon
+  url:
+    webpage: ~
+    twitter: ~
+    github: https://github.com/kamilzyla
+    linkedin: https://www.linkedin.com/in/kamil-zyla/
+    affiliation: ~
+  slug: kamil-zyla
+  photo: /assets/img/2022Conf/_talks/22080_kamil-zyla.jpg
   bio: |+
     Kamil is a Full Stack Engineer at Appsilon and a core developer of
     Rhino. He learned to code at the age of 15 and used to participate
@@ -23,13 +31,6 @@ speakers:
     software development processes and working across technologies. He’s
     passionate about jazz, spirituality and psychology.
 
-  photo: /assets/img/2022Conf/_talks/22080_kamil-zyla.jpg
-  url:
-    webpage: ~
-    twitter: ~
-    github: https://github.com/kamilzyla
-    linkedin: https://www.linkedin.com/in/kamil-zyla/
-    affiliation: ~
 
 ---
 

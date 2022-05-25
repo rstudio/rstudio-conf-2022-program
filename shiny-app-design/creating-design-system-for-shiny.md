@@ -3,11 +3,11 @@
 talk_id: 22109
 talk_slug: creating-design-system-for-shiny
 talk_type: regular
+talk_tags: [design, shiny]
 session_slug: shiny-app-design
-block: 4-6-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Creating a Design System for Shiny and RMarkdown
+talk_title: "Creating a Design System for Shiny and RMarkdown"
 # A short version of the title, suitable for small displays
 talk_title_short: Creating a Design System for Shiny and RMarkdown
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Maya Gans
   affiliation: Atorus Research
+  url:
+    webpage: maya.rbind.io
+    twitter: https://twitter.com/Mayacelium
+    github: https://github.com/MayaGans
+    linkedin: https://www.linkedin.com/in/mayagans/
+    affiliation: https://www.atorusresearch.com/
+  slug: maya-gans
+  photo: /assets/img/2022Conf/_talks/22109_maya-gans.png
   bio: |+
     Maya Gans is an experienced R and JavaScript developer, who recently
     started applying those skills to the clinical trial space. After
@@ -27,13 +35,6 @@ speakers:
     passionate about data science education and has given many talks and
     workshops about using and creating tools in R.
 
-  photo: /assets/img/2022Conf/_talks/22109_maya-gans.png
-  url:
-    webpage: maya.rbind.io
-    twitter: https://twitter.com/Mayacelium
-    github: https://github.com/MayaGans
-    linkedin: https://www.linkedin.com/in/mayagans/
-    affiliation: https://www.atorusresearch.com/
 
 ---
 

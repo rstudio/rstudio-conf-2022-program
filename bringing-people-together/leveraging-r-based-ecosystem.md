@@ -3,11 +3,11 @@
 talk_id: 22102
 talk_slug: leveraging-r-based-ecosystem
 talk_type: regular
+talk_tags: [process, story, tidyverse, tool]
 session_slug: bringing-people-together
-block: 4-6-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Leveraging a R-based ecosystem in the US federal government
+talk_title: "Leveraging a R-based ecosystem in the US federal government"
 # A short version of the title, suitable for small displays
 talk_title_short: Leveraging a R-based ecosystem in the US federal government
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Aaron Chafetz
   affiliation: US Agency for International Development
+  url:
+    webpage: ~
+    twitter: https://twitter.com/achafetz
+    github: https://github.com/achafetz
+    linkedin: www.linkedin.com/in/aaron-chafetz
+    affiliation: https://www.usaid.gov/
+  slug: aaron-chafetz
+  photo: /assets/img/2022Conf/_talks/22102_aaron-chafetz.jpg
   bio: |+
     Aaron Chafetz is a Senior Economist at the U.S. Agency for
     International Development (USAID) in the Office of HIV/AIDS, where he
@@ -31,13 +39,6 @@ speakers:
     University of Virginia after studying economics and foreign affairs
     there as well for his undergraduate degree.
 
-  photo: /assets/img/2022Conf/_talks/22102_aaron-chafetz.jpg
-  url:
-    webpage: ~
-    twitter: https://twitter.com/achafetz
-    github: https://github.com/achafetz
-    linkedin: www.linkedin.com/in/aaron-chafetz
-    affiliation: https://www.usaid.gov/
 
 ---
 

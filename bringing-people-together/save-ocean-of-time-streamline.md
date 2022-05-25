@@ -3,11 +3,11 @@
 talk_id: 22146
 talk_slug: save-ocean-of-time-streamline
 talk_type: regular
+talk_tags: [champion, process, story]
 session_slug: bringing-people-together
-block: 4-6-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Save an ocean of time: streamline data wrangling with R
+talk_title: "Save an ocean of time: streamline data wrangling with R"
 # A short version of the title, suitable for small displays
 talk_title_short: Save an ocean of time
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Danielle Dempsey
   affiliation: Centre for Marine Applied Research
+  url:
+    webpage: ~
+    twitter: ~
+    github: https://github.com/dempsey-CMAR
+    linkedin: https://www.linkedin.com/in/danielledempsey/
+    affiliation: https://cmar.ca/
+  slug: danielle-dempsey
+  photo: /assets/img/2022Conf/_talks/22146_danielle-dempsey.jpg
   bio: |+
     Danielle Dempsey is a Research Scientist and resident “R nerd” at the
     Centre for Marine Applied Research in Nova Scotia, Canada. Danielle
@@ -23,13 +31,6 @@ speakers:
     wrangling and analysis, and designed Shiny dashboards for interactive
     data visualization.
 
-  photo: /assets/img/2022Conf/_talks/22146_danielle-dempsey.jpg
-  url:
-    webpage: ~
-    twitter: ~
-    github: https://github.com/dempsey-CMAR
-    linkedin: https://www.linkedin.com/in/danielledempsey/
-    affiliation: https://cmar.ca/
 
 ---
 

@@ -3,11 +3,11 @@
 talk_id: 22042
 talk_slug: r-python-tableau-love-triangle
 talk_type: regular
+talk_tags: [interop, pro-products]
 session_slug: business-intelligence
-block: 3-5-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: R, Python, and Tableau: A Love Triangle
+talk_title: "R, Python, and Tableau: A Love Triangle"
 # A short version of the title, suitable for small displays
 talk_title_short: R, Python, and Tableau
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: James Blair
   affiliation: RStudio
+  url:
+    webpage: ~
+    twitter: https://twitter.com/Blair09M
+    github: https://github.com/blairj09
+    linkedin: https://www.linkedin.com/in/blairjm/
+    affiliation: https://www.rstudio.com/
+  slug: james-blair
+  photo: /assets/img/2022Conf/_talks/22042_james-blair.jpg
   bio: |+
     James is a Product Manager for Cloud Integrations at RStudio, where
     he focuses on helping RStudio commercial products seemlessly integrate
@@ -22,13 +30,6 @@ speakers:
     science and finds any excuse he can to write R code and ride his bike,
     although usually not at the same time.
 
-  photo: /assets/img/2022Conf/_talks/22042_james-blair.jpg
-  url:
-    webpage: ~
-    twitter: https://twitter.com/Blair09M
-    github: https://github.com/blairj09
-    linkedin: https://www.linkedin.com/in/blairjm/
-    affiliation: https://www.rstudio.com/
 
 ---
 

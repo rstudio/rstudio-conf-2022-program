@@ -3,11 +3,11 @@
 talk_id: 22100
 talk_slug: cracking-open-ggplot-internals-ggtrace
 talk_type: regular
+talk_tags: [programming, tool, visualisation]
 session_slug: advanced-r
-block: 4-8-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: Cracking open ggplot internals with {ggtrace}
+talk_title: "Cracking open ggplot internals with {ggtrace}"
 # A short version of the title, suitable for small displays
 talk_title_short: Cracking open ggplot internals with {ggtrace}
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: June Choe
   affiliation: University of Pennsylvania
+  url:
+    webpage: https://yjunechoe.github.io
+    twitter: https://twitter.com/yjunechoe
+    github: https://github.com/yjunechoe/ggtrace
+    linkedin: ~
+    affiliation: ~
+  slug: june-choe
+  photo: /assets/img/2022Conf/_talks/22100_june-choe.jpg
   bio: |+
     June is a second year Ph.D. student in linguistics at the University
     of Pennsylvania, studying various topics in language acquisition and
@@ -28,13 +36,6 @@ speakers:
     breaks from his computer by cooking, ice skating, and hanging out with
     friends.
 
-  photo: /assets/img/2022Conf/_talks/22100_june-choe.jpg
-  url:
-    webpage: https://yjunechoe.github.io
-    twitter: https://twitter.com/yjunechoe
-    github: https://github.com/yjunechoe/ggtrace
-    linkedin: ~
-    affiliation: ~
 
 ---
 

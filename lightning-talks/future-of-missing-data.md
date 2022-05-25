@@ -3,11 +3,11 @@
 talk_id: 22233
 talk_slug: future-of-missing-data
 talk_type: lightning
+talk_tags: [tool]
 session_slug: lightning-talks
-block: 4-4-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: The Future of missing data
+talk_title: "The Future of missing data"
 # A short version of the title, suitable for small displays
 talk_title_short: The Future of missing data
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Nicholas Tierney
   affiliation: Telethon Kids Institute, Perth, Australia
+  url:
+    webpage: https://njtierney.com/
+    twitter: https://twitter.com/nj_tierney
+    github: https://github.com/njtierney
+    linkedin: https://www.linkedin.com/in/nj-tierney/
+    affiliation: https://www.telethonkids.org.au/our-research/brain-and-behaviour/population-health-program/geospatial-health-and-development/
+  slug: nicholas-tierney
+  photo: /assets/img/2022Conf/_talks/22233_nicholas-tierney.jpeg
   bio: |+
     Nick Tierney has an honours degree in Psychology, and a PhD in
     Statistics and now work as a research software engineer with
@@ -33,13 +41,6 @@ speakers:
     really far, run ultra marathons, brew coffee, take photographs, and
     have long meandering conversations.
 
-  photo: /assets/img/2022Conf/_talks/22233_nicholas-tierney.jpeg
-  url:
-    webpage: https://njtierney.com/
-    twitter: https://twitter.com/nj_tierney
-    github: https://github.com/njtierney
-    linkedin: https://www.linkedin.com/in/nj-tierney/
-    affiliation: https://www.telethonkids.org.au/our-research/brain-and-behaviour/population-health-program/geospatial-health-and-development/
 
 ---
 

@@ -3,11 +3,11 @@
 talk_id: 22135
 talk_slug: polygons-of-another-world-realtime
 talk_type: regular
+talk_tags: [recreational, tool, visualisation]
 session_slug: delightful-uses
-block: 4-8-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: The Polygons of Another World - realtime interactive rendering in R
+talk_title: "The Polygons of Another World - realtime interactive rendering in R"
 # A short version of the title, suitable for small displays
 talk_title_short: The Polygons of Another World - realtime interactive rendering in R
 # A link to your talk's materials, when ready
@@ -15,16 +15,17 @@ talk_materials_url: ~
 speakers:
 - name: Mike Cheng
   affiliation: ~
-  bio: |+
-    TBD. Will write this when I get the chance
-
-  photo: /assets/img/2022Conf/_talks/22135_mike-cheng.png
   url:
     webpage: www.coolbutuseless.com
     twitter: https://twitter.com/coolbutuseless
     github: https://github.com/coolbutuseless
     linkedin: https://www.linkedin.com/in/michael-cheng-8782632b
     affiliation: ~
+  slug: mike-cheng
+  photo: /assets/img/2022Conf/_talks/22135_mike-cheng.png
+  bio: |+
+    TBD. Will write this when I get the chance
+
 
 ---
 

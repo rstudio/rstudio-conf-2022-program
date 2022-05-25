@@ -3,11 +3,11 @@
 talk_id: 22044
 talk_slug: my-favorite-things-quarto-presentations
 talk_type: regular
+talk_tags: [communication]
 session_slug: quarto-deep-dive
-block: 4-8-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: These are a few of my favorite things (about Quarto presentations)
+talk_title: "These are a few of my favorite things (about Quarto presentations)"
 # A short version of the title, suitable for small displays
 talk_title_short: These are a few of my favorite things (about Quarto presentations)
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: Tracy Teal
   affiliation: RStudio
+  url:
+    webpage: https://tracykteal.net/
+    twitter: https://twitter.com/tracykteal
+    github: https://github.com/tracykteal
+    linkedin: https://www.linkedin.com/in/tracy-teal-059136b/
+    affiliation: https://www.rstudio.com/
+  slug: tracy-teal
+  photo: /assets/img/2022Conf/_talks/22044_tracy-teal.jpg
   bio: |+
     Tracy Teal has been working with open source communities as a
     developer, instructor and project leader throughout her career.
@@ -30,13 +38,6 @@ speakers:
     access to tools that help people use data to answer the questions that
     are important to them.
 
-  photo: /assets/img/2022Conf/_talks/22044_tracy-teal.jpg
-  url:
-    webpage: https://tracykteal.net/
-    twitter: https://twitter.com/tracykteal
-    github: https://github.com/tracykteal
-    linkedin: https://www.linkedin.com/in/tracy-teal-059136b/
-    affiliation: https://www.rstudio.com/
 
 ---
 

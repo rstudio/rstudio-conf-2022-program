@@ -3,11 +3,11 @@
 talk_id: 22214
 talk_slug: dbcooper-turn-database-r-python
 talk_type: regular
+talk_tags: [databases, interop, process, tool]
 session_slug: databases
-block: 3-9-session
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: dbcooper: Turn any database into an R or Python package
+talk_title: "dbcooper: Turn any database into an R or Python package"
 # A short version of the title, suitable for small displays
 talk_title_short: dbcooper
 # A link to your talk's materials, when ready
@@ -15,6 +15,14 @@ talk_materials_url: ~
 speakers:
 - name: David Robinson
   affiliation: Heap Analytics
+  url:
+    webpage: http://varianceexplained.org/
+    twitter: https://twitter.com/drob
+    github: https://github.com/dgrtwo
+    linkedin: https://www.linkedin.com/in/david-robinson-3584642a
+    affiliation: https://heap.io/
+  slug: david-robinson
+  photo: /assets/img/2022Conf/_talks/22214_david-robinson.jpg
   bio: |+
     David Robinson is Director of Data Science at Heap Analytics, where
     he's helping to build the next generation of product analytics
@@ -24,13 +32,6 @@ speakers:
     book Introduction to Empirical Bayes. David is passionate about R,
     statistics, education, live-coding, probability, and his two children.
 
-  photo: /assets/img/2022Conf/_talks/22214_david-robinson.jpg
-  url:
-    webpage: http://varianceexplained.org/
-    twitter: https://twitter.com/drob
-    github: https://github.com/dgrtwo
-    linkedin: https://www.linkedin.com/in/david-robinson-3584642a
-    affiliation: https://heap.io/
 
 ---
 
