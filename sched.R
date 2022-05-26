@@ -11,7 +11,7 @@ library(purrr)
 
 # Gather talk data from .Rmds --------------------------------------------------
 
-paths <- setdiff(fs::dir_ls(recurse = TRUE, glob = "*.md"), "README.md")
+paths <- fs::dir_ls("sessions", recurse = TRUE, glob = "*.md")
 
 files <- paths |> map(readLines)
 data <- files |> map(rmarkdown:::partition_yaml_front_matter)
