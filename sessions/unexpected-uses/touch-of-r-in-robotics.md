@@ -1,0 +1,70 @@
+---
+# Do not edit
+talk_id: 22132
+talk_slug: touch-of-r-in-robotics
+talk_type: regular
+talk_tags: [champion, interop, recreational]
+session_slug: unexpected-uses
+# ---- Edit information below this line ----
+# The title of your talk
+talk_title: "A touch of R in Robotics"
+# A short version of the title, suitable for small displays
+talk_title_short: A touch of R in Robotics
+# A link to your talk's materials, when ready
+talk_materials_url: ~
+speakers:
+- name: Eric Wanjau
+  affiliation: Leeds Institute for Data Analytics
+  url:
+    webpage: ~
+    twitter: https://twitter.com/ericntay
+    github: https://github.com/R-icntay
+    linkedin: ~
+    affiliation: https://lida.leeds.ac.uk/
+  slug: eric-wanjau
+  photo: /assets/img/2022Conf/_talks/22132_eric-wanjau.png
+  bio: |+
+    Eric is an Early Career Researcher who continually seeks to tackle
+    real-world challenges using applied research, data analytics and
+    machine learning; all wrapped in unbridled empathy and enthusiasm. He
+    is currently a Researcher/Data Scientist at the Leeds Institute for
+    Data Analytics (LIDA) in the University of Leeds. He has also done
+    research in robotics, computer vision and speech processing in Japan
+    and Kenya, aimed at creating safe working environments and exploring
+    human-robot interaction in board games. Eric is a co-founder and co-
+    organizer of DekutR data science club at Dedan Kimathi University of
+    Technology, Kenya. He plays the guitar (terribly but passionately).
+
+- name: Ian Muchiri
+  affiliation: Dedan Kimathi University of Technology
+  url:
+    webpage: ~
+    twitter: https://twitter.com/Entity_4004
+    github: https://github.com/ian011
+    linkedin: ~
+    affiliation: https://www.dkut.ac.ke/ and https://sunculture.com/
+  slug: ian-muchiri
+  photo: /assets/img/2022Conf/_talks/22132_ian-muchiri.png
+  bio: |+
+    I am a co-founder and co-organizer of DekutR data science club at
+    Dedan Kimathi University of Technology. Also, I am an early career
+    researcher in the field of Internet of Things, Data Science and
+    Electronics (Embedded System Design).
+
+
+---
+
+<!-- ABSTRACT ----
+Please write abstract below. You may use simple markdown (links, code style, bold, italics)
+-->
+
+Over the years, the R community has experienced an increase in the number,
+diversity and domain background of users. However, incorporation of R in the
+field of Robotics is still not fully exploited even though the actuation of
+manipulators such as robotic arms is based on streams of input data gathered
+from sensors. With R constantly evolving and redefining how to turn data into
+actionable insights, any domain that produces data now has the potential to use
+R. What if this actionable insight means actuating a robotic arm? The aim of
+this talk is to connect two previously separated worlds: robotic application
+development and the data manipulation capabilities of R by demonstrating how to
+actuate a Robotic arm using R and Arduino.
