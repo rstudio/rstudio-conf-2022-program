@@ -2,7 +2,6 @@
 # https://sched.com/api
 
 # TODO: replace generic track names with made up room names
-# TODO: markdownify abstract + bio
 # TODO: add speaker info
 
 # TODO: add workshops (https://docs.google.com/spreadsheets/d/1wW2vkBxbV-AYUOA4wRrFPNSodIABWUiHSEL3LDPCgNs/edit#gid=0)
@@ -19,26 +18,32 @@ paths <- fs::dir_ls("sessions", recurse = TRUE, glob = "*.md")
 files <- paths |> map(readLines)
 data <- files |> map(rmarkdown:::partition_yaml_front_matter)
 
-yaml <- data |> map("front_matter") |> map(possibly(yaml::yaml.load, NULL))
+yaml <- data |> map("front_matter") |> map(yaml::yaml.load)
+
 abstracts <- data |>
   map("body") |>
-  map_chr(~ paste(.x[-(1:5)], collapse = "\n"))
+  map_chr(~ paste(.x[-(1:5)], collapse = "\n")) |>
+  map_chr(commonmark::markdown_html)
 
-talks <- tibble(
-  talk_id = map_int(yaml, "talk_id", .default = NA),
-  talk_title = map_chr(yaml, "talk_title", .default = NA),
-  abstract = map_chr(abstracts, commonmark::markdown_html),
-  tags = map(yaml, "talk_tags", .default = NULL) |> map_chr(paste, collapse = ", ")
-)
-talks
-
-speakers <- yaml |>
-  keep(~ !is.null(.$speakers)) |>
-  map(~ map(.$speakers, modifyList, list(talk_id = .$talk_id))) |>
-  flatten() |>
-  tibble() |>
-  tidyr::unnest_wider(1) |>
-  tidyr::unnest_wider(url, names_sep = "_")
+talks <- tibble(yaml = yaml) |>
+  unnest_wider(yaml) |>
+  select(talk_id, talk_title, speakers) |>
+  mutate(
+    abstract = abstracts,
+    talk_tags = map(yaml, "talk_tags") |> map_chr(paste, collapse = ", ")
+  )
+speakers <- talks |>
+  select(talk_id, speakers) |>
+  unnest_longer(speakers) |>
+  unnest_wider(speakers) |>
+  unnest_wider(url, names_sep = "_") |>
+  mutate(
+    photo = paste0(
+      "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main",
+      photo
+    ),
+    bio = bio |> map(commonmark::markdown_html),
+  )
 
 # Combine with talk times to generate program -----------------------------
 
