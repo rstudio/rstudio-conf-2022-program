@@ -1,10 +1,12 @@
 # https://rstudioglobal2021.sched.com/editor/
 # https://sched.com/api
 
-# TODO: replace generic track names with room names
-# TODO: add workshops (https://docs.google.com/spreadsheets/d/1wW2vkBxbV-AYUOA4wRrFPNSodIABWUiHSEL3LDPCgNs/edit#gid=0)
-# TODO: add speaker info
+# TODO: replace generic track names with made up room names
 # TODO: markdownify abstract + bio
+# TODO: add speaker info
+
+# TODO: add workshops (https://docs.google.com/spreadsheets/d/1wW2vkBxbV-AYUOA4wRrFPNSodIABWUiHSEL3LDPCgNs/edit#gid=0)
+# TODO: replace generic track names with real room names
 
 library(lubridate)
 library(tidyverse)
