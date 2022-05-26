@@ -7,7 +7,7 @@ talk_tags: [access, career-development, communication, community]
 session_slug: working-with-people
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "The Benefit of Talking to the "Non-Datas""
+talk_title: "The Benefit of Talking to the \"Non-Datas\""
 # A short version of the title, suitable for small displays
 talk_title_short: The Benefit of Talking to the "Non-Datas"
 # A link to your talk's materials, when ready
