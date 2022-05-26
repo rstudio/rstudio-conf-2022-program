@@ -4,6 +4,7 @@
 
 # TODO: figure out what's wrong with david_smith, colin_gillespie,
 #   david_robinson, and nick_strayer - need unique prefix?
+# TODO: figure out why Mine's info is missing
 # TODO: extract out repeated progress code
 # TODO: replace generic track names with real room names
 
