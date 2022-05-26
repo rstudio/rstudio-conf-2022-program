@@ -16,7 +16,7 @@ speakers:
 - name: Rebecca Hadi
   affiliation: Lyn Health
   url:
-    webpage: www.rebeccahadi.dev
+    webpage: https://www.rebeccahadi.dev
     twitter: https://twitter.com/beehadi26
     github: https://github.com/bhadi26
     linkedin: https://www.linkedin.com/in/rebeccahadi/

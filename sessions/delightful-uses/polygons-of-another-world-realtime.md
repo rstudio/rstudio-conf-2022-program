@@ -16,7 +16,7 @@ speakers:
 - name: Mike Cheng
   affiliation: ~
   url:
-    webpage: www.coolbutuseless.com
+    webpage: https://www.coolbutuseless.com
     twitter: https://twitter.com/coolbutuseless
     github: https://github.com/coolbutuseless
     linkedin: https://www.linkedin.com/in/michael-cheng-8782632b

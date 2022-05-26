@@ -16,7 +16,7 @@ speakers:
 - name: Maya Gans
   affiliation: Atorus Research
   url:
-    webpage: maya.rbind.io
+    webpage: https://maya.rbind.io
     twitter: https://twitter.com/Mayacelium
     github: https://github.com/MayaGans
     linkedin: https://www.linkedin.com/in/mayagans/

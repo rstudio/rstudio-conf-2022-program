@@ -16,9 +16,9 @@ speakers:
 - name: Kelly Bodwin
   affiliation: California Polytechnic State University
   url:
-    webpage: www.kelly-bodwin.com
-    twitter: twitter.com/kellybodwin
-    github: github.com/kbodwin
+    webpage: https://www.kelly-bodwin.com
+    twitter: https://twitter.com/kellybodwin
+    github: https://github.com/kbodwin
     linkedin: ~
     affiliation: statistics.calpoly.edu
   slug: kelly-bodwin

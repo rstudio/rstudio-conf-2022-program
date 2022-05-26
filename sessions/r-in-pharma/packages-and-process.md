@@ -17,10 +17,10 @@ speakers:
   affiliation: GSK
   url:
     webpage: ~
-    twitter: twitter.com/ellis_hughes
-    github: github.com/thebioengineer
-    linkedin: linkedin.com/in/ellishughes
-    affiliation: gsk.com
+    twitter: https://twitter.com/ellis_hughes
+    github: https://github.com/thebioengineer
+    linkedin: https://linkedin.com/in/ellishughes
+    affiliation: https://gsk.com
   slug: ellis-hughes
   photo: /assets/img/2022Conf/_talks/22209_ellis-hughes.jpg
   bio: |+

@@ -16,11 +16,11 @@ speakers:
 - name: Rachael Dempsey
   affiliation: RStudio
   url:
-    webpage: rstudio.com/champion
+    webpage: https://rstudio.com/champion
     twitter: https://twitter.com/_RachaelDempsey
     github: ~
-    linkedin: linkedin.com/in/rachaeldempsey
-    affiliation: rstudio.com/champion
+    linkedin: https://linkedin.com/in/rachaeldempsey
+    affiliation: https://rstudio.com/champion
   slug: rachael-dempsey
   photo: /assets/img/2022Conf/_talks/22123_rachael-dempsey.png
   bio: |+

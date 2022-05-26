@@ -25,7 +25,7 @@ speakers:
   photo: /assets/img/2022Conf/_talks/22168_tan-ho.jpg
   bio: |-
     I'm a data enthusiast who loves R 🚀, Shiny ✨, fantasy football 🏈
-    and carving pumpkins 🎃 By day, I'm a data developer for 
+    and carving pumpkins 🎃 By day, I'm a data developer for
     [ABIC Builds 🔨](https://abicbuilds.com) in Ottawa, Canada. I started
     [DynastyProcess.com](https://dynastyprocess.com)
     and [ffverse](https://ffverse.com), maintain

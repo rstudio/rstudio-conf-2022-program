@@ -18,9 +18,9 @@ speakers:
   url:
     webpage: ~
     twitter: https://twitter.com/winston_chang
-    github: github.com/wch
+    github: https://github.com/wch
     linkedin: ~
-    affiliation: rstudio.com
+    affiliation: https://rstudio.com
   slug: winston-chang
   photo: /assets/img/2022Conf/_talks/22232_winston-chang.jpeg
   bio: |+

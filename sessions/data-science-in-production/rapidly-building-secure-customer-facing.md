@@ -20,7 +20,7 @@ speakers:
     twitter: ~
     github: ~
     linkedin: https://www.linkedin.com/in/benjybraun/
-    affiliation: www.202group.com
+    affiliation: https://www.202group.com
   slug: benjamin-braun
   photo: /assets/img/2022Conf/_talks/22018_benjamin-braun.jpg
   bio: |+

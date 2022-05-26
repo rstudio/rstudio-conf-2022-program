@@ -16,11 +16,11 @@ speakers:
 - name: Tyler Morgan-Wall
   affiliation: Institute for Defense Analyses
   url:
-    webpage: www.tylermw.com
-    twitter: www.twitter.com/tylermorganwall
-    github: www.github.com/tylermorganwall
+    webpage: https://www.tylermw.com
+    twitter: https://twitter.com/tylermorganwall
+    github: https://github.com/tylermorganwall
     linkedin: https://www.linkedin.com/in/tyler-morgan-wall-88227015/
-    affiliation: www.ida.org
+    affiliation: https://www.ida.org
   slug: tyler-morgan-wall
   photo: /assets/img/2022Conf/_talks/22131_tyler-morgan-wall.jpg
   bio: |+
