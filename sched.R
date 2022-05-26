@@ -4,8 +4,7 @@
 
 # TODO: figure out what's wrong with david_smith, colin_gillespie,
 #   david_robinson, and nick_strayer - need unique prefix?
-
-# TODO: add workshops (https://docs.google.com/spreadsheets/d/1wW2vkBxbV-AYUOA4wRrFPNSodIABWUiHSEL3LDPCgNs/edit#gid=0)
+# TODO: extract out repeated progress code
 # TODO: replace generic track names with real room names
 
 library(lubridate)
