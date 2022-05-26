@@ -1,7 +1,7 @@
-# https://rstudioglobal2021.sched.com/editor/
+# https://rstudioconf2022.sched.com/
+# https://rstudioconf2022.sched.com/editor
 # https://sched.com/api
 
-# TODO: replace generic track names with made up room names
 # TODO: add speaker info
 
 # TODO: add workshops (https://docs.google.com/spreadsheets/d/1wW2vkBxbV-AYUOA4wRrFPNSodIABWUiHSEL3LDPCgNs/edit#gid=0)
@@ -47,6 +47,16 @@ speakers <- talks |>
 
 # Combine with talk times to generate program -----------------------------
 
+# Made up room names for now
+rooms <- tribble(
+  ~ track, ~ room,
+  "plenary", "Nile",
+  "A", "Amazon",
+  "B", "Yangtze",
+  "C", "Mississippi",
+  "D", "Yenisey"
+)
+
 sessions <- read_csv("_data/28-session-slug-titles_synched.csv", col_types = list()) |>
   select(session_slug = slug, session_title = title)
 
@@ -57,24 +67,14 @@ talk_times <- read_csv("_data/34-talk-times.csv", col_types = list()) |>
     end = date + end,
   ) |>
   left_join(sessions, by = "session_slug") |>
-  select(-session_slug, -date)
+  select(-session_slug, -date) |>
+  left_join(rooms, by = "track") |>
+  select(-track)
 
 program <- talks |> left_join(talk_times, by = "talk_id")
 program |> count(day)
 
-program_sched <- program %>%
-  transmute(
-    session_key = talk_id,
-    name = talk_title,
-    description = abstract,
-    session_type = talk_type,
-    session_subtype = ifelse(talk_type == "regular", session_title, NA),
-    tags = tags,
-    venue = track
-  )
-program_sched
-
-# Update sched ------------------------------------------------------------
+# sched API ------------------------------------------------------------
 
 sched <- function(method, endpoint, params = list(), ...) {
   params$api_key <- Sys.getenv("SCHED_CONF_2022")
@@ -103,22 +103,30 @@ sched_POST <- function(endpoint, params = list(), ...) {
   sched("POST", endpoint, params = params, ...)
 }
 
+# Update program ----------------------------------------------------------
+
 all <- sched_GET("session/list")
 keys <- as.integer(map_chr(all, "event_key"))
+
+program_sched <- program %>%
+  transmute(
+    session_key = talk_id,
+    name = talk_title,
+    description = abstract,
+    session_type = talk_type,
+    session_subtype = ifelse(talk_type == "regular", session_title, NA),
+    tags = talk_tags,
+    venue = room,
+    path = ifelse(talk_id %in% keys, "session/mod", "session/add"),
+  ) |>
+  # Convert NA to empty strings to reset API values
+  mutate(across(where(is.character), ~ coalesce(.x, "")))
+program_sched
 
 cli::cli_progress_bar("Updating schedule", total = nrow(program_sched))
 for (i in 1:nrow(program_sched)) {
   row <- as.list(program_sched[i, ])
-
-  # Replace NA with ""
-  is_na <- unname(map_lgl(row, ~ length(.x) == 1 && is.na(.x)))
-  row[is_na] <- ""
-
-  if (row$session_key %in% keys) {
-    sched_POST("session/mod", row)
-  } else {
-    sched_POST("session/add", row)
-  }
+  sched_POST(row$path, row)
   cli::cli_progress_update()
 }
 
