@@ -26,6 +26,7 @@ talks <- tibble(
   talk_title = map_chr(yaml, "talk_title", .default = NA),
   abstract = abstracts,
   tags = map(yaml, "talk_tags", .default = NULL)
+  tags = map(yaml, "talk_tags", .default = NULL) |> map_chr(paste, collapse = ", ")
 )
 talks
 
