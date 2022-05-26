@@ -18,7 +18,7 @@ speakers:
   url:
     webpage: ~
     twitter: ~
-    github: github.com/davemaguire
+    github: https://github.com/davemaguire
     linkedin: https://www.linkedin.com/in/david-maguire-30636956/
     affiliation: https://www.dv01.co/offerings/tape-cracker/
   slug: david-maguire

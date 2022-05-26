@@ -16,7 +16,7 @@ speakers:
 - name: Nick Strayer
   affiliation: RStudio
   url:
-    webpage: nickstrayer.me
+    webpage: https://nickstrayer.me
     twitter: https://twitter.com/NicholasStrayer
     github: https://github.com/nstrayer
     linkedin: https://www.linkedin.com/in/nickstrayer/

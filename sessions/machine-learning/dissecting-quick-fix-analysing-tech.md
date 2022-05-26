@@ -17,8 +17,8 @@ speakers:
   affiliation: RStudio
   url:
     webpage: https://divergences.xyz
-    twitter: twitter.com/zkajdan
-    github: github.com/skeydan
+    twitter: https://twitter.com/zkajdan
+    github: https://github.com/skeydan
     linkedin: https://de.linkedin.com/in/sigrid-keydana-9a16b410
     affiliation: https://blogs.rstudio.com/ai/
   slug: sigrid-keydana

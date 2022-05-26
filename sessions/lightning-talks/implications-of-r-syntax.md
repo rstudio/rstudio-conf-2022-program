@@ -16,9 +16,9 @@ speakers:
 - name: Amelia McNamara
   affiliation: University of St Thomas
   url:
-    webpage: www.amelia.mn
-    twitter: www.twitter.com/AmeliaMN
-    github: www.github.com/AmeliaMN
+    webpage: https://www.amelia.mn
+    twitter: https://twitter.com/AmeliaMN
+    github: https://github.com/AmeliaMN
     linkedin: ~
     affiliation: ~
   slug: amelia-mcnamara

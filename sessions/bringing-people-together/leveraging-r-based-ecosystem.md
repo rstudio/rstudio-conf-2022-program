@@ -19,7 +19,7 @@ speakers:
     webpage: ~
     twitter: https://twitter.com/achafetz
     github: https://github.com/achafetz
-    linkedin: www.linkedin.com/in/aaron-chafetz
+    linkedin: https://www.linkedin.com/in/aaron-chafetz
     affiliation: https://www.usaid.gov/
   slug: aaron-chafetz
   photo: /assets/img/2022Conf/_talks/22102_aaron-chafetz.jpg

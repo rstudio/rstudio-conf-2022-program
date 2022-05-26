@@ -46,9 +46,10 @@ spoken languages.
 Using a bilingual English-Welsh shiny app we developed to present public health
 data as a case study, this talk will discuss:
 
-- how we built a multilingual shiny app; - how translation affected design
-decisions; - how we overcame the main issues faced; - and most importantly, what
-we'd do differently next time.
+- how we built a multilingual shiny app; 
+- how translation affected design decisions;
+- how we overcame the main issues faced; 
+- and most importantly, what we'd do differently next time.
 
 By the end of this talk, you will have a better understanding of how to
 translate your Shiny app to help you to share your app with a much wider

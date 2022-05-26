@@ -20,7 +20,7 @@ speakers:
     twitter: https://twitter.com/peeltothepity
     github: https://github.com/edavidaja
     linkedin: https://linkedin.com/in/edavidaja
-    affiliation: RStudio.com
+    affiliation: https://RStudio.com
   slug: e-david-aja
   photo: /assets/img/2022Conf/_talks/22067_e-david-aja.jpg
   bio: |+

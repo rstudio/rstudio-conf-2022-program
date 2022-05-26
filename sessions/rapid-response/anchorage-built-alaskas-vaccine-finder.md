@@ -20,7 +20,7 @@ speakers:
     twitter: https://twitter.com/benmatheson
     github: https://github.com/benmatheson
     linkedin: https://www.linkedin.com/in/benmatheson
-    affiliation: muni.org
+    affiliation: https://muni.org
   slug: ben-matheson
   photo: /assets/img/2022Conf/_talks/22139_ben-matheson.jpg
   bio: |+

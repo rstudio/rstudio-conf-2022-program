@@ -19,7 +19,7 @@ speakers:
     webpage: ~
     twitter: ~
     github: ~
-    linkedin: www.linkedin.com/in/lytello
+    linkedin: https://www.linkedin.com/in/lytello
     affiliation: https://www.cdph.ca.gov/
   slug: lawrence-y-tello
   photo: /assets/img/2022Conf/_talks/22227_lawrence-y-tello.jpg

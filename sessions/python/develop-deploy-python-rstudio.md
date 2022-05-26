@@ -20,7 +20,7 @@ speakers:
     twitter: ~
     github: https://github.com/gsingh91
     linkedin: https://www.linkedin.com/in/gagandeeepuw/
-    affiliation: www.rstudio.com/about
+    affiliation: https://www.rstudio.com/about
   slug: gagandeep-singh
   photo: /assets/img/2022Conf/_talks/22126_gagandeep-singh.jpg
   bio: |+
@@ -38,7 +38,7 @@ speakers:
     twitter: ~
     github: https://github.com/xuf12
     linkedin: https://www.linkedin.com/in/xufei1/
-    affiliation: www.rstudio.com
+    affiliation: https://www.rstudio.com
   slug: xu-fei
   photo: /assets/img/2022Conf/_talks/22126_xu-fei.png
   bio: |+
