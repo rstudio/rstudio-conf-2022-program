@@ -62,11 +62,17 @@ rooms <- tribble(
 sessions <- read_csv("_data/28-session-slug-titles_synched.csv", col_types = list()) |>
   select(session_slug = slug, session_title = title)
 
+first_upper <- function(x) {
+  str_sub(x, 1, 1) <- str_to_upper(str_sub(x, 1, 1))
+  x
+}
+
 talk_times <- read_csv("_data/34-talk-times.csv", col_types = list()) |>
   mutate(
     date = ymd("2022-07-25", tz = "America/Detroit") + days(day - 1),
     start = date + start,
     end = date + end,
+    talk_type = first_upper(talk_type)
   ) |>
   left_join(sessions, by = "session_slug") |>
   select(-session_slug, -date) |>
@@ -87,7 +93,7 @@ program_sched <- program %>%
     name = talk_title,
     description = abstract,
     session_type = talk_type,
-    session_subtype = ifelse(talk_type == "regular", session_title, NA),
+    session_subtype = ifelse(talk_type == "Regular", session_title, NA),
     session_start = start,
     session_end = end,
     tags = talk_tags,
