@@ -11,6 +11,7 @@
 library(lubridate)
 library(tidyverse)
 library(purrr)
+source("sched-api.R")
 
 # Gather talk data from .Rmds --------------------------------------------------
 
@@ -75,39 +76,10 @@ talk_times <- read_csv("_data/34-talk-times.csv", col_types = list()) |>
 program <- talks |> left_join(talk_times, by = "talk_id")
 program |> count(day)
 
-# sched API ------------------------------------------------------------
-
-sched <- function(method, endpoint, params = list(), ...) {
-  params$api_key <- Sys.getenv("SCHED_CONF_2022")
-  if (method == "GET") {
-    params$format <- "json"
-  }
-  url <- paste0("https://rstudioconf2022.sched.com/api/", endpoint)
-  r <- httr::VERB(method, url, query = params, ...)
-
-  if (grepl("text/html", httr::headers(r)$`Content-Type`)) {
-    html <- httr::content(r, "parsed")
-    p <- xml2::xml_text(xml2::xml_find_first(html, ".//p"))
-    if (grepl("ERR", p)) {
-      stop(p, call. = FALSE)
-    } else {
-      list()
-    }
-  } else {
-    httr::content(r, "parsed")
-  }
-}
-sched_GET <- function(endpoint, params = list(), ...) {
-  sched("GET", endpoint, params = params, ...)
-}
-sched_POST <- function(endpoint, params = list(), ...) {
-  sched("POST", endpoint, params = params, ...)
-}
-
 # Update program ----------------------------------------------------------
 
 all <- sched_GET("session/list")
-keys <- as.integer(map_chr(all, "event_key"))
+session_keys <- as.integer(map_chr(all, "event_key"))
 
 program_sched <- program %>%
   transmute(
@@ -116,9 +88,11 @@ program_sched <- program %>%
     description = abstract,
     session_type = talk_type,
     session_subtype = ifelse(talk_type == "regular", session_title, NA),
+    session_start = start,
+    session_end = end,
     tags = talk_tags,
     venue = room,
-    path = ifelse(talk_id %in% keys, "session/mod", "session/add"),
+    path = ifelse(session_key %in% session_keys, "session/mod", "session/add"),
   ) |>
   # Convert NA to empty strings to reset API values
   mutate(across(where(is.character), ~ coalesce(.x, "")))
