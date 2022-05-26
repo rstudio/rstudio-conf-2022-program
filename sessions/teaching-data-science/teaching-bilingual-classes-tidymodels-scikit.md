@@ -7,7 +7,7 @@ talk_tags: [interop, python, teaching]
 session_slug: teaching-data-science
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Teaching "bilingual" classes with {tidymodels} and scikit-learn"
+talk_title: "Teaching \"bilingual\" classes with {tidymodels} and scikit-learn"
 # A short version of the title, suitable for small displays
 talk_title_short: Teaching "bilingual" classes with {tidymodels} and scikit-learn
 # A link to your talk's materials, when ready
