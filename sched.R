@@ -19,13 +19,12 @@ data <- files |> map(rmarkdown:::partition_yaml_front_matter)
 yaml <- data |> map("front_matter") |> map(possibly(yaml::yaml.load, NULL))
 abstracts <- data |>
   map("body") |>
-  map_chr(~ paste(.x[-(1:5)], "\n", collapse = ""))
+  map_chr(~ paste(.x[-(1:5)], collapse = "\n"))
 
 talks <- tibble(
   talk_id = map_int(yaml, "talk_id", .default = NA),
   talk_title = map_chr(yaml, "talk_title", .default = NA),
-  abstract = abstracts,
-  tags = map(yaml, "talk_tags", .default = NULL)
+  abstract = map_chr(abstracts, commonmark::markdown_html),
   tags = map(yaml, "talk_tags", .default = NULL) |> map_chr(paste, collapse = ", ")
 )
 talks
