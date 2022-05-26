@@ -2,7 +2,8 @@
 # https://rstudioconf2022.sched.com/editor
 # https://sched.com/api
 
-# TODO: add speaker info
+# TODO: figure out what's wrong with david_smith, colin_gillespie,
+#   david_robinson, and nick_strayer - need unique prefix?
 
 # TODO: add workshops (https://docs.google.com/spreadsheets/d/1wW2vkBxbV-AYUOA4wRrFPNSodIABWUiHSEL3LDPCgNs/edit#gid=0)
 # TODO: replace generic track names with real room names
@@ -130,11 +131,35 @@ for (i in 1:nrow(program_sched)) {
   cli::cli_progress_update()
 }
 
+# Update speaker info ----------------------------------------------------------
+
+all <- sched_GET("user/list")
+present <- map_chr(all, "username")
+
 speaker_sched <- speakers |> transmute(
-  username = speaker_slug,
+  username = slug |> str_replace_all("-", "_") |> iconv(to = "ASCII//translit"),
   role = "speaker",
-  sessions = talk_id,
   full_name = name,
-  about = bio,
   company = affiliation,
-)
+  about = bio,
+  avatar = photo,
+  sessions = talk_id,
+  send_email = 0,
+  path = ifelse(username %in% present, "user/mod", "user/add"),
+) |>
+  # Convert NA to empty strings to reset API values
+  mutate(across(where(is.character), ~ coalesce(.x, "")))
+
+speaker_sched
+
+cli::cli_progress_bar("Updating speakers", total = nrow(speaker_sched))
+for (i in 1:nrow(speaker_sched)) {
+  row <- as.list(speaker_sched[i, ])
+  tryCatch(
+    sched_POST(row$path, row),
+    error = function(err) {
+      cli::cli_inform("Failed to upload {row$username}", parent = err)
+    }
+  )
+  cli::cli_progress_update()
+}
