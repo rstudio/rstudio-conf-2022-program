@@ -25,7 +25,7 @@ talks <- tibble(
   talk_id = map_int(yaml, "talk_id", .default = NA),
   talk_title = map_chr(yaml, "talk_title", .default = NA),
   abstract = abstracts,
-  tags = map(yaml, "tags", .default = NULL)
+  tags = map(yaml, "talk_tags", .default = NULL)
 )
 talks
 
