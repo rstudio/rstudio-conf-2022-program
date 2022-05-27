@@ -24,3 +24,22 @@ sched_GET <- function(endpoint, params = list(), ...) {
 sched_POST <- function(endpoint, params = list(), ...) {
   sched("POST", endpoint, params = params, ...)
 }
+
+sched_upsert <- function(data, type, write_key, list_key = write_key) {
+  # Convert NA to empty strings to reset API values
+  data <- data |>
+    mutate(across(where(is.character), ~ coalesce(.x, "")))
+
+  # Determine whether to add or mod
+  all <- sched_GET(glue::glue("{type}/list"))
+  existing_keys <- map_chr(all, list_key)
+  url <- paste0(type, "/", ifelse(data[[write_key]] %in% existing_keys, "mod", "add"))
+
+  cli::cli_progress_bar(glue::glue("Updating {type}"), total = nrow(data))
+  for (i in 1:nrow(data)) {
+    row <- as.list(data[i, ])
+    sched_POST(url[[i]], row)
+    cli::cli_progress_update(status = row[[write_key]])
+  }
+  invisible()
+}

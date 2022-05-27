@@ -5,7 +5,7 @@
 # TODO: figure out what's wrong with david_smith, colin_gillespie,
 #   david_robinson, and nick_strayer - need unique prefix?
 # TODO: figure out why Mine's info is missing
-# TODO: extract out repeated progress code
+# TODO: extract out repeated date-time code
 # TODO: replace generic track names with real room names
 
 library(lubridate)
@@ -76,45 +76,30 @@ talk_times <- read_csv("_data/34-talk-times.csv", col_types = list()) |>
   ) |>
   left_join(sessions, by = "session_slug") |>
   select(-session_slug, -date) |>
-  left_join(rooms, by = "track") |>
-  select(-track)
+  left_join(rooms, by = "track")
 
 program <- talks |> left_join(talk_times, by = "talk_id")
 program |> count(day)
 
 # Update program ----------------------------------------------------------
 
-all <- sched_GET("session/list")
-session_keys <- as.integer(map_chr(all, "event_key"))
-
 program_sched <- program %>%
   transmute(
     session_key = talk_id,
     name = talk_title,
     description = abstract,
-    session_type = talk_type,
+    session_type = ifelse(talk_type == "Keynote", "Keynote", paste0("Track ", track)),
     session_subtype = ifelse(talk_type == "Regular", session_title, NA),
     session_start = start,
     session_end = end,
     tags = talk_tags,
     venue = room,
     path = ifelse(session_key %in% session_keys, "session/mod", "session/add"),
-  ) |>
-  # Convert NA to empty strings to reset API values
-  mutate(across(where(is.character), ~ coalesce(.x, "")))
+  )
 program_sched
-
-cli::cli_progress_bar("Updating schedule", total = nrow(program_sched))
-for (i in 1:nrow(program_sched)) {
-  row <- as.list(program_sched[i, ])
-  sched_POST(row$path, row)
-  cli::cli_progress_update()
-}
+sched_upsert(program_sched, "session", "session_key", "event_key")
 
 # Update speaker info ----------------------------------------------------------
-
-all <- sched_GET("user/list")
-present <- map_chr(all, "username")
 
 speaker_sched <- speakers |> transmute(
   username = slug |> str_replace_all("-", "_") |> iconv(to = "ASCII//translit"),
@@ -124,22 +109,6 @@ speaker_sched <- speakers |> transmute(
   about = bio,
   avatar = photo,
   sessions = talk_id,
-  send_email = 0,
-  path = ifelse(username %in% present, "user/mod", "user/add"),
-) |>
-  # Convert NA to empty strings to reset API values
-  mutate(across(where(is.character), ~ coalesce(.x, "")))
-
-speaker_sched
-
-cli::cli_progress_bar("Updating speakers", total = nrow(speaker_sched))
-for (i in 1:nrow(speaker_sched)) {
-  row <- as.list(speaker_sched[i, ])
-  tryCatch(
-    sched_POST(row$path, row),
-    error = function(err) {
-      cli::cli_inform("Failed to upload {row$username}", parent = err)
-    }
-  )
-  cli::cli_progress_update()
-}
+  send_email = 0
+)
+sched_upsert(speaker_sched, "user", "username")
