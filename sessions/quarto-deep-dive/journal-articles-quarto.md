@@ -23,7 +23,7 @@ talk_materials_url: https://github.com/fastai/nbdev-demo
   slug: nbdev-quarto
   photo: https://github.com/hamelsmu.png
   bio: |+
-    Hamel Husain is head of Data Science and ML at [Outerbounds](https://outerbounds.com/). Previous to Outerbounds, Hamel has built ML infrastructure and deployed data products at Airbnb, GitHub, and DataRobot. Hamel is also very active in open source communities and is currently a core contributor of [fastai](https://github.com/fastai), and is involved in projects such as Jupyter, Kubeflow,and Great Expectations.
+    Hamel Husain is head of Data Science and ML at [Outerbounds](https://outerbounds.com/) (the developers of [Metaflow](https://metaflow.org/)). Previous to Outerbounds, Hamel has built ML infrastructure and deployed data products at Airbnb, GitHub, and DataRobot. Hamel is also very active in open source communities and is currently a core contributor of [fastai](https://github.com/fastai), and is involved in projects such as Jupyter, Kubeflow,and Great Expectations.
 
 ---
 
