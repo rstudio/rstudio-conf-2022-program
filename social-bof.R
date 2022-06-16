@@ -1,5 +1,6 @@
 library(googlesheets4)
 library(tidyverse)
+library(lubridate)
 source("sched-api.R")
 
 gs4_auth("*@rstudio.com")
@@ -27,7 +28,8 @@ social_sched <- events |>
   transmute(
     session_key = id,
     name = title,
-    description = description,
+    description = coalesce(description, title),
+    description = map_chr(description, commonmark::markdown_html),
     session_start = start,
     session_end = end,
     session_type = type,
