@@ -33,8 +33,7 @@ social_sched <- events |>
     session_start = start,
     session_end = end,
     session_type = type,
-    venue = room,
-    path = ""
+    venue = room
   )
 
 social_sched
