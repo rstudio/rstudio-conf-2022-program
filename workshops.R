@@ -28,8 +28,7 @@ workshops_sched <- workshops |>
     session_start = start,
     session_end = end,
     session_type = "Workshop",
-    venue = as.character(room),
-    path = "",
+    venue = as.character(room)
   ) |>
   mutate(across(where(is.character), ~ coalesce(.x, "")))
 

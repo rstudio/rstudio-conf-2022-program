@@ -108,8 +108,7 @@ program_sched <- program %>%
     session_start = start,
     session_end = end,
     tags = talk_tags,
-    venue = room,
-    path = "",
+    venue = room
   )
 program_sched
 sched_upsert(program_sched, "session", "session_key", "event_key")
