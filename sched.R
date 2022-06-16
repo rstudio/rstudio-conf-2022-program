@@ -90,6 +90,11 @@ talk_times <- read_csv("_data/34-talk-times.csv", col_types = list()) |>
 
 program <- talks |> left_join(talk_times, by = "talk_id")
 program |> count(day)
+#> # A tibble: 2 × 2
+#>     day     n
+#>   <dbl> <int>
+#> 1     3    42
+#> 2     4    57
 
 # Update program ----------------------------------------------------------
 
