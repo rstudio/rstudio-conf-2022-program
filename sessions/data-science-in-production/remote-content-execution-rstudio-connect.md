@@ -38,7 +38,7 @@ two years in the making: “Remote” off-host content execution with launcher i
 Kubernetes.
 
 We have been quietly beta testing the Launcher feature with select partners and
-customers for several months while we prepare for the GA announcement.
+customers for several months while we prepare for the public announcement.
 
 This talk will highlight why someone might want to use this new execution
 mode with Connect, show just how seamless it is to get everything configured
