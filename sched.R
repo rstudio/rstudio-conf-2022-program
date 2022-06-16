@@ -20,7 +20,17 @@ paths <- fs::dir_ls("sessions", recurse = TRUE, glob = "*.md")
 files <- paths |> map(readLines)
 data <- files |> map(rmarkdown:::partition_yaml_front_matter)
 
-yaml <- data |> map("front_matter") |> map(yaml::yaml.load)
+yaml <- data |> map("front_matter") |> map(safely(yaml::yaml.load))
+
+if (some(yaml, ~ !is.null(.x$error))) {
+  errors <- yaml |> map("error") |> discard(is.null) |> imap_chr(
+    ~ sprintf("{.path %s}: %s", .y, conditionMessage(.x))
+  )
+  names(errors) <- rep_len("x", length(errors))
+  cli::cli_abort(c("Failed to parse YAML front matter of {length(errors)} talk{?s}.", errors))
+} else {
+  yaml <- yaml |> map("result")
+}
 
 abstracts <- data |>
   map("body") |>
