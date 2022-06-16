@@ -1,5 +1,6 @@
 library(googlesheets4)
 library(tidyverse)
+library(glue)
 source("sched-api.R")
 
 gs4_auth("*@rstudio.com")
@@ -21,10 +22,18 @@ session_keys <- map_chr(all, "event_key")
 
 workshops_sched <- workshops |>
   left_join(workshop_times, by = character()) |>
+  mutate(
+    rstudio_url = glue("https://www.rstudio.com/conference/2022/workshops/{slug}", slug = `shortlink-slug`),
+    description = glue(
+      "View [full workshop details]({rstudio_url}).
+
+      {`What will I learn?`}"
+    )
+  ) |>
   transmute(
     session_key = paste0(`shortlink-slug`, "-", day, "-", order),
     name = title,
-    description = Summary,
+    description = map_chr(description, commonmark::markdown_html),
     session_start = start,
     session_end = end,
     session_type = "Workshop",
