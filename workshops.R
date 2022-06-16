@@ -25,11 +25,7 @@ workshops_sched <- workshops |>
   left_join(workshop_times, by = character()) |>
   mutate(
     rstudio_url = glue("https://www.rstudio.com/conference/2022/workshops/{slug}/", slug = `shortlink-slug`),
-    description = glue(
-      'View <a href="{rstudio_url}" target="_blank">full workshop details</a>.
-
-      {`What will I learn?`}'
-    )
+    description = glue('{Summary} View <a href="{rstudio_url}" target="_blank">full workshop details</a>.')
   ) |>
   transmute(
     session_key = paste0(`shortlink-slug`, "-", day, "-", order),
