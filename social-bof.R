@@ -34,7 +34,7 @@ social_sched <- events |>
     session_end = end,
     session_type = type,
     venue = room,
-    path = ifelse(session_key %in% session_keys, "session/mod", "session/add"),
+    path = ""
   )
 
 social_sched
