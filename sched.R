@@ -94,7 +94,7 @@ program_sched <- program %>%
     session_end = end,
     tags = talk_tags,
     venue = room,
-    path = ifelse(session_key %in% session_keys, "session/mod", "session/add"),
+    path = "",
   )
 program_sched
 sched_upsert(program_sched, "session", "session_key", "event_key")
