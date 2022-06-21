@@ -2,7 +2,8 @@ library(googlesheets4)
 library(tidyverse)
 library(lubridate)
 library(glue)
-source("sched-api.R")
+source(here::here("R/00_sched-api.R"))
+source(here::here("R/00_utils.R"))
 
 gs4_auth("*@rstudio.com")
 
@@ -11,11 +12,7 @@ workshops <- read_sheet("1wW2vkBxbV-AYUOA4wRrFPNSodIABWUiHSEL3LDPCgNs")
 times <- read_sheet("14cupdpbOj_aDQdiee-Db3Gde77JN9HWik73nZW7xMGs")
 workshop_times <- times |>
   filter(day %in% 1:2, name == "workshop") |>
-  mutate(
-    date = ymd("2022-07-25", tz = "America/Detroit") + days(day - 1),
-    start = date + hms::as_hms(start),
-    end = date + hms::as_hms(end),
-  ) |>
+  make_start_end_relative() |>
   select(day, order, start, end)
 
 all <- sched_GET("session/list")

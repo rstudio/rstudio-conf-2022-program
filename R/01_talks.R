@@ -5,17 +5,18 @@
 # TODO: figure out what's wrong with david_smith, colin_gillespie,
 #   david_robinson, and nick_strayer - need unique prefix?
 # TODO: figure out why Mine's info is missing
-# TODO: extract out repeated date-time code
 # TODO: replace generic track names with real room names
 
 library(lubridate)
 library(tidyverse)
 library(purrr)
-source("sched-api.R")
+library(here)
+source(here("R/00_sched-api.R"))
+source(here("R/00_utils.R"))
 
 # Gather talk data from .Rmds --------------------------------------------------
 
-paths <- fs::dir_ls("sessions", recurse = TRUE, glob = "*.md")
+paths <- fs::dir_ls(here("sessions"), recurse = TRUE, glob = "*.md")
 
 files <- paths |> map(readLines)
 data <- files |> map(rmarkdown:::partition_yaml_front_matter)
@@ -69,7 +70,7 @@ rooms <- tribble(
   "D", "Yenisey"
 )
 
-sessions <- read_csv("_data/28-session-slug-titles_synched.csv", col_types = list()) |>
+sessions <- read_csv(here("_data/28-session-slug-titles_synched.csv"), col_types = list()) |>
   select(session_slug = slug, session_title = title)
 
 first_upper <- function(x) {
@@ -77,13 +78,9 @@ first_upper <- function(x) {
   x
 }
 
-talk_times <- read_csv("_data/34-talk-times.csv", col_types = list()) |>
-  mutate(
-    date = ymd("2022-07-25", tz = "America/Detroit") + days(day - 1),
-    start = date + start,
-    end = date + end,
-    talk_type = first_upper(talk_type)
-  ) |>
+talk_times <- read_csv(here("_data/34-talk-times.csv"), col_types = list()) |>
+  make_start_end_relative() |>
+  mutate(talk_type = first_upper(talk_type)) |>
   left_join(sessions, by = "session_slug") |>
   select(-session_slug, -date) |>
   left_join(rooms, by = "track")

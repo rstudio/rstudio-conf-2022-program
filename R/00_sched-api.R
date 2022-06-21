@@ -24,6 +24,10 @@ sched_GET <- function(endpoint, params = list(), ...) {
 sched_POST <- function(endpoint, params = list(), ...) {
   sched("POST", endpoint, params = params, ...)
 }
+sched_GET_cached <- memoise::memoise(
+  sched_GET,
+  cache = cachem::cache_mem(max_age = 60)
+)
 
 sched_upsert <- function(data, type, write_key, list_key = write_key) {
   # Convert NA to empty strings to reset API values
@@ -31,7 +35,7 @@ sched_upsert <- function(data, type, write_key, list_key = write_key) {
     mutate(across(where(is.character), ~ coalesce(.x, "")))
 
   # Determine whether to add or mod
-  all <- sched_GET(glue::glue("{type}/list"))
+  all <- sched_GET_cached(glue::glue("{type}/list"))
   existing_keys <- map_chr(all, list_key)
   url <- paste0(type, "/", ifelse(data[[write_key]] %in% existing_keys, "mod", "add"))
 
