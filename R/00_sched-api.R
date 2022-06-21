@@ -1,3 +1,5 @@
+source(here::here("R/00_utils.R"))
+
 sched <- function(method, endpoint, params = list(), ...) {
   params$api_key <- Sys.getenv("SCHED_CONF_2022")
   if (method == "GET") {
@@ -12,7 +14,7 @@ sched <- function(method, endpoint, params = list(), ...) {
     if (grepl("ERR", p)) {
       stop(p, call. = FALSE)
     } else {
-      list()
+      html
     }
   } else {
     httr::content(r, "parsed")
@@ -40,10 +42,12 @@ sched_upsert <- function(data, type, write_key, list_key = write_key) {
   url <- paste0(type, "/", ifelse(data[[write_key]] %in% existing_keys, "mod", "add"))
 
   cli::cli_progress_bar(glue::glue("Updating {type}"), total = nrow(data))
+  ret <- vector("list", nrow(data))
   for (i in 1:nrow(data)) {
     row <- as.list(data[i, ])
-    sched_POST(url[[i]], row)
+    ret[[row[[write_key]]]] <- safely(sched_POST)(url[[i]], row)
     cli::cli_progress_update(status = row[[write_key]])
   }
-  invisible()
+  stop_for_errors(ret, glue::glue("sched upsert to `{type}/[mod,add]`"))
+  invisible(purrr::map(ret, "results"))
 }
