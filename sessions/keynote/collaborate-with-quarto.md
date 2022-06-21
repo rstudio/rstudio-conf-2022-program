@@ -53,7 +53,19 @@ speakers:
   slug: julia-stewart-lowndes
   photo: /assets/img/2022Conf/_talks/22303_julia-stewart-lowndes.jpeg
   bio: |+
-    NA
+    [Julia Stewart Lowndes](http://jules32.github.io/), PhD founded
+    [Openscapes](https://openscapes.org/) to champion kinder, better science in
+    less time together. A marine ecologist and data scientist, she has shifted
+    from doing her own research to empowering research teams with skillsets and
+    mindsets for open, collaborative, and reproducible research. Focused on
+    fostering diverse, inclusive, and leaderful open data science research
+    communities, she is a R community contributor through rOpenSci and RStudio,
+    a Carpentries Instructor, and co-founder Eco-Data-Science and R-Ladies Santa
+    Barbara. She is a Senior Fellow at the National Center for Ecological
+    Analysis and Synthesis (NCEAS) at the University of California Santa
+    Barbara, a 2019 Mozilla Fellow, and earned her PhD from Stanford University
+    in 2012 studying drivers and impacts of Humboldt squid in a changing
+    climate.
 
 
 ---
