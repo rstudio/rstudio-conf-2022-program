@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/prabhakar1978
     linkedin: https://www.linkedin.com/in/prabhakart/
     affiliation: https://flex.com/
-  username: prabhakar-thanikasalam
+  username: prabhakar_thanikasalam
   photo: /assets/img/2022Conf/_talks/22169_prabhakar-thanikasalam.jpg
   bio: |+
     Prabhakar (Prabha) Thanikasalam has 16+ years of experience in data,

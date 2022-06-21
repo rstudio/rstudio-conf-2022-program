@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/carobuck
     linkedin: https://www.linkedin.com/in/caro-buck/
     affiliation: https://www.wundermanthompson.com/
-  username: caro-buck
+  username: caro_buck
   photo: /assets/img/2022Conf/_talks/22025_caro-buck.jpg
   bio: |+
     I’m Caro, short for Caroline! I’m a curious and creative human, with

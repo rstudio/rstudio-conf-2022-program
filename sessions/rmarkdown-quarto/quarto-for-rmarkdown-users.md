@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/jthomasmock
     linkedin: https://www.linkedin.com/in/jthomasmock/
     affiliation: https://www.rstudio.com/about/
-  username: tom-mock
+  username: tom_mock
   photo: /assets/img/2022Conf/_talks/22149_tom-mock.jpeg
   bio: |+
     Thomas is the Customer Enablement Lead at RStudio, helping RStudio’s

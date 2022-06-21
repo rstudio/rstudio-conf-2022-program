@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: https://www.linkedin.com/in/jamie-r-ralph
     affiliation: ~
-  username: jamie-ralph
+  username: jamie_ralph
   photo: /assets/img/2022Conf/_talks/22038_jamie-ralph.jpg
   bio: |+
     Jamie is a developer at Bumble where he builds internal analytics

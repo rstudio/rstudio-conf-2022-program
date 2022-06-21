@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/thisisnic/
     linkedin: ~
     affiliation: ~
-  username: nic-crane
+  username: nic_crane
   photo: /assets/img/2022Conf/_talks/22048_nic-crane.jpg
   bio: |+
     Nic Crane is an R developer, educator, and general enthusiast. They

@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/meghall06/
     linkedin: ~
     affiliation: ~
-  username: meghan-hall
+  username: meghan_hall
   photo: /assets/img/2022Conf/_talks/22041_meghan-hall.jpeg
   bio: |+
     Meghan Hall has spent over seven years as a data professional in

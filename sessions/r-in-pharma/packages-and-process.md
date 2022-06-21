@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/thebioengineer
     linkedin: https://linkedin.com/in/ellishughes
     affiliation: https://gsk.com
-  username: ellis-hughes
+  username: ellis_hughes
   photo: /assets/img/2022Conf/_talks/22209_ellis-hughes.jpg
   bio: |+
     Ellis Hughes is a Data Science Leader and has worked in the

@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/beatrizmilz
     linkedin: https://www.linkedin.com/in/beatrizmilz/
     affiliation: https://curso-r.com/
-  username: beatriz-milz
+  username: beatriz_milz
   photo: /assets/img/2022Conf/_talks/22066_beatriz-milz.jpeg
   bio: |+
     [PhD Candidante in Environmental Science in the University of Sao

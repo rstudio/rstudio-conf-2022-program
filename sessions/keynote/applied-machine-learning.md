@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/juliasilge
     linkedin: ~
     affiliation: ~
-  username: julia-silge
+  username: julia_silge
   photo: /assets/img/2022Conf/_talks/22301_julia-silge.jpeg
   bio: |+
     NA
@@ -34,7 +34,7 @@ speakers:
     github: https://github.com/topepo
     linkedin: ~
     affiliation: ~
-  username: max-kuhn
+  username: max_kuhn
   photo: /assets/img/2022Conf/_talks/22301_max-kuhn.jpeg
   bio: |+
     NA

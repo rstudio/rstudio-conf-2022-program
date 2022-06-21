@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/CodingTigerTang
     linkedin: https://www.linkedin.com/in/chongtaitang/
     affiliation: ~
-  username: tiger-tang
+  username: tiger_tang
   photo: /assets/img/2022Conf/_talks/22164_tiger-tang.jpg
   bio: |+
     Tiger(Chongtai) Tang is a Data Science Manager at CARFAX, dedicated

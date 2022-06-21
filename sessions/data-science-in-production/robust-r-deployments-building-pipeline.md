@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/davemaguire
     linkedin: https://www.linkedin.com/in/david-maguire-30636956/
     affiliation: https://www.dv01.co/offerings/tape-cracker/
-  username: david-maguire
+  username: david_maguire
   photo: /assets/img/2022Conf/_talks/22198_david-maguire.jpg
   bio: |+
     A physical scientist by training, David leverages the scientific

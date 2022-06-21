@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/njtierney
     linkedin: https://www.linkedin.com/in/nj-tierney/
     affiliation: https://www.telethonkids.org.au/our-research/brain-and-behaviour/population-health-program/geospatial-health-and-development/
-  username: nicholas-tierney
+  username: nicholas_tierney
   photo: /assets/img/2022Conf/_talks/22233_nicholas-tierney.jpeg
   bio: |+
     Nick Tierney has an honours degree in Psychology, and a PhD in

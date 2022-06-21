@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/tgerke/
     linkedin: https://www.linkedin.com/in/travisgerke/
     affiliation: https://pcctc.org/
-  username: travis-gerke
+  username: travis_gerke
   photo: /assets/img/2022Conf/_talks/22165_travis-gerke.jpg
   bio: |+
     As academic faculty, I led cancer-focused research teams in the

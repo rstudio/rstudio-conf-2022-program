@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/hunterowens
     linkedin: ~
     affiliation: calitp.org
-  username: hunter-owens
+  username: hunter_owens
   photo: /assets/img/2022Conf/_talks/22059_hunter-owens.png
   bio: |+
     Hunter Owens does data science in the public interest. Current at

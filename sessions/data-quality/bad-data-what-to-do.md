@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/jimtheflash
     linkedin: https://www.linkedin.com/in/jimkloet/
     affiliation: ~
-  username: jim-kloet
+  username: jim_kloet
   photo: /assets/img/2022Conf/_talks/22153_jim-kloet.png
   bio: |+
     Jim Kloet (_Kloet_ rhymes with _flute_) is a data professional in

@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: ~
     affiliation: ~
-  username: kolbi-parrish
+  username: kolbi_parrish
   photo: /assets/img/2022Conf/_talks/22221_kolbi-parrish.jpg
   bio: |+
     Kolbi Parrish is an Informatics Specialist working at the California
@@ -39,7 +39,7 @@ speakers:
     github: https://github.com/PoppinHandy
     linkedin: https://www.linkedin.com/in/handy94/
     affiliation: ~
-  username: andy-pham
+  username: andy_pham
   photo: /assets/img/2022Conf/_talks/22221_andy-pham.jpg
   bio: |+
     Andy is a clinical informatics specialist working at the California

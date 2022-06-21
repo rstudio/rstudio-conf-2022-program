@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/skeydan
     linkedin: https://de.linkedin.com/in/sigrid-keydana-9a16b410
     affiliation: https://blogs.rstudio.com/ai/
-  username: sigrid-keydana
+  username: sigrid_keydana
   photo: /assets/img/2022Conf/_talks/22008_sigrid-keydana.jpg
   bio: |+
     Sigrid works at RStudio, where she writes about open-source deep

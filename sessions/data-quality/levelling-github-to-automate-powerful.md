@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/tanho63
     linkedin: ~
     affiliation: ~
-  username: tan-ho
+  username: tan_ho
   photo: /assets/img/2022Conf/_talks/22168_tan-ho.jpg
   bio: |-
     I'm a data enthusiast who loves R 🚀, Shiny ✨, fantasy football 🏈

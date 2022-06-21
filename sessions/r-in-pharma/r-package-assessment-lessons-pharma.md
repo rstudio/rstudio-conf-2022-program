@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: ~
     affiliation: ~
-  username: becca-krouse
+  username: becca_krouse
   photo: /assets/img/2022Conf/_talks/22192_becca-krouse.png
   bio: |+
     Becca Krouse is a Data Science Leader in the Statistics and Data

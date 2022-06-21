@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/yjunechoe/ggtrace
     linkedin: ~
     affiliation: ~
-  username: june-choe
+  username: june_choe
   photo: /assets/img/2022Conf/_talks/22100_june-choe.jpg
   bio: |+
     June is a second year Ph.D. student in linguistics at the University

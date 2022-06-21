@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/revodavid
     linkedin: https://www.linkedin.com/in/dmsmith/
     affiliation: https://www.microsoft.com
-  username: david-smith
+  username: david_smith
   photo: /assets/img/2022Conf/_talks/22056_david-smith.png
   bio: |+
     David is a Cloud Advocate for Microsoft, specializing in the

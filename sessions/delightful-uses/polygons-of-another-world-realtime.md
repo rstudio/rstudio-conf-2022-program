@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/coolbutuseless
     linkedin: https://www.linkedin.com/in/michael-cheng-8782632b
     affiliation: ~
-  username: mike-cheng
+  username: mike_cheng
   photo: /assets/img/2022Conf/_talks/22135_mike-cheng.png
   bio: |+
     TBD. Will write this when I get the chance

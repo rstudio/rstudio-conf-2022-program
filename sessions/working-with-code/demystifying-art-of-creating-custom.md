@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/dcaley5005?tab=repositories
     linkedin: https://www.linkedin.com/in/daniel-caley/
     affiliation: https://www.customink.com/about
-  username: dan-caley
+  username: dan_caley
   photo: /assets/img/2022Conf/_talks/22054_dan-caley.jpg
   bio: |+
     Dan Caley is a Senior Data Analyst at Custom Ink covering descriptive,

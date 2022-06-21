@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/Shelmith-Kariuki
     linkedin: https://www.linkedin.com/in/shelmith-kariuki-44351363/
     affiliation: ~
-  username: shelmith-nyagathiri-kariuki
+  username: shelmith_nyagathiri_kariuki
   photo: /assets/img/2022Conf/_talks/22035_shelmith-nyagathiri-kariuki.jpg
   bio: |+
     Shel Kariuki is a Data Analytics consultant based in Nairobi, Kenya.

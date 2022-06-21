@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/johnnyb1694
     linkedin: https://www.linkedin.com/in/johnnybreen/
     affiliation: https://www.tokiomarinekiln.com/
-  username: johnny-breen
+  username: johnny_breen
   photo: /assets/img/2022Conf/_talks/22024_johnny-breen.jpeg
   bio: |+
     Currently working as Portfolio Optimisation Lead at Tokio Marine Kiln,

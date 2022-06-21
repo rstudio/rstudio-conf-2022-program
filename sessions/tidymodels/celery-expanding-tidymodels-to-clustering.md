@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/emilhvitfeldt
     linkedin: https://www.linkedin.com/in/emilhvitfeldt/
     affiliation: https://www.rstudio.com/
-  username: emil-hvitfeldt
+  username: emil_hvitfeldt
   photo: /assets/img/2022Conf/_talks/22098_emil-hvitfeldt.png
   bio: |+
     Emil Hvitfeldt is a software engineer at RStudio. Part of the

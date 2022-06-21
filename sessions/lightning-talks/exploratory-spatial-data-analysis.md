@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/josiahparry
     linkedin: https://www.linkedin.com/in/josiahparry/
     affiliation: https://www.npd.com/
-  username: josiah-parry
+  username: josiah_parry
   photo: /assets/img/2022Conf/_talks/22014_josiah-parry.jpg
   bio: |+
     Josiah Parry is a Research Analyst in the Research Science division

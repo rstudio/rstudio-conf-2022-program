@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: https://linkedin.com/in/rachaeldempsey
     affiliation: https://rstudio.com/champion
-  username: rachael-dempsey
+  username: rachael_dempsey
   photo: /assets/img/2022Conf/_talks/22123_rachael-dempsey.png
   bio: |+
     Rachael is a community leader at RStudio with a passion for customer

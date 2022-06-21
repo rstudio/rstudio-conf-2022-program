@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/paleolimbot/
     linkedin: https://www.linkedin.com/in/deweydunnington/
     affiliation: https://voltrondata.com/
-  username: dewey-dunnington
+  username: dewey_dunnington
   photo: /assets/img/2022Conf/_talks/22036_dewey-dunnington.jpg
   bio: |+
     Dewey Dunnington (Ph.D., P.Geo.) is an environmental researcher,

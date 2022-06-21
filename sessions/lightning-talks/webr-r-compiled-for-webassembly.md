@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/georgestagg
     linkedin: ~
     affiliation: ~
-  username: george-stagg
+  username: george_stagg
   photo: /assets/img/2022Conf/_talks/22027_george-stagg.jpeg
   bio: |+
     George Stagg is a Software Engineer with experience in research

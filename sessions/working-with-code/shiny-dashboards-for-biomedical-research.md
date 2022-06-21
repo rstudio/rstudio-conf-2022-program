@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: ~
     affiliation: https://www.niaid.nih.gov/
-  username: jon-nye
+  username: jon_nye
   photo: /assets/img/2022Conf/_talks/22121_jon-nye.png
   bio: |+
     Jon Nye is a Lead Health Science Policy Analyst at the National

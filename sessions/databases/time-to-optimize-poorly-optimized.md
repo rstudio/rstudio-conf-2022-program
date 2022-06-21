@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/bhadi26
     linkedin: https://www.linkedin.com/in/rebeccahadi/
     affiliation: https://lynhealth.io
-  username: rebecca-hadi
+  username: rebecca_hadi
   photo: /assets/img/2022Conf/_talks/22007_rebecca-hadi.jpg
   bio: |+
     Rebecca Hadi is the Head of Data Science at Lyn Health. She holds a

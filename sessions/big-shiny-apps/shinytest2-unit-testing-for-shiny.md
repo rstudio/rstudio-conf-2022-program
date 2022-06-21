@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/schloerke
     linkedin: https://www.linkedin.com/in/schloerke/
     affiliation: https://www.rstudio.com/
-  username: barret-schloerke
+  username: barret_schloerke
   photo: /assets/img/2022Conf/_talks/22115_barret-schloerke.png
   bio: |+
     `hello()`! Dr. Barret Schloerke is a Shiny Software Engineer

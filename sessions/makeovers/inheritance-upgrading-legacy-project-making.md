@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/eroten
     linkedin: https://www.linkedin.com/in/eroten
     affiliation: https://metrocouncil.org
-  username: liz-roten
+  username: liz_roten
   photo: /assets/img/2022Conf/_talks/22094_liz-roten.jpg
   bio: |+
     Liz Roten is a data scientist and cartographer in St. Paul, Minnesota.

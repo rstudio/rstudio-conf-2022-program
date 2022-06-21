@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/zkamvar
     linkedin: https://linkedin.com/in/zkamvar
     affiliation: https://carpentries.org
-  username: zhian-n-kamvar
+  username: zhian_n_kamvar
   photo: /assets/img/2022Conf/_talks/22120_zhian-n-kamvar.png
   bio: |+
     Zhian is the Lesson Infrastructure Technology Developer for [The
