@@ -7,9 +7,9 @@ talk_tags: ~
 session_slug: keynote
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Publishing and collaboration with Quarto"
+talk_title: "Reimagine + Collaborate + Share with Quarto"
 # A short version of the title, suitable for small displays
-talk_title_short: Publishing and collaboration with Quarto
+talk_title_short: Reimagine + Collaborate + Share with Quarto
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
@@ -24,7 +24,7 @@ speakers:
   slug: mine-çetinkaya-rundel
   photo: /assets/img/2022Conf/_talks/22303_mine-çetinkaya-rundel.jpg
   bio: |+
-    NA
+    Mine Çetinkaya-Rundel is Professor of the Practice at Duke University and Developer Educator at RStudio. Mine’s work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. Mine works on the OpenIntro project, whose mission is to make educational products that are free, transparent, and lower barriers to education. As part of this project she co-authored four open-source introductory statistics textbooks. She is also the creator and maintainer of datasciencebox.org and she teaches the popular Statistics with R MOOC on Coursera. Mine is a Fellow of the ASA and Elected Member of the ISI as well as the winner of the 2021 Robert V. Hogg Award for For Excellence in Teaching Introductory Statistics.
 
 - name: Julia Stewart Lowndes
   affiliation: Openscapes
@@ -46,4 +46,4 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-
+What is Quarto? In this talk, in four acts, we will discuss how Quarto unifies and extends the R Markdown ecosystem. Through our work with NASA Openscapes, Duke University, and RStudio, we will share our experiences authoring, teaching, and collaborating with Quarto. Full of demos with Quarto in RStudio and Jupyter and weaving together narrative, R, and Python code, we will showcase features of Quarto that have enabled us to reimagine our reproducible workflows. This talk will help you get the most out of Quarto regardless of your background with R Markdown, the computing language(s) you use, and your tool of choice for authoring.
