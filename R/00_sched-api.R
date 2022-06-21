@@ -51,3 +51,19 @@ sched_upsert <- function(data, type, write_key, list_key = write_key) {
   stop_for_errors(ret, glue::glue("sched upsert to `{type}/[mod,add]`"))
   invisible(purrr::map(ret, "results"))
 }
+
+sched_user_mod_speaker_role <- function(username, sessions, action = "add") {
+  stopifnot(
+    "one user at a time" = length(username) == 1,
+    "action is 'add' or 'del'" = action %in% c("add", "del")
+  )
+
+  params <- list(
+    username = username,
+    sessions = paste(sessions, collapse = ","),
+    role = "speaker",
+    send_email = 0
+  )
+
+  sched_POST(glue::glue("role/{action}"), params)
+}
