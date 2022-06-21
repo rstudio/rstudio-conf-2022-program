@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/dgrtwo
     linkedin: https://www.linkedin.com/in/david-robinson-3584642a
     affiliation: https://heap.io/
-  username: david_robinson
+  username: dgrtwo
   photo: /assets/img/2022Conf/_talks/22214_david-robinson.jpg
   bio: |+
     David Robinson is Director of Data Science at Heap Analytics, where

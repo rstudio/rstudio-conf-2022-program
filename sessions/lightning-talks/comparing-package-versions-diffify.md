@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/csgillespie/
     linkedin: https://www.linkedin.com/in/colin-gillespie-25028332/
     affiliation: https://jumpingrivers.com/
-  username: colin_gillespie
+  username: csgillespie
   photo: /assets/img/2022Conf/_talks/22196_colin-gillespie.jpg
   bio: |+
     Colin has been using R since 1999. He's the author of a number of R

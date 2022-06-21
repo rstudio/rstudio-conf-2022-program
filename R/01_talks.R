@@ -2,11 +2,8 @@
 # https://rstudioconf2022.sched.com/editor
 # https://sched.com/api
 
-# TODO: figure out what's wrong here (needs unique suffix?)
-#   ✖ colin_gillespie: ERR: Username already exists, choose another one.
-#   ✖ david_smith: ERR: Username already exists, choose another one.
+# TODO: Nick has previously signed into sched
 #   ✖ nick_strayer: ERR: Username already exists, choose another one.
-# TODO: ✖ david_robinson: ERR: Email already exists, choose another one.
 # TODO: replace generic track names with real room names
 
 library(lubridate)
