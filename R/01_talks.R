@@ -16,36 +16,19 @@ source(here("R/00_utils.R"))
 
 # Gather talk data from .Rmds --------------------------------------------------
 
-paths <- fs::dir_ls(here("sessions"), recurse = TRUE, glob = "*.md")
+talk_data <- read_talk_md(here("sessions"))
 
-files <- paths |> map(readLines)
-data <- files |> map(rmarkdown:::partition_yaml_front_matter)
-
-yaml <- data |> map("front_matter") |> map(safely(yaml::yaml.load))
-
-if (some(yaml, ~ !is.null(.x$error))) {
-  errors <- yaml |> map("error") |> discard(is.null) |> imap_chr(
-    ~ sprintf("{.path %s}: %s", .y, conditionMessage(.x))
-  )
-  names(errors) <- rep_len("x", length(errors))
-  cli::cli_abort(c("Failed to parse YAML front matter of {length(errors)} talk{?s}.", errors))
-} else {
-  yaml <- yaml |> map("result")
-}
-
-abstracts <- data |>
-  map("body") |>
-  map_chr(~ paste(.x[-(1:5)], collapse = "\n")) |>
-  map_chr(commonmark::markdown_html)
-
-talks <- tibble(yaml = yaml) |>
+talks <-
+  tibble(yaml = talk_data$yaml) |>
   unnest_wider(yaml) |>
   select(talk_id, talk_title, speakers) |>
   mutate(
-    abstract = abstracts,
-    talk_tags = map(yaml, "talk_tags") |> map_chr(paste, collapse = ", ")
+    abstract = talk_data$abstract,
+    talk_tags = map(talk_data$yaml, "talk_tags") |> map_chr(paste, collapse = ", ")
   )
-speakers <- talks |>
+
+speakers <-
+  talks |>
   select(talk_id, speakers) |>
   unnest_longer(speakers) |>
   unnest_wider(speakers) |>
