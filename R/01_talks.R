@@ -2,8 +2,6 @@
 # https://rstudioconf2022.sched.com/editor
 # https://sched.com/api
 
-# TODO: Nick has previously signed into sched
-#   ✖ nick_strayer: ERR: Username already exists, choose another one.
 # TODO: replace generic track names with real room names
 
 library(lubridate)
