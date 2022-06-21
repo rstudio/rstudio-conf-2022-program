@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/mine-cetinkaya-rundel
     linkedin: ~
     affiliation: ~
-  username: mine_çetinkaya_rundel
+  username: mine_cetinkaya_rundel
   photo: /assets/img/2022Conf/_talks/22303_mine-cetinkaya-rundel.jpg
   bio: |+
     Mine Çetinkaya-Rundel is Professor of the Practice at Duke University and
