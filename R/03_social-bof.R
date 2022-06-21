@@ -2,7 +2,6 @@ library(googlesheets4)
 library(tidyverse)
 library(lubridate)
 source(here::here("R/00_sched-api.R"))
-source(here::here("R/00_utils.R"))
 
 gs4_auth("*@rstudio.com")
 

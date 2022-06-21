@@ -3,7 +3,6 @@ library(tidyverse)
 library(lubridate)
 library(glue)
 source(here::here("R/00_sched-api.R"))
-source(here::here("R/00_utils.R"))
 
 gs4_auth("*@rstudio.com")
 

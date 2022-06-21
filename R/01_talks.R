@@ -14,7 +14,6 @@ library(tidyverse)
 library(purrr)
 library(here)
 source(here("R/00_sched-api.R"))
-source(here("R/00_utils.R"))
 
 # Gather talk data from .Rmds --------------------------------------------------
 
