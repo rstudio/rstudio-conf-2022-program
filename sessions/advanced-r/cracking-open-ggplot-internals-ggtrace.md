@@ -43,7 +43,7 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-The inner workings of {ggplot2} is difficult to grasp even for experienced
+The inner workings of {ggplot2} are difficult to grasp even for experienced
 users because its internal object-oriented (ggproto) system is hidden from user-
 facing functions, by design. This is exacerbated by the foreignness of ggproto
 itself, which remains the largest hurdle in the user-to-developer transition.
