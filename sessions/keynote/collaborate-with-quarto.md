@@ -22,7 +22,7 @@ speakers:
     linkedin: ~
     affiliation: ~
   slug: mine-çetinkaya-rundel
-  photo: /assets/img/2022Conf/_talks/22303_mine-çetinkaya-rundel.jpg
+  photo: /assets/img/2022Conf/_talks/22303_mine-cetinkaya-rundel.jpg
   bio: |+
     Mine Çetinkaya-Rundel is Professor of the Practice at Duke University and
     Developer Educator at RStudio. Mine’s work focuses on innovation in
