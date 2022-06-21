@@ -36,7 +36,7 @@ speakers <-
       "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main",
       photo
     ),
-    bio = bio |> map(commonmark::markdown_html),
+    bio = bio |> map_chr(commonmark::markdown_html),
   )
 
 # Combine with talk times to generate program -----------------------------
@@ -93,18 +93,24 @@ sched_upsert(program_sched, "session", "session_key", "event_key")
 
 # Update speaker info ----------------------------------------------------------
 
+speaker_sessions <-
+  speakers |>
+  group_by(username) |>
+  summarize(sessions = paste(talk_id, collapse = ","), .groups = "drop")
+
 speaker_sched <-
   speakers |>
+  group_by(username) |>
+  slice_max(nchar(bio), n = 1, with_ties = FALSE) |>
   transmute(
     username = username,
     role = "speaker",
     full_name = name,
     company = affiliation,
-    about = bio,
     avatar = photo,
-    sessions = talk_id,
     send_email = 0
-  )
+  ) |>
+  left_join(speaker_sessions, by = "username")
 
 tryCatch(
   sched_upsert(speaker_sched, "user", "username"),
