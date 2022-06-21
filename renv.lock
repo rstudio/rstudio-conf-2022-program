@@ -3,1213 +3,611 @@
     "Version": "4.2.0",
     "Repositories": [
       {
-        "Name": "gadenbuie",
-        "URL": "https://gadenbuie.r-universe.dev"
-      },
-      {
-        "Name": "mm",
-        "URL": "https://milesmcbain.r-universe.dev"
-      },
-      {
         "Name": "CRAN",
-        "URL": "https://cran.rstudio.com/"
+        "URL": "https://packagemanager.rstudio.com/cran/__linux__/focal/latest"
       }
     ]
   },
   "Packages": {
-    "DBI": {
-      "Source": "CRAN",
-      "Package": "DBI",
-      "Version": "1.1.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "DBI",
-      "RemoteRef": "DBI",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.1.2"
-    },
-    "R6": {
-      "Source": "CRAN",
-      "Package": "R6",
-      "Version": "2.5.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "R6",
-      "RemoteRef": "R6",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.5.1"
-    },
-    "RColorBrewer": {
-      "Source": "CRAN",
-      "Package": "RColorBrewer",
-      "Version": "1.1-3",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "RColorBrewer",
-      "RemoteRef": "RColorBrewer",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.1-3"
-    },
     "askpass": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "askpass",
       "Version": "1.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "askpass",
-      "RemoteRef": "askpass",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.1"
+      "Repository": "RSPM"
     },
     "assertthat": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "assertthat",
       "Version": "0.2.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "assertthat",
-      "RemoteRef": "assertthat",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.2.1"
+      "Repository": "RSPM"
     },
     "backports": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "backports",
       "Version": "1.4.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "backports",
-      "RemoteRef": "backports",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.4.1"
+      "Repository": "RSPM"
     },
     "base64enc": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "base64enc",
       "Version": "0.1-3",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "base64enc",
-      "RemoteRef": "base64enc",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.1-3"
-    },
-    "bit": {
-      "Source": "CRAN",
-      "Package": "bit",
-      "Version": "4.0.4",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "bit",
-      "RemoteRef": "bit",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "4.0.4"
+      "Repository": "RSPM"
     },
     "bit64": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "bit64",
       "Version": "4.0.5",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "bit64",
-      "RemoteRef": "bit64",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "4.0.5"
+      "Repository": "RSPM"
+    },
+    "bit": {
+      "Source": "Repository",
+      "Package": "bit",
+      "Version": "4.0.4",
+      "Repository": "RSPM"
     },
     "blob": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "blob",
       "Version": "1.2.3",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "blob",
-      "RemoteRef": "blob",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.2.3"
+      "Repository": "RSPM"
     },
     "broom": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "broom",
       "Version": "0.8.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "broom",
-      "RemoteRef": "broom",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.8.0"
+      "Repository": "RSPM"
     },
     "bslib": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "bslib",
       "Version": "0.3.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "bslib",
-      "RemoteRef": "bslib",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.3.1"
+      "Repository": "RSPM"
     },
     "cachem": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "cachem",
       "Version": "1.0.6",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "cachem",
-      "RemoteRef": "cachem",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.0.6"
+      "Repository": "RSPM"
     },
     "callr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "callr",
       "Version": "3.7.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "callr",
-      "RemoteRef": "callr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "3.7.0"
+      "Repository": "RSPM"
     },
     "cellranger": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "cellranger",
       "Version": "1.1.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "cellranger",
-      "RemoteRef": "cellranger",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.1.0"
+      "Repository": "RSPM"
     },
     "cli": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "cli",
       "Version": "3.3.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "cli",
-      "RemoteRef": "cli",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "3.3.0"
+      "Repository": "RSPM"
     },
     "clipr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "clipr",
       "Version": "0.8.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "clipr",
-      "RemoteRef": "clipr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.8.0"
+      "Repository": "RSPM"
     },
     "colorspace": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "colorspace",
       "Version": "2.0-3",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "colorspace",
-      "RemoteRef": "colorspace",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.0-3"
+      "Repository": "RSPM"
     },
     "commonmark": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "commonmark",
       "Version": "1.8.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "commonmark",
-      "RemoteRef": "commonmark",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.8.0"
+      "Repository": "RSPM"
     },
     "cpp11": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "cpp11",
       "Version": "0.4.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "cpp11",
-      "RemoteRef": "cpp11",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.4.2"
+      "Repository": "RSPM"
     },
     "crayon": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "crayon",
       "Version": "1.5.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "crayon",
-      "RemoteRef": "crayon",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.5.1"
+      "Repository": "RSPM"
     },
     "curl": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "curl",
       "Version": "4.3.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "curl",
-      "RemoteRef": "curl",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "4.3.2"
+      "Repository": "RSPM"
     },
     "data.table": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "data.table",
       "Version": "1.14.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "data.table",
-      "RemoteRef": "data.table",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.14.2"
+      "Repository": "RSPM"
+    },
+    "DBI": {
+      "Source": "Repository",
+      "Package": "DBI",
+      "Version": "1.1.2",
+      "Repository": "RSPM"
     },
     "dbplyr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "dbplyr",
       "Version": "2.2.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "dbplyr",
-      "RemoteRef": "dbplyr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.2.0"
+      "Repository": "RSPM"
     },
     "digest": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "digest",
       "Version": "0.6.29",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "digest",
-      "RemoteRef": "digest",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.6.29"
+      "Repository": "RSPM"
     },
     "dplyr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "dplyr",
       "Version": "1.0.9",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "dplyr",
-      "RemoteRef": "dplyr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.0.9"
+      "Repository": "RSPM"
     },
     "dtplyr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "dtplyr",
       "Version": "1.2.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "dtplyr",
-      "RemoteRef": "dtplyr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.2.1"
+      "Repository": "RSPM"
     },
     "ellipsis": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "ellipsis",
       "Version": "0.3.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "ellipsis",
-      "RemoteRef": "ellipsis",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.3.2"
+      "Repository": "RSPM"
     },
     "evaluate": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "evaluate",
       "Version": "0.15",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "evaluate",
-      "RemoteRef": "evaluate",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.15"
+      "Repository": "RSPM"
     },
     "fansi": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "fansi",
       "Version": "1.0.3",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "fansi",
-      "RemoteRef": "fansi",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.0.3"
+      "Repository": "RSPM"
     },
     "farver": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "farver",
       "Version": "2.1.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "farver",
-      "RemoteRef": "farver",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.1.0"
+      "Repository": "RSPM"
     },
     "fastmap": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "fastmap",
       "Version": "1.1.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "fastmap",
-      "RemoteRef": "fastmap",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.1.0"
+      "Repository": "RSPM"
     },
     "forcats": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "forcats",
       "Version": "0.5.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "forcats",
-      "RemoteRef": "forcats",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.5.1"
+      "Repository": "RSPM"
     },
     "fs": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "fs",
       "Version": "1.5.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "fs",
-      "RemoteRef": "fs",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.5.2"
+      "Repository": "RSPM"
     },
     "gargle": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "gargle",
       "Version": "1.2.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "gargle",
-      "RemoteRef": "gargle",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.2.0"
+      "Repository": "RSPM"
     },
     "generics": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "generics",
       "Version": "0.1.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "generics",
-      "RemoteRef": "generics",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.1.2"
+      "Repository": "RSPM"
     },
     "ggplot2": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "ggplot2",
       "Version": "3.3.6",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "ggplot2",
-      "RemoteRef": "ggplot2",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "3.3.6"
+      "Repository": "RSPM"
     },
     "glue": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "glue",
       "Version": "1.6.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "glue",
-      "RemoteRef": "glue",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.6.2"
+      "Repository": "RSPM"
     },
     "googledrive": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "googledrive",
       "Version": "2.0.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "googledrive",
-      "RemoteRef": "googledrive",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.0.0"
+      "Repository": "RSPM"
     },
     "googlesheets4": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "googlesheets4",
       "Version": "1.0.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "googlesheets4",
-      "RemoteRef": "googlesheets4",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.0.0"
+      "Repository": "RSPM"
     },
     "gtable": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "gtable",
       "Version": "0.3.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "gtable",
-      "RemoteRef": "gtable",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.3.0"
+      "Repository": "RSPM"
     },
     "haven": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "haven",
       "Version": "2.5.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "haven",
-      "RemoteRef": "haven",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.5.0"
+      "Repository": "RSPM"
     },
     "here": {
       "Source": "Repository",
       "Package": "here",
       "Version": "1.0.1",
-      "Repository": "CRAN"
+      "Repository": "RSPM"
     },
     "highr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "highr",
       "Version": "0.9",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "highr",
-      "RemoteRef": "highr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.9"
+      "Repository": "RSPM"
     },
     "hms": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "hms",
       "Version": "1.1.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "hms",
-      "RemoteRef": "hms",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.1.1"
+      "Repository": "RSPM"
     },
     "htmltools": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "htmltools",
       "Version": "0.5.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "htmltools",
-      "RemoteRef": "htmltools",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.5.2"
+      "Repository": "RSPM"
     },
     "httr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "httr",
       "Version": "1.4.3",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "httr",
-      "RemoteRef": "httr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.4.3"
+      "Repository": "RSPM"
     },
     "ids": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "ids",
       "Version": "1.0.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "ids",
-      "RemoteRef": "ids",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.0.1"
+      "Repository": "RSPM"
     },
     "isoband": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "isoband",
       "Version": "0.2.5",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "isoband",
-      "RemoteRef": "isoband",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.2.5"
+      "Repository": "RSPM"
     },
     "jquerylib": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "jquerylib",
       "Version": "0.1.4",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "jquerylib",
-      "RemoteRef": "jquerylib",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.1.4"
+      "Repository": "RSPM"
     },
     "jsonlite": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "jsonlite",
       "Version": "1.8.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "jsonlite",
-      "RemoteRef": "jsonlite",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.8.0"
+      "Repository": "RSPM"
     },
     "knitr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "knitr",
       "Version": "1.39",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "knitr",
-      "RemoteRef": "knitr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "source",
-      "RemoteSha": "1.39"
+      "Repository": "RSPM"
     },
     "labeling": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "labeling",
       "Version": "0.4.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "labeling",
-      "RemoteRef": "labeling",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.4.2"
+      "Repository": "RSPM"
     },
     "lifecycle": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "lifecycle",
       "Version": "1.0.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "lifecycle",
-      "RemoteRef": "lifecycle",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.0.1"
+      "Repository": "RSPM"
     },
     "lubridate": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "lubridate",
       "Version": "1.8.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "lubridate",
-      "RemoteRef": "lubridate",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.8.0"
+      "Repository": "RSPM"
     },
     "magrittr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "magrittr",
       "Version": "2.0.3",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "magrittr",
-      "RemoteRef": "magrittr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.0.3"
+      "Repository": "RSPM"
     },
     "memoise": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "memoise",
       "Version": "2.0.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "memoise",
-      "RemoteRef": "memoise",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.0.1"
+      "Repository": "RSPM"
     },
     "mime": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "mime",
       "Version": "0.12",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "mime",
-      "RemoteRef": "mime",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.12"
+      "Repository": "RSPM"
     },
     "modelr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "modelr",
       "Version": "0.1.8",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "modelr",
-      "RemoteRef": "modelr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.1.8"
+      "Repository": "RSPM"
     },
     "munsell": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "munsell",
       "Version": "0.5.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "munsell",
-      "RemoteRef": "munsell",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.5.0"
+      "Repository": "RSPM"
     },
     "openssl": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "openssl",
       "Version": "2.0.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "openssl",
-      "RemoteRef": "openssl",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.0.2"
+      "Repository": "RSPM"
     },
     "pillar": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "pillar",
       "Version": "1.7.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "pillar",
-      "RemoteRef": "pillar",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.7.0"
+      "Repository": "RSPM"
     },
     "pkgconfig": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "pkgconfig",
       "Version": "2.0.3",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "pkgconfig",
-      "RemoteRef": "pkgconfig",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.0.3"
+      "Repository": "RSPM"
     },
     "prettyunits": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "prettyunits",
       "Version": "1.1.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "prettyunits",
-      "RemoteRef": "prettyunits",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.1.1"
+      "Repository": "RSPM"
     },
     "processx": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "processx",
       "Version": "3.6.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "processx",
-      "RemoteRef": "processx",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "3.6.0"
+      "Repository": "RSPM"
     },
     "progress": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "progress",
       "Version": "1.2.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "progress",
-      "RemoteRef": "progress",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.2.2"
+      "Repository": "RSPM"
     },
     "ps": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "ps",
       "Version": "1.7.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "ps",
-      "RemoteRef": "ps",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.7.0"
+      "Repository": "RSPM"
     },
     "purrr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "purrr",
       "Version": "0.3.4",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "purrr",
-      "RemoteRef": "purrr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.3.4"
+      "Repository": "RSPM"
+    },
+    "R6": {
+      "Source": "Repository",
+      "Package": "R6",
+      "Version": "2.5.1",
+      "Repository": "RSPM"
     },
     "rappdirs": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "rappdirs",
       "Version": "0.3.3",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "rappdirs",
-      "RemoteRef": "rappdirs",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.3.3"
+      "Repository": "RSPM"
+    },
+    "RColorBrewer": {
+      "Source": "Repository",
+      "Package": "RColorBrewer",
+      "Version": "1.1-3",
+      "Repository": "RSPM"
     },
     "readr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "readr",
       "Version": "2.1.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "readr",
-      "RemoteRef": "readr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.1.2"
+      "Repository": "RSPM"
     },
     "readxl": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "readxl",
       "Version": "1.4.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "readxl",
-      "RemoteRef": "readxl",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.4.0"
-    },
-    "rematch": {
-      "Source": "CRAN",
-      "Package": "rematch",
-      "Version": "1.0.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "rematch",
-      "RemoteRef": "rematch",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.0.1"
+      "Repository": "RSPM"
     },
     "rematch2": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "rematch2",
       "Version": "2.1.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "rematch2",
-      "RemoteRef": "rematch2",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.1.2"
+      "Repository": "RSPM"
+    },
+    "rematch": {
+      "Source": "Repository",
+      "Package": "rematch",
+      "Version": "1.0.1",
+      "Repository": "RSPM"
     },
     "reprex": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "reprex",
       "Version": "2.0.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "reprex",
-      "RemoteRef": "reprex",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.0.1"
+      "Repository": "RSPM"
     },
     "rlang": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "rlang",
       "Version": "1.0.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "rlang",
-      "RemoteRef": "rlang",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.0.2"
+      "Repository": "RSPM"
     },
     "rmarkdown": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "rmarkdown",
       "Version": "2.14",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "rmarkdown",
-      "RemoteRef": "rmarkdown",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.14"
+      "Repository": "RSPM"
     },
     "rprojroot": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "rprojroot",
       "Version": "2.0.3",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "rprojroot",
-      "RemoteRef": "rprojroot",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.0.3"
+      "Repository": "RSPM"
     },
     "rstudioapi": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "rstudioapi",
       "Version": "0.13",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "rstudioapi",
-      "RemoteRef": "rstudioapi",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.13"
+      "Repository": "RSPM"
     },
     "rvest": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "rvest",
       "Version": "1.0.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "rvest",
-      "RemoteRef": "rvest",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.0.2"
+      "Repository": "RSPM"
     },
     "sass": {
-      "Source": "GitHub",
+      "Source": "Repository",
       "Package": "sass",
-      "Version": "0.4.1.9000",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteRepo": "sass",
-      "RemoteUsername": "rstudio",
-      "RemotePkgRef": "rstudio/sass",
-      "RemoteRef": "HEAD",
-      "RemoteSha": "72e722a54b37c081429b35c8da2c446bdace6573"
+      "Version": "0.4.1",
+      "Repository": "RSPM"
     },
     "scales": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "scales",
       "Version": "1.2.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "scales",
-      "RemoteRef": "scales",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.2.0"
+      "Repository": "RSPM"
     },
     "selectr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "selectr",
       "Version": "0.4-2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "selectr",
-      "RemoteRef": "selectr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.4-2"
+      "Repository": "RSPM"
     },
     "stringi": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "stringi",
       "Version": "1.7.6",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "stringi",
-      "RemoteRef": "stringi",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.7.6"
+      "Repository": "RSPM"
     },
     "stringr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "stringr",
       "Version": "1.4.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "stringr",
-      "RemoteRef": "stringr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.4.0"
+      "Repository": "RSPM"
     },
     "sys": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "sys",
       "Version": "3.4",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "sys",
-      "RemoteRef": "sys",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "3.4"
+      "Repository": "RSPM"
     },
     "tibble": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "tibble",
       "Version": "3.1.7",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "tibble",
-      "RemoteRef": "tibble",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "3.1.7"
+      "Repository": "RSPM"
     },
     "tidyr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "tidyr",
       "Version": "1.2.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "tidyr",
-      "RemoteRef": "tidyr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.2.0"
+      "Repository": "RSPM"
     },
     "tidyselect": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "tidyselect",
       "Version": "1.1.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "tidyselect",
-      "RemoteRef": "tidyselect",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.1.2"
+      "Repository": "RSPM"
     },
     "tidyverse": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "tidyverse",
       "Version": "1.3.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "tidyverse",
-      "RemoteRef": "tidyverse",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.3.1"
+      "Repository": "RSPM"
     },
     "tinytex": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "tinytex",
-      "Version": "0.40",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "tinytex",
-      "RemoteRef": "tinytex",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "source",
-      "RemoteSha": "0.40"
+      "Version": "0.39",
+      "Repository": "RSPM"
     },
     "tzdb": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "tzdb",
       "Version": "0.3.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "tzdb",
-      "RemoteRef": "tzdb",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.3.0"
+      "Repository": "RSPM"
     },
     "utf8": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "utf8",
       "Version": "1.2.2",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "utf8",
-      "RemoteRef": "utf8",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.2.2"
+      "Repository": "RSPM"
     },
     "uuid": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "uuid",
       "Version": "1.1-0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "uuid",
-      "RemoteRef": "uuid",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.1-0"
+      "Repository": "RSPM"
     },
     "vctrs": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "vctrs",
       "Version": "0.4.1",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "vctrs",
-      "RemoteRef": "vctrs",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.4.1"
+      "Repository": "RSPM"
     },
     "viridisLite": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "viridisLite",
       "Version": "0.4.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "viridisLite",
-      "RemoteRef": "viridisLite",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.4.0"
+      "Repository": "RSPM"
     },
     "vroom": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "vroom",
       "Version": "1.5.7",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "vroom",
-      "RemoteRef": "vroom",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.5.7"
+      "Repository": "RSPM"
     },
     "withr": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "withr",
       "Version": "2.5.0",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "withr",
-      "RemoteRef": "withr",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.5.0"
+      "Repository": "RSPM"
     },
     "xfun": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "xfun",
       "Version": "0.31",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "xfun",
-      "RemoteRef": "xfun",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "0.31"
+      "Repository": "RSPM"
     },
     "xml2": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "xml2",
       "Version": "1.3.3",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "xml2",
-      "RemoteRef": "xml2",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "1.3.3"
+      "Repository": "RSPM"
     },
     "yaml": {
-      "Source": "CRAN",
+      "Source": "Repository",
       "Package": "yaml",
       "Version": "2.3.5",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "yaml",
-      "RemoteRef": "yaml",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "x86_64-apple-darwin17.0",
-      "RemoteSha": "2.3.5"
+      "Repository": "RSPM"
     }
   }
 }
