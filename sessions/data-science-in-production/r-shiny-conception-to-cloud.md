@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: https://www.linkedin.com/in/ivonne-carrillo-dominguez/
     affiliation: https://www.bixal.com/about/ivonne-carrillo-dominguez/
-  slug: ivonne-carrillo-dominguez
+  username: ivonne_carrillo_dominguez
   photo: /assets/img/2022Conf/_talks/22136_ivonne-carrillo-dominguez.jpeg
   bio: |+
     Ivonne is a data engineer on the Data Science team at Bixal where

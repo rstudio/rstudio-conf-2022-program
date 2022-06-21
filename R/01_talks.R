@@ -2,11 +2,6 @@
 # https://rstudioconf2022.sched.com/editor
 # https://sched.com/api
 
-# TODO: figure out what's wrong here (needs unique suffix?)
-#   ✖ colin_gillespie: ERR: Username already exists, choose another one.
-#   ✖ david_smith: ERR: Username already exists, choose another one.
-#   ✖ nick_strayer: ERR: Username already exists, choose another one.
-# TODO: ✖ david_robinson: ERR: Email already exists, choose another one.
 # TODO: replace generic track names with real room names
 
 library(lubridate)
@@ -39,7 +34,7 @@ speakers <-
       "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main",
       photo
     ),
-    bio = bio |> map(commonmark::markdown_html),
+    bio = bio |> map_chr(commonmark::markdown_html),
   )
 
 # Combine with talk times to generate program -----------------------------
@@ -96,18 +91,24 @@ sched_upsert(program_sched, "session", "session_key", "event_key")
 
 # Update speaker info ----------------------------------------------------------
 
+speaker_sessions <-
+  speakers |>
+  group_by(username) |>
+  summarize(sessions = paste(talk_id, collapse = ","), .groups = "drop")
+
 speaker_sched <-
   speakers |>
+  group_by(username) |>
+  slice_max(nchar(bio), n = 1, with_ties = FALSE) |>
   transmute(
-    username = slug |> str_replace_all("-", "_") |> iconv(to = "ASCII//translit"),
+    username = username,
     role = "speaker",
     full_name = name,
     company = affiliation,
-    about = bio,
     avatar = photo,
-    sessions = talk_id,
     send_email = 0
-  )
+  ) |>
+  left_join(speaker_sessions, by = "username")
 
 tryCatch(
   sched_upsert(speaker_sched, "user", "username"),

@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: ~
     affiliation: ~
-  slug: mark-rieke
+  username: mark_rieke
   photo: /assets/img/2022Conf/_talks/22033_mark-rieke.png
   bio: |+
     I am the senior consumer experience (CX) analyst at Memorial Hermann

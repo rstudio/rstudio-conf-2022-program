@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/blairj09
     linkedin: https://www.linkedin.com/in/blairjm/
     affiliation: https://www.rstudio.com/
-  slug: james-blair
+  username: james_blair
   photo: /assets/img/2022Conf/_talks/22042_james-blair.jpg
   bio: |+
     James is a Product Manager for Cloud Integrations at RStudio, where

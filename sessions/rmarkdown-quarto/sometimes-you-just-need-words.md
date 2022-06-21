@@ -21,7 +21,7 @@ speakers:
     github: https://lmkirvan.github.io/index.html
     linkedin: https://www.linkedin.com/in/lewis-kirvan-9013392b/
     affiliation: https://www.consumerfinance.gov/
-  slug: lewis-kirvan
+  username: lewis_kirvan
   photo: /assets/img/2022Conf/_talks/22175_lewis-kirvan.jpg
   bio: |+
     I'm a researcher at the Consumer Financial Protection Bureau, where

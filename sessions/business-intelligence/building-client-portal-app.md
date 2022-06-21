@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: https://www.linkedin.com/in/thomas-wouters/
     affiliation: https://www.axi.be/nl
-  slug: thomas-wouters
+  username: thomas_wouters
   photo: /assets/img/2022Conf/_talks/22053_thomas-wouters.jpg
   bio: |+
     Thomas Wouters is a young man who is recently graduated in Applied
@@ -39,7 +39,7 @@ speakers:
     github: ~
     linkedin: https://www.linkedin.com/in/joran-de-wilde-0b952b174/
     affiliation: https://www.axi.be
-  slug: joran-de-wilde
+  username: joran_de_wilde
   photo: /assets/img/2022Conf/_talks/22053_joran-de-wilde.png
   bio: |+
     Joran is a 24 year old man who recently graduated as Master of ICT

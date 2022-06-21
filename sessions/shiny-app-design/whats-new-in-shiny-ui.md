@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: https://www.linkedin.com/in/gregswinehart/
     affiliation: https://www.rstudio.com/
-  slug: greg-swinehart
+  username: greg_swinehart
   photo: /assets/img/2022Conf/_talks/22063_greg-swinehart.jpg
   bio: |+
     Greg has contributed to RStudio's brand, print and web designs

@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/jtleek
     linkedin: ~
     affiliation: ~
-  slug: jeff-leek
+  username: jeff_leek
   photo: /assets/img/2022Conf/_talks/22304_jeff-leek.jpeg
   bio: |+
     NA

@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/awunderground
     linkedin: https://www.linkedin.com/in/aaronrwilliams100
     affiliation: https://www.urban.org/
-  slug: aaron-r-williams
+  username: aaron_r_williams
   photo: /assets/img/2022Conf/_talks/22119_aaron-r-williams.jpeg
   bio: |+
     Aaron R. Williams is a senior data scientist at the Urban Institute

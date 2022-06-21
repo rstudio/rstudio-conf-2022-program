@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/kellobri
     linkedin: https://www.linkedin.com/in/kellyobriant/
     affiliation: ~
-  slug: kelly-obriant
+  username: kelly_obriant
   photo: /assets/img/2022Conf/_talks/22010_kelly-obriant.jpg
   bio: |+
     Kelly O'Briant is the Product Manager for RStudio Connect.

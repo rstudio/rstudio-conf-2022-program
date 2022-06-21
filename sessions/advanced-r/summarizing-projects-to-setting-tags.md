@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/brshallo
     linkedin: https://www.linkedin.com/in/bryanshalloway
     affiliation: https://www.netapp.com/
-  slug: bryan-shalloway
+  username: bryan_shalloway
   photo: /assets/img/2022Conf/_talks/22103_bryan-shalloway.jpg
   bio: |+
     Bryan is a Data Scientist at NetApp where he has worked on a

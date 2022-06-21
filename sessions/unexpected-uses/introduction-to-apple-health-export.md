@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/johngoldin
     linkedin: ~
     affiliation: https://oir.yale.edu
-  slug: john-goldin
+  username: john_goldin
   photo: /assets/img/2022Conf/_talks/22156_john-goldin.jpeg
   bio: |+
     John Goldin spent his career as a data analyst for the Yale University

@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/andreash0
     linkedin: https://www.linkedin.com/in/andreas-hofheinz-3b686913b/
     affiliation: ~
-  slug: andreas-hofheinz
+  username: andreas_hofheinz
   photo: /assets/img/2022Conf/_talks/22128_andreas-hofheinz.jpg
   bio: |+
     Andreas is a consultant at d-fine and maintainer of the leafdown R
@@ -36,11 +36,11 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-Interactive maps are indispensable tools for exploring spatial datasets 
-because of their real-world context and intuitiveness. For a comprehensive 
-understanding of the data, it is often necessary to switch between 
-several map layers (such as states and counties) and to analyze multiple 
-variables simultaneously - both of which are challenging. In this talk, 
-I will show how we can overcome these challenges using the 
-leafdown package, which allows us to create multi-layer maps embedded 
+Interactive maps are indispensable tools for exploring spatial datasets
+because of their real-world context and intuitiveness. For a comprehensive
+understanding of the data, it is often necessary to switch between
+several map layers (such as states and counties) and to analyze multiple
+variables simultaneously - both of which are challenging. In this talk,
+I will show how we can overcome these challenges using the
+leafdown package, which allows us to create multi-layer maps embedded
 in Shiny apps.

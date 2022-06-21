@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/melissavanbussel
     linkedin: https://www.linkedin.com/in/melissavanbussel/
     affiliation: https://www.statcan.gc.ca/en/start
-  slug: melissa-van-bussel
+  username: melissa_van_bussel
   photo: /assets/img/2022Conf/_talks/22082_melissa-van-bussel.jpg
   bio: |+
     Melissa Van Bussel is an accredited [Associate Statistician](https://

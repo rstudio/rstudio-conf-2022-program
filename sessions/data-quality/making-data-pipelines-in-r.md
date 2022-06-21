@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/Meghansaha
     linkedin: https://www.linkedin.com/in/meghan-harris/
     affiliation: https://medicine.buffalo.edu/departments/family-medicine/research.html
-  slug: meghan-s-harris
+  username: meghan_s_harris
   photo: /assets/img/2022Conf/_talks/22005_meghan-s-harris.jpg
   bio: |+
     Meghan Harris is a self-taught R user that is a data integration

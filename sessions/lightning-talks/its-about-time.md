@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/DavisVaughan
     linkedin: ~
     affiliation: ~
-  slug: davis-vaughan
+  username: davis_vaughan
   photo: /assets/img/2022Conf/_talks/22028_davis-vaughan.jpg
   bio: |+
     Davis is a software engineer at RStudio working on improving the

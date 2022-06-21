@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/nrennie
     linkedin: https://www.linkedin.com/in/nicola-rennie-076511b3/
     affiliation: https://www.jumpingrivers.com/
-  slug: nicola-rennie
+  username: nicola_rennie
   photo: /assets/img/2022Conf/_talks/22141_nicola-rennie.jpg
   bio: |+
     Nicola Rennie is a statistician and data scientist, passionate about
@@ -46,9 +46,9 @@ spoken languages.
 Using a bilingual English-Welsh shiny app we developed to present public health
 data as a case study, this talk will discuss:
 
-- how we built a multilingual shiny app; 
+- how we built a multilingual shiny app;
 - how translation affected design decisions;
-- how we overcame the main issues faced; 
+- how we overcame the main issues faced;
 - and most importantly, what we'd do differently next time.
 
 By the end of this talk, you will have a better understanding of how to

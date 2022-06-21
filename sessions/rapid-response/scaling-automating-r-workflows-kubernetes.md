@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/isaac-florence
     linkedin: https://uk.linkedin.com/in/isaacflorence
     affiliation: https://www.gov.uk/government/organisations/uk-health-security-agency
-  slug: isaac-florence
+  username: isaac_florence
   photo: /assets/img/2022Conf/_talks/22199_isaac-florence.jpg
   bio: |+
     I am an epidemiologist and public health policy professional working

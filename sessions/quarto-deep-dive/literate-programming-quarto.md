@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/hamelsmu
     linkedin: https://www.linkedin.com/in/hamelhusain/
     affiliation: https://github.com/fastai
-  slug: nbdev-quarto
+  username: nbdev_quarto
   photo: https://github.com/hamelsmu.png
   bio: |+
     Hamel Husain is head of Data Science and ML at

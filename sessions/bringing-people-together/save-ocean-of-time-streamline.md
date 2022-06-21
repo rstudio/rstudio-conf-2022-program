@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/dempsey-CMAR
     linkedin: https://www.linkedin.com/in/danielledempsey/
     affiliation: https://cmar.ca/
-  slug: danielle-dempsey
+  username: danielle_dempsey
   photo: /assets/img/2022Conf/_talks/22146_danielle-dempsey.jpg
   bio: |+
     Danielle Dempsey is a Research Scientist and resident “R nerd” at the

@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/AmeliaMN
     linkedin: ~
     affiliation: ~
-  slug: amelia-mcnamara
+  username: amelia_mcnamara
   photo: /assets/img/2022Conf/_talks/22195_amelia-mcnamara.jpg
   bio: |+
     Amelia McNamara is an assistant professor of statistics at the

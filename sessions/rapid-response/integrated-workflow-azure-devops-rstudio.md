@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: https://www.linkedin.com/in/lytello
     affiliation: https://www.cdph.ca.gov/
-  slug: lawrence-y-tello
+  username: lawrence_y_tello
   photo: /assets/img/2022Conf/_talks/22227_lawrence-y-tello.jpg
   bio: |+
     Lawrence is an informatics specialist at the California Department

@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: https://www.linkedin.com/in/benjybraun/
     affiliation: https://www.202group.com
-  slug: benjamin-braun
+  username: benjamin_braun
   photo: /assets/img/2022Conf/_talks/22018_benjamin-braun.jpg
   bio: |+
     I am a mission-driven problem solver with expertise in bringing data

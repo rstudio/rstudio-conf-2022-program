@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/hfrick
     linkedin: https://www.linkedin.com/in/hannah-frick
     affiliation: https://www.rstudio.com/
-  slug: hannah-frick
+  username: hannah_frick
   photo: /assets/img/2022Conf/_talks/22073_hannah-frick.jpeg
   bio: |+
     Hannah Frick is a software engineer on the tidymodels team at

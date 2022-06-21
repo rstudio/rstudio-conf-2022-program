@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: https://www.linkedin.com/in/mrdatageek/
     affiliation: ~
-  slug: ryan-e-wade
+  username: ryan_e_wade
   photo: /assets/img/2022Conf/_talks/22013_ryan-e-wade.jpg
   bio: |+
     Ryan is a data and analytics solutions architect. He can present

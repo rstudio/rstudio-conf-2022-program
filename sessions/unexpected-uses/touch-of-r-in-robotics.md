@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/R-icntay
     linkedin: ~
     affiliation: https://lida.leeds.ac.uk/
-  slug: eric-wanjau
+  username: eric_wanjau
   photo: /assets/img/2022Conf/_talks/22132_eric-wanjau.png
   bio: |+
     Eric is an Early Career Researcher who continually seeks to tackle
@@ -43,7 +43,7 @@ speakers:
     github: https://github.com/ian011
     linkedin: ~
     affiliation: https://www.dkut.ac.ke/ and https://sunculture.com/
-  slug: ian-muchiri
+  username: ian_muchiri
   photo: /assets/img/2022Conf/_talks/22132_ian-muchiri.png
   bio: |+
     I am a co-founder and co-organizer of DekutR data science club at

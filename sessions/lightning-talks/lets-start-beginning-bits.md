@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/farach
     linkedin: https://www.linkedin.com/in/alex-farach/
     affiliation: https://www.accenture.com/us-en/services/us-federal-government/artificial-intelligence
-  slug: alex-farach
+  username: alex_farach
   photo: /assets/img/2022Conf/_talks/22154_alex-farach.jpeg
   bio: |+
     Alex Farach is an Analytics Manager and Data Scientist in the Applied
