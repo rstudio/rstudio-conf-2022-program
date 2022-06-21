@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/briandk/
     linkedin: https://www.linkedin.com/in/briandanielak/
     affiliation: http://briandk.github.io/
-  slug: brian-danielak
+  username: brian-danielak
   photo: /assets/img/2022Conf/_talks/22222_brian-danielak.jpg
   bio: |+
     Brian's career has spanned teaching, researching, and being a

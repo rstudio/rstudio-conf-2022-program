@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/tylermorganwall
     linkedin: https://www.linkedin.com/in/tyler-morgan-wall-88227015/
     affiliation: https://www.ida.org
-  slug: tyler-morgan-wall
+  username: tyler-morgan-wall
   photo: /assets/img/2022Conf/_talks/22131_tyler-morgan-wall.jpg
   bio: |+
     Dr. Tyler Morgan-Wall is the developer of the **rayverse**:

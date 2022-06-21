@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: ~
     affiliation: ~
-  slug: devin-pastoor
+  username: devin-pastoor
   photo: /assets/img/2022Conf/_talks/22234_devin-pastoor.png
   bio: |+
     Devin is a solutions engineer at RStudio. He has a PhD in

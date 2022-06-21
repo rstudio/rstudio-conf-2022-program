@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/mstackhouse
     linkedin: https://www.linkedin.com/in/michael-s-stackhouse/
     affiliation: https://www.atorusresearch.com/
-  slug: mike-stackhouse
+  username: mike-stackhouse
   photo: /assets/img/2022Conf/_talks/22194_mike-stackhouse.jpg
   bio: |+
     Mike Stackhouse is the Chief Innovation Officer of Atorus Research

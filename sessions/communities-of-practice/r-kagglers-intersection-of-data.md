@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: https://www.linkedin.com/in/martin-henze/
     affiliation: https://www.yipitdata.com/
-  slug: martin-henze
+  username: martin-henze
   photo: /assets/img/2022Conf/_talks/22208_martin-henze.jpg
   bio: |+
     Data Scientist @ YipitData | Kaggle Grandmaster | PhD Astrophysicist

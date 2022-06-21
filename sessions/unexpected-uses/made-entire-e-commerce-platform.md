@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/jnolis/ggirl
     linkedin: ~
     affiliation: ~
-  slug: jacqueline-nolis
+  username: jacqueline-nolis
   photo: /assets/img/2022Conf/_talks/22065_jacqueline-nolis.jpg
   bio: |+
     Dr. Jacqueline Nolis is a data science leader with 15 years of

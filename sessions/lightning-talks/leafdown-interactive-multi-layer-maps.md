@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/andreash0
     linkedin: https://www.linkedin.com/in/andreas-hofheinz-3b686913b/
     affiliation: ~
-  slug: andreas-hofheinz
+  username: andreas-hofheinz
   photo: /assets/img/2022Conf/_talks/22128_andreas-hofheinz.jpg
   bio: |+
     Andreas is a consultant at d-fine and maintainer of the leafdown R

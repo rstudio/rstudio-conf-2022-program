@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/nrennie
     linkedin: https://www.linkedin.com/in/nicola-rennie-076511b3/
     affiliation: https://www.jumpingrivers.com/
-  slug: nicola-rennie
+  username: nicola-rennie
   photo: /assets/img/2022Conf/_talks/22141_nicola-rennie.jpg
   bio: |+
     Nicola Rennie is a statistician and data scientist, passionate about

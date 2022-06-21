@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/jcheng5
     linkedin: ~
     affiliation: ~
-  slug: joe-cheng
+  username: joe-cheng
   photo: /assets/img/2022Conf/_talks/22302_joe-cheng.jpeg
   bio: |+
     NA

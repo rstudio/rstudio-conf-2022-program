@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/yihui
     linkedin: ~
     affiliation: ~
-  slug: yihui-xie
+  username: yihui-xie
   photo: /assets/img/2022Conf/_talks/22181_yihui-xie.png
   bio: |+
     Yihui Xie is a software engineer at RStudio. He earned his PhD from

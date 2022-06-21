@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/kamilzyla
     linkedin: https://www.linkedin.com/in/kamil-zyla/
     affiliation: ~
-  slug: kamil-zyla
+  username: kamil-zyla
   photo: /assets/img/2022Conf/_talks/22080_kamil-zyla.jpg
   bio: |+
     Kamil is a Full Stack Engineer at Appsilon and a core developer of

@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/kbodwin
     linkedin: ~
     affiliation: statistics.calpoly.edu
-  slug: kelly-bodwin
+  username: kelly-bodwin
   photo: /assets/img/2022Conf/_talks/22047_kelly-bodwin.jpg
   bio: |+
     Kelly Bodwin is an Assistant Professor of Statistics and Data

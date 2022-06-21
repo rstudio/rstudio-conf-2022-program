@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/sydeaka
     linkedin: https://www.linkedin.com/in/sydeakawatson/
     affiliation: https://www.lilly.com/
-  slug: sydeaka-watson
+  username: sydeaka-watson
   photo: /assets/img/2022Conf/_talks/22091_sydeaka-watson.jpeg
   bio: |+
     Dr. Sydeaka Watson earned a Ph.D. in Statistics from Baylor University

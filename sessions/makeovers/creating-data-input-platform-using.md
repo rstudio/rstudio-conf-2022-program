@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/hezibu/
     linkedin: ~
     affiliation: https://belmaker.weebly.com/
-  slug: hezi-buba
+  username: hezi-buba
   photo: /assets/img/2022Conf/_talks/22070_hezi-buba.jpg
   bio: |+
     Hezi is currently finishing his PhD in marine ecology at Tel Aviv

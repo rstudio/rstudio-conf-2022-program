@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/edavidaja
     linkedin: https://linkedin.com/in/edavidaja
     affiliation: https://RStudio.com
-  slug: e-david-aja
+  username: e-david-aja
   photo: /assets/img/2022Conf/_talks/22067_e-david-aja.jpg
   bio: |+
     E. David Aja is a Solutions Engineer at RStudio. He helps data

@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/sellorm
     linkedin: https://www.linkedin.com/in/msellors/
     affiliation: https://r4pi.org
-  slug: mark-sellors
+  username: mark-sellors
   photo: /assets/img/2022Conf/_talks/22105_mark-sellors.jpg
   bio: |+
     A life-long technologist, Mark has always been fascinated by the

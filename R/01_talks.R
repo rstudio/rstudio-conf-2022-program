@@ -99,7 +99,7 @@ sched_upsert(program_sched, "session", "session_key", "event_key")
 speaker_sched <-
   speakers |>
   transmute(
-    username = slug |> str_replace_all("-", "_") |> iconv(to = "ASCII//translit"),
+    username = username |> str_replace_all("-", "_") |> iconv(to = "ASCII//translit"),
     role = "speaker",
     full_name = name,
     company = affiliation,

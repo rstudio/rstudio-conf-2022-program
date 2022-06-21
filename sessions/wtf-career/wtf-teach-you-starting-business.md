@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/dgkeyes
     linkedin: https://www.linkedin.com/in/dgkeyes/
     affiliation: https://rfortherestofus.com
-  slug: david-keyes
+  username: david-keyes
   photo: /assets/img/2022Conf/_talks/22037_david-keyes.jpg
   bio: |+
     David Keyes is the CEO and founder of R for the Rest of Us. Since

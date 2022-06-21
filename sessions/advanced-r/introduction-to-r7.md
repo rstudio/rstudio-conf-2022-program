@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/hadley
     linkedin: ~
     affiliation: https://rstudio.com
-  slug: hadley-wickham
+  username: hadley-wickham
   photo: /assets/img/2022Conf/_talks/22110_hadley-wickham.jpg
   bio: |+
     Hadley is Chief Scientist at RStudio, winner of the 2019 COPSS award,

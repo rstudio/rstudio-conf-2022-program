@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/benmatheson
     linkedin: https://www.linkedin.com/in/benmatheson
     affiliation: https://muni.org
-  slug: ben-matheson
+  username: ben-matheson
   photo: /assets/img/2022Conf/_talks/22139_ben-matheson.jpg
   bio: |+
     Ben Matheson is the Data Analyst for the Anchorage Innovation Team—

@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/IleanaF
     linkedin: https://www.linkedin.com/in/ileana-fenwick-0238ba132/
     affiliation: https://nye.unc.edu/
-  slug: ileana-fenwick
+  username: ileana-fenwick
   photo: /assets/img/2022Conf/_talks/22083_ileana-fenwick.jpg
   bio: |+
     Ileana Fenwick is an open science advocate and Marine Sciences Ph.D.

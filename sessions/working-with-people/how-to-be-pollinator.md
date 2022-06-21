@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/weihuangwong
     linkedin: ~
     affiliation: https://www.norc.org/
-  slug: weihuang-wong
+  username: weihuang-wong
   photo: /assets/img/2022Conf/_talks/22075_weihuang-wong.jpg
   bio: |+
     Weihuang (Wei) Wong is a Senior Research Methodologist at NORC, where
@@ -38,7 +38,7 @@ speakers:
     github: https://github.com/kiegan
     linkedin: ~
     affiliation: https://www.norc.org/Pages/default.aspx
-  slug: kiegan-rice
+  username: kiegan-rice
   photo: /assets/img/2022Conf/_talks/22075_kiegan-rice.jpg
   bio: |+
     Kiegan is a Statistician at NORC at the University of Chicago

@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/dietrichson
     linkedin: https://www.linkedin.com/in/dietrichson/
     affiliation: http://www.chi2labs.com
-  slug: aleksander-dietrichson
+  username: aleksander-dietrichson
   photo: /assets/img/2022Conf/_talks/22212_aleksander-dietrichson.png
   bio: |+
     Aleksander (Sasha) Dietrichson, Phd is a professor of Data Science and

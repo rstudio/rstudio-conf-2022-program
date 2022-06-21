@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: https://www.linkedin.com/in/hannah-podzorski
     affiliation: https://www.gsienv.com/
-  slug: hannah-podzorski
+  username: hannah-podzorski
   photo: /assets/img/2022Conf/_talks/22158_hannah-podzorski.jpg
   bio: |+
     Hannah Podzorski is a hydrologist currently working as an

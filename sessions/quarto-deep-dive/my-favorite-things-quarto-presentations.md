@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/tracykteal
     linkedin: https://www.linkedin.com/in/tracy-teal-059136b/
     affiliation: https://www.rstudio.com/
-  slug: tracy-teal
+  username: tracy-teal
   photo: /assets/img/2022Conf/_talks/22044_tracy-teal.jpg
   bio: |+
     Tracy Teal has been working with open source communities as a

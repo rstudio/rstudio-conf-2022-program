@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/MayaGans
     linkedin: https://www.linkedin.com/in/mayagans/
     affiliation: https://www.atorusresearch.com/
-  slug: maya-gans
+  username: maya-gans
   photo: /assets/img/2022Conf/_talks/22109_maya-gans.png
   bio: |+
     Maya Gans is an experienced R and JavaScript developer, who recently

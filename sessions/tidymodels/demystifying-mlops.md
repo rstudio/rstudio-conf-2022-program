@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/isabelizimm
     linkedin: https://www.linkedin.com/in/isabel-zimmerman/
     affiliation: https://www.rstudio.com/
-  slug: isabel-zimmerman
+  username: isabel-zimmerman
   photo: /assets/img/2022Conf/_talks/22166_isabel-zimmerman.jpg
   bio: |+
     Isabel Zimmerman is a software engineer on the open source team at

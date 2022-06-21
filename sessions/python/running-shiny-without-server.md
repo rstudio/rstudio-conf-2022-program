@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/wch
     linkedin: ~
     affiliation: https://rstudio.com
-  slug: winston-chang
+  username: winston-chang
   photo: /assets/img/2022Conf/_talks/22232_winston-chang.jpeg
   bio: |+
     Winston Chang is a software engineer at RStudio and currently works

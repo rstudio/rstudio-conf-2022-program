@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/petergandenberger/
     linkedin: https://www.linkedin.com/in/peter-gandenberger-a7a2ba172/
     affiliation: ~
-  slug: peter-gandenberger
+  username: peter-gandenberger
   photo: /assets/img/2022Conf/_talks/22178_peter-gandenberger.jpg
   bio: |+
     Peter is about to finish his Masters in Data Engineering & Analytics
@@ -38,7 +38,7 @@ speakers:
     github: ~
     linkedin: ~
     affiliation: ~
-  slug: andreas-hofheinz
+  username: andreas-hofheinz
   photo: /assets/img/2022Conf/_talks/22178_andreas-hofheinz.jpg
   bio: |+
     Andreas is a consultant at d-fine and maintainer of the leafdown R

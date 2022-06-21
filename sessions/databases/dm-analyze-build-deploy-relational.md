@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/krlmlr/
     linkedin: https://www.linkedin.com/in/kirill-m%C3%BCller/
     affiliation: https://cynkra.com
-  slug: kirill-muller
+  username: kirill-muller
   photo: /assets/img/2022Conf/_talks/22187_kirill-muller.jpeg
   bio: |+
     Kirill has been working on the boundary between data and computer

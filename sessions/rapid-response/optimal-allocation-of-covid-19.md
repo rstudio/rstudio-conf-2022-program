@@ -21,7 +21,7 @@ speakers:
     github: ~
     linkedin: ~
     affiliation: ~
-  slug: allison-fox
+  username: allison-fox
   photo: /assets/img/2022Conf/_talks/22230_allison-fox.jpg
   bio: |+
     Allison Fox is a senior associate in data science who supports a range
@@ -42,7 +42,7 @@ speakers:
     github: https://github.com/anu87
     linkedin: https://www.linkedin.com/in/anubhuti-mishra-1958298/
     affiliation: https://datafi.thepalladiumgroup.com/
-  slug: anubhuti-mishra
+  username: anubhuti-mishra
   photo: /assets/img/2022Conf/_talks/22230_anubhuti-mishra.png
   bio: |+
     Anubhuti Mishra is a Senior Data Scientist who works at the

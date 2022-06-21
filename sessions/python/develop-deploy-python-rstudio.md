@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/gsingh91
     linkedin: https://www.linkedin.com/in/gagandeeepuw/
     affiliation: https://www.rstudio.com/about
-  slug: gagandeep-singh
+  username: gagandeep-singh
   photo: /assets/img/2022Conf/_talks/22126_gagandeep-singh.jpg
   bio: |+
     Gagandeep works as a Solutions Engineer with RStudio. He is a former
@@ -39,7 +39,7 @@ speakers:
     github: https://github.com/xuf12
     linkedin: https://www.linkedin.com/in/xufei1/
     affiliation: https://www.rstudio.com
-  slug: xu-fei
+  username: xu-fei
   photo: /assets/img/2022Conf/_talks/22126_xu-fei.png
   bio: |+
     Xu Fei is a solutions engineer at RStudio with experience building

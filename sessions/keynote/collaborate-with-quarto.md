@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/mine-cetinkaya-rundel
     linkedin: ~
     affiliation: ~
-  slug: mine-çetinkaya-rundel
+  username: mine-çetinkaya-rundel
   photo: /assets/img/2022Conf/_talks/22303_mine-cetinkaya-rundel.jpg
   bio: |+
     Mine Çetinkaya-Rundel is Professor of the Practice at Duke University and
@@ -50,7 +50,7 @@ speakers:
     github: https://github.com/jules32
     linkedin: ~
     affiliation: ~
-  slug: julia-stewart-lowndes
+  username: julia-stewart-lowndes
   photo: /assets/img/2022Conf/_talks/22303_julia-stewart-lowndes.jpeg
   bio: |+
     [Julia Stewart Lowndes](http://jules32.github.io/), PhD founded
