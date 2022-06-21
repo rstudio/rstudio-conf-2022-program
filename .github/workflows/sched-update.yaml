@@ -1,0 +1,50 @@
+# Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
+# Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
+on:
+  workflow_dispatch:
+  # push:
+  #   branches: [main]
+  #   paths: ['sessions/**.md', 'assets/**']
+  pull_request:
+    branches: [main]
+    paths: ['sessions/**.md', 'assets/**']
+
+name: sched-update
+
+jobs:
+  sched-update:
+    runs-on: ubuntu-20.04
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      SCHED_CONF_2022: ${{ secrets.SCHED_CONF_2022 }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - uses: r-lib/actions/setup-pandoc@v2
+
+      - uses: r-lib/actions/setup-r@v2
+
+      - uses: r-lib/actions/setup-renv@v2
+
+      - name: Check talk YAML structure
+        shell: Rscript {0}
+        run: |
+          # Read talks to ensure that YAML is valid
+          source(here::here("R/00_utils.R"))
+          talks <- read_talk_md(here::here("sessions"))
+
+      - name: '[sched] Update talks'
+        if: ${{ github.event_name != 'pull_request' }}
+        run: Rscript 'R/01_talks.R'
+
+      ### Disabled for now, requires access to Google Sheets ###
+      # - name: [sched] Update workshops
+      #   if: ${{ github.event_name != 'pull_request' }}
+      #   run: Rscript 'R/02_workshops.R'
+      #
+      # - name: [sched] Update social events
+      #   if: ${{ github.event_name != 'pull_request' }}
+      #   run: Rscript 'R/03_social-bof.R'
