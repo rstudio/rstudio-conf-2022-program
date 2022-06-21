@@ -24,7 +24,23 @@ speakers:
   slug: mine-çetinkaya-rundel
   photo: /assets/img/2022Conf/_talks/22303_mine-çetinkaya-rundel.jpg
   bio: |+
-    Mine Çetinkaya-Rundel is Professor of the Practice at Duke University and Developer Educator at RStudio. Mine’s work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. Mine works on the OpenIntro project, whose mission is to make educational products that are free, transparent, and lower barriers to education. As part of this project she co-authored four open-source introductory statistics textbooks. She is also the creator and maintainer of datasciencebox.org and she teaches the popular Statistics with R MOOC on Coursera. Mine is a Fellow of the ASA and Elected Member of the ISI as well as the winner of the 2021 Robert V. Hogg Award for For Excellence in Teaching Introductory Statistics.
+    Mine Çetinkaya-Rundel is Professor of the Practice at Duke University and
+    Developer Educator at RStudio. Mine’s work focuses on innovation in
+    statistics and data science pedagogy, with an emphasis on computing,
+    reproducible research, student-centered learning, and open-source education
+    as well as pedagogical approaches for enhancing retention of women and
+    under-represented minorities in STEM. Mine works on integrating computation
+    into the undergraduate statistics curriculum, using reproducible research
+    methodologies and analysis of real and complex datasets. Mine works on the
+    [OpenIntro project](http://openintrostat.github.io/openintro/), whose
+    mission is to make educational products that are free, transparent, and
+    lower barriers to education. As part of this project she co-authored four
+    open-source introductory statistics textbooks. She is also the creator and
+    maintainer of [datasciencebox.org](https://datasciencebox.org) and she
+    teaches the popular [Statistics with R MOOC on Coursera](https://www.coursera.org/specializations/statistics).
+    Mine is a Fellow of the ASA and Elected Member of the ISI as well as the
+    winner of the 2021 Robert V. Hogg Award for For Excellence in Teaching
+    Introductory Statistics.
 
 - name: Julia Stewart Lowndes
   affiliation: Openscapes
