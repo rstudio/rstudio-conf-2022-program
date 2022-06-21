@@ -2,9 +2,11 @@
 # https://rstudioconf2022.sched.com/editor
 # https://sched.com/api
 
-# TODO: figure out what's wrong with david_smith, colin_gillespie,
-#   david_robinson, and nick_strayer - need unique prefix?
-# TODO: figure out why Mine's info is missing
+# TODO: figure out what's wrong here (needs unique suffix?)
+#   ✖ colin_gillespie: ERR: Username already exists, choose another one.
+#   ✖ david_smith: ERR: Username already exists, choose another one.
+#   ✖ nick_strayer: ERR: Username already exists, choose another one.
+# TODO: ✖ david_robinson: ERR: Email already exists, choose another one.
 # TODO: replace generic track names with real room names
 
 library(lubridate)
@@ -95,14 +97,23 @@ sched_upsert(program_sched, "session", "session_key", "event_key")
 
 # Update speaker info ----------------------------------------------------------
 
-speaker_sched <- speakers |> transmute(
-  username = slug |> str_replace_all("-", "_") |> iconv(to = "ASCII//translit"),
-  role = "speaker",
-  full_name = name,
-  company = affiliation,
-  about = bio,
-  avatar = photo,
-  sessions = talk_id,
-  send_email = 0
+speaker_sched <-
+  speakers |>
+  transmute(
+    username = slug |> str_replace_all("-", "_") |> iconv(to = "ASCII//translit"),
+    role = "speaker",
+    full_name = name,
+    company = affiliation,
+    about = bio,
+    avatar = photo,
+    sessions = talk_id,
+    send_email = 0
+  )
+
+tryCatch(
+  sched_upsert(speaker_sched, "user", "username"),
+  error = function(err) {
+    # there are a few known speaker problems (see top of script)
+    rlang::inform(conditionMessage(err))
+  }
 )
-sched_upsert(speaker_sched, "user", "username")
