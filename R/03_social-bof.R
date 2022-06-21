@@ -1,7 +1,7 @@
 library(googlesheets4)
 library(tidyverse)
 library(lubridate)
-source("sched-api.R")
+source(here::here("R/00_sched-api.R"))
 
 gs4_auth("*@rstudio.com")
 
@@ -11,11 +11,7 @@ events <- read_sheet(
 )
 
 times <- read_sheet("14cupdpbOj_aDQdiee-Db3Gde77JN9HWik73nZW7xMGs") |>
-  mutate(
-    date = ymd("2022-07-25", tz = "America/Detroit") + days(day - 1),
-    start = date + hms::as_hms(start),
-    end = date + hms::as_hms(end),
-  ) |>
+  make_start_end_relative() |>
   select(block, start, end)
 
 

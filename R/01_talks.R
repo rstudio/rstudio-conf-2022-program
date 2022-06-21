@@ -2,49 +2,34 @@
 # https://rstudioconf2022.sched.com/editor
 # https://sched.com/api
 
-# TODO: figure out what's wrong with david_smith, colin_gillespie,
-#   david_robinson, and nick_strayer - need unique prefix?
-# TODO: figure out why Mine's info is missing
-# TODO: extract out repeated date-time code
+# TODO: figure out what's wrong here (needs unique suffix?)
+#   ✖ colin_gillespie: ERR: Username already exists, choose another one.
+#   ✖ david_smith: ERR: Username already exists, choose another one.
+#   ✖ nick_strayer: ERR: Username already exists, choose another one.
+# TODO: ✖ david_robinson: ERR: Email already exists, choose another one.
 # TODO: replace generic track names with real room names
 
 library(lubridate)
 library(tidyverse)
 library(purrr)
-source("sched-api.R")
+library(here)
+source(here("R/00_sched-api.R"))
 
 # Gather talk data from .Rmds --------------------------------------------------
 
-paths <- fs::dir_ls("sessions", recurse = TRUE, glob = "*.md")
+talk_data <- read_talk_md(here("sessions"))
 
-files <- paths |> map(readLines)
-data <- files |> map(rmarkdown:::partition_yaml_front_matter)
-
-yaml <- data |> map("front_matter") |> map(safely(yaml::yaml.load))
-
-if (some(yaml, ~ !is.null(.x$error))) {
-  errors <- yaml |> map("error") |> discard(is.null) |> imap_chr(
-    ~ sprintf("{.path %s}: %s", .y, conditionMessage(.x))
-  )
-  names(errors) <- rep_len("x", length(errors))
-  cli::cli_abort(c("Failed to parse YAML front matter of {length(errors)} talk{?s}.", errors))
-} else {
-  yaml <- yaml |> map("result")
-}
-
-abstracts <- data |>
-  map("body") |>
-  map_chr(~ paste(.x[-(1:5)], collapse = "\n")) |>
-  map_chr(commonmark::markdown_html)
-
-talks <- tibble(yaml = yaml) |>
+talks <-
+  tibble(yaml = talk_data$yaml) |>
   unnest_wider(yaml) |>
   select(talk_id, talk_title, speakers) |>
   mutate(
-    abstract = abstracts,
-    talk_tags = map(yaml, "talk_tags") |> map_chr(paste, collapse = ", ")
+    abstract = talk_data$abstract,
+    talk_tags = map(talk_data$yaml, "talk_tags") |> map_chr(paste, collapse = ", ")
   )
-speakers <- talks |>
+
+speakers <-
+  talks |>
   select(talk_id, speakers) |>
   unnest_longer(speakers) |>
   unnest_wider(speakers) |>
@@ -69,7 +54,7 @@ rooms <- tribble(
   "D", "Yenisey"
 )
 
-sessions <- read_csv("_data/28-session-slug-titles_synched.csv", col_types = list()) |>
+sessions <- read_csv(here("_data/28-session-slug-titles_synched.csv"), col_types = list()) |>
   select(session_slug = slug, session_title = title)
 
 first_upper <- function(x) {
@@ -77,13 +62,9 @@ first_upper <- function(x) {
   x
 }
 
-talk_times <- read_csv("_data/34-talk-times.csv", col_types = list()) |>
-  mutate(
-    date = ymd("2022-07-25", tz = "America/Detroit") + days(day - 1),
-    start = date + start,
-    end = date + end,
-    talk_type = first_upper(talk_type)
-  ) |>
+talk_times <- read_csv(here("_data/34-talk-times.csv"), col_types = list()) |>
+  make_start_end_relative() |>
+  mutate(talk_type = first_upper(talk_type)) |>
   left_join(sessions, by = "session_slug") |>
   select(-session_slug, -date) |>
   left_join(rooms, by = "track")
@@ -115,14 +96,23 @@ sched_upsert(program_sched, "session", "session_key", "event_key")
 
 # Update speaker info ----------------------------------------------------------
 
-speaker_sched <- speakers |> transmute(
-  username = slug |> str_replace_all("-", "_") |> iconv(to = "ASCII//translit"),
-  role = "speaker",
-  full_name = name,
-  company = affiliation,
-  about = bio,
-  avatar = photo,
-  sessions = talk_id,
-  send_email = 0
+speaker_sched <-
+  speakers |>
+  transmute(
+    username = slug |> str_replace_all("-", "_") |> iconv(to = "ASCII//translit"),
+    role = "speaker",
+    full_name = name,
+    company = affiliation,
+    about = bio,
+    avatar = photo,
+    sessions = talk_id,
+    send_email = 0
+  )
+
+tryCatch(
+  sched_upsert(speaker_sched, "user", "username"),
+  error = function(err) {
+    # there are a few known speaker problems (see top of script)
+    rlang::inform(conditionMessage(err))
+  }
 )
-sched_upsert(speaker_sched, "user", "username")
