@@ -31,21 +31,7 @@ speakers:
     shiny dashboards without writing R-code.
 
 - name: Andreas Hofheinz
-  affiliation: ~
-  url:
-    webpage: ~
-    twitter: ~
-    github: ~
-    linkedin: ~
-    affiliation: ~
   username: andreas_hofheinz
-  photo: /assets/img/2022Conf/_talks/22178_andreas-hofheinz.jpg
-  bio: |+
-    Andreas is a consultant at d-fine and maintainer of the leafdown R
-    package. He is passionate about interactive data visualizations and
-    interpretable machine learning. He holds a B.Sc. in Economics and an
-    M.Sc. in Statistics from LMU Munich.
-
 
 ---
 
