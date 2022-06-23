@@ -7,9 +7,9 @@ talk_tags: [communication, process, programming, tool]
 session_slug: working-with-code
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Demystifying the Art of creating custom Libraries for your organization."
+talk_title: "Demystifying the art of creating custom libraries for your organization"
 # A short version of the title, suitable for small displays
-talk_title_short: Demystifying the Art of creating custom Libraries for your organization.
+talk_title_short: Demystifying the art of creating custom libraries for your organization
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:

@@ -9,7 +9,7 @@ session_slug: keynote
 # The title of your talk
 talk_title: "Data science training in communities with limited technology resources and opportunities"
 # A short version of the title, suitable for small displays
-talk_title_short: Data science training in communities with limited technology resources and opportunities
+talk_title_short: Data science training in communities with limited resources and opportunities
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:

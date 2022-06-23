@@ -32,6 +32,7 @@ speakers:
 
 - name: Andreas Hofheinz
   username: andreas_hofheinz
+  photo: /assets/img/2022Conf/_talks/22128_andreas-hofheinz.jpg
 
 ---
 

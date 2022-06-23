@@ -9,7 +9,7 @@ session_slug: communities-of-practice
 # The title of your talk
 talk_title: "Everything I learned about community building, I learned from growing up in a restaurant"
 # A short version of the title, suitable for small displays
-talk_title_short: Everything I learned about community building, I learned from growing up in a restaurant
+talk_title_short: Everything I learned about community building from growing up in a restaurant
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:

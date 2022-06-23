@@ -9,7 +9,7 @@ session_slug: rapid-response
 # The title of your talk
 talk_title: "Optimal allocation of COVID-19 vaccines in west Africa - A Shiny success story"
 # A short version of the title, suitable for small displays
-talk_title_short: Optimal allocation of COVID-19 vaccines in west Africa - A Shiny success story
+talk_title_short: Optimal allocation of COVID-19 vaccines in west Africa
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:

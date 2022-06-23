@@ -7,9 +7,9 @@ talk_tags: [design, html/css/js, shiny]
 session_slug: lightning-talks
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Let your mobile shine - Leveraging CSS concepts to make shiny apps mobile responsive."
+talk_title: "Let your mobile shine - Leveraging CSS concepts to make shiny apps mobile responsive"
 # A short version of the title, suitable for small displays
-talk_title_short: Let your mobile shine - Leveraging CSS concepts to make shiny apps mobile responsive.
+talk_title_short: "Let your mobile shine: Making shiny apps mobile responsive"
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:

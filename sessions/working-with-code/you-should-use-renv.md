@@ -7,9 +7,9 @@ talk_tags: [production, tool]
 session_slug: working-with-code
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "You should be using renv."
+talk_title: "You should be using renv"
 # A short version of the title, suitable for small displays
-talk_title_short: You should be using renv.
+talk_title_short: You should be using renv
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:

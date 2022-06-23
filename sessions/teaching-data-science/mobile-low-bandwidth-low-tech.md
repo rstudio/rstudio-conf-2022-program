@@ -9,7 +9,7 @@ session_slug: teaching-data-science
 # The title of your talk
 talk_title: "Mobile, Low-Bandwidth and Low-Tech. The Story of Chi-Square Mobile."
 # A short version of the title, suitable for small displays
-talk_title_short: Mobile, Low-Bandwidth and Low-Tech. The Story of Chi-Square Mobile.
+talk_title_short: Mobile, Low-Bandwidth and Low-Tech
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:

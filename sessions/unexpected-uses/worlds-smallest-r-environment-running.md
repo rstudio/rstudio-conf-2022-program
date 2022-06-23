@@ -7,9 +7,9 @@ talk_tags: [access, programming, recreational]
 session_slug: unexpected-uses
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "The worlds smallest R environment? Running R on a $15 computer."
+talk_title: "The worlds smallest R environment? Running R on a $15 computer"
 # A short version of the title, suitable for small displays
-talk_title_short: The worlds smallest R environment? Running R on a $15 computer.
+talk_title_short: The worlds smallest R environment? Running R on a $15 computer
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:

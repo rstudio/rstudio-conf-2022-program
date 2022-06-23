@@ -9,7 +9,7 @@ session_slug: wtf-career
 # The title of your talk
 talk_title: "What they forgot to teach you about industry transitions from academia (WTF AITA)"
 # A short version of the title, suitable for small displays
-talk_title_short: What they forgot to teach you about industry transitions from academia (WTF AITA)
+talk_title_short: "WTF AITA: What they forgot to teach you about industry transitions from academia"
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:

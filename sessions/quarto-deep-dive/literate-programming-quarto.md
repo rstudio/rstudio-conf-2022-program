@@ -22,7 +22,7 @@ speakers:
     linkedin: https://www.linkedin.com/in/hamelhusain/
     affiliation: https://github.com/fastai
   username: nbdev_quarto
-  photo: https://github.com/hamelsmu.png
+  photo: /assets/img/2022Conf/_talks/22142_hamel-husain.jpg
   bio: |+
     Hamel Husain is head of Data Science and ML at
     [Outerbounds](https://outerbounds.com/) (the developers of

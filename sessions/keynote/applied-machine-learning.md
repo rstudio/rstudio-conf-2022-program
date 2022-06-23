@@ -7,9 +7,9 @@ talk_tags: ~
 session_slug: keynote
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Good practices for applied machine learning - from model development to model deployment."
+talk_title: "Good practices for applied machine learning - from model development to model deployment"
 # A short version of the title, suitable for small displays
-talk_title_short: Good practices for applied machine learning - from model development to model deployment.
+talk_title_short: Good practices for applied machine learning
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:

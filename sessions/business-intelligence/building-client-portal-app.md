@@ -9,7 +9,7 @@ session_slug: business-intelligence
 # The title of your talk
 talk_title: "Building a client portal app for a mortgage management group with embedded Power BI reports"
 # A short version of the title, suitable for small displays
-talk_title_short: Building a client portal app for a mortgage management group with embedded Power BI reports
+talk_title_short: Building a client portal app with embedded Power BI reports
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
