@@ -1,0 +1,216 @@
+---
+output:
+  html_document_base:
+    theme: ~
+params:
+  title: What They Forgot to Teach You About R
+  speakers:
+    value:
+    - name: Shannon McClintock Pileggi
+      image: https://d33wubrfki0l68.cloudfront.net/8f4db035ed00923bb39f53e6c98a49a5ec00ea02/1602a/assets/img/2022conf/_workshops/8-shannon-mcclintock-pileggi.jpg
+    - name: Jenny Bryan
+      image: https://d33wubrfki0l68.cloudfront.net/7719255918146a258f40cb177b1267a9cc0c16ab/62e7b/assets/img/2022conf/_workshops/8-jenny-bryan.jpg
+    - name: David Aja
+      image: https://d33wubrfki0l68.cloudfront.net/95ba97878a104454b4b65143eaeb966e87318711/8e2a2/assets/img/2022conf/_workshops/8-david-aja.jpg
+  date: July 25—26th
+  style: opt1
+---
+
+---
+pagetitle: |
+  `r params$title`
+---
+
+:::: {.card-container .`r params$style`}
+
+```{=html}
+<div class="title"><div>`r params$title`</div></div>
+```
+
+<!-- html_preserve -->
+```{r echo=FALSE, results = "asis"}
+htmltools::tagList(
+  htmltools::div(
+    class = c(
+      "speakers",
+      paste0("speakers-", length(params$speakers))
+      # if (purrr::some(params$speakers, ~ grepl("Shannon", .x$name))) "speakers-tight"
+    ),
+    lapply(params$speakers, function(speaker) {
+      htmltools::withTags(
+        div(
+          class = "speaker",
+          div(class = "speaker-image", img(src = speaker$image)),
+          div(class = "speaker-name", toupper(speaker$name))
+        )
+      )
+    })
+  )
+)
+```
+<!-- /html_preserve -->
+
+::::
+
+```{css echo=FALSE}
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;400&family=Source+Code+Pro:wght@300&display=swap');
+
+body {
+  max-width: unset;
+}
+
+.avoid-break {
+  white-space: nowrap;
+}
+
+.card-container {
+  position: relative;
+  width: 1200px;
+  height: 675px;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: white;
+  background-size: contain;
+  /* transform: scale(0.8); */
+  transform-origin: 0 0;
+}
+
+.card-container.opt1 {
+  background: url(backgrounds/conf-twitter-opt1-bg.jpg);
+}
+.card-container.opt2 {
+  background: url(backgrounds/conf-twitter-opt2-bg.jpg);
+}
+.card-container.opt3 {
+  background: url(backgrounds/conf-twitter-opt3-bg.jpg);
+}
+.card-container.opt4 {
+  background: url(backgrounds/conf-twitter-opt4-bg.jpg);
+}
+.card-container.talk-opt1 {
+  background: url(backgrounds/conf-twitter-talk-opt1-bg.jpg);
+}
+.card-container.talk-opt2 {
+  background: url(backgrounds/conf-twitter-talk-opt2-bg.jpg);
+}
+.card-container.talk-opt3 {
+  background: url(backgrounds/conf-twitter-talk-opt3-bg.jpg);
+}
+.card-container.talk-opt4 {
+  background: url(backgrounds/conf-twitter-talk-opt4-bg.jpg);
+}
+
+.title {
+	position: absolute;
+	right: 85px;
+	top: 120px;
+	left: 85px;
+  bottom: 360px;
+	/* outline: 2px solid red; */
+	box-sizing: content-box;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-size: 3.5em;
+	font-weight: 400;
+	line-height: 1;
+	display: flex;
+	align-items: center;
+	justify-content: end;
+}
+
+.opt4 .title,
+.talk-opt4 .title {
+  left: 330px;
+  bottom: 300px;
+}
+
+.speakers {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 333px;
+  bottom: 240px;
+  left: 85px;
+  right: 85px;
+  justify-content: start;
+  font-size: 1.5em;
+  align-items: center;
+}
+
+.speakers.speakers-2 {
+  gap: 1.5em;
+}
+
+.speakers.speakers-3 {
+  gap: 10px;
+  justify-content: space-between;
+}
+
+.opt2 .speakers,
+.opt3 .speakers,
+.opt4 .speakers,
+.talk-opt2 .speakers,
+.talk-opt3 .speakers,
+.talk-opt4 .speakers {
+  color: #4d4d4d;
+}
+
+.opt4 .speakers,
+.talk-opt4 .speakers {
+	top: 400px;
+	bottom: 175px;
+}
+
+.speaker {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.speaker-image {
+  --speaker-image-size: 80px;
+}
+
+.speaker-image img {
+  height: var(--speaker-image-size);
+  width: var(--speaker-image-size);
+  border-radius: 100%;
+  border: 4px solid white;
+}
+
+.speaker-name {
+  white-space: pre;
+  font-weight: 400;
+}
+
+#flip-buttons {
+  position: absolute;
+  top: 1em;
+  left: 1em;
+}
+```
+
+```{r echo=FALSE}
+bg_opts <- paste0("opt", 1:4)
+
+htmltools::div(
+  id = "flip-buttons",
+  lapply(c(bg_opts, paste0("talk-", bg_opts)), function(cl) {
+    htmltools::tags$button(class = "flip-style", value = cl, cl)
+  })
+)
+```
+
+```{js echo=FALSE}
+document.addEventListener('click', function(ev) {
+  if (!ev.target.matches('.flip-style')) {
+    return;
+  }
+  const el = document.querySelector('.card-container')
+  ;[...el.classList]
+    .filter(cl => cl !== 'card-container')
+    .forEach(cl => el.classList.remove(cl))
+  
+  el.classList.add(ev.target.value)
+})
+```
