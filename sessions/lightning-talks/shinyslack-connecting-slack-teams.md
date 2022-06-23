@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/jonthegeek/
     linkedin: https://www.linkedin.com/in/jonthegeek/
     affiliation: r4ds.io
-  username: jon_harmon
+  username: jonharmon
   photo: /assets/img/2022Conf/_talks/22108_jon-harmon.jpg
   bio: |+
     Jon runs the R4DS Online Learning Community and is the Principal Data

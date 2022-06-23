@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/tcash21
     linkedin: https://www.linkedin.com/in/tanyacashorali/
     affiliation: http://www.tcbanalytics.com
-  username: tanya_cashorali
+  username: tanya215
   photo: /assets/img/2022Conf/_talks/22191_tanya-cashorali.jpg
   bio: |+
     Tanya Cashorali is the founder of TCB Analytics, a boutique data and

@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/mjskay
     linkedin: ~
     affiliation: https://www.northwestern.edu/
-  username: matthew_kay
+  username: mjskay
   photo: /assets/img/2022Conf/_talks/22228_matthew-kay.jpg
   bio: |+
     Matthew Kay is an Assistant Professor jointly appointed in Computer

@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/achafetz
     linkedin: https://www.linkedin.com/in/aaron-chafetz
     affiliation: https://www.usaid.gov/
-  username: aaron_chafetz
+  username: achafetz
   photo: /assets/img/2022Conf/_talks/22102_aaron-chafetz.jpg
   bio: |+
     Aaron Chafetz is a Senior Economist at the U.S. Agency for

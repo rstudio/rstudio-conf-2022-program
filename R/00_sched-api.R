@@ -67,3 +67,14 @@ sched_user_mod_speaker_role <- function(username, sessions, action = "add") {
 
   sched_POST(glue::glue("role/{action}"), params)
 }
+
+sched_users_from_email <- function(emails) {
+  sched_maybe <- purrr::possibly(sched_GET_cached, list())
+  users <- vector("list", length(emails))
+  cli::cli_progress_bar("Find sched user", total = length(emails))
+  for (i in seq_along(emails)) {
+    users[[i]] <- sched_maybe("user/get", list(by = "email", term = emails[[i]]))
+    cli::cli_progress_update(status = emails[[i]])
+  }
+  return(users)
+}

@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/awalsh17
     linkedin: https://www.linkedin.com/in/alice-walsh/
     affiliation: ~
-  username: alice_walsh_phd
+  username: alicewalsh
   photo: /assets/img/2022Conf/_talks/22062_alice-walsh-phd.jpg
   bio: |+
     Alice is a computational biologist who applies data science

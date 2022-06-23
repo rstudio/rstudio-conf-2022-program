@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/petergandenberger/
     linkedin: https://www.linkedin.com/in/peter-gandenberger-a7a2ba172/
     affiliation: ~
-  username: peter_gandenberger
+  username: peter.gandenberger
   photo: /assets/img/2022Conf/_talks/22178_peter-gandenberger.jpg
   bio: |+
     Peter is about to finish his Masters in Data Engineering & Analytics
