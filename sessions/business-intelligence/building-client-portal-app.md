@@ -67,5 +67,4 @@ Connect, in this talk we have answers for the Power BI users. An interesting
 example of combining self-service BI with serious data science.
 
 When Microsoft itselfs mentions 'we did not know how to do this', you know
-you have an interesting topic for Rstudio Conf. https://www.youtube.com/watch?
-v=07j22d4B_hA&t=3517s minute 58
+you have an interesting topic for Rstudio Conf. https://www.youtube.com/watch?v=07j22d4B_hA&t=3517s minute 58
