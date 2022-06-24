@@ -58,7 +58,7 @@ Please write abstract below. You may use simple markdown (links, code style, bol
 
 With the Dutch Mortgage Portfolio Management Group we built a client portal for
 their customers wanting insights into their mortgage investment portfolio. This
-was done with a Shiny app that runs in Azure App Service, with plumber api's
+was done with a Shiny app that runs in Azure App Service, with plumber APIs
 serving portfolio reports, and embedded power bi reports with clear and easy to
 maintain dashboards.
 
@@ -66,6 +66,6 @@ Last year we saw a lot of great content on how to combine Tableau with Rstudio
 Connect, in this talk we have answers for the Power BI users. An interesting
 example of combining self-service BI with serious data science.
 
-When Microsoft itselfs mentions 'we did not know how to do this', you know
-you have an interesting topic for Rstudio Conf. https://www.youtube.com/watch?
-v=07j22d4B_hA&t=3517s minute 58
+When Microsoft itself mentions 
+["we did not know how to do this](https://www.youtube.com/watch?v=07j22d4B_hA&t=3517s),
+you know you have an interesting topic for rstudio::conf.
