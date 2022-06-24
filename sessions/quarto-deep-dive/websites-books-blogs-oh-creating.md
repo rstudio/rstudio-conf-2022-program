@@ -18,7 +18,7 @@ speakers:
   url:
     webpage: ~
     twitter: ~
-    github: ~
+    github: https://github.com/dpastoor
     linkedin: ~
     affiliation: ~
   username: devin_pastoor
