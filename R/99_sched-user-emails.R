@@ -116,6 +116,7 @@ if (isTRUE(DO_MIGRATION)) {
 sched_add_user_email <- function(username, email, sessions) {
   sched_POST("user/mod", params = list(
     username = username,
+    email = email,
     sessions = sessions
   ))
   cli::cli_alert_success("Added {.email {email}} to {.field {username}}")
