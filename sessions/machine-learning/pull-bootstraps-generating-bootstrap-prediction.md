@@ -7,11 +7,11 @@ talk_tags: [modeling, tool]
 session_slug: machine-learning
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Pull Yourself Up by your Bootstraps! Generating bootstrap prediction intervals from a tidymodels workflow with the workboots package"
+talk_title: "Introducing workboots: Generate prediction intervals from tidymodel workflows"
 # A short version of the title, suitable for small displays
-talk_title_short: Pull Yourself Up by your Bootstraps!
+talk_title_short: Introducing workboots
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/markjrieke/rstudio-conf-2022
 speakers:
 - name: Mark Rieke
   affiliation: Memorial Hermann Health System
