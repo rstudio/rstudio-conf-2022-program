@@ -7,9 +7,9 @@ talk_tags: [process, story]
 session_slug: makeovers
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Inheritance – upgrading a legacy project and making it your own"
+talk_title: "Oddly Satisfying - Find delight in the mundane"
 # A short version of the title, suitable for small displays
-talk_title_short: Inheritance – upgrading a legacy project and making it your own
+talk_title_short: Oddly Satisfying - Find delight in the mundane"
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
