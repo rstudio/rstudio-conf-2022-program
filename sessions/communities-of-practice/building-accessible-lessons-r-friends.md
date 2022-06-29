@@ -11,7 +11,7 @@ talk_title: "Building Accessible Lessons with R and Friends"
 # A short version of the title, suitable for small displays
 talk_title_short: Building Accessible Lessons with R and Friends
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: "https://github.com/zkamvar/rstudio-conf-2022"
 speakers:
 - name: Zhian N. Kamvar
   affiliation: The Carpentries
@@ -29,8 +29,9 @@ speakers:
     researchers worldwide. He has been publishing R packages since 2013
     and is a recovering bioinformatician located in Beaverton, Oregon,
     USA. Outside of R, he enjoys bicycle rides, speculative fiction,
-    cats, the musical stylings of [The Screaming Females](https://
-    screamingfemales.bandcamp.com/), platelet donation, and baking.
+    cats, the musical stylings of [The Screaming 
+    Females](https://screamingfemales.bandcamp.com/), platelet donation, 
+    and baking.
 
 
 ---
