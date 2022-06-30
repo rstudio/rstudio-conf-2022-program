@@ -9,7 +9,7 @@ session_slug: bringing-people-together
 # The title of your talk
 talk_title: "Building a Pit of Success for Your Organization: Embracing a R-based ecosystem in the US federal government"
 # A short version of the title, suitable for small displays
-talk_title_short: Building a Pit of Success
+talk_title_short: Building a Pit of Success for Your Organization
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
