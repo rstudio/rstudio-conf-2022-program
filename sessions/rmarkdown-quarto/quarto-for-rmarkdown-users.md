@@ -24,12 +24,12 @@ speakers:
   username: tom_mock
   photo: /assets/img/2022Conf/_talks/22149_tom-mock.jpeg
   bio: |+
-    Thomas is the Customer Enablement Lead at RStudio, helping RStudio’s
-    customers be as successful as possible. He is deeply involved global
-    data science community, sharing tips on #RStats Twitter (find him at
-    @thomas_mock), as co-founder of #TidyTuesday, a weekly Data Science
-    learning challenge, and presenting on various Data Science topics on
-    YouTube or at conferences.
+    Tom is the Customer Enablement Lead at RStudio, helping RStudio’s
+    customers be as successful as possible through documentation and education. 
+    He is deeply involved in the global data science community, sharing 
+    tips on #RStats Twitter (find him at @thomas_mock), as co-founder 
+    of #TidyTuesday, a weekly Data Science learning challenge, and 
+    presenting on various Data Science topics on YouTube or at conferences.
 
 
 ---
