@@ -7,9 +7,9 @@ talk_tags: [career-development, community, programming, story]
 session_slug: wtf-career
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "My Journey to Becoming an Apache Arrow Maintainer"
+talk_title: "What they forgot to teach you about becoming an open source contributor"
 # A short version of the title, suitable for small displays
-talk_title_short: My Journey to Becoming an Apache Arrow Maintainer
+talk_title_short: What they forgot to teach you about becoming an open source contributor
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
@@ -41,7 +41,6 @@ many unknown factors about open source projects. In this talk, I'm going to
 discuss my journey from occasional open source contributor to full time project
 maintainer, and answer questions such as: what does it look like from the inside
 of an open-source project? What's a good way to get involved, and really learn
-the internals of an R package? What does a full-time open source maintainer
-spend their time doing? How can I navigate the social dynamics of an open source
+the internals of an R package? How can I navigate the social dynamics of an open source
 project? How do contributions look entirely different from the point of view of
 a contributor versus a maintainer?

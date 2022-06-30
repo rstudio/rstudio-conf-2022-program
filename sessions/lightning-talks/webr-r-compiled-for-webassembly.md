@@ -17,7 +17,7 @@ speakers:
   affiliation: RStudio
   url:
     webpage: https://www.gwstagg.co.uk
-    twitter: https://twitter.com/Tegglington
+    twitter: https://twitter.com/gwstagg
     github: https://github.com/georgestagg
     linkedin: ~
     affiliation: ~
@@ -41,13 +41,10 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-In this talk we introduce webR, a port of R to WebAssembly using Emscripten.
+In this talk I introduce webR, a port of R to WebAssembly using Emscripten.
 WebR brings a full R environment to the browser, enabling R code execution,
 numerical analysis, loading packages and more. No local or cloud-based R
-execution severs are required as all computation is performed client-side. We
-give an overview of our build process for webR, describing the toolchain and
-various issues we encountered modifying R for the WebAssembly environment. Two
-publicly available use cases are demonstrated; firstly a web-based interactive
-R REPL, with R package and plotting support. Secondly, and also our primary goal
-for the project: automatically assessing learner-submitted R and Python code
-using our digital exam software, Numbas.
+servers are required as all computation is performed within the browser.
+I give a brief overview of our build process for webR, describing the toolchain
+and some of the issues we encountered. A publicly available web-based R session
+is demonstrated, with package and plotting support.
