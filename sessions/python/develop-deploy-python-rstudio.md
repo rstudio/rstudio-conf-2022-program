@@ -9,7 +9,7 @@ session_slug: python
 # The title of your talk
 talk_title: "Yes, you can use Python with RStudio Team!"
 # A short version of the title, suitable for small displays
-talk_title_short: Yes you can use Python with RStudio Team
+talk_title_short: "Yes, you can use Python with RStudio Team!"
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
