@@ -1,7 +1,7 @@
 ---
 # Do not edit
 talk_id: 22168
-talk_slug: levelling-github-to-automate-powerful
+talk_slug: project-immortality-github
 talk_type: regular
 talk_tags: [process, production, programming]
 session_slug: data-quality
