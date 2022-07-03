@@ -12,7 +12,7 @@ To make changes to your talk information, please submit a pull request. The easi
 
 Each markdown file contains a YAML header block which describes the talk. We've filled everything in with the information we have now, but there are a few fields you may wish to edit as you revise your talk. The part of the YAML that you are intended to edit is very clearly marked.
 
-Here's an example from [introducing-rhino-shiny-application-framework](big-shiny-apps/introducing-rhino-shiny-application-framework.md):
+Here's an example from [introducing-rhino-shiny-application-framework](sessions/big-shiny-apps/introducing-rhino-shiny-application-framework.md):
 
 ```yaml
 # The title of your talk
