@@ -34,6 +34,7 @@ speakers <-
       "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main",
       photo
     ),
+    bio = if_else(trimws(bio) == "NA", "", bio),
     bio = bio |> map_chr(commonmark::markdown_html),
   )
 
@@ -105,7 +106,9 @@ speaker_sched <-
     role = "speaker",
     full_name = name,
     company = affiliation,
+    about = bio,
     avatar = photo,
+    url = url_webpage,
     send_email = 0
   ) |>
   left_join(speaker_sessions, by = "username")
