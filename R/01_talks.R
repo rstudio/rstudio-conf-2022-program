@@ -114,7 +114,7 @@ speaker_sched <-
   left_join(speaker_sessions, by = "username")
 
 tryCatch(
-  sched_upsert(speaker_sched, "user", "username"),
+  sched_upsert(speaker_sched, "user", "username", reset_na = FALSE),
   error = function(err) {
     # there are a few known speaker problems (see top of script)
     rlang::inform(conditionMessage(err))
