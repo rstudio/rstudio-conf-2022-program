@@ -38,13 +38,11 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-My name is Emil Hvitfeldt and I have spend the better part of this year working
-with Kelly Bodwin to write the tidyclust package which brings clustering to the
-tidymodels framework.
+This talk marks the grand introduction of tidyclust, a new package that provides
+a tidy unified interface to clustering model within the tidymodels framework.
 
-Said framework marked a leap forward for making machine learning methods more
-accessible to a general audiences in R However, it is currently limited to the
-realm of supervised learning.
-
-This talk marks the grand introduction of tidyclust, showing functionality and
-workflows that immediately should feel familiar to a tidymodels user
+While tidymodels has been a leap forward in making machine learning methods
+accessible to a general audience in R, it is currently limited to the realm of
+supervised learning. tidyclust, by Emil Hvitfeldt and Kelly Bodwin, builds upon
+the interfaces familiar to tidymodels users to make unsupervised clustering
+models equally approachable.
