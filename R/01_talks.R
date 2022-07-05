@@ -17,7 +17,7 @@ talk_data <- read_talk_md(here("sessions"))
 talks <-
   tibble(yaml = talk_data$yaml) |>
   unnest_wider(yaml) |>
-  select(talk_id, talk_title, speakers) |>
+  select(talk_id, talk_title, talk_materials_url, speakers) |>
   mutate(
     abstract = talk_data$abstract,
     talk_tags = map(talk_data$yaml, "talk_tags") |> map_chr(paste, collapse = ", ")
@@ -85,6 +85,7 @@ program_sched <- program %>%
     session_start = start,
     session_end = end,
     tags = talk_tags,
+    `Talk Materials` = talk_materials_url,
     venue = room
   )
 program_sched
