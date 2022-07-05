@@ -31,10 +31,12 @@ sched_GET_cached <- memoise::memoise(
   cache = cachem::cache_mem(max_age = 60)
 )
 
-sched_upsert <- function(data, type, write_key, list_key = write_key) {
-  # Convert NA to empty strings to reset API values
-  data <- data |>
-    mutate(across(where(is.character), ~ coalesce(.x, "")))
+sched_upsert <- function(data, type, write_key, list_key = write_key, reset_na = TRUE) {
+  if (isTRUE(reset_na)) {
+    # Convert NA to empty strings to reset API values
+    data <- data |>
+      mutate(across(where(is.character), ~ coalesce(.x, "")))
+  }
 
   # Determine whether to add or mod
   all <- sched_GET_cached(glue::glue("{type}/list"))
@@ -45,6 +47,9 @@ sched_upsert <- function(data, type, write_key, list_key = write_key) {
   ret <- vector("list", nrow(data))
   for (i in 1:nrow(data)) {
     row <- as.list(data[i, ])
+    if (!isTRUE(reset_na)) {
+      row <- purrr::discard(row, is.na)
+    }
     ret[[row[[write_key]]]] <- safely(sched_POST)(url[[i]], row)
     cli::cli_progress_update(status = row[[write_key]])
   }

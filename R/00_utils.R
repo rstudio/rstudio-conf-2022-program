@@ -29,6 +29,20 @@ read_talk_md <- function(path = NULL) {
     purrr::map_chr(~ paste(.x[-(1:5)], collapse = "\n")) |>
     purrr::map_chr(commonmark::markdown_html)
 
+  abstract <- purrr::map2_chr(
+    abstract,
+    yaml,
+    function(abstract, yaml) {
+      if (is.null(yaml$talk_materials_url)) return(abstract)
+      if (!nzchar(yaml$talk_materials_url)) return(abstract)
+      glue::glue(
+        "{abstract}",
+        '<p>Talk materials are available at ',
+        '<a href="{yaml$talk_materials_url}" target="_blank">{yaml$talk_materials_url}</a>.'
+      )
+    }
+  )
+
   list(files = files, yaml = yaml, abstract = abstract)
 }
 
