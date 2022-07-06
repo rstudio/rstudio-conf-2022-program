@@ -7,9 +7,9 @@ talk_tags: [interop, python, teaching]
 session_slug: teaching-data-science
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Teaching \"bilingual\" classes with {tidymodels} and scikit-learn"
+talk_title: "Translating from {tidymodels} and scikit-learn: Lessons from a 'bilingual' course."
 # A short version of the title, suitable for small displays
-talk_title_short: Teaching "bilingual" classes with {tidymodels} and scikit-learn
+talk_title_short: Translating from {tidymodels} and scikit-learn
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
@@ -40,13 +40,14 @@ Please write abstract below. You may use simple markdown (links, code style, bol
 
 The friendly competition between R and python has gifted us with two stellar
 packages for workflow-style predictive modeling: tidymodels in R, and scikit-
-learn in python. If you've ever wondered which one to use in classrooms and
-trainings, I say: ¿Porque no los dos? (Why not both?)
+learn in python. When I had to choose between them for a Machine Learning 
+Course, I said: ¿Porque no los dos? (Why not both?)
 
-The first half of this talk will be focused on pedagogy and philosophy. I will
-compare and contrast the infrastructures of the two packages, primarily in the
-context of how they enforce or support conceptual understanding.
+In this talk, I will share how the differences in structure and syntax 
+between tidymodels and scikit-learn impacted student understanding.  Don't
+despair, though, because I will also provide advice for avoiding pitfalls 
+when switching between languages or implementations. 
 
-The second half will provide some practical insight and tips - and some helpful
-R functions - for running a class in a "bilingual" way, where students choose
-which language(s) to use on assignments.
+Together, let's think about the power that programming choices has to shape 
+the mental model of the user, and the ways that we can responsibly document
+our modeling decisions to increase cross-language reproducibility.
