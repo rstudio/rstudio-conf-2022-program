@@ -44,10 +44,13 @@ learn in python. When I had to choose between them for a Machine Learning
 Course, I said: ¿Porque no los dos? (Why not both?)
 
 In this talk, I will share how the differences in structure and syntax 
-between tidymodels and scikit-learn impacted student understanding.  Don't
-despair, though, because I will also provide advice for avoiding pitfalls 
-when switching between languages or implementations. 
+between tidymodels and scikit-learn impacted student understanding. Can a
+helper function hide an important decision about tuning parameters?  Can a
+slight change in argument input influence the way we describe a model? The 
+answer is a resounding, "¡Sí!" 
 
-Together, let's think about the power that programming choices has to shape 
-the mental model of the user, and the ways that we can responsibly document
+Don't despair, though, because I will also provide advice for avoiding 
+pitfalls when switching between languages or implementations. Together, 
+let's think about the power that programming choices has to shape the 
+mental model of the user, and the ways that we can responsibly document
 our modeling decisions to increase cross-language reproducibility.
