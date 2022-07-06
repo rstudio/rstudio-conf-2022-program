@@ -7,7 +7,7 @@ talk_tags: [champion, pro-products, production, story]
 session_slug: makeovers
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Saving 1,000 hours with RStudio: selling R at workplace"
+talk_title: "Saving 1,000 hours with RStudio: selling R in your workplace"
 # A short version of the title, suitable for small displays
 talk_title_short: Saving 1,000 hours with RStudio
 # A link to your talk's materials, when ready
