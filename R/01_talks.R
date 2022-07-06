@@ -114,10 +114,22 @@ speaker_sched <-
   ) |>
   left_join(speaker_sessions, by = "username")
 
-tryCatch(
-  sched_upsert(speaker_sched, "user", "username", reset_na = FALSE),
-  error = function(err) {
-    # there are a few known speaker problems (see top of script)
-    rlang::inform(conditionMessage(err))
+# Set SCHED_UPDATE_SPEAKERS to comma-separated list of usernames to update
+updated_speakers <- Sys.getenv("SCHED_UPDATE_SPEAKERS", "")
+
+if (nzchar(updated_speakers)) {
+  # only update requested speakers
+  updated_speakers <- strsplit(updated_speakers, "\\s*,\\s*")[[1]]
+
+  speaker_sched <- speaker_sched |> filter(username %in% updated_speakers)
+
+  if (nrow(speaker_sched)) {
+    tryCatch(
+      sched_upsert(speaker_sched, "user", "username", reset_na = FALSE),
+      error = function(err) {
+        # there are a few known speaker problems (see top of script)
+        rlang::inform(conditionMessage(err))
+      }
+    )
   }
-)
+}
