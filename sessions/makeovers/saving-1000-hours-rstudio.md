@@ -7,11 +7,11 @@ talk_tags: [champion, pro-products, production, story]
 session_slug: makeovers
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Saving 1,000 hours with RStudio"
+talk_title: "Saving 1,000 hours with RStudio: selling R in your workplace"
 # A short version of the title, suitable for small displays
 talk_title_short: Saving 1,000 hours with RStudio
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://tigertang.org/rst_conf_2022_talk/
 speakers:
 - name: Tiger Tang
   affiliation: CARFAX, Inc.
@@ -41,13 +41,8 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-Imagine going into the office and all your daily, weekly, or monthly reports
-that used to take you hours have been generated for your review; Imagine
-internal customers no longer need to wait for your data department to pull data
-or create data reports. With the RStudio, you probably know that is entirely
-possible but not sure where to start if your team does not use R. Hope this
-talk will give you some insights on how you can get it started. At CARFAX, we
-switched our analysis tool from SAS to R a couple of years ago. I have initiated
-an Automation project at CARFAX that saved over 6,200 work hours. In this talk,
-I will talk about the project, the lessons learned, the sustainable workflow,
-and what you may start doing today.
+There are many benefits to using R and no lack of packages that help you solve technical difficulties, but you may still get stuck at selling it to decision-makers or implementing it at work. Tiger's recommendation is to start a project that focuses on automating work with R and gets everyone involved. Once the value of R has been established, selecting RStudio Workbench and RStudio Connect for streamlining tasks would not be a difficult choice. 
+
+Several years ago, Tiger's organization moved away from SAS in favor of R for modeling projects, but there wasn’t much initiative taken company-wide to move everything to a new tool. To help change that, he started a work automation project using R that has saved 12K+ hours of manual work. 
+
+In this talk, he will share the key parts of the project, lessons learned, and a structure you can follow if you would like to do something similar in your organization.
