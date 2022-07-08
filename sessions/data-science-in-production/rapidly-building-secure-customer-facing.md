@@ -7,9 +7,9 @@ talk_tags: [communication, pro-products, process]
 session_slug: data-science-in-production
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Data science in your customers hands on a budget and a deadline: Publishing Customer Facing Products with Rstudio-Connect"
+talk_title: "Data science in your customers hands on a budget and a deadline: Publishing Customer Facing Products with RStudio Connect"
 # A short version of the title, suitable for small displays
-talk_title_short: Publishing Customer Facing Products with Rstudio-Connect
+talk_title_short: Publishing Customer Facing Products with RStudio Connect
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
@@ -42,11 +42,11 @@ Please write abstract below. You may use simple markdown (links, code style, bol
 -->
 
 Benjy Braun, Chief Architect for 202 Group, shows why he and the 202 Group
-team decided to use Rstudio-Connect to build customer facing applications and secure websites while focusing on
+team decided to use RStudio Connect to build customer facing applications and secure websites while focusing on
 data science and not having to worry about hiring for—or learning—a bunch of web
 tools like JavaScript and php. With well organized git repos and Rmarkdown,
 you can build websites for customers with embedded shiny apps and dynamic
-visualizations and publish and deploy them using RStudio-Connect. Using this
+visualizations and publish and deploy them using RStudio Connect. Using this
 method, you won’t confine your analysis to static documents like PowerPoint
 and pdfs and your customers will always see the latest and most up do date
 information. The tools are out there to do this and it’s easy to start and
