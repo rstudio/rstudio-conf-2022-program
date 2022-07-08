@@ -9,7 +9,7 @@ session_slug: lightning-talks
 # The title of your talk
 talk_title: "leafdown: Interactive multi-layer maps in Shiny apps"
 # A short version of the title, suitable for small displays
-talk_title_short: leafdown
+talk_title_short: "leafdown: Interactive multi-layer maps in Shiny apps"
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:

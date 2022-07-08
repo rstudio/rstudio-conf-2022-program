@@ -9,7 +9,7 @@ session_slug: databases
 # The title of your talk
 talk_title: "dbcooper: Turn any database into an R or Python package"
 # A short version of the title, suitable for small displays
-talk_title_short: dbcooper
+talk_title_short: "dbcooper: Turn any database into an R or Python package"
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
