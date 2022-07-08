@@ -7,9 +7,9 @@ talk_tags: [process, story, tidyverse, tool]
 session_slug: bringing-people-together
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Building a Pit of Success for Your Organization: Embracing a R-based ecosystem in the US federal government"
+talk_title: "Digging a Pit of Success for Your Organization: Embracing a R-based ecosystem in the US federal government"
 # A short version of the title, suitable for small displays
-talk_title_short: Building a Pit of Success for Your Organization
+talk_title_short: Digging a Pit of Success for Your Organization
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
