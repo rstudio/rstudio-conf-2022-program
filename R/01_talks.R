@@ -118,6 +118,7 @@ speaker_sched <-
 updated_speakers <- Sys.getenv("SCHED_UPDATE_SPEAKERS", "")
 
 if (nzchar(updated_speakers)) {
+  message("Updating speakers: ", updated_speakers)
   # only update requested speakers
   updated_speakers <- strsplit(updated_speakers, "\\s*,\\s*")[[1]]
 
