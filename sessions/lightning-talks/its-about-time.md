@@ -7,11 +7,11 @@ talk_tags: [programming, tool]
 session_slug: lightning-talks
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "It's About Time"
+talk_title: "It's about time"
 # A short version of the title, suitable for small displays
-talk_title_short: It's About Time
+talk_title_short: It's about time
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://speakerdeck.com/davisvaughan/2022-rstudio-conf-its-about-time
 speakers:
 - name: Davis Vaughan
   affiliation: RStudio
@@ -37,11 +37,9 @@ Please write abstract below. You may use simple markdown (links, code style, bol
 
 Dealing with date-times is hard. Dealing with date-times without the proper
 tooling is even harder! clock is an R package that aims to provide comprehensive
-handling of date-times. It goes beyond the date and date-time types that base
-R provides, implementing new types for year-month, year-quarter, ISO year-week,
-and many other date-like formats, all with up to nanosecond precision. In this
-talk, you'll see practical applications of each of the new types that clock
-provides in addition to cross-package examples using the tidyverse, slider (for
-sliding windows), and iv (for intervals of date-times). Along the way, you'll
-also learn about some of the craziest time zone oddities that I've encountered
-while building the package!
+and safe handling of date-times. It goes beyond the date and date-time types
+that base R provides, implementing new types for year-month, year-quarter, ISO
+year-week, and many other date-like formats, all with up to nanosecond
+precision. In this talk, you'll see how clock emphasizes "safety first" when
+manipulating date-times, and how these new date-time types can be used in your
+own work.

@@ -7,9 +7,9 @@ talk_tags: [communication, pro-products, process]
 session_slug: data-science-in-production
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Rapidly Building and Secure Customer Facing Data Science Products: How to Prototype and Deploy Applications and Portals with Rmarkdown and Rstudio-Connect"
+talk_title: "Rapidly Building Secure Customer Facing Data Science Products: How to Prototype and Deploy Applications with Rmarkdown and Rstudio-Connect"
 # A short version of the title, suitable for small displays
-talk_title_short: Rapidly Building and Secure Customer Facing Data Science Products
+talk_title_short: Rapidly Building Customer Facing Data Science Products
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
@@ -17,8 +17,8 @@ speakers:
   affiliation: 202 Group
   url:
     webpage: https://www.linkedin.com/in/benjybraun/
-    twitter: ~
-    github: ~
+    twitter: https://twitter.com/Ben_G_Braun
+    github: https://github.com/bpbraun
     linkedin: https://www.linkedin.com/in/benjybraun/
     affiliation: https://www.202group.com
   username: benjamin_braun
@@ -31,13 +31,8 @@ speakers:
     science value chain—ingestion, storage, processing, analytics, AI/
     ML, visualization, reporting, and client delivery—allows end-users
     to spend less time dealing with data and more time doing their jobs.
-    As the first non-founder employee of 202 Group, I am responsible
-    for our data and systems architecture strategy, implementation, and
-    delivery. As a member of a small and fast-growing team, I also lead
-    our recruiting efforts and human capital strategy. Please reach out
-    if you are interested in learning more about how 202 Group is using
-    technology to drive mission outcomes in supply chain risk management
-    (SCRM) for our national security clients.
+    My industry expertise is in the DoD/IC but I have interests in tech teams
+    cultures, DEIB, and Biblical Hebrew.
 
 
 ---
@@ -48,7 +43,7 @@ Please write abstract below. You may use simple markdown (links, code style, bol
 
 Benjy Braun, Chief Architect for 202 Group, shows how he and the 202 Group
 team build customer facing applications and secure websites while focusing on
-data science and not having to worry about hiring—or learning—a bunch of web
+data science while not having to worry about hiring for —or learning—a bunch of web
 tools like JavaScript and php. With well organized git repos and Rmarkdown,
 learn how to build websites for customers with embedded shiny apps and dynamic
 visualizations; then publish and deploy them using RStudio-Connect. Using this

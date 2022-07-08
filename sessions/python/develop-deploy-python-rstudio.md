@@ -7,9 +7,9 @@ talk_tags: [interop, pro-products, python]
 session_slug: python
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Develop and Deploy Python with RStudio"
+talk_title: "Yes, you can use Python with RStudio Team!"
 # A short version of the title, suitable for small displays
-talk_title_short: Develop and Deploy Python with RStudio
+talk_title_short: "Yes, you can use Python with RStudio Team!"
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
@@ -38,12 +38,13 @@ speakers:
     twitter: ~
     github: https://github.com/xuf12
     linkedin: https://www.linkedin.com/in/xufei1/
-    affiliation: https://www.rstudio.com
+    affiliation: https://www.rstudio.com/
   username: xu_fei
   photo: /assets/img/2022Conf/_talks/22126_xu-fei.png
   bio: |+
-    Xu Fei is a solutions engineer at RStudio with experience building
-    Python data science applications.
+    Xu Fei is a solutions engineer at RStudio where he helps bilingual
+    data science teams work better with RStudio commercial products. 
+    He has experience in Python data science and reproducibility tools.
 
 
 ---
@@ -52,11 +53,4 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-Current customer demos don't reflect the breadth of Python workflows that a
-user can develop through RStudio Workbench and deploy in Connect. This talk is
-aimed at showcasing a Python data science workflow in production using RStudio
-Professional products, demonstrating the entire life cycle- from automated
-data preparation and model training, to deploying and monitoring the model. The
-intended audience is 1) Python teams in an organization that already use RStudio
-products, or 2) Python teams that are evaluating a solution that addresses
-scaling, collaboration, and deployment.
+Are you a bilingual data scientist who wants to use Python in RStudio products? Or do you have colleagues who use Python for data science? In this talk, we will present an end to end data science use case including automated jobs, model training and monitoring, APIs, and interactive dashboards, entirely built and deployed in Python with RStudio Pro products.
