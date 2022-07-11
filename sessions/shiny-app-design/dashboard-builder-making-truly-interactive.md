@@ -39,7 +39,7 @@ Please write abstract below. You may use simple markdown (links, code style, bol
 _I would like to create (more) R-Shiny Dashboards, but..._
 - _I don't know how_
 - _I can't write R-Code_
-- _it's to complex_
+- _it's too complex_
 - _I don't have enough time (even though I know how to build them)_
 
 If this sounds familiar, this talk is for you. We present our latest project, the **dashboard-builder** that allows users to create full R-Shiny dashboards without writing a single line of code. You can find a [demonstration video here](https://youtu.be/oOKJLMAkEiw)
