@@ -7,14 +7,14 @@ talk_tags: [recreational, story]
 session_slug: delightful-uses
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Quilting in R and becoming more creative"
+talk_title: "Becoming Creative: How I Designed a Quilt with R"
 # A short version of the title, suitable for small displays
-talk_title_short: Quilting in R and becoming more creative
+talk_title_short: "Becoming Creative: Quilting with R"
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/awalsh17/quiltR
 speakers:
-- name: Alice Walsh, PhD
-  affiliation: Pathos, R-ladies Philly
+- name: Alice Walsh
+  affiliation: Pathos, R-Ladies Philly
   url:
     webpage: https://awalsh17.github.io/
     twitter: https://twitter.com/sciencealice

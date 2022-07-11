@@ -11,7 +11,7 @@ talk_title: "Achieving a seamless workflow between R, Python and SAS from within
 # A short version of the title, suitable for small displays
 talk_title_short: Achieving a seamless workflow between R, Python and SAS from within RStudio
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/melissavanbussel/rstudio-conf-2022
 speakers:
 - name: Melissa Van Bussel
   affiliation: Statistics Canada
@@ -24,10 +24,9 @@ speakers:
   username: melissa_van_bussel
   photo: /assets/img/2022Conf/_talks/22082_melissa-van-bussel.jpg
   bio: |+
-    Melissa Van Bussel is an accredited [Associate Statistician](https://
-    ssc.ca/en/accreditation) (A. Stat.) and an Analyst at [Statistics
-    Canada](https://www.statcan.gc.ca/en/start), Canada's official
-    statistical agency. She completed her M. Sc. in Statistics at Carleton
+    Melissa Van Bussel is an accredited [Associate Statistician](https://ssc.ca/en/accreditation) 
+    (A. Stat.) and an Analyst at [Statistics Canada](https://www.statcan.gc.ca/en/start), 
+    Canada's official statistical agency. She completed her M. Sc. in Statistics at Carleton
     University, and her B. Sc. H. in Mathematics and Computing Systems
     with a Specialization in Statistics at Trent University. Melissa is
     passionate about all things Data Science and Teaching (and especially
@@ -41,6 +40,8 @@ speakers:
 <!-- ABSTRACT ----
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
+
+Some of my best friends use Python...and all of my coworkers use SAS.
 
 Statistics Canada is the official statistical agency of Canada and employs
 over 6,000 employees. Statistics Canada has a legal obligation to ensure

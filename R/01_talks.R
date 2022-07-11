@@ -17,7 +17,7 @@ talk_data <- read_talk_md(here("sessions"))
 talks <-
   tibble(yaml = talk_data$yaml) |>
   unnest_wider(yaml) |>
-  select(talk_id, talk_title, speakers) |>
+  select(talk_id, talk_title, talk_materials_url, speakers) |>
   mutate(
     abstract = talk_data$abstract,
     talk_tags = map(talk_data$yaml, "talk_tags") |> map_chr(paste, collapse = ", ")
@@ -34,6 +34,7 @@ speakers <-
       "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main",
       photo
     ),
+    bio = if_else(trimws(bio) == "NA", "", bio),
     bio = bio |> map_chr(commonmark::markdown_html),
   )
 
@@ -84,6 +85,7 @@ program_sched <- program %>%
     session_start = start,
     session_end = end,
     tags = talk_tags,
+    `Talk Materials` = talk_materials_url,
     venue = room
   )
 program_sched
@@ -105,15 +107,30 @@ speaker_sched <-
     role = "speaker",
     full_name = name,
     company = affiliation,
+    about = bio,
     avatar = photo,
+    url = url_webpage,
     send_email = 0
   ) |>
   left_join(speaker_sessions, by = "username")
 
-tryCatch(
-  sched_upsert(speaker_sched, "user", "username"),
-  error = function(err) {
-    # there are a few known speaker problems (see top of script)
-    rlang::inform(conditionMessage(err))
+# Set SCHED_UPDATE_SPEAKERS to comma-separated list of usernames to update
+updated_speakers <- Sys.getenv("SCHED_UPDATE_SPEAKERS", "")
+
+if (nzchar(updated_speakers)) {
+  message("Updating speakers: ", updated_speakers)
+  # only update requested speakers
+  updated_speakers <- strsplit(updated_speakers, "\\s*,\\s*")[[1]]
+
+  speaker_sched <- speaker_sched |> filter(username %in% updated_speakers)
+
+  if (nrow(speaker_sched)) {
+    tryCatch(
+      sched_upsert(speaker_sched, "user", "username", reset_na = FALSE),
+      error = function(err) {
+        # there are a few known speaker problems (see top of script)
+        rlang::inform(conditionMessage(err))
+      }
+    )
   }
-)
+}
