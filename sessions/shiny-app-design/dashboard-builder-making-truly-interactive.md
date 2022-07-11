@@ -7,7 +7,7 @@ talk_tags: [shiny, tool, visualisation]
 session_slug: shiny-app-design
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Dashboard-Builder: Making truly interactive R-Shiny Apps"
+talk_title: "Dashboard-Builder: Building R-Shiny Apps without writing any code"
 # A short version of the title, suitable for small displays
 talk_title_short: Dashboard-Builder
 # A link to your talk's materials, when ready
@@ -29,24 +29,19 @@ speakers:
     development, co-authoring the leafdown package. His latest project is
     the no-code/low-code dashboard-builder which allows users to create
     shiny dashboards without writing R-code.
-
-- name: Andreas Hofheinz
-  username: andreas_hofheinz
-  photo: /assets/img/2022Conf/_talks/22128_andreas-hofheinz.jpg
-
+    
 ---
 
 <!-- ABSTRACT ----
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-R-Shiny is a great way to visualize and communicate complex models, even to non-
-tech users. However, after deployment, these dashboards are not customizable
-and limited in their interactivity. That is why we are creating a drag&drop
-dashboard builder that allows users with and especially without programming
-experience to intuitively create complex dashboards. In my talk, I will show
-how we can make R-Shiny apps truly customizable and interactive. And therefore,
-allowing users and customers to create the dashboards they want, without having
-to write a single line of code. An additional benefit of our approach is,
-that it lowers the barrier for new users to start using R. They can begin to
-visualize their datasets without deep knowledge of R
+_I would like to create (more) R-Shiny Dashboards, but..._
+- _I don't know how_
+- _I can't write R-Code_
+- _it's to complex_
+- _I don't have enough time (even though I know how to build them)_
+
+If this sounds familiar, this talk is for you. We present our latest project, the **dashboard-builder** that allows users to create full R-Shiny dashboards without writing a single line of code. You can find a [demonstration video here](https://youtu.be/oOKJLMAkEiw)
+
+This drag&drop dashboard-builder allows you to interactively create native R-Shiny dashboards. Lowering the entry barrier for new users starting their data-science journey. They can begin to visualize their datasets without prior knowledge of R. More experienced users can use the dashboard-builder to quickly sketch out their ideas and export them to act as a foundation for more complex dashboards.
