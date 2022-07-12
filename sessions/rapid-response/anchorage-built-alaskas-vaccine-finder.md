@@ -49,8 +49,6 @@ vaccine.
 
 This talk will cover how we used R to build Alaska's vaccine finder. Including:
 
--Scraping and http packages (rvest &httr) -Using Heroku and S3 to run R jobs
-24/7 -Creating a flexible data service with R
-
-Ben Matheson is the Data Analyst for the Anchorage Innovation Team, a startup
-inside city government in Anchorage, AK.
+- Scraping and http packages (rvest & httr)
+- Using Heroku and S3 to run R jobs 24/7 
+- Creating a flexible data service with R
