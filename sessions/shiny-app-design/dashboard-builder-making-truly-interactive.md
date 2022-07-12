@@ -7,7 +7,7 @@ talk_tags: [shiny, tool, visualisation]
 session_slug: shiny-app-design
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Dashboard-Builder: Building R-Shiny Apps without writing any code"
+talk_title: "Dashboard-Builder: Building Shiny Apps without writing any code"
 # A short version of the title, suitable for small displays
 talk_title_short: Dashboard-Builder
 # A link to your talk's materials, when ready
@@ -36,12 +36,12 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-_I would like to create (more) R-Shiny Dashboards, but..._
+_I would like to create (more) Shiny Dashboards, but..._
 - _I don't know how_
-- _I can't write R-Code_
+- _I can't write R code_
 - _it's too complex_
 - _I don't have enough time (even though I know how to build them)_
 
-If this sounds familiar, this talk is for you. We present our latest project, the **dashboard-builder** that allows users to create full R-Shiny dashboards without writing a single line of code. You can find a [demonstration video here](https://youtu.be/oOKJLMAkEiw)
+If this sounds familiar, this talk is for you. We present our latest project, the **dashboard-builder** that allows users to create full Shiny dashboards without writing a single line of code. You can find a [demonstration video here](https://youtu.be/oOKJLMAkEiw)
 
-This drag&drop dashboard-builder allows you to interactively create native R-Shiny dashboards. Lowering the entry barrier for new users starting their data-science journey. They can begin to visualize their datasets without prior knowledge of R. More experienced users can use the dashboard-builder to quickly sketch out their ideas and export them to act as a foundation for more complex dashboards.
+This drag&drop dashboard-builder allows you to interactively create native Shiny dashboards. Lowering the entry barrier for new users starting their data-science journey. They can begin to visualize their datasets without prior knowledge of R. More experienced users can use the dashboard-builder to quickly sketch out their ideas and export them to act as a foundation for more complex dashboards.
