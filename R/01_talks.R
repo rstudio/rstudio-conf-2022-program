@@ -40,8 +40,15 @@ speakers <-
 
 rooms <- source(here("R/00_rooms.R"))$value |> select(track, room, room_name)
 
-sessions <- read_csv(here("_data/28-session-slug-titles_synched.csv"), col_types = list()) |>
-  select(session_slug = slug, session_title = title)
+sessions <-
+  here("_data/28-session-slug-titles_synched.csv") |>
+  read_csv(col_types = list()) |>
+  select(session_slug = slug, session_title = title) |>
+  mutate(session_title = if_else(
+    str_detect(session_title, "R be nimble"),
+    "Rapidly responding to world events with R",
+    session_title
+  ))
 
 first_upper <- function(x) {
   str_sub(x, 1, 1) <- str_to_upper(str_sub(x, 1, 1))
