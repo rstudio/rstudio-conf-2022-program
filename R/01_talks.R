@@ -2,8 +2,6 @@
 # https://rstudioconf2022.sched.com/editor
 # https://sched.com/api
 
-# TODO: replace generic track names with real room names
-
 library(lubridate)
 library(tidyverse)
 library(purrr)
@@ -40,15 +38,7 @@ speakers <-
 
 # Combine with talk times to generate program -----------------------------
 
-# Made up room names for now
-rooms <- tribble(
-  ~ track, ~ room,
-  "plenary", "Nile",
-  "A", "Amazon",
-  "B", "Yangtze",
-  "C", "Mississippi",
-  "D", "Yenisey"
-)
+rooms <- source(here("R/00_rooms.R"))$value |> select(track, room, room_name)
 
 sessions <- read_csv(here("_data/28-session-slug-titles_synched.csv"), col_types = list()) |>
   select(session_slug = slug, session_title = title)
@@ -80,7 +70,7 @@ program_sched <- program %>%
     session_key = talk_id,
     name = talk_title,
     description = abstract,
-    session_type = ifelse(talk_type == "Keynote", "Keynote", paste0("Track ", track)),
+    session_type = ifelse(talk_type == "Keynote", "Keynote", paste("Track", room_name)),
     session_subtype = ifelse(talk_type == "Regular", session_title, NA),
     session_start = start,
     session_end = end,
