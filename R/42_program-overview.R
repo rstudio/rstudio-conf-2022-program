@@ -27,14 +27,9 @@ sessions <-
 
 
 # Prep Talk Times ---------------------------------------------------------
-rooms <- tribble(
-  ~ track, ~ room,
-  "plenary", "Keynote Room",
-  "A", "Track A Room",
-  "B", "Track B Room",
-  "C", "Track C Room",
-  "D", "Track D Room"
-)
+rooms <-
+  source(here::here("R/00_rooms.R"))$value |>
+  select(track, room = room_name)
 
 talk_times <-
   here::here("_data/34-talk-times.csv") |>
@@ -47,6 +42,12 @@ talk_times <-
   ) |>
   select(-session_slug) |>
   left_join(rooms, by = "track") |>
+  mutate(
+    track = case_when(
+      talk_type == "Keynote" ~ "Plenary",
+      TRUE ~ paste("Track", room)
+    )
+  ) |>
   group_by(block) |>
   mutate(session_start = min(start), session_end = max(end)) |>
   ungroup() |>
