@@ -53,5 +53,5 @@ an opportunity to catch and fix bugs before they are pushed to production.
 
 In this talk, I will introduce a framework for automated testing of Shiny
 applications both (1) during the development phase and (2) after the app is
-deployed. I will share a demo Shiny app along with relevant shinytest and
+deployed. I will share a demo Shiny app along with relevant shinytest2 and
 Selenium code.
