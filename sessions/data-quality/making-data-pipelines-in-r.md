@@ -20,7 +20,7 @@ speakers:
     twitter: https://twitter.com/meghansharris
     github: https://github.com/Meghansaha
     linkedin: https://www.linkedin.com/in/meghan-harris/
-    affiliation: **https://medicine.buffalo.edu/departments/family-medicine/research.html**
+    affiliation: https://pcctc.org/
   username: meghan_s_harris
   photo: /assets/img/2022Conf/_talks/22005_meghan-s-harris.jpg
   bio: |+
