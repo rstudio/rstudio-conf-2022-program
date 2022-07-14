@@ -14,13 +14,13 @@ talk_title_short: Making Data Pipelines in R
 talk_materials_url: ~
 speakers:
 - name: Meghan S Harris
-  affiliation: University at Buffalo
+  affiliation: PCCTC @ Memorial Sloan Kettering
   url:
     webpage: https://www.thetidytrekker.com/
     twitter: https://twitter.com/meghansharris
     github: https://github.com/Meghansaha
     linkedin: https://www.linkedin.com/in/meghan-harris/
-    affiliation: https://medicine.buffalo.edu/departments/family-medicine/research.html
+    affiliation: **https://medicine.buffalo.edu/departments/family-medicine/research.html**
   username: meghan_s_harris
   photo: /assets/img/2022Conf/_talks/22005_meghan-s-harris.jpg
   bio: |+
@@ -47,8 +47,11 @@ from disbelief to amazement. R’s expansive capabilities can leave some feeling
 overwhelmed when tasked with larger projects like data pipelines. This talk
 invites the participant to hear the perspective of a self-taught R user who used
 curiosity and patience to create a functional data pipeline in R for a local
-health department. Specifically, this talk will touch on the following topics:
+health department. Specifically, this talk will touch on the following concepts:
 
--Surveying Data Landscapes -File Structures -Saving Yourself with Data
-Validation -Modularizing Code -Connecting Scripts -Scaling for Dissemination
--Remaining Calm in Unfamiliar R Territories
+- Surveying Data Landscapes
+- File Structures 
+- Saving Yourself with Data Validation 
+- Modularizing Code and Connecting R Scripts -
+- Thinking about Pipeline Sustainability
+- Remaining Calm in Unfamiliar R Territories
