@@ -1,7 +1,7 @@
 ---
 # Do not edit
 talk_id: 22007
-talk_slug: time-to-optimize-poorly-optimized
+talk_slug: exploring-query-optimization
 talk_type: regular
 talk_tags: [communication, databases, story]
 session_slug: databases
