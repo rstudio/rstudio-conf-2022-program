@@ -24,7 +24,13 @@ speakers:
   username: julia_silge
   photo: /assets/img/2022Conf/_talks/22301_julia-silge.jpeg
   bio: |+
-    NA
+    Julia Silge is a data scientist and software engineer at RStudio PBC where she works on open source tools for machine learning and 
+    MLOps. She holds a PhD in astrophysics and has worked as a data scientist in tech and the nonprofit sector, as well as a technical 
+    advisory committee member for the US Bureau of Labor Statistics. She is a coauthor of 
+    [_Tidy Text Mining with R_](https://www.tidytextmining.com/), 
+    [_Supervised Machine Learning for Text Analysis in R_](https://smltar.com/), and [_Tidy Modeling with R_](https://www.tmwr.org/). 
+    An international keynote speaker and a real-world practitioner focusing on data analysis and machine learning, Julia 
+    loves text analysis, making beautiful charts, and communicating about technical topics with diverse audiences.
 
 - name: Max Kuhn
   affiliation: RStudio, PBC
@@ -46,4 +52,4 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-
+The tidymodels framework is a collection of R packages for modeling and machine learning using tidyverse principles. Whether you are just starting out today or have years of experience with ML, tidymodels offers a consistent, flexible framework for your work. In this talk, learn how tidymodels has been designed to promote **effective**, **safe**, and **ergonomic** modeling practice. We will discuss how to think about the steps of building a model from beginning to end, how to fluently use different modeling and feature engineering approaches, how to avoid common pitfalls of modeling like overfitting and data leakage, and how to version and deploy reliable models trained in R.
