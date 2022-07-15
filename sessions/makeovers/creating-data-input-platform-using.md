@@ -7,7 +7,7 @@ talk_tags: [process, story, tidyverse]
 session_slug: makeovers
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Creating a data input platform using tidyverse"
+talk_title: "Do It For Yourself: Creating a data input platform using R"
 # A short version of the title, suitable for small displays
 talk_title_short: Creating a data input platform using tidyverse
 # A link to your talk's materials, when ready
@@ -17,7 +17,7 @@ speakers:
   affiliation: Tel Aviv University
   url:
     webpage: ~
-    twitter: ~
+    twitter: https://twitter.com/hezi_bu
     github: https://github.com/hezibu/
     linkedin: ~
     affiliation: https://belmaker.weebly.com/
