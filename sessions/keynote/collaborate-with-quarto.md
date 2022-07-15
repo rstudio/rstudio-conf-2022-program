@@ -53,7 +53,7 @@ speakers:
   username: julia_stewart_lowndes
   photo: /assets/img/2022Conf/_talks/22303_julia-stewart-lowndes.jpeg
   bio: |+
-    [Julia Stewart Lowndes](http://jules32.github.io/), PhD is founding director of Openscapes. 
+    [Julia Stewart Lowndes](http://jules32.github.io/), PhD is founding director of [Openscapes](https://openscapes.org). 
     She is a marine ecologist and champion for making science more open, efficient, inclusive, and kind. 
     Working at the intersection of actionable environmental science, data science, and open science, 
     she is a Mozilla Fellow, National Science Foundation Better Scientific Software Fellow, and 
@@ -62,7 +62,7 @@ speakers:
     in 2012 studying drivers and impacts of Humboldt squid in a changing climate. Recent open science/R 
     contributions include pieces in [Scientific American](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science), 
     [Nature](https://www.nature.com/articles/d41586-019-03335-4), [2019 useR! Conference](https://www.openscapes.org/blog/2019/08/22/user-keynote/),
-    [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/), and 
+    [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/), and the 
     [Tidy Data Illustrated Series](https://www.openscapes.org/blog/2020/10/12/tidy-data/).
 
 
