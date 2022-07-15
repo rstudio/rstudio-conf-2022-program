@@ -7,9 +7,9 @@ talk_tags: ~
 session_slug: keynote
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Reimagine + Collaborate + Share with Quarto"
+talk_title: "Hello Quarto: Share • Collaborate • Teach • Reimagine"
 # A short version of the title, suitable for small displays
-talk_title_short: Reimagine + Collaborate + Share with Quarto
+talk_title_short: "Hello Quarto"
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
@@ -48,24 +48,22 @@ speakers:
     webpage: https://jules32.github.io/
     twitter: https://twitter.com/juliesquid
     github: https://github.com/jules32
-    linkedin: ~
+    linkedin: https://www.linkedin.com/in/julia-stewart-lowndes
     affiliation: ~
   username: julia_stewart_lowndes
   photo: /assets/img/2022Conf/_talks/22303_julia-stewart-lowndes.jpeg
   bio: |+
-    [Julia Stewart Lowndes](http://jules32.github.io/), PhD founded
-    [Openscapes](https://openscapes.org/) to champion kinder, better science in
-    less time together. A marine ecologist and data scientist, she has shifted
-    from doing her own research to empowering research teams with skillsets and
-    mindsets for open, collaborative, and reproducible research. Focused on
-    fostering diverse, inclusive, and leaderful open data science research
-    communities, she is a R community contributor through rOpenSci and RStudio,
-    a Carpentries Instructor, and co-founder Eco-Data-Science and R-Ladies Santa
-    Barbara. She is a Senior Fellow at the National Center for Ecological
-    Analysis and Synthesis (NCEAS) at the University of California Santa
-    Barbara, a 2019 Mozilla Fellow, and earned her PhD from Stanford University
-    in 2012 studying drivers and impacts of Humboldt squid in a changing
-    climate.
+    [Julia Stewart Lowndes](http://jules32.github.io/), PhD is founding director of Openscapes. 
+    She is a marine ecologist and champion for making science more open, efficient, inclusive, and kind. 
+    Working at the intersection of actionable environmental science, data science, and open science, 
+    she is a Mozilla Fellow, National Science Foundation Better Scientific Software Fellow, and 
+    Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at 
+    the University of California Santa Barbara. Julia earned her PhD from Stanford University 
+    in 2012 studying drivers and impacts of Humboldt squid in a changing climate. Recent open science/R 
+    contributions include pieces in [Scientific American](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science), 
+    [Nature](https://www.nature.com/articles/d41586-019-03335-4), [2019 useR! Conference](https://www.openscapes.org/blog/2019/08/22/user-keynote/),
+    [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/), and 
+    [Tidy Data Illustrated Series](https://www.openscapes.org/blog/2020/10/12/tidy-data/).
 
 
 ---
@@ -74,4 +72,4 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-What is Quarto? In this talk, in four acts, we will discuss how Quarto unifies and extends the R Markdown ecosystem. Through our work with NASA Openscapes, Duke University, and RStudio, we will share our experiences authoring, teaching, and collaborating with Quarto. Full of demos with Quarto in RStudio and Jupyter and weaving together narrative, R, and Python code, we will showcase features of Quarto that have enabled us to reimagine our reproducible workflows. This talk will help you get the most out of Quarto regardless of your background with R Markdown, the computing language(s) you use, and your tool of choice for authoring.
+What is Quarto? In this talk, in four acts, we will discuss how Quarto unifies and extends the R Markdown ecosystem. Through our work with NASA Openscapes, Duke University, and RStudio, we will share our experiences sharing, teaching, collaborating, and reimagining with Quarto. Full of demos with Quarto in RStudio and Jupyter and weaving together narrative and code, this talk will help you get the most out of Quarto regardless of your background with R Markdown, the computing language(s) you may use, and your tool of choice for authoring.
