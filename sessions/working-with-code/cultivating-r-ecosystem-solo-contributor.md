@@ -11,7 +11,7 @@ talk_title: "Cultivating Your Own R Ecosystem as a Solo Contributor"
 # A short version of the title, suitable for small displays
 talk_title_short: Cultivating Your Own R Ecosystem as a Solo Contributor
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://meghan.rbind.io/talk/rstudioconf/
 speakers:
 - name: Meghan Hall
   affiliation: Brown University
