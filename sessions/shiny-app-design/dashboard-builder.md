@@ -1,7 +1,7 @@
 ---
 # Do not edit
 talk_id: 22178
-talk_slug: dashboard-builder-making-truly-interactive
+talk_slug: dashboard-builder
 talk_type: regular
 talk_tags: [shiny, tool, visualisation]
 session_slug: shiny-app-design
