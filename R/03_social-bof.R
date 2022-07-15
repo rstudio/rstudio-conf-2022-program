@@ -34,6 +34,7 @@ social_sched <-
     name = title,
     description = coalesce(description, title),
     description = map_chr(description, commonmark::markdown_html),
+    description = gsub("\n<(ul|p|ol)>", "<br><\\1>", description),
     session_start = start,
     session_end = end,
     session_type = type,
