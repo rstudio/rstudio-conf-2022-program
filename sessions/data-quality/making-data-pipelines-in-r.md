@@ -52,6 +52,6 @@ health department. Specifically, this talk will touch on the following concepts:
 - Surveying Data Landscapes
 - File Structures 
 - Saving Yourself with Data Validation 
-- Modularizing Code and Connecting R Scripts -
+- Modularizing Code and Connecting R Scripts
 - Thinking about Pipeline Sustainability
 - Remaining Calm in Unfamiliar R Territories
