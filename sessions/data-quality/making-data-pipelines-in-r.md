@@ -24,14 +24,13 @@ speakers:
   username: meghan_s_harris
   photo: /assets/img/2022Conf/_talks/22005_meghan-s-harris.jpg
   bio: |+
-    Meghan Harris is a self-taught R user that is a data integration
-    specialist at the University at Buffalo and the Erie County government
-    of New York. Meghan’s work focuses on integrating opioid-related
-    data sources and creating custom reports, dashboards, and solutions
-    using the R programming language. Meghan is an advocate for using
-    open-source software when appropriate to encourage the development
-    of programming skills, increased analysis/evaluation autonomy for
-    agencies, and data literacy. In Meghan’s spare time, Meghan creates
+    Meghan Harris is a self-taught R user that is currently a Data Scientist 
+    at the PCCTC at the Memorial Sloan Kettering Cancer Center. Meghan’s 
+    work allows her to work with data, create custom reports, dashboards, 
+    and various solutions using the R programming language daily. Meghan 
+    is an advocate for using open-source software when appropriate to encourage 
+    the development of programming skills, increased analysis/evaluation autonomy 
+    for agencies, and data literacy. In Meghan’s spare time, Meghan creates
     generative art in the R programming language, called Rtistry.
 
 
