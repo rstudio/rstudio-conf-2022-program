@@ -18,7 +18,9 @@ talks <-
   select(talk_id, talk_title, talk_materials_url, speakers) |>
   mutate(
     abstract = talk_data$abstract,
-    talk_tags = map(talk_data$yaml, "talk_tags") |> map_chr(paste, collapse = ", ")
+    talk_tags = map(talk_data$yaml, "talk_tags")|>
+      map(c, "live stream") |>
+      map_chr(paste, collapse = ", ")
   )
 
 speakers <-
