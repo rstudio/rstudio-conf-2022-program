@@ -77,6 +77,8 @@ program_sched <- program %>%
     session_key = talk_id,
     name = talk_title,
     description = abstract,
+    # give paragraphs some room to breathe on sched
+    description = gsub("\n<(ul|p|ol)>", "<br><\\1>", description),
     session_type = ifelse(talk_type == "Keynote", "Keynote", paste("Track", room_name)),
     session_subtype = ifelse(talk_type == "Regular", session_title, NA),
     session_start = start,
