@@ -9,9 +9,9 @@ session_slug: advanced-r
 # The title of your talk
 talk_title: "Cracking open ggplot internals with {ggtrace}"
 # A short version of the title, suitable for small displays
-talk_title_short: Cracking open ggplot internals with {ggtrace}
+talk_title_short: ggplot internals with {ggtrace}
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/yjunechoe/ggtrace-rstudioconf2022
 speakers:
 - name: June Choe
   affiliation: University of Pennsylvania
