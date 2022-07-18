@@ -43,7 +43,18 @@ speakers:
   username: max_kuhn
   photo: /assets/img/2022Conf/_talks/22301_max-kuhn.jpeg
   bio: |+
-    NA
+    Max Kuhn is a software engineer at RStudio. He is currently working on
+    improving R’s modeling capabilities. He was a Director of Nonclinical
+    Statistics at Pfizer Global R&D in Connecticut. He was applying models in
+    the pharmaceutical and diagnostic industries for over 18 years. Max has a
+    Ph.D. in Biostatistics. Max is the author of numerous R packages for
+    techniques in machine learning and reproducible research and is an Associate
+    Editor for the Journal of Statistical Software. He, and Kjell Johnson, wrote
+    the book [_Applied Predictive Modeling_](http://appliedpredictivemodeling.com/),
+    which won the Ziegel award from the American Statistical Association, which
+    recognizes the best book reviewed in Technometrics in 2015. Their latest
+    book, [_Feature Engineering and Selection_](http://www.feat.engineering/),
+    was published in 2019.
 
 
 ---
