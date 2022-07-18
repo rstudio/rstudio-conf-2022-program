@@ -7,9 +7,9 @@ talk_tags: [communication, tool]
 session_slug: rmarkdown-quarto
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Quarto for RMarkdown Users"
+talk_title: "Quarto for the Curious"
 # A short version of the title, suitable for small displays
-talk_title_short: Quarto for RMarkdown Users
+talk_title_short: Quarto for the Curious
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
