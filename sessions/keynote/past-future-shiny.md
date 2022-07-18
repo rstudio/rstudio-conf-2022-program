@@ -17,14 +17,16 @@ speakers:
   affiliation: RStudio, PBC
   url:
     webpage: ~
-    twitter: ~
+    twitter: https://twitter.com/jcheng
     github: https://github.com/jcheng5
     linkedin: ~
     affiliation: ~
   username: joe_cheng.1v84pjmc
   photo: /assets/img/2022Conf/_talks/22302_joe-cheng.jpeg
   bio: |+
-    NA
+    Joe Cheng is the Chief Technology Officer at RStudio and was the original
+    creator of the Shiny web framework, and continues to work on packages at the
+    intersection of R and the web.
 
 
 ---
