@@ -3,7 +3,7 @@
 talk_id: 22302
 talk_slug: past-future-shiny
 talk_type: keynote
-talk_tags: ~
+talk_tags: [shiny, story]
 session_slug: keynote
 # ---- Edit information below this line ----
 # The title of your talk
