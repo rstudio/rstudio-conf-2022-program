@@ -3,7 +3,7 @@
 talk_id: 22142
 talk_slug: literate-programming-quarto
 talk_type: regular
-talk_tags: [communication, interop]
+talk_tags: [communication, interop, Quarto]
 session_slug: quarto-deep-dive
 # ---- Edit information below this line ----
 # The title of your talk

@@ -3,7 +3,7 @@
 talk_id: 22303
 talk_slug: collaborate-with-quarto
 talk_type: keynote
-talk_tags: [communication, interop]
+talk_tags: [communication, interop, Quarto]
 session_slug: keynote
 # ---- Edit information below this line ----
 # The title of your talk

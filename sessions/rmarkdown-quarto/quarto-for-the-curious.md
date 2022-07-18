@@ -3,7 +3,7 @@
 talk_id: 22149
 talk_slug: quarto-for-rmarkdown-users
 talk_type: regular
-talk_tags: [communication, tool]
+talk_tags: [communication, tool, Quarto]
 session_slug: rmarkdown-quarto
 # ---- Edit information below this line ----
 # The title of your talk
