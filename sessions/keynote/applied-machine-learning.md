@@ -3,7 +3,7 @@
 talk_id: 22301
 talk_slug: applied-machine-learning
 talk_type: keynote
-talk_tags: ~
+talk_tags: [modeling]
 session_slug: keynote
 # ---- Edit information below this line ----
 # The title of your talk
