@@ -3,7 +3,7 @@
 talk_id: 22304
 talk_slug: data-science-training
 talk_type: keynote
-talk_tags: ~
+talk_tags: [career-development, access, data-for-good]
 session_slug: keynote
 # ---- Edit information below this line ----
 # The title of your talk
