@@ -40,7 +40,6 @@ talk_times <-
     session_title = coalesce(session_title, talk_type),
     across(c(start, end), strftime, format = "%I:%M%P")
   ) |>
-  select(-session_slug) |>
   left_join(rooms, by = "track") |>
   mutate(
     track = case_when(
@@ -60,6 +59,7 @@ talk_times <-
   select(
     day, session_start, session_end,
     talk_type, room, session_title, track,
+    session_slug,
     talk_id, start, end
   )
 
@@ -109,7 +109,8 @@ workshops_summary <-
 
 session_summary <-
   talks_summary |>
-  distinct(day, session_start, session_end, talk_type, room, session_title, track)
+  select(day, session_slug, session_start, session_end, talk_type, room, session_title, track) |>
+  distinct()
 
 # Push to sheet -----------------------------------------------------------
 
