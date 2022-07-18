@@ -21,7 +21,7 @@ speakers:
     github: https://github.com/nstrayer
     linkedin: https://www.linkedin.com/in/nickstrayer/
     affiliation: https://shiny.rstudio.com/
-  username: nick_strayer
+  username: nickstrayer
   photo: /assets/img/2022Conf/_talks/22058_nick-strayer.jpg
   bio: |+
     Nick is an engineer on the Shiny team working to make web applications
