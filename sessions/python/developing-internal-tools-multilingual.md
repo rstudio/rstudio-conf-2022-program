@@ -1,7 +1,7 @@
 ---
 # Do not edit
 talk_id: 22038
-talk_slug: designing-internal-tools-for-multi
+talk_slug: developing-internal-tools-multilingual
 talk_type: regular
 talk_tags: [design, interop, process, tool]
 session_slug: python
