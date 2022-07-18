@@ -63,4 +63,13 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-The tidymodels framework is a collection of R packages for modeling and machine learning using tidyverse principles. Whether you are just starting out today or have years of experience with ML, tidymodels offers a consistent, flexible framework for your work. In this talk, learn how tidymodels has been designed to promote **effective**, **safe**, and **ergonomic** modeling practice. We will discuss how to think about the steps of building a model from beginning to end, how to fluently use different modeling and feature engineering approaches, how to avoid common pitfalls of modeling like overfitting and data leakage, and how to version and deploy reliable models trained in R.
+The [tidymodels framework](https://www.tidymodels.org) is a collection of R
+packages for modeling and machine learning using tidyverse principles. Whether
+you are just starting out today or have years of experience with ML, tidymodels
+offers a consistent, flexible framework for your work. In this talk, learn how
+tidymodels has been designed to promote **effective**, **safe**, and
+**ergonomic** modeling practice. We will discuss how to think about the steps of
+building a model from beginning to end, how to fluently use different modeling
+and feature engineering approaches, how to avoid common pitfalls of modeling
+like overfitting and data leakage, and how to version and deploy reliable models
+trained in R.
