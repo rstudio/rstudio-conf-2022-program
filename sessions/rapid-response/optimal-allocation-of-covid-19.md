@@ -13,27 +13,6 @@ talk_title_short: Optimal allocation of COVID-19 vaccines in west Africa
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
-- name: Allison Fox
-  affiliation: Palladium International
-  url:
-    webpage: ~
-    twitter: ~
-    github: ~
-    linkedin: ~
-    affiliation: ~
-  username: allison_fox
-  photo: /assets/img/2022Conf/_talks/22230_allison-fox.jpg
-  bio: |+
-    Allison Fox is a senior associate in data science who supports a range
-    of data science projects at Palladium including the development of an
-    R-based tool to help countries optimize allocation of human resources
-    for health. Prior to working at Palladium, Allison supported the set-
-    up of a CDC Randomized Quadruple Fortified Salt Trial in Madanapalle,
-    India. Allison has prior experience as a Nutrition and Data Analysis
-    Consultant at Chemonics. She has a BS in Global and Public Health
-    Sciences from Cornell University and is pursuing an MS in Data Science
-    from the University of California, Berkeley.
-
 - name: Anubhuti Mishra
   affiliation: Palladium International
   url:
