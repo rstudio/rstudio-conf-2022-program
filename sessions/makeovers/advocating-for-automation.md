@@ -1,7 +1,7 @@
 ---
 # Do not edit
 talk_id: 22158
-talk_slug: adapting-current-tools-in-environmental
+talk_slug: advocating-for-automation
 talk_type: regular
 talk_tags: [career-development, champion, interop]
 session_slug: makeovers
