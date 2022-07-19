@@ -89,8 +89,7 @@ talks <-
   summarize(speakers = paste(speakers, collapse = " & "), .groups = "drop")
 
 talks_summary <-
-  left_join(talk_times, talks, by = "talk_id") |>
-  select(-talk_id)
+  left_join(talk_times, talks, by = "talk_id")
 
 # Workshops ---------------------------------------------------------------
 
