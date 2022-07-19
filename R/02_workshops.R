@@ -30,6 +30,7 @@ workshops_sched <- workshops |>
     session_start = start,
     session_end = end,
     session_type = "Workshop",
+    tags = paste0("workshop:", `shortlink-slug`),
     venue = as.character(room)
   ) |>
   mutate(across(where(is.character), ~ coalesce(.x, "")))
