@@ -7,18 +7,18 @@ talk_tags: [career-development, champion, interop]
 session_slug: makeovers
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Adapting Current Tools in Environmental Science through R"
+talk_title: "Advocating for Automation: Adapting Current Tools in Environmental Science through R"
 # A short version of the title, suitable for small displays
-talk_title_short: Adapting Current Tools in Environmental Science through R
+talk_title_short: "Advocating for Automation"
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/hannahpodzorski/advocating-for-automation
 speakers:
 - name: Hannah Podzorski
   affiliation: GSI Environmental
   url:
     webpage: ~
     twitter: https://www.twitter.com/hpodz
-    github: ~
+    github: https://github.com/hannahpodzorski
     linkedin: https://www.linkedin.com/in/hannah-podzorski
     affiliation: https://www.gsienv.com/
   username: hannah_podzorski
@@ -39,13 +39,4 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-Increasing quantities and types of available data and the need for more advanced
-analyses are outpacing current tools in environmental science. R allows us to
-preform statistical analyses more efficiently, while {Rmarkdown} and {officer}
-allows us to present the results in a familiar way. {Shiny} allows us to create
-data dashboards quickly, affordably, and with the flexibility to adapt to a
-project’s needs. Using {reticulate} with python and {dbplyr} with SQL built
-databases we can expand our data science capabilities through collaboration.
-I’ll give examples of how our team uses R alongside software from regulatory
-agencies, {Shiny} to improve tools previously developed in Microsoft Access or
-Excel, and python and SQL to supplement R.
+Increasing quantity and types of available data and the need for more advance analyses are outpacing current tools in environmental science. R allows us to efficiently manipulate and analyze complex data; however, taking the first leap from a current workflow to automation can be challenging. This talk will focus on how to advocate for automation in a team with diverse skillsets. We’ll start with examples of small changes that can be made using {officer} and {openxlsx} to meet your team members where they are by presenting results in a manner familiar to them; and finish by presenting a case study of how we used R to automate software from a regulatory agency.
