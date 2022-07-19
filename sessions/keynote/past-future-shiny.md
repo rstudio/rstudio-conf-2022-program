@@ -29,4 +29,12 @@ speakers:
 
 ---
 
-[Shiny](https://shiny.rstudio.com) is a package that makes it easy to create interactive web apps using R. It's hard to believe, but it's been ten whole years since the launch of Shiny! I'll mark the occasion by sharing some stories about the creation of Shiny, the conditions that have made it a success over the years, and our plans for the near future.
+<!-- ABSTRACT ----
+Please write abstract below. You may use simple markdown (links, code style, bold, italics)
+-->
+
+[Shiny](https://shiny.rstudio.com) is a package that makes it easy to create
+interactive web apps using R. It's hard to believe, but it's been ten whole
+years since the launch of Shiny! I'll mark the occasion by sharing some stories
+about the creation of Shiny, the conditions that have made it a success over the
+years, and our plans for the near future.
