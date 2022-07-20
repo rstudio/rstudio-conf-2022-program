@@ -25,10 +25,11 @@ speakers:
   photo: /assets/img/2022Conf/_talks/22132_eric-wanjau.png
   bio: |+
     Eric is an Early Career Researcher at the Leeds Institute for
-    Data Analytics (LIDA) in the University of Leeds. His research interests span domains such as robotics,
-    computer vision, and signal processing. Eric is a co-founder and co-
-    organizer of DekutR data science club at Dedan Kimathi University of
-    Technology, Kenya. He plays the guitar (terribly but passionately).
+    Data Analytics (LIDA) in the University of Leeds. His research interests
+    span domains such as robotics, computer vision, and signal processing.
+    Eric is a co-founder and co-organizer of DekutR data science club at
+    Dedan Kimathi University of Technology, Kenya.
+    He plays the guitar (terribly but passionately).
 
 - name: Ian Muchiri
   affiliation: Dedan Kimathi University of Technology
