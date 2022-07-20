@@ -11,7 +11,7 @@ talk_title: "What they forgot to teach you about starting a business with R"
 # A short version of the title, suitable for small displays
 talk_title_short: What they forgot to teach you about starting a business with R
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://dgkeyes.com/rbusiness
 speakers:
 - name: David Keyes
   affiliation: R for the Rest of Us
