@@ -11,7 +11,7 @@ talk_title: "Say Hello! to Multilingual Shiny Apps"
 # A short version of the title, suitable for small displays
 talk_title_short: Say Hello! to Multilingual Shiny Apps
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://nrennie.rbind.io/talks/2022-july-rstudio-conf/
 speakers:
 - name: Nicola Rennie
   affiliation: Jumping Rivers
