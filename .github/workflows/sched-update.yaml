@@ -7,9 +7,9 @@ on:
         description: Comma-separated list of sched usernames for speakers to update
         required: false
         default: ''
-  # push:
-  #   branches: [main]
-  #   paths: ['sessions/**.md', 'assets/**']
+  push:
+    branches: [main]
+    paths: ['sessions/**.md']
   pull_request:
     branches: [main]
     paths: ['sessions/**.md', 'assets/**']
@@ -19,9 +19,15 @@ name: sched-update
 jobs:
   sched-update:
     runs-on: ubuntu-20.04
+
+    # Only run one deploy-to-sched workflow at a time on main
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.event.pull_request.number || 'main' }}
+
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
       SCHED_CONF_2022: ${{ secrets.SCHED_CONF_2022 }}
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
@@ -47,11 +53,3 @@ jobs:
           SCHED_UPDATE_SPEAKERS: ${{ github.event.inputs.speakers }}
         run: Rscript 'R/01_talks.R'
 
-      ### Disabled for now, requires access to Google Sheets ###
-      # - name: [sched] Update workshops
-      #   if: ${{ github.event_name != 'pull_request' }}
-      #   run: Rscript 'R/02_workshops.R'
-      #
-      # - name: [sched] Update social events
-      #   if: ${{ github.event_name != 'pull_request' }}
-      #   run: Rscript 'R/03_social-bof.R'
