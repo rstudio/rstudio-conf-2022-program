@@ -7,9 +7,9 @@ talk_tags: [champion, public-sector, shiny]
 session_slug: working-with-code
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Shiny Dashboards for Biomedical Research Funding"
+talk_title: "Small Team Large Organization: Building Impactful Shiny Dashboards at NIH"
 # A short version of the title, suitable for small displays
-talk_title_short: Shiny Dashboards for Biomedical Research Funding
+talk_title_short: Building Impactful Shiny Dashboards at NIH
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
