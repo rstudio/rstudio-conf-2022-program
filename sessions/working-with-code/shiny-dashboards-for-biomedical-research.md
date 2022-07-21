@@ -40,13 +40,5 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-As a senior policy analyst at the National Institute of Allergy and Infectious
-Diseases at the National Institutes of Health, I am part of a diverse team
-that includes data analysts, scientists, and statisticians. Our goal is to help
-NIAID leadership gain insight from large amounts of data. In this talk I will
-discuss how my colleagues and I have used R Shiny to simplify business processes
-and promote data driven decision making. In light of the recent pandemic, and
-the ongoing threat of emerging infectious diseases, the ability to understand
-a complex research portfolio is increasingly important. I will highlight how
-we have used R Shiny to streamline workflows, enhance collaboration, and gain
-insight into these large complex datasets.
+It can be difficult for small teams to make an impact in large organizations. In this talk I will discuss how my small team, at the National Institute of Allergy and Infectious Diseases (NIAID) has used Shiny to increase efficiency, enhance collaboration, and track biomedical research funding. In light of the recent pandemic, and the ongoing threat of emerging infectious diseases, our ability to understand a complex research portfolio and adapt quickly to changing research priorities has become increasingly important. I will highlight how automated workflows and Shiny dashboards have allowed my team to become more efficient and enabled us to have an outsized impact on our organization.
+
