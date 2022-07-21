@@ -36,3 +36,5 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
+Shiny helps data scientists create web applications without requiring web development experience. However, there's still a steep learning curve for writing the Ui portion of an app. Unlike an app's server code, which typically only uses a few different Shiny-specific functions, the app's UI code is almost entirely made up of functions with strange syntaxes and often surprising interactions with each other. This paradigm requires a very different mindset than your typical R Script. This talk introduces a new tool to help both new and experienced Shiny developers spend less time writing their app's UI and more time doing data science. 
+
