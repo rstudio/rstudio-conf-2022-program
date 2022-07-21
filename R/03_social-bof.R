@@ -15,7 +15,8 @@ events <- read_sheet(
   sheet = "Social/BoFs"
 )
 
-times <- read_sheet("14cupdpbOj_aDQdiee-Db3Gde77JN9HWik73nZW7xMGs") |>
+times <-
+  read_sheet("14cupdpbOj_aDQdiee-Db3Gde77JN9HWik73nZW7xMGs") |>
   make_start_end_relative() |>
   select(block, start, end)
 
