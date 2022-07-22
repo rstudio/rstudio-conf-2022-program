@@ -1410,12 +1410,12 @@
       "end": "2022-07-27T10:30:00ZEDT"
     },
     "session": {
-      "slug": "keynote",
-      "title": null,
+      "slug": "applied-machine-learning",
+      "title": "Keynote: Good practices for applied machine learning - from model development to model deployment",
       "room": "Potomac A+B",
-      "day": null,
-      "start": null,
-      "end": null
+      "day": "2022-07-27",
+      "start": "2022-07-27T09:00:00ZEDT",
+      "end": "2022-07-27T10:30:00ZEDT"
     },
     "speakers": [
       {
@@ -1468,12 +1468,12 @@
       "end": "2022-07-28T10:00:00ZEDT"
     },
     "session": {
-      "slug": "keynote",
-      "title": null,
+      "slug": "collaborate-with-quarto",
+      "title": "Keynote: Hello Quarto: Share • Collaborate • Teach • Reimagine",
       "room": "Potomac A+B",
-      "day": null,
-      "start": null,
-      "end": null
+      "day": "2022-07-28",
+      "start": "2022-07-28T09:00:00ZEDT",
+      "end": "2022-07-28T10:00:00ZEDT"
     },
     "speakers": [
       {
@@ -1526,12 +1526,12 @@
       "end": "2022-07-28T17:30:00ZEDT"
     },
     "session": {
-      "slug": "keynote",
-      "title": null,
+      "slug": "data-science-training",
+      "title": "Keynote: Data science training in communities with limited technology resources and opportunities",
       "room": "Potomac A+B",
-      "day": null,
-      "start": null,
-      "end": null
+      "day": "2022-07-28",
+      "start": "2022-07-28T16:30:00ZEDT",
+      "end": "2022-07-28T17:30:00ZEDT"
     },
     "speakers": [
       {
@@ -1569,12 +1569,12 @@
       "end": "2022-07-27T17:30:00ZEDT"
     },
     "session": {
-      "slug": "keynote",
-      "title": null,
+      "slug": "past-future-shiny",
+      "title": "Keynote: The Past and Future of Shiny",
       "room": "Potomac A+B",
-      "day": null,
-      "start": null,
-      "end": null
+      "day": "2022-07-27",
+      "start": "2022-07-27T16:30:00ZEDT",
+      "end": "2022-07-27T17:30:00ZEDT"
     },
     "speakers": [
       {

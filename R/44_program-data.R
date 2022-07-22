@@ -77,8 +77,10 @@ talk_times <-
 
 program <-
   talks |>
+  mutate(session_slug = if_else(talk_type == "Keynote", talk_slug, session_slug)) |>
   left_join(talk_times, by = "talk_id") |>
   left_join(session_times, by = "session_slug") |>
+  mutate(session_title = if_else(talk_type == "Keynote", paste("Keynote:", talk_title), session_title)) |>
   rename(talk_abstract = abstract, session_room = room) |>
   rename_with(~ paste0("talk_", .x), c(day, start, end, sched_url)) |>
   nest(
@@ -86,9 +88,7 @@ program <-
     talk = c(contains("talk_")),
     .names_sep = "_"
   ) |>
-  select(
-    talk, session, speakers
-  )
+  select(talk, session, speakers)
 
 # Write program json ------------------------------------------------------
 
