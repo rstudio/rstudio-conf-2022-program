@@ -10,7 +10,7 @@ sched_url: https://rstudioconf2022.sched.com/event/11iaL
 # The title of your talk
 talk_title: "{shinyslack}: Connecting Slack Teams to Shiny Apps"
 # A short version of the title, suitable for small displays
-talk_title_short: {shinyslack}
+talk_title_short: "{shinyslack}"
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
