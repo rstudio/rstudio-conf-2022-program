@@ -38,8 +38,8 @@
           "affiliation": null
         },
         "username": "junechoe",
-        "photo": "/assets/img/2022Conf/_talks/22100_june-choe.jpg",
-        "bio": "June is a second year Ph.D. student in linguistics at the University\nof Pennsylvania, studying various topics in language acquisition and\nhuman sentence processing. He uses R extensively for experimental\nand corpus research, and spends too much time making the perfect\nfigures for his papers. Outside of research, June spends his free time\npursuing his hobby in data visualization, reading about its design\nprinciples and code-based implementations. June is also passionate\nabout data science education, and his most recent side project tackles\nthe knowledge gap between users and developers of ggplot. June takes\nbreaks from his computer by cooking, ice skating, and hanging out with\nfriends.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22100_june-choe.jpg",
+        "bio": "<p>June is a second year Ph.D. student in linguistics at the University\nof Pennsylvania, studying various topics in language acquisition and\nhuman sentence processing. He uses R extensively for experimental\nand corpus research, and spends too much time making the perfect\nfigures for his papers. Outside of research, June spends his free time\npursuing his hobby in data visualization, reading about its design\nprinciples and code-based implementations. June is also passionate\nabout data science education, and his most recent side project tackles\nthe knowledge gap between users and developers of ggplot. June takes\nbreaks from his computer by cooking, ice skating, and hanging out with\nfriends.<\/p>\n"
       }
     ]
   },
@@ -81,8 +81,8 @@
           "affiliation": "https://rstudio.com"
         },
         "username": "hadley_wickham.1v9f0jhr",
-        "photo": "/assets/img/2022Conf/_talks/22110_hadley-wickham.jpg",
-        "bio": "Hadley is Chief Scientist at RStudio, winner of the 2019 COPSS award,\nand a member of the R Foundation. He builds tools (both computational\nand cognitive) to make data science easier, faster, and more fun. His\nwork includes packages for data science (like the tidyverse, which\nincludes ggplot2, dplyr, and tidyr)and principled software development\n(e.g. roxygen2, testthat, and pkgdown). He is also a writer, educator,\nand speaker promoting the use of R for data science. Learn more on his\nwebsite, <http://hadley.nz>.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22110_hadley-wickham.jpg",
+        "bio": "<p>Hadley is Chief Scientist at RStudio, winner of the 2019 COPSS award,\nand a member of the R Foundation. He builds tools (both computational\nand cognitive) to make data science easier, faster, and more fun. His\nwork includes packages for data science (like the tidyverse, which\nincludes ggplot2, dplyr, and tidyr)and principled software development\n(e.g. roxygen2, testthat, and pkgdown). He is also a writer, educator,\nand speaker promoting the use of R for data science. Learn more on his\nwebsite, <a href=\"http://hadley.nz\">http://hadley.nz<\/a>.<\/p>\n"
       }
     ]
   },
@@ -125,8 +125,8 @@
           "affiliation": "https://www.netapp.com/"
         },
         "username": "brshallo",
-        "photo": "/assets/img/2022Conf/_talks/22103_bryan-shalloway.jpg",
-        "bio": "Bryan is a Data Scientist at NetApp where he has worked on a\nwide range of internal operations problems in Customer Support,\nForecasting, and Pricing Optimization. He also leads internal\nstudy groups on books like *Feature Engineering and Selection* and\n*Interpretable Machine Learning*. His writing on data science topics\ncan be found at bryanshalloway.com. Bryan previously worked as a\nschool analyst in Colorado and as a high school math teacher in North\nCarolina. He holds a Master's in Advanced Analytics from NC State and\nstudied Cognitive Neuroscience at Washington University in St. Louis.\nBryan lives in Seattle and in his spare time can be found reading the\nnewsletters of various public policy wonks or listening to podcasts\nwhile cooking, cleaning, running, ...{insert any activity}.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22103_bryan-shalloway.jpg",
+        "bio": "<p>Bryan is a Data Scientist at NetApp where he has worked on a\nwide range of internal operations problems in Customer Support,\nForecasting, and Pricing Optimization. He also leads internal\nstudy groups on books like <em>Feature Engineering and Selection<\/em> and\n<em>Interpretable Machine Learning<\/em>. His writing on data science topics\ncan be found at bryanshalloway.com. Bryan previously worked as a\nschool analyst in Colorado and as a high school math teacher in North\nCarolina. He holds a Master's in Advanced Analytics from NC State and\nstudied Cognitive Neuroscience at Washington University in St. Louis.\nBryan lives in Seattle and in his spare time can be found reading the\nnewsletters of various public policy wonks or listening to podcasts\nwhile cooking, cleaning, running, ...{insert any activity}.<\/p>\n"
       }
     ]
   },
@@ -169,8 +169,8 @@
           "affiliation": null
         },
         "username": "kamil_zyla",
-        "photo": "/assets/img/2022Conf/_talks/22080_kamil-zyla.jpg",
-        "bio": "Kamil is a Full Stack Engineer at Appsilon and a core developer of\nRhino. He learned to code at the age of 15 and used to participate\nin programming competitions. He earned degrees in computer science\nand mathematics. His interests include programming language theory,\nsoftware development processes and working across technologies. He’s\npassionate about jazz, spirituality and psychology.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22080_kamil-zyla.jpg",
+        "bio": "<p>Kamil is a Full Stack Engineer at Appsilon and a core developer of\nRhino. He learned to code at the age of 15 and used to participate\nin programming competitions. He earned degrees in computer science\nand mathematics. His interests include programming language theory,\nsoftware development processes and working across technologies. He’s\npassionate about jazz, spirituality and psychology.<\/p>\n"
       }
     ]
   },
@@ -213,8 +213,8 @@
           "affiliation": "https://www.lilly.com/"
         },
         "username": "sydeaka_watson",
-        "photo": "/assets/img/2022Conf/_talks/22091_sydeaka-watson.jpeg",
-        "bio": "Dr. Sydeaka Watson earned a Ph.D. in Statistics from Baylor University\nand has several years of teaching experience. As a Research Assistant\nProfessor in The University of Chicago Biostatistics Laboratory, she\nconsulted with over 110 biomedical research teams, specializing in\nstatistical analysis and experimental design for clinical research\nstudies. In both of her Senior Data Scientist roles in the AT&T Chief\nData Office and at Elicit Insights, she used predictive analytics\nand visual tools to implement custom solutions for customer behavior\nanalytics and customer management. Now, as Senior Advisor in the Eli\nLilly Statistical Innovation Center, Dr. Watson develops tools that\nenhance clinical trial design workflows using machine learning, big\ndata technologies, and data visualization.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22091_sydeaka-watson.jpeg",
+        "bio": "<p>Dr. Sydeaka Watson earned a Ph.D. in Statistics from Baylor University\nand has several years of teaching experience. As a Research Assistant\nProfessor in The University of Chicago Biostatistics Laboratory, she\nconsulted with over 110 biomedical research teams, specializing in\nstatistical analysis and experimental design for clinical research\nstudies. In both of her Senior Data Scientist roles in the AT&amp;T Chief\nData Office and at Elicit Insights, she used predictive analytics\nand visual tools to implement custom solutions for customer behavior\nanalytics and customer management. Now, as Senior Advisor in the Eli\nLilly Statistical Innovation Center, Dr. Watson develops tools that\nenhance clinical trial design workflows using machine learning, big\ndata technologies, and data visualization.<\/p>\n"
       }
     ]
   },
@@ -256,8 +256,8 @@
           "affiliation": "https://www.rstudio.com/"
         },
         "username": "barret_schloerke",
-        "photo": "/assets/img/2022Conf/_talks/22115_barret-schloerke.png",
-        "bio": "`hello()`! Dr. Barret Schloerke is a Shiny Software Engineer\nat RStudio. He currently maintains and creates many R packages\nsurrounding the Shiny ecosystem, including `{shiny}`, `{shinytest2}`,\n`{reactlog}`, and `{plumber}`.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22115_barret-schloerke.png",
+        "bio": "<p><code>hello()<\/code>! Dr. Barret Schloerke is a Shiny Software Engineer\nat RStudio. He currently maintains and creates many R packages\nsurrounding the Shiny ecosystem, including <code>{shiny}<\/code>, <code>{shinytest2}<\/code>,\n<code>{reactlog}<\/code>, and <code>{plumber}<\/code>.<\/p>\n"
       }
     ]
   },
@@ -301,8 +301,8 @@
           "affiliation": "https://www.usaid.gov/"
         },
         "username": "achafetz",
-        "photo": "/assets/img/2022Conf/_talks/22102_aaron-chafetz.jpg",
-        "bio": "Aaron Chafetz is a Senior Economist at the U.S. Agency for\nInternational Development (USAID) in the Office of HIV/AIDS, where he\nspecializes in quantitative analysis of global health data. Most of\nhis work is concentrated in analyzing large quantities of data from\nhealth facilities and communities around the world, identifying indicator\ntrends and outliers to inform data drive decision making within the\ninteragency space of PEPFAR, the President’s Emergency Plan for AIDS\nRelief. Aaron works with a small team of data scientists and analysts,\nhelping to advance analytics, tools, and communication both at \nheadquarters and the field. He has held prior positions at USAID since 2013,\nworking for the Agency’s Chief Economist and serving in the Office of\nEconomic Policy. He received his Master's in Public Policy from the\nUniversity of Virginia after studying economics and foreign affairs\nthere as well for his undergraduate degree.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22102_aaron-chafetz.jpg",
+        "bio": "<p>Aaron Chafetz is a Senior Economist at the U.S. Agency for\nInternational Development (USAID) in the Office of HIV/AIDS, where he\nspecializes in quantitative analysis of global health data. Most of\nhis work is concentrated in analyzing large quantities of data from\nhealth facilities and communities around the world, identifying indicator\ntrends and outliers to inform data drive decision making within the\ninteragency space of PEPFAR, the President’s Emergency Plan for AIDS\nRelief. Aaron works with a small team of data scientists and analysts,\nhelping to advance analytics, tools, and communication both at\nheadquarters and the field. He has held prior positions at USAID since 2013,\nworking for the Agency’s Chief Economist and serving in the Office of\nEconomic Policy. He received his Master's in Public Policy from the\nUniversity of Virginia after studying economics and foreign affairs\nthere as well for his undergraduate degree.<\/p>\n"
       }
     ]
   },
@@ -345,8 +345,8 @@
           "affiliation": "https://www.tokiomarinekiln.com/"
         },
         "username": "johnny_breen",
-        "photo": "/assets/img/2022Conf/_talks/22024_johnny-breen.jpeg",
-        "bio": "Currently working as Portfolio Optimisation Lead at Tokio Marine Kiln,\nI am passionate about enhancing the computational aspects of actuarial\nwork in the insurance industry and the London market. My interest\nin R began after completing a data science project during a master's\nprogramme in London. It has since developed over the past 6 years into\na loving relationship, which I would not change for the world!\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22024_johnny-breen.jpeg",
+        "bio": "<p>Currently working as Portfolio Optimisation Lead at Tokio Marine Kiln,\nI am passionate about enhancing the computational aspects of actuarial\nwork in the insurance industry and the London market. My interest\nin R began after completing a data science project during a master's\nprogramme in London. It has since developed over the past 6 years into\na loving relationship, which I would not change for the world!<\/p>\n"
       }
     ]
   },
@@ -389,8 +389,8 @@
           "affiliation": "https://cmar.ca/"
         },
         "username": "danielle_dempsey",
-        "photo": "/assets/img/2022Conf/_talks/22146_danielle-dempsey.jpg",
-        "bio": "Danielle Dempsey is a Research Scientist and resident “R nerd” at the\nCentre for Marine Applied Research in Nova Scotia, Canada. Danielle\nenjoys developing code to automate repetitive tasks and improve\nworkflows. She has written several R packages to facilitate ocean data\nwrangling and analysis, and designed Shiny dashboards for interactive\ndata visualization.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22146_danielle-dempsey.jpg",
+        "bio": "<p>Danielle Dempsey is a Research Scientist and resident “R nerd” at the\nCentre for Marine Applied Research in Nova Scotia, Canada. Danielle\nenjoys developing code to automate repetitive tasks and improve\nworkflows. She has written several R packages to facilitate ocean data\nwrangling and analysis, and designed Shiny dashboards for interactive\ndata visualization.<\/p>\n"
       }
     ]
   },
@@ -434,8 +434,8 @@
           "affiliation": "calitp.org"
         },
         "username": "hunter_owens",
-        "photo": "/assets/img/2022Conf/_talks/22059_hunter-owens.png",
-        "bio": "Hunter Owens does data science in the public interest. Current at\nCaltrans, he has worked at the City of Los Angeles, the Center for\nData Science and Public Policy, and Obama for America. I spend a lot\nof time thinking about cities, data pipelines and tacos.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22059_hunter-owens.png",
+        "bio": "<p>Hunter Owens does data science in the public interest. Current at\nCaltrans, he has worked at the City of Los Angeles, the Center for\nData Science and Public Policy, and Obama for America. I spend a lot\nof time thinking about cities, data pipelines and tacos.<\/p>\n"
       }
     ]
   },
@@ -478,8 +478,8 @@
           "affiliation": "https://www.axi.be/nl"
         },
         "username": "thomas_wouters",
-        "photo": "/assets/img/2022Conf/_talks/22053_thomas-wouters.jpg",
-        "bio": "Thomas Wouters is a young man who is recently graduated in Applied\nComputer Science. First started as a Business Analyst but quickly\nmoved to a more sales-oriented position. Because of his enormous\naffinity with data & analytics, this fits perfectly in the search for\ncustomers to solve their problems in the field of data analytics. He\nwill highlight the topic on how to embed Power BI in Rstudio.\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22053_thomas-wouters.jpg",
+        "bio": "<p>Thomas Wouters is a young man who is recently graduated in Applied\nComputer Science. First started as a Business Analyst but quickly\nmoved to a more sales-oriented position. Because of his enormous\naffinity with data &amp; analytics, this fits perfectly in the search for\ncustomers to solve their problems in the field of data analytics. He\nwill highlight the topic on how to embed Power BI in Rstudio.<\/p>\n"
       },
       {
         "name": "Joran De Wilde",
@@ -492,8 +492,8 @@
           "affiliation": "https://www.axi.be"
         },
         "username": "joran_de_wilde",
-        "photo": "/assets/img/2022Conf/_talks/22053_joran-de-wilde.png",
-        "bio": "Joran is a 24 year old man who recently graduated as Master of ICT\nEngineering. He currently works as a consultant data scientist. In\nthis role he developped multiple shiny applications for a broad scala\nof different industries, ranging from the public sector to the retail\nor finance sector. He will highlight the topic on how to embed Power\nBI in Rstudio.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22053_joran-de-wilde.png",
+        "bio": "<p>Joran is a 24 year old man who recently graduated as Master of ICT\nEngineering. He currently works as a consultant data scientist. In\nthis role he developped multiple shiny applications for a broad scala\nof different industries, ranging from the public sector to the retail\nor finance sector. He will highlight the topic on how to embed Power\nBI in Rstudio.<\/p>\n"
       }
     ]
   },
@@ -535,8 +535,8 @@
           "affiliation": "https://www.rstudio.com/"
         },
         "username": "james_blair",
-        "photo": "/assets/img/2022Conf/_talks/22042_james-blair.jpg",
-        "bio": "James is a Product Manager for Cloud Integrations at RStudio, where\nhe focuses on helping RStudio commercial products seemlessly integrate\ninto cloud environments. He has a background in statistics and data\nscience and finds any excuse he can to write R code and ride his bike,\nalthough usually not at the same time.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22042_james-blair.jpg",
+        "bio": "<p>James is a Product Manager for Cloud Integrations at RStudio, where\nhe focuses on helping RStudio commercial products seemlessly integrate\ninto cloud environments. He has a background in statistics and data\nscience and finds any excuse he can to write R code and ride his bike,\nalthough usually not at the same time.<\/p>\n"
       }
     ]
   },
@@ -578,8 +578,8 @@
           "affiliation": null
         },
         "username": "ryan_e_wade",
-        "photo": "/assets/img/2022Conf/_talks/22013_ryan-e-wade.jpg",
-        "bio": "Ryan is a data and analytics solutions architect. He can present\ncomplex data intuitively using proper analytical and visualization\nmethods. He has an advanced understanding of R, Python, DAX, SQL, VBA,\nand M. He is the author of the book, ***Advanced Analytics in Power BI\nwith R and Python***.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22013_ryan-e-wade.jpg",
+        "bio": "<p>Ryan is a data and analytics solutions architect. He can present\ncomplex data intuitively using proper analytical and visualization\nmethods. He has an advanced understanding of R, Python, DAX, SQL, VBA,\nand M. He is the author of the book, <em><strong>Advanced Analytics in Power BI\nwith R and Python<\/strong><\/em>.<\/p>\n"
       }
     ]
   },
@@ -624,8 +624,8 @@
           "affiliation": "https://carpentries.org"
         },
         "username": "zhiann.kamvar",
-        "photo": "/assets/img/2022Conf/_talks/22120_zhian-n-kamvar.png",
-        "bio": "Zhian is the Lesson Infrastructure Technology Developer for [The\nCarpentries](https://carpentries.org), brining data science skills to\nresearchers worldwide. He has been publishing R packages since 2013\nand is a recovering bioinformatician located in Beaverton, Oregon,\nUSA. Outside of R, he enjoys bicycle rides, speculative fiction,\ncats, the musical stylings of [The Screaming \nFemales](https://screamingfemales.bandcamp.com/), platelet donation, \nand baking.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22120_zhian-n-kamvar.png",
+        "bio": "<p>Zhian is the Lesson Infrastructure Technology Developer for <a href=\"https://carpentries.org\">The\nCarpentries<\/a>, brining data science skills to\nresearchers worldwide. He has been publishing R packages since 2013\nand is a recovering bioinformatician located in Beaverton, Oregon,\nUSA. Outside of R, he enjoys bicycle rides, speculative fiction,\ncats, the musical stylings of <a href=\"https://screamingfemales.bandcamp.com/\">The Screaming\nFemales<\/a>, platelet donation,\nand baking.<\/p>\n"
       }
     ]
   },
@@ -668,8 +668,8 @@
           "affiliation": "https://rstudio.com/champion"
         },
         "username": "rachael115",
-        "photo": "/assets/img/2022Conf/_talks/22123_rachael-dempsey.png",
-        "bio": "Rachael is a community leader at RStudio with a passion for customer\nexperience and making people happy. She enjoys connecting people,\nspending time with family and friends, being outdoors, and any\nopportunity to find live music.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22123_rachael-dempsey.png",
+        "bio": "<p>Rachael is a community leader at RStudio with a passion for customer\nexperience and making people happy. She enjoys connecting people,\nspending time with family and friends, being outdoors, and any\nopportunity to find live music.<\/p>\n"
       }
     ]
   },
@@ -713,8 +713,8 @@
           "affiliation": "https://nye.unc.edu/"
         },
         "username": "ileana.fenwick",
-        "photo": "/assets/img/2022Conf/_talks/22083_ileana-fenwick.jpg",
-        "bio": "Ileana Fenwick is an open science advocate and Marine Sciences Ph.D.\nStudent at UNC Chapel Hill . Ileana's research focuses on evaluating\nhow marine communities respond to climate change and human impacts.\nHer work uses innovative quantitative to improve our ocean management\noutcomes. In addition to her research, Ileana is also a fierce\nadvocate for HBCU engagement and equity in open science and marine\nscience through her consulting and volunteer work.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22083_ileana-fenwick.jpg",
+        "bio": "<p>Ileana Fenwick is an open science advocate and Marine Sciences Ph.D.\nStudent at UNC Chapel Hill . Ileana's research focuses on evaluating\nhow marine communities respond to climate change and human impacts.\nHer work uses innovative quantitative to improve our ocean management\noutcomes. In addition to her research, Ileana is also a fierce\nadvocate for HBCU engagement and equity in open science and marine\nscience through her consulting and volunteer work.<\/p>\n"
       }
     ]
   },
@@ -758,8 +758,8 @@
           "affiliation": "https://www.yipitdata.com/"
         },
         "username": "martin_henze",
-        "photo": "/assets/img/2022Conf/_talks/22208_martin-henze.jpg",
-        "bio": "Data Scientist @ YipitData | Kaggle Grandmaster | PhD Astrophysicist\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22208_martin-henze.jpg",
+        "bio": "<p>Data Scientist @ YipitData | Kaggle Grandmaster | PhD Astrophysicist<\/p>\n"
       }
     ]
   },
@@ -802,8 +802,8 @@
           "affiliation": null
         },
         "username": "jim_kloet",
-        "photo": "/assets/img/2022Conf/_talks/22153_jim-kloet.png",
-        "bio": "Jim Kloet (_Kloet_ rhymes with _flute_) is a data professional in\nChicago. He encourages you to stay hydrated.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22153_jim-kloet.png",
+        "bio": "<p>Jim Kloet (<em>Kloet<\/em> rhymes with <em>flute<\/em>) is a data professional in\nChicago. He encourages you to stay hydrated.<\/p>\n"
       }
     ]
   },
@@ -846,8 +846,8 @@
           "affiliation": "https://pcctc.org/"
         },
         "username": "meghan_s_harris",
-        "photo": "/assets/img/2022Conf/_talks/22005_meghan-s-harris.jpg",
-        "bio": "Meghan Harris is a self-taught R user that is currently a Data Scientist \nat the PCCTC at the Memorial Sloan Kettering Cancer Center. Meghan’s \nwork allows her to work with data, create custom reports, dashboards, \nand various solutions using the R programming language daily. Meghan \nis an advocate for using open-source software when appropriate to encourage \nthe development of programming skills, increased analysis/evaluation autonomy \nfor agencies, and data literacy. In Meghan’s spare time, Meghan creates\ngenerative art in the R programming language, called Rtistry.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22005_meghan-s-harris.jpg",
+        "bio": "<p>Meghan Harris is a self-taught R user that is currently a Data Scientist\nat the PCCTC at the Memorial Sloan Kettering Cancer Center. Meghan’s\nwork allows her to work with data, create custom reports, dashboards,\nand various solutions using the R programming language daily. Meghan\nis an advocate for using open-source software when appropriate to encourage\nthe development of programming skills, increased analysis/evaluation autonomy\nfor agencies, and data literacy. In Meghan’s spare time, Meghan creates\ngenerative art in the R programming language, called Rtistry.<\/p>\n"
       }
     ]
   },
@@ -890,8 +890,8 @@
           "affiliation": null
         },
         "username": "tanh1",
-        "photo": "/assets/img/2022Conf/_talks/22168_tan-ho.jpg",
-        "bio": "I'm a data enthusiast who loves R 🚀, Shiny ✨, fantasy football 🏈\nand carving pumpkins 🎃 I started [DynastyProcess.com](https://dynastyprocess.com)\nand [ffverse](https://ffverse.com), maintain [nflverse](https://github.com/nflverse)\ndata and packages, stream on [Twitch](https://twitch.tv/tanho_), and mentor\nat [R4DS Slack Community](https://r4ds.io). Away from my keyboard, I enjoy\nrowing 🚣️, skiing ⛷, lifting weights 🏋️, and hanging out with my dog\nJasper 🐶"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22168_tan-ho.jpg",
+        "bio": "<p>I'm a data enthusiast who loves R 🚀, Shiny ✨, fantasy football 🏈\nand carving pumpkins 🎃 I started <a href=\"https://dynastyprocess.com\">DynastyProcess.com<\/a>\nand <a href=\"https://ffverse.com\">ffverse<\/a>, maintain <a href=\"https://github.com/nflverse\">nflverse<\/a>\ndata and packages, stream on <a href=\"https://twitch.tv/tanho_\">Twitch<\/a>, and mentor\nat <a href=\"https://r4ds.io\">R4DS Slack Community<\/a>. Away from my keyboard, I enjoy\nrowing 🚣️, skiing ⛷, lifting weights 🏋️, and hanging out with my dog\nJasper 🐶<\/p>\n"
       }
     ]
   },
@@ -934,8 +934,8 @@
           "affiliation": null
         },
         "username": "kolbi_parrish",
-        "photo": "/assets/img/2022Conf/_talks/22221_kolbi-parrish.jpg",
-        "bio": "Kolbi Parrish is an Informatics Specialist working at the California\nDepartment of Public Health (CDPH) through the University of\nCalifornia, San Francisco. She has worked in public health for over\n10 years, has a Master’s degree in Industrial and Organizational\nPsychology, and is interested in leveraging data and technology to\nfurther public health goals.\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22221_kolbi-parrish.jpg",
+        "bio": "<p>Kolbi Parrish is an Informatics Specialist working at the California\nDepartment of Public Health (CDPH) through the University of\nCalifornia, San Francisco. She has worked in public health for over\n10 years, has a Master’s degree in Industrial and Organizational\nPsychology, and is interested in leveraging data and technology to\nfurther public health goals.<\/p>\n"
       },
       {
         "name": "Andy Pham",
@@ -948,8 +948,8 @@
           "affiliation": null
         },
         "username": "andy_pham",
-        "photo": "/assets/img/2022Conf/_talks/22221_andy-pham.jpg",
-        "bio": "Andy is a clinical informatics specialist working at the California\nDepartment of Public Health Data Processing and Informatics section,\nwhere he works on building disease surveillance data pipelines for\ngathering, processing and reporting. Andy has a Master's in Health\nInformatics and has been an avid R user since 2017.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22221_andy-pham.jpg",
+        "bio": "<p>Andy is a clinical informatics specialist working at the California\nDepartment of Public Health Data Processing and Informatics section,\nwhere he works on building disease surveillance data pipelines for\ngathering, processing and reporting. Andy has a Master's in Health\nInformatics and has been an avid R user since 2017.<\/p>\n"
       }
     ]
   },
@@ -992,8 +992,8 @@
           "affiliation": "https://www.bixal.com/about/ivonne-carrillo-dominguez/"
         },
         "username": "ivonne_carrillo_dominguez",
-        "photo": "/assets/img/2022Conf/_talks/22136_ivonne-carrillo-dominguez.jpeg",
-        "bio": "Ivonne is a data engineer on the Data Science team at Bixal where\nshe has worked for 5 years now. She works on data visualization,\ndata processing, and data analysis. She received her B.S. in computer\nsystem engineering in Mexico. Before joining Bixal, she worked as\na Software Engineer for over 10 years at IBM, Toshiba, GE. This\nexperience has given her knowledge in several parts of a system, from\nthe design to its validation. What she likes the most about her work\nis seeing the positive impact that it can have in people’s lives. She\nlives now in Fairfax, VA with her husband and doggy Moka and likes to\nbake cakes on the weekends.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22136_ivonne-carrillo-dominguez.jpeg",
+        "bio": "<p>Ivonne is a data engineer on the Data Science team at Bixal where\nshe has worked for 5 years now. She works on data visualization,\ndata processing, and data analysis. She received her B.S. in computer\nsystem engineering in Mexico. Before joining Bixal, she worked as\na Software Engineer for over 10 years at IBM, Toshiba, GE. This\nexperience has given her knowledge in several parts of a system, from\nthe design to its validation. What she likes the most about her work\nis seeing the positive impact that it can have in people’s lives. She\nlives now in Fairfax, VA with her husband and doggy Moka and likes to\nbake cakes on the weekends.<\/p>\n"
       }
     ]
   },
@@ -1036,8 +1036,8 @@
           "affiliation": "https://www.202group.com"
         },
         "username": "benjamin_braun",
-        "photo": "/assets/img/2022Conf/_talks/22018_benjamin-braun.jpg",
-        "bio": "I am a mission-driven problem solver with expertise in bringing data\nscience applications from inception to profitability and acquisition.\nI build data and analytic tools that help users understand challenges,\nmake informed decisions, and act. My experience across the data\nscience value chain—ingestion, storage, processing, analytics, AI/\nML, visualization, reporting, and client delivery—allows end-users\nto spend less time dealing with data and more time doing their jobs.\nMy industry expertise is in the DoD/IC but I have interests in tech teams\ncultures, DEIB, and Biblical Hebrew.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22018_benjamin-braun.jpg",
+        "bio": "<p>I am a mission-driven problem solver with expertise in bringing data\nscience applications from inception to profitability and acquisition.\nI build data and analytic tools that help users understand challenges,\nmake informed decisions, and act. My experience across the data\nscience value chain—ingestion, storage, processing, analytics, AI/\nML, visualization, reporting, and client delivery—allows end-users\nto spend less time dealing with data and more time doing their jobs.\nMy industry expertise is in the DoD/IC but I have interests in tech teams\ncultures, DEIB, and Biblical Hebrew.<\/p>\n"
       }
     ]
   },
@@ -1080,8 +1080,8 @@
           "affiliation": null
         },
         "username": "kelly_obriant",
-        "photo": "/assets/img/2022Conf/_talks/22010_kelly-obriant.jpg",
-        "bio": "Kelly O'Briant is the Product Manager for RStudio Connect.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22010_kelly-obriant.jpg",
+        "bio": "<p>Kelly O'Briant is the Product Manager for RStudio Connect.<\/p>\n"
       }
     ]
   },
@@ -1124,8 +1124,8 @@
           "affiliation": "https://www.dv01.co/offerings/tape-cracker/"
         },
         "username": "david_maguire",
-        "photo": "/assets/img/2022Conf/_talks/22198_david-maguire.jpg",
-        "bio": "A physical scientist by training, David leverages the scientific\nmethod along with the statistical capabilities of R to solve business\nissues. He has applied this skillset to a variety of industries,\nincluding pharmaceutical manufacturing and, currently, structured\nfinance at dv01. After witnessing non-robust deployments prevent\nexcellent models from creating value, David focused on creating robust\nand scalable model pipelines in the cloud. At his current position\nat dv01, David manages a customer facing plumber API. This API is the\nentry point to one of dv01's top products, Tape Cracker.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22198_david-maguire.jpg",
+        "bio": "<p>A physical scientist by training, David leverages the scientific\nmethod along with the statistical capabilities of R to solve business\nissues. He has applied this skillset to a variety of industries,\nincluding pharmaceutical manufacturing and, currently, structured\nfinance at dv01. After witnessing non-robust deployments prevent\nexcellent models from creating value, David focused on creating robust\nand scalable model pipelines in the cloud. At his current position\nat dv01, David manages a customer facing plumber API. This API is the\nentry point to one of dv01's top products, Tape Cracker.<\/p>\n"
       }
     ]
   },
@@ -1169,8 +1169,8 @@
           "affiliation": "https://heap.io/"
         },
         "username": "drobinson12",
-        "photo": "/assets/img/2022Conf/_talks/22214_david-robinson.jpg",
-        "bio": "David Robinson is Director of Data Science at Heap Analytics, where\nhe's helping to build the next generation of product analytics\ntechnology. He's the co-author with Julia Silge of the tidytext\npackage and the O’Reilly book Text Mining with R. He also created\nthe broom, fuzzyjoin, and widyr packages, and authored the e-\nbook Introduction to Empirical Bayes. David is passionate about R,\nstatistics, education, live-coding, probability, and his two children.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22214_david-robinson.jpg",
+        "bio": "<p>David Robinson is Director of Data Science at Heap Analytics, where\nhe's helping to build the next generation of product analytics\ntechnology. He's the co-author with Julia Silge of the tidytext\npackage and the O’Reilly book Text Mining with R. He also created\nthe broom, fuzzyjoin, and widyr packages, and authored the e-\nbook Introduction to Empirical Bayes. David is passionate about R,\nstatistics, education, live-coding, probability, and his two children.<\/p>\n"
       }
     ]
   },
@@ -1213,8 +1213,8 @@
           "affiliation": "https://cynkra.com"
         },
         "username": "kirill_muller",
-        "photo": "/assets/img/2022Conf/_talks/22187_kirill-muller.jpeg",
-        "bio": "Kirill has been working on the boundary between data and computer\nscience for more than 20 years. He has been awarded five R consortium\nprojects to improve database connectivity and performance optimization\nin R. Kirill is a core contributor to several tidyverse packages,\nincluding dplyr and tibble. He holds a Ph.D. in Civil Engineering from\nETH Zurich and is a founder and partner at cynkra.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22187_kirill-muller.jpeg",
+        "bio": "<p>Kirill has been working on the boundary between data and computer\nscience for more than 20 years. He has been awarded five R consortium\nprojects to improve database connectivity and performance optimization\nin R. Kirill is a core contributor to several tidyverse packages,\nincluding dplyr and tibble. He holds a Ph.D. in Civil Engineering from\nETH Zurich and is a founder and partner at cynkra.<\/p>\n"
       }
     ]
   },
@@ -1257,8 +1257,8 @@
           "affiliation": "https://lynhealth.io"
         },
         "username": "rebecca_hadi",
-        "photo": "/assets/img/2022Conf/_talks/22007_rebecca-hadi.jpg",
-        "bio": "Rebecca holds a Master's degree in Applied Mathematics from Johns\nHopkins University and a Bachelor's degree in Mathematics from the\nUniversity of Washington. She loves automating and optimizing\nprocesses, building Shiny apps, and helping others learn to code.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22007_rebecca-hadi.jpg",
+        "bio": "<p>Rebecca holds a Master's degree in Applied Mathematics from Johns\nHopkins University and a Bachelor's degree in Mathematics from the\nUniversity of Washington. She loves automating and optimizing\nprocesses, building Shiny apps, and helping others learn to code.<\/p>\n"
       }
     ]
   },
@@ -1300,8 +1300,8 @@
           "affiliation": "https://www.ida.org"
         },
         "username": "tyler_morgan_wall",
-        "photo": "/assets/img/2022Conf/_talks/22131_tyler-morgan-wall.jpg",
-        "bio": "Dr. Tyler Morgan-Wall is the developer of the **rayverse**:\na collection of packages that includes the mapping and data\nvisualization package **rayshader**, the high-quality 3D rendering\npackage **rayrender**, and several other packages. He is also the\ndeveloper of the experimental design and Monte Carlo power analysis\npackage **skpr**. Tyler has a PhD in Physics from Johns Hopkins\nUniversity and lives and works in the DC area at the Institute for\nDefense Analyses.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22131_tyler-morgan-wall.jpg",
+        "bio": "<p>Dr. Tyler Morgan-Wall is the developer of the <strong>rayverse<\/strong>:\na collection of packages that includes the mapping and data\nvisualization package <strong>rayshader<\/strong>, the high-quality 3D rendering\npackage <strong>rayrender<\/strong>, and several other packages. He is also the\ndeveloper of the experimental design and Monte Carlo power analysis\npackage <strong>skpr<\/strong>. Tyler has a PhD in Physics from Johns Hopkins\nUniversity and lives and works in the DC area at the Institute for\nDefense Analyses.<\/p>\n"
       }
     ]
   },
@@ -1344,8 +1344,8 @@
           "affiliation": null
         },
         "username": "mike_cheng",
-        "photo": "/assets/img/2022Conf/_talks/22135_mike-cheng.png",
-        "bio": "TBD. Will write this when I get the chance\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22135_mike-cheng.png",
+        "bio": "<p>TBD. Will write this when I get the chance<\/p>\n"
       }
     ]
   },
@@ -1387,8 +1387,8 @@
           "affiliation": null
         },
         "username": "alicewalsh",
-        "photo": "/assets/img/2022Conf/_talks/22062_alice-walsh-phd.jpg",
-        "bio": "Alice is a computational biologist who applies data science\ntools to solve drug development challenges. She is currently VP\nof Translational Research at Pathos. Alice's prior professional\nexperience includes roles at Janssen and Bristol Myers Squibb,\nincluding leading teams that worked on all stages of drug development,\nfrom target identification to approval. She is a founding organizer\nof the Philadelphia chapter of R-Ladies and spends her free time\nimproving her artistic skills through painting, quilting, needlepoint,\nand other creative pursuits.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22062_alice-walsh-phd.jpg",
+        "bio": "<p>Alice is a computational biologist who applies data science\ntools to solve drug development challenges. She is currently VP\nof Translational Research at Pathos. Alice's prior professional\nexperience includes roles at Janssen and Bristol Myers Squibb,\nincluding leading teams that worked on all stages of drug development,\nfrom target identification to approval. She is a founding organizer\nof the Philadelphia chapter of R-Ladies and spends her free time\nimproving her artistic skills through painting, quilting, needlepoint,\nand other creative pursuits.<\/p>\n"
       }
     ]
   },
@@ -1429,8 +1429,8 @@
           "affiliation": null
         },
         "username": "julia_silge",
-        "photo": "/assets/img/2022Conf/_talks/22301_julia-silge.jpeg",
-        "bio": "Julia Silge is a data scientist and software engineer at RStudio PBC where she works on open source tools for machine learning and \nMLOps. She holds a PhD in astrophysics and has worked as a data scientist in tech and the nonprofit sector, as well as a technical \nadvisory committee member for the US Bureau of Labor Statistics. She is a coauthor of \n[_Tidy Text Mining with R_](https://www.tidytextmining.com/), \n[_Supervised Machine Learning for Text Analysis in R_](https://smltar.com/), and [_Tidy Modeling with R_](https://www.tmwr.org/). \nAn international keynote speaker and a real-world practitioner focusing on data analysis and machine learning, Julia \nloves text analysis, making beautiful charts, and communicating about technical topics with diverse audiences.\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22301_julia-silge.jpeg",
+        "bio": "<p>Julia Silge is a data scientist and software engineer at RStudio PBC where she works on open source tools for machine learning and\nMLOps. She holds a PhD in astrophysics and has worked as a data scientist in tech and the nonprofit sector, as well as a technical\nadvisory committee member for the US Bureau of Labor Statistics. She is a coauthor of\n<a href=\"https://www.tidytextmining.com/\"><em>Tidy Text Mining with R<\/em><\/a>,\n<a href=\"https://smltar.com/\"><em>Supervised Machine Learning for Text Analysis in R<\/em><\/a>, and <a href=\"https://www.tmwr.org/\"><em>Tidy Modeling with R<\/em><\/a>.\nAn international keynote speaker and a real-world practitioner focusing on data analysis and machine learning, Julia\nloves text analysis, making beautiful charts, and communicating about technical topics with diverse audiences.<\/p>\n"
       },
       {
         "name": "Max Kuhn",
@@ -1443,8 +1443,8 @@
           "affiliation": null
         },
         "username": "max_kuhn",
-        "photo": "/assets/img/2022Conf/_talks/22301_max-kuhn.jpeg",
-        "bio": "Max Kuhn is a software engineer at RStudio. He is currently working on\nimproving R’s modeling capabilities. He was a Director of Nonclinical\nStatistics at Pfizer Global R&D in Connecticut. He was applying models in\nthe pharmaceutical and diagnostic industries for over 18 years. Max has a\nPh.D. in Biostatistics. Max is the author of numerous R packages for\ntechniques in machine learning and reproducible research and is an Associate\nEditor for the Journal of Statistical Software. He, and Kjell Johnson, wrote\nthe book [_Applied Predictive Modeling_](http://appliedpredictivemodeling.com/),\nwhich won the Ziegel award from the American Statistical Association, which\nrecognizes the best book reviewed in Technometrics in 2015. Their latest\nbook, [_Feature Engineering and Selection_](http://www.feat.engineering/),\nwas published in 2019.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22301_max-kuhn.jpeg",
+        "bio": "<p>Max Kuhn is a software engineer at RStudio. He is currently working on\nimproving R’s modeling capabilities. He was a Director of Nonclinical\nStatistics at Pfizer Global R&amp;D in Connecticut. He was applying models in\nthe pharmaceutical and diagnostic industries for over 18 years. Max has a\nPh.D. in Biostatistics. Max is the author of numerous R packages for\ntechniques in machine learning and reproducible research and is an Associate\nEditor for the Journal of Statistical Software. He, and Kjell Johnson, wrote\nthe book <a href=\"http://appliedpredictivemodeling.com/\"><em>Applied Predictive Modeling<\/em><\/a>,\nwhich won the Ziegel award from the American Statistical Association, which\nrecognizes the best book reviewed in Technometrics in 2015. Their latest\nbook, <a href=\"http://www.feat.engineering/\"><em>Feature Engineering and Selection<\/em><\/a>,\nwas published in 2019.<\/p>\n"
       }
     ]
   },
@@ -1487,8 +1487,8 @@
           "affiliation": null
         },
         "username": "mine8",
-        "photo": "/assets/img/2022Conf/_talks/22303_mine-cetinkaya-rundel.jpg",
-        "bio": "Mine Çetinkaya-Rundel is Professor of the Practice at Duke University and\nDeveloper Educator at RStudio. Mine’s work focuses on innovation in\nstatistics and data science pedagogy, with an emphasis on computing,\nreproducible research, student-centered learning, and open-source education\nas well as pedagogical approaches for enhancing retention of women and\nunder-represented minorities in STEM. Mine works on integrating computation\ninto the undergraduate statistics curriculum, using reproducible research\nmethodologies and analysis of real and complex datasets. Mine works on the\n[OpenIntro project](http://openintrostat.github.io/openintro/), whose\nmission is to make educational products that are free, transparent, and\nlower barriers to education. As part of this project she co-authored four\nopen-source introductory statistics textbooks. She is also the creator and\nmaintainer of [datasciencebox.org](https://datasciencebox.org) and she\nteaches the popular [Statistics with R MOOC on Coursera](https://www.coursera.org/specializations/statistics).\nMine is a Fellow of the ASA and Elected Member of the ISI as well as the\nwinner of the 2021 Robert V. Hogg Award for For Excellence in Teaching\nIntroductory Statistics.\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22303_mine-cetinkaya-rundel.jpg",
+        "bio": "<p>Mine Çetinkaya-Rundel is Professor of the Practice at Duke University and\nDeveloper Educator at RStudio. Mine’s work focuses on innovation in\nstatistics and data science pedagogy, with an emphasis on computing,\nreproducible research, student-centered learning, and open-source education\nas well as pedagogical approaches for enhancing retention of women and\nunder-represented minorities in STEM. Mine works on integrating computation\ninto the undergraduate statistics curriculum, using reproducible research\nmethodologies and analysis of real and complex datasets. Mine works on the\n<a href=\"http://openintrostat.github.io/openintro/\">OpenIntro project<\/a>, whose\nmission is to make educational products that are free, transparent, and\nlower barriers to education. As part of this project she co-authored four\nopen-source introductory statistics textbooks. She is also the creator and\nmaintainer of <a href=\"https://datasciencebox.org\">datasciencebox.org<\/a> and she\nteaches the popular <a href=\"https://www.coursera.org/specializations/statistics\">Statistics with R MOOC on Coursera<\/a>.\nMine is a Fellow of the ASA and Elected Member of the ISI as well as the\nwinner of the 2021 Robert V. Hogg Award for For Excellence in Teaching\nIntroductory Statistics.<\/p>\n"
       },
       {
         "name": "Julia Stewart Lowndes",
@@ -1501,8 +1501,8 @@
           "affiliation": null
         },
         "username": "julia_stewart_lowndes",
-        "photo": "/assets/img/2022Conf/_talks/22303_julia-stewart-lowndes.jpeg",
-        "bio": "[Julia Stewart Lowndes](http://jules32.github.io/), PhD is founding director of [Openscapes](https://openscapes.org). \nShe is a marine ecologist and champion for making science more open, efficient, inclusive, and kind. \nWorking at the intersection of actionable environmental science, data science, and open science, \nshe is a Mozilla Fellow, National Science Foundation Better Scientific Software Fellow, and \nSenior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at \nthe University of California Santa Barbara. Julia earned her PhD from Stanford University \nin 2012 studying drivers and impacts of Humboldt squid in a changing climate. Recent open science/R \ncontributions include pieces in [Scientific American](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science), \n[Nature](https://www.nature.com/articles/d41586-019-03335-4), [2019 useR! Conference](https://www.openscapes.org/blog/2019/08/22/user-keynote/),\n[R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/), and the \n[Tidy Data Illustrated Series](https://www.openscapes.org/blog/2020/10/12/tidy-data/).\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22303_julia-stewart-lowndes.jpeg",
+        "bio": "<p><a href=\"http://jules32.github.io/\">Julia Stewart Lowndes<\/a>, PhD is founding director of <a href=\"https://openscapes.org\">Openscapes<\/a>.\nShe is a marine ecologist and champion for making science more open, efficient, inclusive, and kind.\nWorking at the intersection of actionable environmental science, data science, and open science,\nshe is a Mozilla Fellow, National Science Foundation Better Scientific Software Fellow, and\nSenior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at\nthe University of California Santa Barbara. Julia earned her PhD from Stanford University\nin 2012 studying drivers and impacts of Humboldt squid in a changing climate. Recent open science/R\ncontributions include pieces in <a href=\"https://blogs.scientificamerican.com/observations/open-software-means-kinder-science\">Scientific American<\/a>,\n<a href=\"https://www.nature.com/articles/d41586-019-03335-4\">Nature<\/a>, <a href=\"https://www.openscapes.org/blog/2019/08/22/user-keynote/\">2019 useR! Conference<\/a>,\n<a href=\"https://rstudio-conf-2020.github.io/r-for-excel/\">R for Excel Users<\/a>, and the\n<a href=\"https://www.openscapes.org/blog/2020/10/12/tidy-data/\">Tidy Data Illustrated Series<\/a>.<\/p>\n"
       }
     ]
   },
@@ -1545,8 +1545,8 @@
           "affiliation": null
         },
         "username": "jeff_leek",
-        "photo": "/assets/img/2022Conf/_talks/22304_jeff-leek.jpeg",
-        "bio": "Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation\nChair of Biostatistics at the \n[Fred Hutchinson Cancer Center](https://www.fredhutch.org/). Previously, he\nwas a professor of [Biostatistics](https://www.jhsph.edu/departments/biostatistics/)\nand [Oncology](https://www.rits.onc.jhmi.edu/dbb/) at the \n[Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/)\nand co-director of the [Johns Hopkins Data Science Lab](https://jhudatascience.org/).\nHis group develops statistical methods, software, data resources, and data\nanalyses that help people make sense of massive-scale genomic and biomedical\ndata. \n\nAs the co-director of the Johns Hopkins Data Science Lab Jeff helped to\ndevelop massive online open programs that have enrolled more than 8 million\nindividuals and partnered with community-based non-profits to \n[use data science education for economic and public health development](https://magazine.jhsph.edu/2019/data-science-careers-baltimores-underserved-community-members).\n\nJeff is a Fellow of the American Statistical Association and a recipient of\nthe [Mortimer Spiegelman Award](https://spiegelmanaward.github.io/) and\n[Committee of Presidents of Statistical Societies Presidential Award](https://en.wikipedia.org/wiki/COPSS_Presidents%27_Award).\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22304_jeff-leek.jpeg",
+        "bio": "<p>Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation\nChair of Biostatistics at the\n<a href=\"https://www.fredhutch.org/\">Fred Hutchinson Cancer Center<\/a>. Previously, he\nwas a professor of <a href=\"https://www.jhsph.edu/departments/biostatistics/\">Biostatistics<\/a>\nand <a href=\"https://www.rits.onc.jhmi.edu/dbb/\">Oncology<\/a> at the\n<a href=\"https://www.jhsph.edu/\">Johns Hopkins Bloomberg School of Public Health<\/a>\nand co-director of the <a href=\"https://jhudatascience.org/\">Johns Hopkins Data Science Lab<\/a>.\nHis group develops statistical methods, software, data resources, and data\nanalyses that help people make sense of massive-scale genomic and biomedical\ndata.<\/p>\n<p>As the co-director of the Johns Hopkins Data Science Lab Jeff helped to\ndevelop massive online open programs that have enrolled more than 8 million\nindividuals and partnered with community-based non-profits to\n<a href=\"https://magazine.jhsph.edu/2019/data-science-careers-baltimores-underserved-community-members\">use data science education for economic and public health development<\/a>.<\/p>\n<p>Jeff is a Fellow of the American Statistical Association and a recipient of\nthe <a href=\"https://spiegelmanaward.github.io/\">Mortimer Spiegelman Award<\/a> and\n<a href=\"https://en.wikipedia.org/wiki/COPSS_Presidents%27_Award\">Committee of Presidents of Statistical Societies Presidential Award<\/a>.<\/p>\n"
       }
     ]
   },
@@ -1588,8 +1588,8 @@
           "affiliation": null
         },
         "username": "joe_cheng.1v84pjmc",
-        "photo": "/assets/img/2022Conf/_talks/22302_joe-cheng.jpeg",
-        "bio": "Joe Cheng is the Chief Technology Officer at RStudio PBC, where he helped\ncreate the RStudio IDE and Shiny web framework.\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22302_joe-cheng.jpeg",
+        "bio": "<p>Joe Cheng is the Chief Technology Officer at RStudio PBC, where he helped\ncreate the RStudio IDE and Shiny web framework.<\/p>\n"
       }
     ]
   },
@@ -1632,8 +1632,8 @@
           "affiliation": "https://voltrondata.com/"
         },
         "username": "dewey_dunnington",
-        "photo": "/assets/img/2022Conf/_talks/22036_dewey-dunnington.jpg",
-        "bio": "Dewey Dunnington (Ph.D., P.Geo.) is an environmental researcher,\nprogrammer, and educator based in Nova Scotia, Canada. He recently\ncompleted his Ph.D. in lake sediment geochemistry and is currently an\nR Developer at [Voltron Data](https://voltrondata.com/) working on all\nthings [Apache Arrow](https://arrow.apache.org/) + R.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22036_dewey-dunnington.jpg",
+        "bio": "<p>Dewey Dunnington (Ph.D., P.Geo.) is an environmental researcher,\nprogrammer, and educator based in Nova Scotia, Canada. He recently\ncompleted his Ph.D. in lake sediment geochemistry and is currently an\nR Developer at <a href=\"https://voltrondata.com/\">Voltron Data<\/a> working on all\nthings <a href=\"https://arrow.apache.org/\">Apache Arrow<\/a> + R.<\/p>\n"
       }
     ]
   },
@@ -1676,8 +1676,8 @@
           "affiliation": "https://jumpingrivers.com/"
         },
         "username": "colinjumpingrivers.com",
-        "photo": "/assets/img/2022Conf/_talks/22196_colin-gillespie.jpg",
-        "bio": "Colin has been using R since 1999. He's the author of a number of R\npackages, the co-founder of Jumping Rivers and has published the book\nEfficient R Programming with O'Reilly.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22196_colin-gillespie.jpg",
+        "bio": "<p>Colin has been using R since 1999. He's the author of a number of R\npackages, the co-founder of Jumping Rivers and has published the book\nEfficient R Programming with O'Reilly.<\/p>\n"
       }
     ]
   },
@@ -1720,8 +1720,8 @@
           "affiliation": "https://www.npd.com/"
         },
         "username": "josiah_parry",
-        "photo": "/assets/img/2022Conf/_talks/22014_josiah-parry.jpg",
-        "bio": "Josiah Parry is a Research Analyst in the Research Science division\nat The NPD Group focusing on modernization and methodology. Formerly\nhe worked at RStudio, PBC on the customer success team enabling public\nsector adoption of data science tools. Josiah received his master's\ndegree in Urban Informatics from Northeastern University. Prior to\nthat, he earned his bachelor's degree in sociology with focuses in\ngeographic information systems and general mathematics from Plymouth\nState University.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22014_josiah-parry.jpg",
+        "bio": "<p>Josiah Parry is a Research Analyst in the Research Science division\nat The NPD Group focusing on modernization and methodology. Formerly\nhe worked at RStudio, PBC on the customer success team enabling public\nsector adoption of data science tools. Josiah received his master's\ndegree in Urban Informatics from Northeastern University. Prior to\nthat, he earned his bachelor's degree in sociology with focuses in\ngeographic information systems and general mathematics from Plymouth\nState University.<\/p>\n"
       }
     ]
   },
@@ -1762,8 +1762,8 @@
           "affiliation": "https://www.telethonkids.org.au/our-research/brain-and-behaviour/population-health-program/geospatial-health-and-development/"
         },
         "username": "nicholas_tierney",
-        "photo": "/assets/img/2022Conf/_talks/22233_nicholas-tierney.jpeg",
-        "bio": "Nick Tierney has an honours degree in Psychology, and a PhD in\nStatistics and now work as a research software engineer with\n[Nick Golding](https://www.telethonkids.org.au/contact-us/our-\npeople/g/nick-golding/) at the [Telethon Kids Institute](https://\nwww.telethonkids.org.au/), in Perth. Here, he maintains the [greta]\n(https://greta-stats.org/) R package for statistical modelling,\nand writes new software to perform analysis on diseases like\nCOVID19 and malaria. Previously, Nick worked at Monash University,\nworking with [Di Cook](http://dicook.org/), teaching [ETC1010,\nintroduction to Data Analysis](https://dmac.netlify.org/), and\ndeveloping the following R packages for exploratory data analysis:\n([`visdat`](https://github.com/njtierney/visdat)) , [`naniar`]\n(https://naniar.njtierney.com/), and [`brolgar`](https://\nbrolgar.njtierney.com/). Nick is a keen outdoorsman, and likes to hike\nreally far, run ultra marathons, brew coffee, take photographs, and\nhave long meandering conversations.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22233_nicholas-tierney.jpeg",
+        "bio": "<p>Nick Tierney has an honours degree in Psychology, and a PhD in\nStatistics and now work as a research software engineer with\n[Nick Golding](https://www.telethonkids.org.au/contact-us/our-\npeople/g/nick-golding/) at the [Telethon Kids Institute](https://\nwww.telethonkids.org.au/), in Perth. Here, he maintains the [greta]\n(https://greta-stats.org/) R package for statistical modelling,\nand writes new software to perform analysis on diseases like\nCOVID19 and malaria. Previously, Nick worked at Monash University,\nworking with <a href=\"http://dicook.org/\">Di Cook<\/a>, teaching <a href=\"https://dmac.netlify.org/\">ETC1010,\nintroduction to Data Analysis<\/a>, and\ndeveloping the following R packages for exploratory data analysis:\n(<a href=\"https://github.com/njtierney/visdat\"><code>visdat<\/code><\/a>) , [<code>naniar<\/code>]\n(https://naniar.njtierney.com/), and [<code>brolgar<\/code>](https://\nbrolgar.njtierney.com/). Nick is a keen outdoorsman, and likes to hike\nreally far, run ultra marathons, brew coffee, take photographs, and\nhave long meandering conversations.<\/p>\n"
       }
     ]
   },
@@ -1806,8 +1806,8 @@
           "affiliation": null
         },
         "username": "amelia_mcnamara",
-        "photo": "/assets/img/2022Conf/_talks/22195_amelia-mcnamara.jpg",
-        "bio": "Amelia McNamara is an assistant professor of statistics at the\nUniversity of St Thomas, in St Paul, MN. Her research interests\ninclude statistics education, statistical computing, and the\nintersection of the two. You may know her as \"the woman with the\ntidyverse dress.\"\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22195_amelia-mcnamara.jpg",
+        "bio": "<p>Amelia McNamara is an assistant professor of statistics at the\nUniversity of St Thomas, in St Paul, MN. Her research interests\ninclude statistics education, statistical computing, and the\nintersection of the two. You may know her as &quot;the woman with the\ntidyverse dress.&quot;<\/p>\n"
       }
     ]
   },
@@ -1849,8 +1849,8 @@
           "affiliation": null
         },
         "username": "davis_vaughan",
-        "photo": "/assets/img/2022Conf/_talks/22028_davis-vaughan.jpg",
-        "bio": "Davis is a software engineer at RStudio working on improving the\ntidyverse and tidymodels ecosystems. He works on packages such as\ntidyr, vctrs, furrr, slider, clock, hardhat, and yardstick.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22028_davis-vaughan.jpg",
+        "bio": "<p>Davis is a software engineer at RStudio working on improving the\ntidyverse and tidymodels ecosystems. He works on packages such as\ntidyr, vctrs, furrr, slider, clock, hardhat, and yardstick.<\/p>\n"
       }
     ]
   },
@@ -1892,8 +1892,8 @@
           "affiliation": null
         },
         "username": "andreas_hofheinz",
-        "photo": "/assets/img/2022Conf/_talks/22128_andreas-hofheinz.jpg",
-        "bio": "Andreas is a consultant at d-fine and maintainer of the leafdown R\npackage. He is passionate about interactive data visualizations and\ninterpretable machine learning. He holds a B.Sc. in Economics and an\nM.Sc. in Statistics from LMU Munich.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22128_andreas-hofheinz.jpg",
+        "bio": "<p>Andreas is a consultant at d-fine and maintainer of the leafdown R\npackage. He is passionate about interactive data visualizations and\ninterpretable machine learning. He holds a B.Sc. in Economics and an\nM.Sc. in Statistics from LMU Munich.<\/p>\n"
       }
     ]
   },
@@ -1936,8 +1936,8 @@
           "affiliation": null
         },
         "username": "shelmith_nyagathiri_kariuki",
-        "photo": "/assets/img/2022Conf/_talks/22035_shelmith-nyagathiri-kariuki.jpg",
-        "bio": "Shel Kariuki is a Data Analytics consultant based in Nairobi, Kenya.\nShe currently works as a short term consultant at The World Bank . She\nis a co-organizer of #NairobiR and R-Ladies Nairobi which are groups\nin Nairobi whose aim is to bring people together to learn and develop\ntheir skills in R. Her interests are data analytics, data science,\nspatial analytics, causal inference and impact evaluation.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22035_shelmith-nyagathiri-kariuki.jpg",
+        "bio": "<p>Shel Kariuki is a Data Analytics consultant based in Nairobi, Kenya.\nShe currently works as a short term consultant at The World Bank . She\nis a co-organizer of #NairobiR and R-Ladies Nairobi which are groups\nin Nairobi whose aim is to bring people together to learn and develop\ntheir skills in R. Her interests are data analytics, data science,\nspatial analytics, causal inference and impact evaluation.<\/p>\n"
       }
     ]
   },
@@ -1978,8 +1978,8 @@
           "affiliation": "https://www.accenture.com/us-en/services/us-federal-government/artificial-intelligence"
         },
         "username": "alex_farach",
-        "photo": "/assets/img/2022Conf/_talks/22154_alex-farach.jpeg",
-        "bio": "Alex Farach is an Analytics Manager and Data Scientist in the Applied\nIntelligence Discovery Lab at Accenture Federal Services (AFS) where\nhe helps clients build productive relationships with their data.\nPrior to joining AFS as a data scientist in 2019 Alex worked as an\neconomist at the Bureau of Labor Statistics. Although his background\nis in statistics and economics, Alex’s interests are varied. Since\n2014 he has been using R to solve problems across these interests,\nfrom creating art for personal music projects to developing machine\nlearning solutions at large government agencies. Alex loves natural \nlaguage processing, making beautiful charts, and helping others learn \ndata science.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22154_alex-farach.jpeg",
+        "bio": "<p>Alex Farach is an Analytics Manager and Data Scientist in the Applied\nIntelligence Discovery Lab at Accenture Federal Services (AFS) where\nhe helps clients build productive relationships with their data.\nPrior to joining AFS as a data scientist in 2019 Alex worked as an\neconomist at the Bureau of Labor Statistics. Although his background\nis in statistics and economics, Alex’s interests are varied. Since\n2014 he has been using R to solve problems across these interests,\nfrom creating art for personal music projects to developing machine\nlearning solutions at large government agencies. Alex loves natural\nlaguage processing, making beautiful charts, and helping others learn\ndata science.<\/p>\n"
       }
     ]
   },
@@ -2022,8 +2022,8 @@
           "affiliation": "https://curso-r.com/"
         },
         "username": "beatriz_milz",
-        "photo": "/assets/img/2022Conf/_talks/22066_beatriz-milz.jpeg",
-        "bio": "[PhD Candidante in Environmental Science in the University of Sao\nPaulo](https://beatrizmilz.github.io/resume/index.pdf), teacher at\n[Curso-R](https://curso-r.com/), [Tidyverse certified instructor by\nRStudio](https://education.rstudio.com/trainers/people/milz+beatriz/)\nand co-organizer in local R communities, such as \n[R-Ladies Sao Paulo](https://twitter.com/RLadiesSaoPaulo), \n[satRday Sao Paulo](https://saopaulo2019.satrdays.org/) and [LatinR](https://latin-r.com/).\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22066_beatriz-milz.jpeg",
+        "bio": "<p><a href=\"https://beatrizmilz.github.io/resume/index.pdf\">PhD Candidante in Environmental Science in the University of Sao\nPaulo<\/a>, teacher at\n<a href=\"https://curso-r.com/\">Curso-R<\/a>, <a href=\"https://education.rstudio.com/trainers/people/milz+beatriz/\">Tidyverse certified instructor by\nRStudio<\/a>\nand co-organizer in local R communities, such as\n<a href=\"https://twitter.com/RLadiesSaoPaulo\">R-Ladies Sao Paulo<\/a>,\n<a href=\"https://saopaulo2019.satrdays.org/\">satRday Sao Paulo<\/a> and <a href=\"https://latin-r.com/\">LatinR<\/a>.<\/p>\n"
       }
     ]
   },
@@ -2067,8 +2067,8 @@
           "affiliation": "https://www.jumpingrivers.com/"
         },
         "username": "nicola_rennie",
-        "photo": "/assets/img/2022Conf/_talks/22141_nicola-rennie.jpg",
-        "bio": "Nicola Rennie is a statistician and data scientist, passionate about\nusing R to solve problems. She currently works as a data scientist\nat Jumping Rivers having previously completed her PhD in statistics\nand operational research at Lancaster University. She enjoys sharing\nher knowledge of R, creating data visualisations, and helping clients\nlearn from their data.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22141_nicola-rennie.jpg",
+        "bio": "<p>Nicola Rennie is a statistician and data scientist, passionate about\nusing R to solve problems. She currently works as a data scientist\nat Jumping Rivers having previously completed her PhD in statistics\nand operational research at Lancaster University. She enjoys sharing\nher knowledge of R, creating data visualisations, and helping clients\nlearn from their data.<\/p>\n"
       }
     ]
   },
@@ -2110,8 +2110,8 @@
           "affiliation": "r4ds.io"
         },
         "username": "jonharmon",
-        "photo": "/assets/img/2022Conf/_talks/22108_jon-harmon.jpg",
-        "bio": "Jon runs the R4DS Online Learning Community and is the Principal Data\nScientist of the Content Science team at Macmillan Learning. When\nhe isn't trying to analyze and improve educational content, he tries\nto \"pay it forward\" for all the help he's gotten learning R over the\nlast several years. He lives in Austin, Texas, with his spouse, two\nchildren, and two large dogs.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22108_jon-harmon.jpg",
+        "bio": "<p>Jon runs the R4DS Online Learning Community and is the Principal Data\nScientist of the Content Science team at Macmillan Learning. When\nhe isn't trying to analyze and improve educational content, he tries\nto &quot;pay it forward&quot; for all the help he's gotten learning R over the\nlast several years. He lives in Austin, Texas, with his spouse, two\nchildren, and two large dogs.<\/p>\n"
       }
     ]
   },
@@ -2154,8 +2154,8 @@
           "affiliation": "https://www.northwestern.edu/"
         },
         "username": "mjskay",
-        "photo": "/assets/img/2022Conf/_talks/22228_matthew-kay.jpg",
-        "bio": "Matthew Kay is an Assistant Professor jointly appointed in Computer\nScience and Communications Studies at Northwestern University. He\nworks in human-computer interaction and information visualization,\nincluding uncertainty visualization and the design of human-\ncentered tools for data analysis. He co-directs the [Midwest\nUncertainty Collective](http://mucollective.co) and is the author\nof the [tidybayes](https://mjskay.github.io/tidybayes/) and [ggdist]\n(https://mjskay.github.io/ggdist/) R packages for visualizing Bayesian\nstatistical model output and uncertainty.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22228_matthew-kay.jpg",
+        "bio": "<p>Matthew Kay is an Assistant Professor jointly appointed in Computer\nScience and Communications Studies at Northwestern University. He\nworks in human-computer interaction and information visualization,\nincluding uncertainty visualization and the design of human-\ncentered tools for data analysis. He co-directs the <a href=\"http://mucollective.co\">Midwest\nUncertainty Collective<\/a> and is the author\nof the <a href=\"https://mjskay.github.io/tidybayes/\">tidybayes<\/a> and [ggdist]\n(https://mjskay.github.io/ggdist/) R packages for visualizing Bayesian\nstatistical model output and uncertainty.<\/p>\n"
       }
     ]
   },
@@ -2198,8 +2198,8 @@
           "affiliation": null
         },
         "username": "george_stagg",
-        "photo": "/assets/img/2022Conf/_talks/22027_george-stagg.jpeg",
-        "bio": "George Stagg is a Software Engineer with experience in research\ncomputing and mathematical digital learning software. He holds a\nPhD in Applied Mathematics from Newcastle University, researching\nthe physics of quantum fluids through high performance computer\nsimulation. Until recently George worked as part of the E-learning\nUnit at Newcastle University, developing software, providing research\nsupport and teaching mathematical computing with R, Python, LaTeX and\nmore. George is now lead developer for the webR project, aiming to\ncompile R and its packages for WebAssembly.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22027_george-stagg.jpeg",
+        "bio": "<p>George Stagg is a Software Engineer with experience in research\ncomputing and mathematical digital learning software. He holds a\nPhD in Applied Mathematics from Newcastle University, researching\nthe physics of quantum fluids through high performance computer\nsimulation. Until recently George worked as part of the E-learning\nUnit at Newcastle University, developing software, providing research\nsupport and teaching mathematical computing with R, Python, LaTeX and\nmore. George is now lead developer for the webR project, aiming to\ncompile R and its packages for WebAssembly.<\/p>\n"
       }
     ]
   },
@@ -2242,8 +2242,8 @@
           "affiliation": "https://www.microsoft.com"
         },
         "username": "davidsmi",
-        "photo": "/assets/img/2022Conf/_talks/22056_david-smith.png",
-        "bio": "David is a Cloud Advocate for Microsoft, specializing in the\ntopics of artificial intelligence and machine learning. Since\n2009 he has been the editor of the [Revolutions blog](https://\nblog.revolutionanalytics.com) where he writes regularly about\napplications of data science with a focus on the programming language\n\"R\", and is also a founding member of the R Consortium. Follow David\non Twitter as @revodavid.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22056_david-smith.png",
+        "bio": "<p>David is a Cloud Advocate for Microsoft, specializing in the\ntopics of artificial intelligence and machine learning. Since\n2009 he has been the editor of the [Revolutions blog](https://\nblog.revolutionanalytics.com) where he writes regularly about\napplications of data science with a focus on the programming language\n&quot;R&quot;, and is also a founding member of the R Consortium. Follow David\non Twitter as @revodavid.<\/p>\n"
       }
     ]
   },
@@ -2288,8 +2288,8 @@
           "affiliation": "https://blogs.rstudio.com/ai/"
         },
         "username": "sigrid_keydana",
-        "photo": "/assets/img/2022Conf/_talks/22008_sigrid-keydana.jpg",
-        "bio": "Sigrid works at RStudio, where she writes about open-source deep\nlearning, machine learning, and scientific-computation frameworks.\nSeeing how related technologies are increasingly becoming a part of\nour everyday lives - often, without us even knowing - she is deeply\nworried about political, societal, and ethical impacts of AI use.\nWhile she's completely aware that talking and writing about what is\ngoing on won't make the dangers go away, she still thinks that in\na situation where everyone's thoughts and actions matter, raising\nattention and awareness is a useful thing to do.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22008_sigrid-keydana.jpg",
+        "bio": "<p>Sigrid works at RStudio, where she writes about open-source deep\nlearning, machine learning, and scientific-computation frameworks.\nSeeing how related technologies are increasingly becoming a part of\nour everyday lives - often, without us even knowing - she is deeply\nworried about political, societal, and ethical impacts of AI use.\nWhile she's completely aware that talking and writing about what is\ngoing on won't make the dangers go away, she still thinks that in\na situation where everyone's thoughts and actions matter, raising\nattention and awareness is a useful thing to do.<\/p>\n"
       }
     ]
   },
@@ -2331,8 +2331,8 @@
           "affiliation": "https://www.memorialhermann.org/"
         },
         "username": "mark_rieke",
-        "photo": "/assets/img/2022Conf/_talks/22033_mark-rieke.png",
-        "bio": "I am a senior consumer experience (CX) analyst at Memorial Hermann\nHealth System where I use R and tidymodels to provide actionable\ninsights from patient satisfaction survey data. I love making\nbeautiful charts, working on home improvement projects, and playing\njazzy piano. I live in Houston, TX, with my fiancé and two obnoxious\nyet lovable pets.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22033_mark-rieke.png",
+        "bio": "<p>I am a senior consumer experience (CX) analyst at Memorial Hermann\nHealth System where I use R and tidymodels to provide actionable\ninsights from patient satisfaction survey data. I love making\nbeautiful charts, working on home improvement projects, and playing\njazzy piano. I live in Houston, TX, with my fiancé and two obnoxious\nyet lovable pets.<\/p>\n"
       }
     ]
   },
@@ -2374,8 +2374,8 @@
           "affiliation": "https://www.urban.org/"
         },
         "username": "aaron_r_williams",
-        "photo": "/assets/img/2022Conf/_talks/22119_aaron-r-williams.jpeg",
-        "bio": "Aaron R. Williams is a senior data scientist at the Urban Institute\nwhere he works on microsimulation models, data imputation methods,\nand expanding access to administrative data with formal privacy and\nsynthetic data. Williams leads Urban’s R Users Group and teaches Intro\nto Data Science in the McCourt School of Public Policy at Georgetown\nUniversity.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22119_aaron-r-williams.jpeg",
+        "bio": "<p>Aaron R. Williams is a senior data scientist at the Urban Institute\nwhere he works on microsimulation models, data imputation methods,\nand expanding access to administrative data with formal privacy and\nsynthetic data. Williams leads Urban’s R Users Group and teaches Intro\nto Data Science in the McCourt School of Public Policy at Georgetown\nUniversity.<\/p>\n"
       }
     ]
   },
@@ -2418,8 +2418,8 @@
           "affiliation": "https://www.gsienv.com/"
         },
         "username": "hannah_podzorski",
-        "photo": "/assets/img/2022Conf/_talks/22158_hannah-podzorski.jpg",
-        "bio": "Hannah Podzorski is a hydrologist currently working as an\nenvironmental consultant. She specializes in quantitative analysis and\nvisualization of complex environmental data for a variety of projects\nand clients. She develops both static and interactive visuals,\nincluding {Shiny} apps, to promote innovation, help with decision\nmaking and improve communication between team members, clients, and\nthe public.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22158_hannah-podzorski.jpg",
+        "bio": "<p>Hannah Podzorski is a hydrologist currently working as an\nenvironmental consultant. She specializes in quantitative analysis and\nvisualization of complex environmental data for a variety of projects\nand clients. She develops both static and interactive visuals,\nincluding {Shiny} apps, to promote innovation, help with decision\nmaking and improve communication between team members, clients, and\nthe public.<\/p>\n"
       }
     ]
   },
@@ -2462,8 +2462,8 @@
           "affiliation": "https://belmaker.weebly.com/"
         },
         "username": "hezi_buba",
-        "photo": "/assets/img/2022Conf/_talks/22070_hezi-buba.jpg",
-        "bio": "Hezi is currently finishing his PhD in marine ecology at Tel Aviv\nUniversity, where he also taught R to other graduate students.\nHis research focuses on the impacts of invasive species on the\nMediterranean Sea. He is in a constant pursuit of honing his data\nscience skills, and always on a lookout for challenging obstacles that\ncan be overcome with creative thinking.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22070_hezi-buba.jpg",
+        "bio": "<p>Hezi is currently finishing his PhD in marine ecology at Tel Aviv\nUniversity, where he also taught R to other graduate students.\nHis research focuses on the impacts of invasive species on the\nMediterranean Sea. He is in a constant pursuit of honing his data\nscience skills, and always on a lookout for challenging obstacles that\ncan be overcome with creative thinking.<\/p>\n"
       }
     ]
   },
@@ -2505,8 +2505,8 @@
           "affiliation": "https://metrocouncil.org"
         },
         "username": "liz_roten",
-        "photo": "/assets/img/2022Conf/_talks/22094_liz-roten.jpg",
-        "bio": "Liz Roten is a data scientist and cartographer working at the intersection of regional government, transportation, and data science. \nShe specializes in interactive and static data visualization, package development, and collaborative workflows. \nShe is passionate about open-source and reproducible analyses, particularly regarding transportation, climate change, and equity. \nOriginally from the Nashville area, Liz is now based in St. Paul, Minnesota. \n\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22094_liz-roten.jpg",
+        "bio": "<p>Liz Roten is a data scientist and cartographer working at the intersection of regional government, transportation, and data science.\nShe specializes in interactive and static data visualization, package development, and collaborative workflows.\nShe is passionate about open-source and reproducible analyses, particularly regarding transportation, climate change, and equity.\nOriginally from the Nashville area, Liz is now based in St. Paul, Minnesota.<\/p>\n"
       }
     ]
   },
@@ -2550,8 +2550,8 @@
           "affiliation": null
         },
         "username": "tiger_tang",
-        "photo": "/assets/img/2022Conf/_talks/22164_tiger-tang.jpg",
-        "bio": "Tiger(Chongtai) Tang is a Data Science Manager at CARFAX, dedicated\nto building the Data Science team specializing in NLP and forecasting.\nWith a passion for the Data Science community, he has been creating\nR training, handbook, and R songs for technical users and business\nusers. He believes R brings value in various ways and has initiated an\nautomation project with R that saved over 12k+ hours at CARFAX. As a\nbig fan of Shiny, Tiger has authored multiple internal Shiny apps that\nhandle thousands of daily requests and works on fun Shiny apps in his\nfree time.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22164_tiger-tang.jpg",
+        "bio": "<p>Tiger(Chongtai) Tang is a Data Science Manager at CARFAX, dedicated\nto building the Data Science team specializing in NLP and forecasting.\nWith a passion for the Data Science community, he has been creating\nR training, handbook, and R songs for technical users and business\nusers. He believes R brings value in various ways and has initiated an\nautomation project with R that saved over 12k+ hours at CARFAX. As a\nbig fan of Shiny, Tiger has authored multiple internal Shiny apps that\nhandle thousands of daily requests and works on fun Shiny apps in his\nfree time.<\/p>\n"
       }
     ]
   },
@@ -2595,8 +2595,8 @@
           "affiliation": "https://www.statcan.gc.ca/en/start"
         },
         "username": "melissa_van_bussel",
-        "photo": "/assets/img/2022Conf/_talks/22082_melissa-van-bussel.jpg",
-        "bio": "Melissa Van Bussel is an accredited [Associate Statistician](https://ssc.ca/en/accreditation) \n(A. Stat.) and an Analyst at [Statistics Canada](https://www.statcan.gc.ca/en/start), \nCanada's official statistical agency. She completed her M. Sc. in Statistics at Carleton\nUniversity, and her B. Sc. H. in Mathematics and Computing Systems\nwith a Specialization in Statistics at Trent University. Melissa is\npassionate about all things Data Science and Teaching (and especially\nwhere those two things interact!). She makes [educational YouTube\nvideos](https://www.youtube.com/c/ggnot2) in her spare time, covering\ntopics such as R programming and Machine Learning.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22082_melissa-van-bussel.jpg",
+        "bio": "<p>Melissa Van Bussel is an accredited <a href=\"https://ssc.ca/en/accreditation\">Associate Statistician<\/a>\n(A. Stat.) and an Analyst at <a href=\"https://www.statcan.gc.ca/en/start\">Statistics Canada<\/a>,\nCanada's official statistical agency. She completed her M. Sc. in Statistics at Carleton\nUniversity, and her B. Sc. H. in Mathematics and Computing Systems\nwith a Specialization in Statistics at Trent University. Melissa is\npassionate about all things Data Science and Teaching (and especially\nwhere those two things interact!). She makes <a href=\"https://www.youtube.com/c/ggnot2\">educational YouTube\nvideos<\/a> in her spare time, covering\ntopics such as R programming and Machine Learning.<\/p>\n"
       }
     ]
   },
@@ -2639,8 +2639,8 @@
           "affiliation": "https://www.rstudio.com/about"
         },
         "username": "gagandeep_singh",
-        "photo": "/assets/img/2022Conf/_talks/22126_gagandeep-singh.jpg",
-        "bio": "Gagandeep works as a Solutions Engineer with RStudio. He is a former\nsoftware engineer and data scientist who has worked in a variety of\ncross-technology teams. Before joining RStudio, he was consulting with\nfortune 500 companies to build their analytical capacities. Outside of\nwork you can find him at a local bookstore or exploring the beautiful\nPacific Northwest.\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22126_gagandeep-singh.jpg",
+        "bio": "<p>Gagandeep works as a Solutions Engineer with RStudio. He is a former\nsoftware engineer and data scientist who has worked in a variety of\ncross-technology teams. Before joining RStudio, he was consulting with\nfortune 500 companies to build their analytical capacities. Outside of\nwork you can find him at a local bookstore or exploring the beautiful\nPacific Northwest.<\/p>\n"
       },
       {
         "name": "Xu Fei",
@@ -2653,8 +2653,8 @@
           "affiliation": "https://www.rstudio.com/"
         },
         "username": "xu_fei",
-        "photo": "/assets/img/2022Conf/_talks/22126_xu-fei.png",
-        "bio": "Xu Fei is a solutions engineer at RStudio where he helps bilingual\ndata science teams work better with RStudio commercial products. \nHe has experience in Python data science and reproducibility tools.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22126_xu-fei.png",
+        "bio": "<p>Xu Fei is a solutions engineer at RStudio where he helps bilingual\ndata science teams work better with RStudio commercial products.\nHe has experience in Python data science and reproducibility tools.<\/p>\n"
       }
     ]
   },
@@ -2698,8 +2698,8 @@
           "affiliation": null
         },
         "username": "jamieralph",
-        "photo": "/assets/img/2022Conf/_talks/22038_jamie-ralph.jpg",
-        "bio": "Jamie is a developer at Bumble where he builds internal analytics\ntools in R and Python. Before this he worked in various data roles in\nthe public sector. He enjoys building tools that make people's lives\neasier. Outside work he likes going for walks with his dog Margie and\nbaking bread. He lives in Cardiff, Wales.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22038_jamie-ralph.jpg",
+        "bio": "<p>Jamie is a developer at Bumble where he builds internal analytics\ntools in R and Python. Before this he worked in various data roles in\nthe public sector. He enjoys building tools that make people's lives\neasier. Outside work he likes going for walks with his dog Margie and\nbaking bread. He lives in Cardiff, Wales.<\/p>\n"
       }
     ]
   },
@@ -2742,8 +2742,8 @@
           "affiliation": "https://rstudio.com"
         },
         "username": "winston_chang.1v84pjmr",
-        "photo": "/assets/img/2022Conf/_talks/22232_winston-chang.jpeg",
-        "bio": "Winston Chang is a software engineer at RStudio and currently works\non Shiny and related projects. He has also worked on several other R\npackages, including devtools, R6, and ggplot2. Winston is the author\nof the R Graphics Cookbook, published by O'Reilly Media, and has a PhD\nin psychology from Northwestern University.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22232_winston-chang.jpeg",
+        "bio": "<p>Winston Chang is a software engineer at RStudio and currently works\non Shiny and related projects. He has also worked on several other R\npackages, including devtools, R6, and ggplot2. Winston is the author\nof the R Graphics Cookbook, published by O'Reilly Media, and has a PhD\nin psychology from Northwestern University.<\/p>\n"
       }
     ]
   },
@@ -2786,8 +2786,8 @@
           "affiliation": "https://github.com/fastai"
         },
         "username": "hamel.husain",
-        "photo": "/assets/img/2022Conf/_talks/22142_hamel-husain.jpg",
-        "bio": "Hamel Husain is head of Data Science and ML at\n[Outerbounds](https://outerbounds.com/) (the developers of\n[Metaflow](https://metaflow.org/)). Previous to Outerbounds, Hamel has built\nML infrastructure and deployed data products at Airbnb, GitHub, and\nDataRobot. Hamel is also very active in open source communities and is\ncurrently a core contributor of [fastai](https://github.com/fastai), and is\ninvolved in projects such as Jupyter, Kubeflow,and Great Expectations.\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22142_hamel-husain.jpg",
+        "bio": "<p>Hamel Husain is head of Data Science and ML at\n<a href=\"https://outerbounds.com/\">Outerbounds<\/a> (the developers of\n<a href=\"https://metaflow.org/\">Metaflow<\/a>). Previous to Outerbounds, Hamel has built\nML infrastructure and deployed data products at Airbnb, GitHub, and\nDataRobot. Hamel is also very active in open source communities and is\ncurrently a core contributor of <a href=\"https://github.com/fastai\">fastai<\/a>, and is\ninvolved in projects such as Jupyter, Kubeflow,and Great Expectations.<\/p>\n"
       }
     ]
   },
@@ -2829,8 +2829,8 @@
           "affiliation": "https://www.rstudio.com/"
         },
         "username": "tracy_teal",
-        "photo": "/assets/img/2022Conf/_talks/22044_tracy-teal.jpg",
-        "bio": "Tracy Teal has been working with open source communities as a\ndeveloper, instructor and project leader throughout her career.\nAs a PhD student at Caltech and then as an Assistant Professor\nin bioinformatics at Michigan State University, she saw that the\nbottleneck to discovery was no longer data production, but the\nskills and perspective to work with data. She went on to co-found\nData Carpentry to scale data training along with data production\nand then became Executive Director of The Carpentries, continuing to\ndevelop open curriculum and an inclusive instructor community. She\nis currently the Open Source Program Director at RStudio where she\nis passionate about supporting open source developers and expanding\naccess to tools that help people use data to answer the questions that\nare important to them.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22044_tracy-teal.jpg",
+        "bio": "<p>Tracy Teal has been working with open source communities as a\ndeveloper, instructor and project leader throughout her career.\nAs a PhD student at Caltech and then as an Assistant Professor\nin bioinformatics at Michigan State University, she saw that the\nbottleneck to discovery was no longer data production, but the\nskills and perspective to work with data. She went on to co-found\nData Carpentry to scale data training along with data production\nand then became Executive Director of The Carpentries, continuing to\ndevelop open curriculum and an inclusive instructor community. She\nis currently the Open Source Program Director at RStudio where she\nis passionate about supporting open source developers and expanding\naccess to tools that help people use data to answer the questions that\nare important to them.<\/p>\n"
       }
     ]
   },
@@ -2872,8 +2872,8 @@
           "affiliation": null
         },
         "username": "devin_pastoor",
-        "photo": "/assets/img/2022Conf/_talks/22234_devin-pastoor.png",
-        "bio": "Devin is a solutions engineer at RStudio. He has a PhD in\nPharmaceutical Sciences and has focused his career on helping\ncompanies leverage technology to enable faster, better decisions.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22234_devin-pastoor.png",
+        "bio": "<p>Devin is a solutions engineer at RStudio. He has a PhD in\nPharmaceutical Sciences and has focused his career on helping\ncompanies leverage technology to enable faster, better decisions.<\/p>\n"
       }
     ]
   },
@@ -2917,8 +2917,8 @@
           "affiliation": "https://www.atorusresearch.com/"
         },
         "username": "mike_stackhouse",
-        "photo": "/assets/img/2022Conf/_talks/22194_mike-stackhouse.jpg",
-        "bio": "Mike Stackhouse is the Chief Innovation Officer of Atorus Research\nand leads Atorus’ Analytics Engineering department. Mike has a long\nhistory of experience in statistical programming with a heavy focus\non process improvement, automation, and streamlining. This ultimately\ndrove Mike into the use of open-source and programming in R and\nPython. It was his interest in open-source tooling which lead Mike to\nUC Berkeley, where in 2020 he graduated with a Master’s in Information\nand Data Science program.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22194_mike-stackhouse.jpg",
+        "bio": "<p>Mike Stackhouse is the Chief Innovation Officer of Atorus Research\nand leads Atorus’ Analytics Engineering department. Mike has a long\nhistory of experience in statistical programming with a heavy focus\non process improvement, automation, and streamlining. This ultimately\ndrove Mike into the use of open-source and programming in R and\nPython. It was his interest in open-source tooling which lead Mike to\nUC Berkeley, where in 2020 he graduated with a Master’s in Information\nand Data Science program.<\/p>\n"
       }
     ]
   },
@@ -2961,8 +2961,8 @@
           "affiliation": "https://gsk.com"
         },
         "username": "ellis_hughes",
-        "photo": "/assets/img/2022Conf/_talks/22209_ellis-hughes.jpg",
-        "bio": "Ellis Hughes is a Data Science Leader and has worked in the\npharmaceutical industry for 8 years. He focuses on how organizations\ncan use R and take open source approaches to improve processes and\nsolve problems. During his free time he organizes the Seattle UseR\ngroup, the Cascadia R Conference, and hosts a weekly R screencast,\nTidyX, to explain data science concepts.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22209_ellis-hughes.jpg",
+        "bio": "<p>Ellis Hughes is a Data Science Leader and has worked in the\npharmaceutical industry for 8 years. He focuses on how organizations\ncan use R and take open source approaches to improve processes and\nsolve problems. During his free time he organizes the Seattle UseR\ngroup, the Cascadia R Conference, and hosts a weekly R screencast,\nTidyX, to explain data science concepts.<\/p>\n"
       }
     ]
   },
@@ -3005,8 +3005,8 @@
           "affiliation": null
         },
         "username": "becca_krouse",
-        "photo": "/assets/img/2022Conf/_talks/22192_becca-krouse.png",
-        "bio": "Becca Krouse is a Data Science Leader in the Statistics and Data\nScience Innovation Hub at GSK. She is a biostatistician by training\nwith nearly 12 years of experience working on clinical research.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22192_becca-krouse.png",
+        "bio": "<p>Becca Krouse is a Data Science Leader in the Statistics and Data\nScience Innovation Hub at GSK. She is a biostatistician by training\nwith nearly 12 years of experience working on clinical research.<\/p>\n"
       }
     ]
   },
@@ -3050,8 +3050,8 @@
           "affiliation": "https://muni.org"
         },
         "username": "ben_matheson",
-        "photo": "/assets/img/2022Conf/_talks/22139_ben-matheson.jpg",
-        "bio": "Ben Matheson is the Data Analyst for the Anchorage Innovation Team—\na startup inside city government—where he helps people solve problems\nusing data and technology. Ben works extensively with R and JavaScript\nto analyze data, visualize ideas, and build tools. He has worked as a\npublic radio reporter across rural Alaska and covered the Iditarod. He\nenjoys getting deep into the mountains.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22139_ben-matheson.jpg",
+        "bio": "<p>Ben Matheson is the Data Analyst for the Anchorage Innovation Team—\na startup inside city government—where he helps people solve problems\nusing data and technology. Ben works extensively with R and JavaScript\nto analyze data, visualize ideas, and build tools. He has worked as a\npublic radio reporter across rural Alaska and covered the Iditarod. He\nenjoys getting deep into the mountains.<\/p>\n"
       }
     ]
   },
@@ -3094,8 +3094,8 @@
           "affiliation": "https://www.cdph.ca.gov/"
         },
         "username": "lawrence_y_tello",
-        "photo": "/assets/img/2022Conf/_talks/22227_lawrence-y-tello.jpg",
-        "bio": "Lawrence is an informatics specialist at the California Department\nof Public Health within the Data Processing and Informatics Section  \nworking on products that contribute to California’s\nCOVID-19 response. He spent some time working on psychology and\nneuroscience projects prior to finding public health, all the while\naided by R. Lawrence is a fan of using snake_case, destigmatizing\nmental illness, and is a donut enthusiast.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22227_lawrence-y-tello.jpg",
+        "bio": "<p>Lawrence is an informatics specialist at the California Department\nof Public Health within the Data Processing and Informatics Section<br />\nworking on products that contribute to California’s\nCOVID-19 response. He spent some time working on psychology and\nneuroscience projects prior to finding public health, all the while\naided by R. Lawrence is a fan of using snake_case, destigmatizing\nmental illness, and is a donut enthusiast.<\/p>\n"
       }
     ]
   },
@@ -3138,8 +3138,8 @@
           "affiliation": "https://datafi.thepalladiumgroup.com/"
         },
         "username": "anubhuti_mishra",
-        "photo": "/assets/img/2022Conf/_talks/22230_anubhuti-mishra.png",
-        "bio": "Anubhuti Mishra is a Senior Data Scientist who works at the\nintersection of public health and data science. In recent past she has\ndeveloped indices to estimate subnational vulnerability to COVID-19 in\nAfrica, built models to identify high-risk HIV patients, and created\nallocation vaccine allocation models. She really enjoys working low\nresource, high impact data environments.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22230_anubhuti-mishra.png",
+        "bio": "<p>Anubhuti Mishra is a Senior Data Scientist who works at the\nintersection of public health and data science. In recent past she has\ndeveloped indices to estimate subnational vulnerability to COVID-19 in\nAfrica, built models to identify high-risk HIV patients, and created\nallocation vaccine allocation models. She really enjoys working low\nresource, high impact data environments.<\/p>\n"
       }
     ]
   },
@@ -3181,8 +3181,8 @@
           "affiliation": "https://www.gov.uk/government/organisations/uk-health-security-agency"
         },
         "username": "isaac_florence",
-        "photo": "/assets/img/2022Conf/_talks/22199_isaac-florence.jpg",
-        "bio": "I am an epidemiologist and public health policy professional working\nfor the UK Health Security Agency (UKHSA). I have been using R and\nRStudio products since university and both have formed a major part\nof my career so far. At UKHSA I write in - and teach - R, SQL, Python,\nand other programming and computing skills. Although currently much of\nmy work is geared towards data engineering and infrastructure (for R,\ncomputing & data platforms, and team building), my favourite part of\nwork is epidemiology analysis (in R!). I also work on R infrastructure\nfor \"Applied Epi\" (the team behind the \"Epidemiologists' R Handbook\"),\nas well as on some soon-to-be-announced open source projects on\nscaling and containerising R workloads.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22199_isaac-florence.jpg",
+        "bio": "<p>I am an epidemiologist and public health policy professional working\nfor the UK Health Security Agency (UKHSA). I have been using R and\nRStudio products since university and both have formed a major part\nof my career so far. At UKHSA I write in - and teach - R, SQL, Python,\nand other programming and computing skills. Although currently much of\nmy work is geared towards data engineering and infrastructure (for R,\ncomputing &amp; data platforms, and team building), my favourite part of\nwork is epidemiology analysis (in R!). I also work on R infrastructure\nfor &quot;Applied Epi&quot; (the team behind the &quot;Epidemiologists' R Handbook&quot;),\nas well as on some soon-to-be-announced open source projects on\nscaling and containerising R workloads.<\/p>\n"
       }
     ]
   },
@@ -3224,8 +3224,8 @@
           "affiliation": null
         },
         "username": "yihui_xie.1v84pjlj",
-        "photo": "/assets/img/2022Conf/_talks/22181_yihui-xie.png",
-        "bio": "Yihui Xie is a software engineer at RStudio. He earned his PhD from\nthe Department of Statistics, Iowa State University. He has authored\nand co-authored several R packages, such as knitr, rmarkdown,\nbookdown, blogdown, and xaringan. He has published a number of books,\nincluding “Dynamic Documents with R and knitr”, “bookdown: Authoring\nBooks and Technical Documents with R Markdown”, “blogdown: Creating\nWebsites with R Markdown”, “R Markdown: The Definitive Guide”, and “R\nMarkdown Cookbook.”\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22181_yihui-xie.png",
+        "bio": "<p>Yihui Xie is a software engineer at RStudio. He earned his PhD from\nthe Department of Statistics, Iowa State University. He has authored\nand co-authored several R packages, such as knitr, rmarkdown,\nbookdown, blogdown, and xaringan. He has published a number of books,\nincluding “Dynamic Documents with R and knitr”, “bookdown: Authoring\nBooks and Technical Documents with R Markdown”, “blogdown: Creating\nWebsites with R Markdown”, “R Markdown: The Definitive Guide”, and “R\nMarkdown Cookbook.”<\/p>\n"
       }
     ]
   },
@@ -3268,8 +3268,8 @@
           "affiliation": "https://www.rstudio.com/about/"
         },
         "username": "tom_mock",
-        "photo": "/assets/img/2022Conf/_talks/22149_tom-mock.jpeg",
-        "bio": "Tom is the Customer Enablement Lead at RStudio, helping RStudio’s\ncustomers be as successful as possible through documentation and education. \nHe is deeply involved in the global data science community, sharing \ntips on #RStats Twitter (find him at @thomas_mock), as co-founder \nof #TidyTuesday, a weekly Data Science learning challenge, and \npresenting on various Data Science topics on YouTube or at conferences.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22149_tom-mock.jpeg",
+        "bio": "<p>Tom is the Customer Enablement Lead at RStudio, helping RStudio’s\ncustomers be as successful as possible through documentation and education.\nHe is deeply involved in the global data science community, sharing\ntips on #RStats Twitter (find him at @thomas_mock), as co-founder\nof #TidyTuesday, a weekly Data Science learning challenge, and\npresenting on various Data Science topics on YouTube or at conferences.<\/p>\n"
       }
     ]
   },
@@ -3311,8 +3311,8 @@
           "affiliation": "https://www.consumerfinance.gov/"
         },
         "username": "lewis_kirvan",
-        "photo": "/assets/img/2022Conf/_talks/22175_lewis-kirvan.jpg",
-        "bio": "I'm a researcher at the Consumer Financial Protection Bureau, where\nI've spent the last (nearly) 10 years recovering from getting a law\ndegree. I mostly work to understand consumers experiences by listening\nto them at scale.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22175_lewis-kirvan.jpg",
+        "bio": "<p>I'm a researcher at the Consumer Financial Protection Bureau, where\nI've spent the last (nearly) 10 years recovering from getting a law\ndegree. I mostly work to understand consumers experiences by listening\nto them at scale.<\/p>\n"
       }
     ]
   },
@@ -3354,8 +3354,8 @@
           "affiliation": "https://www.atorusresearch.com/"
         },
         "username": "maya_gans",
-        "photo": "/assets/img/2022Conf/_talks/22109_maya-gans.png",
-        "bio": "Maya Gans is an experienced R and JavaScript developer, who recently\nstarted applying those skills to the clinical trial space. After\ngraduating with her Masters in Botany from University of Wyoming,\nMaya interned at RStudio where she created a blocks based programming\nlanguage called tidyblocks, as well as co-authoring “JavaScript\nfor Data Science”. Currently, Maya writes R packages and Shiny\napplications to create dynamic, custom data visualization and\nexploratory tools to aid in understanding complex data. Maya is also\npassionate about data science education and has given many talks and\nworkshops about using and creating tools in R.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22109_maya-gans.png",
+        "bio": "<p>Maya Gans is an experienced R and JavaScript developer, who recently\nstarted applying those skills to the clinical trial space. After\ngraduating with her Masters in Botany from University of Wyoming,\nMaya interned at RStudio where she created a blocks based programming\nlanguage called tidyblocks, as well as co-authoring “JavaScript\nfor Data Science”. Currently, Maya writes R packages and Shiny\napplications to create dynamic, custom data visualization and\nexploratory tools to aid in understanding complex data. Maya is also\npassionate about data science education and has given many talks and\nworkshops about using and creating tools in R.<\/p>\n"
       }
     ]
   },
@@ -3398,8 +3398,8 @@
           "affiliation": null
         },
         "username": "peter.gandenberger",
-        "photo": "/assets/img/2022Conf/_talks/22178_peter-gandenberger.jpg",
-        "bio": "Peter is about to finish his Masters in Data Engineering & Analytics\nfrom the TU-Munich. Besides his studies, he has a passion for R-\ndevelopment, co-authoring the leafdown package. His latest project is\nthe no-code/low-code dashboard-builder which allows users to create\nshiny dashboards without writing R-code.\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22178_peter-gandenberger.jpg",
+        "bio": "<p>Peter is about to finish his Masters in Data Engineering &amp; Analytics\nfrom the TU-Munich. Besides his studies, he has a passion for R-\ndevelopment, co-authoring the leafdown package. His latest project is\nthe no-code/low-code dashboard-builder which allows users to create\nshiny dashboards without writing R-code.<\/p>\n"
       }
     ]
   },
@@ -3441,8 +3441,8 @@
           "affiliation": "https://shiny.rstudio.com/"
         },
         "username": "nickstrayer",
-        "photo": "/assets/img/2022Conf/_talks/22058_nick-strayer.jpg",
-        "bio": "Nick is an engineer on the Shiny team working to make web applications\nwith R easy to build, beautiful, and powerful. Nick has a Ph.D. in\nBiostatistics from Vanderbilt University and previously worked as a\ndata journalist at the New York Times.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22058_nick-strayer.jpg",
+        "bio": "<p>Nick is an engineer on the Shiny team working to make web applications\nwith R easy to build, beautiful, and powerful. Nick has a Ph.D. in\nBiostatistics from Vanderbilt University and previously worked as a\ndata journalist at the New York Times.<\/p>\n"
       }
     ]
   },
@@ -3485,8 +3485,8 @@
           "affiliation": "https://www.rstudio.com/"
         },
         "username": "greg_swinehart",
-        "photo": "/assets/img/2022Conf/_talks/22063_greg-swinehart.jpg",
-        "bio": "Greg has contributed to RStudio's brand, print and web designs\nsince 2012. His credits include rstudio.com, many hex stickers, and\ncountless shirts and trade show booths. While he often claims to have\nghostwritten Hadley Wickham's books, that is probably not true. Greg\nis currently working alongside the Shiny team on UI.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22063_greg-swinehart.jpg",
+        "bio": "<p>Greg has contributed to RStudio's brand, print and web designs\nsince 2012. His credits include rstudio.com, many hex stickers, and\ncountless shirts and trade show booths. While he often claims to have\nghostwritten Hadley Wickham's books, that is probably not true. Greg\nis currently working alongside the Shiny team on UI.<\/p>\n"
       }
     ]
   },
@@ -3528,8 +3528,8 @@
           "affiliation": "http://briandk.github.io/"
         },
         "username": "brian_danielak",
-        "photo": "/assets/img/2022Conf/_talks/22222_brian-danielak.jpg",
-        "bio": "Brian's career has spanned teaching, researching, and being a\npracticing software engineer. His Ph.D. in Computing Education\nResearch focused on how engineering students learn software design.\nIn subsequent post-doctoral research positions, his work expanded to\neducational games, ethnography of engineering practice, and teaching\ncomputational modeling and data science. He then developed enterprise\nlevel web apps for educational clients as well as personally\ndeveloping and releasing Transcriptase, a free qualitative data\nanalysis app available on both Windows and macOS. Outside of work,\nBrian enjoys improv, games of all kinds, and being inspired by others’\nfavorite forms of geekery.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22222_brian-danielak.jpg",
+        "bio": "<p>Brian's career has spanned teaching, researching, and being a\npracticing software engineer. His Ph.D. in Computing Education\nResearch focused on how engineering students learn software design.\nIn subsequent post-doctoral research positions, his work expanded to\neducational games, ethnography of engineering practice, and teaching\ncomputational modeling and data science. He then developed enterprise\nlevel web apps for educational clients as well as personally\ndeveloping and releasing Transcriptase, a free qualitative data\nanalysis app available on both Windows and macOS. Outside of work,\nBrian enjoys improv, games of all kinds, and being inspired by others’\nfavorite forms of geekery.<\/p>\n"
       }
     ]
   },
@@ -3573,8 +3573,8 @@
           "affiliation": "http://www.chi2labs.com"
         },
         "username": "aleksander_dietrichson",
-        "photo": "/assets/img/2022Conf/_talks/22212_aleksander-dietrichson.png",
-        "bio": "Aleksander (Sasha) Dietrichson, Phd is a professor of Data Science and\nAI, and the founder of Chi Square Laboratories, a company dedicated\nto the research and development of learning analytics solutions. Sasha\nhas been working in learning analytics and educational AI for over a\ndecade, and is the author of several related R-packages available on\ngithub and CRAN.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22212_aleksander-dietrichson.png",
+        "bio": "<p>Aleksander (Sasha) Dietrichson, Phd is a professor of Data Science and\nAI, and the founder of Chi Square Laboratories, a company dedicated\nto the research and development of learning analytics solutions. Sasha\nhas been working in learning analytics and educational AI for over a\ndecade, and is the author of several related R-packages available on\ngithub and CRAN.<\/p>\n"
       }
     ]
   },
@@ -3617,8 +3617,8 @@
           "affiliation": "statistics.calpoly.edu"
         },
         "username": "kelly_bodwin",
-        "photo": "/assets/img/2022Conf/_talks/22047_kelly-bodwin.jpg",
-        "bio": "Kelly Bodwin is an Assistant Professor of Statistics and Data\nScience and an RStudio Certified Instructor. She is passionate about\ndeveloping R tools (especially choosing names for packages) and\nabout creating innovative ways to teach computing to data scientists.\nAlthough her love for R is eternal and unwavering, she is currently\nbegrudgingly allowing a little python into her heart.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22047_kelly-bodwin.jpg",
+        "bio": "<p>Kelly Bodwin is an Assistant Professor of Statistics and Data\nScience and an RStudio Certified Instructor. She is passionate about\ndeveloping R tools (especially choosing names for packages) and\nabout creating innovative ways to teach computing to data scientists.\nAlthough her love for R is eternal and unwavering, she is currently\nbegrudgingly allowing a little python into her heart.<\/p>\n"
       }
     ]
   },
@@ -3660,8 +3660,8 @@
           "affiliation": "https://www.rstudio.com/"
         },
         "username": "hannah_frick",
-        "photo": "/assets/img/2022Conf/_talks/22073_hannah-frick.jpeg",
-        "bio": "Hannah Frick is a software engineer on the tidymodels team at\nRStudio. She holds a PhD in statistics and has worked in data science\nconsultancy as well as interdisciplinary research at University\nCollege London in cooperation with Team GB Hockey.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22073_hannah-frick.jpeg",
+        "bio": "<p>Hannah Frick is a software engineer on the tidymodels team at\nRStudio. She holds a PhD in statistics and has worked in data science\nconsultancy as well as interdisciplinary research at University\nCollege London in cooperation with Team GB Hockey.<\/p>\n"
       }
     ]
   },
@@ -3705,8 +3705,8 @@
           "affiliation": "https://www.rstudio.com/"
         },
         "username": "isabel_zimmerman",
-        "photo": "/assets/img/2022Conf/_talks/22166_isabel-zimmerman.jpg",
-        "bio": "Isabel Zimmerman is a software engineer on the open source team at\nRStudio, where she works on building MLOps frameworks. When she's not\ngeeking out over new data science techniques, she can be found hanging\nout with her dog or watching Marvel movies.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22166_isabel-zimmerman.jpg",
+        "bio": "<p>Isabel Zimmerman is a software engineer on the open source team at\nRStudio, where she works on building MLOps frameworks. When she's not\ngeeking out over new data science techniques, she can be found hanging\nout with her dog or watching Marvel movies.<\/p>\n"
       }
     ]
   },
@@ -3748,8 +3748,8 @@
           "affiliation": "https://www.rstudio.com/"
         },
         "username": "emil_hvitfeldt",
-        "photo": "/assets/img/2022Conf/_talks/22098_emil-hvitfeldt.png",
-        "bio": "Emil Hvitfeldt is a software engineer at RStudio. Part of the\ntidymodels team's effort to improve R's modeling capabilities.\nHe maintains several packages within the realms of modeling, text\nanalysis and, color palettes. Taught statistical machine learning as\nan adjunct professor at American University. He and Julia authored the\nbook Supervised Machine Learning for Text Analysis in R.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22098_emil-hvitfeldt.png",
+        "bio": "<p>Emil Hvitfeldt is a software engineer at RStudio. Part of the\ntidymodels team's effort to improve R's modeling capabilities.\nHe maintains several packages within the realms of modeling, text\nanalysis and, color palettes. Taught statistical machine learning as\nan adjunct professor at American University. He and Julia authored the\nbook Supervised Machine Learning for Text Analysis in R.<\/p>\n"
       }
     ]
   },
@@ -3792,8 +3792,8 @@
           "affiliation": "https://oir.yale.edu"
         },
         "username": "john_goldin",
-        "photo": "/assets/img/2022Conf/_talks/22156_john-goldin.jpeg",
-        "bio": "John Goldin spent his career as a data analyst for the Yale University\nadministration. He was the Director of Institutional Research for over\n20 years until retirement in 2011. Since then he has maintained some\ninvolvement with his old office, although each year he becomes more\nthoroughly retired. Even in retirement he finds plenty of data just\nbegging to be analyzed. He was a teaching assistant for Lee Wilkinson\n(the author of The Grammar of Graphics) back in the 1970’s when they\nwere both graduate students in Psychology at Yale.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22156_john-goldin.jpeg",
+        "bio": "<p>John Goldin spent his career as a data analyst for the Yale University\nadministration. He was the Director of Institutional Research for over\n20 years until retirement in 2011. Since then he has maintained some\ninvolvement with his old office, although each year he becomes more\nthoroughly retired. Even in retirement he finds plenty of data just\nbegging to be analyzed. He was a teaching assistant for Lee Wilkinson\n(the author of The Grammar of Graphics) back in the 1970’s when they\nwere both graduate students in Psychology at Yale.<\/p>\n"
       }
     ]
   },
@@ -3837,8 +3837,8 @@
           "affiliation": null
         },
         "username": "jacqueline_nolis",
-        "photo": "/assets/img/2022Conf/_talks/22065_jacqueline-nolis.jpg",
-        "bio": "Dr. Jacqueline Nolis is a data science leader with 15 years of\nexperience in running data science teams and projects at companies\nranging from Airbnb to Boeing. She is the Chief Product Officer at\nSaturn Cloud where she helps design products for data scientists.\nJacqueline R expertise includes deploying R into production systems\nand neural networks in R. For fun, Jacqueline likes to use data\nscience for humor—like using deep learning to generate offensive\nlicense plates.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22065_jacqueline-nolis.jpg",
+        "bio": "<p>Dr. Jacqueline Nolis is a data science leader with 15 years of\nexperience in running data science teams and projects at companies\nranging from Airbnb to Boeing. She is the Chief Product Officer at\nSaturn Cloud where she helps design products for data scientists.\nJacqueline R expertise includes deploying R into production systems\nand neural networks in R. For fun, Jacqueline likes to use data\nscience for humor—like using deep learning to generate offensive\nlicense plates.<\/p>\n"
       }
     ]
   },
@@ -3881,8 +3881,8 @@
           "affiliation": "https://lida.leeds.ac.uk/"
         },
         "username": "eric_wanjau",
-        "photo": "/assets/img/2022Conf/_talks/22132_eric-wanjau.png",
-        "bio": "Eric is an Early Career Researcher at the Leeds Institute for\nData Analytics (LIDA) in the University of Leeds. His research interests\nspan domains such as robotics, computer vision, and signal processing.\nEric is a co-founder and co-organizer of DekutR data science club at\nDedan Kimathi University of Technology, Kenya.\nHe plays the guitar (terribly but passionately).\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22132_eric-wanjau.png",
+        "bio": "<p>Eric is an Early Career Researcher at the Leeds Institute for\nData Analytics (LIDA) in the University of Leeds. His research interests\nspan domains such as robotics, computer vision, and signal processing.\nEric is a co-founder and co-organizer of DekutR data science club at\nDedan Kimathi University of Technology, Kenya.\nHe plays the guitar (terribly but passionately).<\/p>\n"
       },
       {
         "name": "Ian Muchiri",
@@ -3895,8 +3895,8 @@
           "affiliation": "https://www.dkut.ac.ke/ and https://sunculture.com/"
         },
         "username": "ian_muchiri",
-        "photo": "/assets/img/2022Conf/_talks/22132_ian-muchiri.png",
-        "bio": "I am a co-founder and co-organizer of DekutR data science club at\nDedan Kimathi University of Technology. Also, I am an early career\nresearcher in the field of Internet of Things, Data Science and\nElectronics (Embedded System Design).\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22132_ian-muchiri.png",
+        "bio": "<p>I am a co-founder and co-organizer of DekutR data science club at\nDedan Kimathi University of Technology. Also, I am an early career\nresearcher in the field of Internet of Things, Data Science and\nElectronics (Embedded System Design).<\/p>\n"
       }
     ]
   },
@@ -3939,8 +3939,8 @@
           "affiliation": "https://r4pi.org"
         },
         "username": "mark_sellors",
-        "photo": "/assets/img/2022Conf/_talks/22105_mark-sellors.jpg",
-        "bio": "A life-long technologist, Mark has always been fascinated by the\nintersection of people and technology. He is the founder of the R4Pi\nproject, an open-source project aimed at making it easier to use R\non the Raspberry Pi family of computers. Mark is also a Solutions\nEngineering Manager at RStudio and a member of the board for [Data\nOrchard](https://www.dataorchard.org.uk), a small, UK-based, social\nenterprise helping underserved groups get the most from their data.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22105_mark-sellors.jpg",
+        "bio": "<p>A life-long technologist, Mark has always been fascinated by the\nintersection of people and technology. He is the founder of the R4Pi\nproject, an open-source project aimed at making it easier to use R\non the Raspberry Pi family of computers. Mark is also a Solutions\nEngineering Manager at RStudio and a member of the board for <a href=\"https://www.dataorchard.org.uk\">Data\nOrchard<\/a>, a small, UK-based, social\nenterprise helping underserved groups get the most from their data.<\/p>\n"
       }
     ]
   },
@@ -3985,8 +3985,8 @@
           "affiliation": null
         },
         "username": "meghan_hall",
-        "photo": "/assets/img/2022Conf/_talks/22041_meghan-hall.jpeg",
-        "bio": "Meghan Hall has spent over seven years as a data professional in\nhigher education. She also has experience in sports analytics, as\nan ongoing contributor to the public community and previously as a\ndata scientist at Zelus Analytics. She is dedicated to R education,\nparticularly for beginners, and frequently delivers talks, workshops,\nand classes.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22041_meghan-hall.jpeg",
+        "bio": "<p>Meghan Hall has spent over seven years as a data professional in\nhigher education. She also has experience in sports analytics, as\nan ongoing contributor to the public community and previously as a\ndata scientist at Zelus Analytics. She is dedicated to R education,\nparticularly for beginners, and frequently delivers talks, workshops,\nand classes.<\/p>\n"
       }
     ]
   },
@@ -4030,8 +4030,8 @@
           "affiliation": "https://www.customink.com/about"
         },
         "username": "dan_caley",
-        "photo": "/assets/img/2022Conf/_talks/22054_dan-caley.jpg",
-        "bio": "Dan Caley is a Senior Data Analyst at Custom Ink covering descriptive,\ninferential, and predictive analytics. He has over 10 years experience\nin analytics, finding value in data for traditional finance companies\nlike Freddie Mac and in the crypto space for Ethos and Huddl. Once at\nCustom Ink, Dan realized how much time he lost by not packaging his\ncode, time that could have been spent hiking with his dog Helmet, so\nhe developed libraries flexible enough to tackle an array of projects.\nNow, Dan wants to share how to build flexible libraries with you, so\nyou have time to go hiking with Helmet too.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22054_dan-caley.jpg",
+        "bio": "<p>Dan Caley is a Senior Data Analyst at Custom Ink covering descriptive,\ninferential, and predictive analytics. He has over 10 years experience\nin analytics, finding value in data for traditional finance companies\nlike Freddie Mac and in the crypto space for Ethos and Huddl. Once at\nCustom Ink, Dan realized how much time he lost by not packaging his\ncode, time that could have been spent hiking with his dog Helmet, so\nhe developed libraries flexible enough to tackle an array of projects.\nNow, Dan wants to share how to build flexible libraries with you, so\nyou have time to go hiking with Helmet too.<\/p>\n"
       }
     ]
   },
@@ -4074,8 +4074,8 @@
           "affiliation": "https://www.niaid.nih.gov/"
         },
         "username": "jon_nye",
-        "photo": "/assets/img/2022Conf/_talks/22121_jon-nye.png",
-        "bio": "Jon Nye is a Lead Health Science Policy Analyst at the National\nInstitute of Allergy and Infectious Diseases (NIAID) at the National\nInstitutes of Health. He is currently part of the Data Analytics and\nResearch Branch which focuses on data integration, visualization, and\nbuilding tools to simplify business processes and promote data driven\ndecision making. Jon received a BS in Genetics and Cell Biology from\nWashington State University and his PhD in Cellular and Molecular\nMedicine at the University of Arizona.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22121_jon-nye.png",
+        "bio": "<p>Jon Nye is a Lead Health Science Policy Analyst at the National\nInstitute of Allergy and Infectious Diseases (NIAID) at the National\nInstitutes of Health. He is currently part of the Data Analytics and\nResearch Branch which focuses on data integration, visualization, and\nbuilding tools to simplify business processes and promote data driven\ndecision making. Jon received a BS in Genetics and Cell Biology from\nWashington State University and his PhD in Cellular and Molecular\nMedicine at the University of Arizona.<\/p>\n"
       }
     ]
   },
@@ -4117,8 +4117,8 @@
           "affiliation": "https://RStudio.com"
         },
         "username": "e_david_aja",
-        "photo": "/assets/img/2022Conf/_talks/22067_e-david-aja.jpg",
-        "bio": "E. David Aja is a Solutions Engineer at RStudio. He helps data\nscientists and IT communicate about their needs. Before joining\nRStudio, he worked as a data scientist in the public sector.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22067_e-david-aja.jpg",
+        "bio": "<p>E. David Aja is a Solutions Engineer at RStudio. He helps data\nscientists and IT communicate about their needs. Before joining\nRStudio, he worked as a data scientist in the public sector.<\/p>\n"
       }
     ]
   },
@@ -4162,8 +4162,8 @@
           "affiliation": "https://www.wundermanthompson.com/"
         },
         "username": "caro_buck",
-        "photo": "/assets/img/2022Conf/_talks/22025_caro-buck.jpg",
-        "bio": "I’m Caro, short for Caroline! I’m a curious and creative human, with\na passion for data of all sorts. I love wrangling unconventional\ndata, or using a visualization to build understanding and promote data\nliteracy. I have worked on a wide variety of client projects, from AI-\ngenerated graffiti and time series modeling to advanced analytics and\ndata visualization. I thrive in environments where data, curiosity,\ncreativity and rabbit holes are encouraged. In my spare time, you’ll\nprobably find me outside: either biking fast, playing Spikeball or\nwandering the neighborhood listening to a podcast.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22025_caro-buck.jpg",
+        "bio": "<p>I’m Caro, short for Caroline! I’m a curious and creative human, with\na passion for data of all sorts. I love wrangling unconventional\ndata, or using a visualization to build understanding and promote data\nliteracy. I have worked on a wide variety of client projects, from AI-\ngenerated graffiti and time series modeling to advanced analytics and\ndata visualization. I thrive in environments where data, curiosity,\ncreativity and rabbit holes are encouraged. In my spare time, you’ll\nprobably find me outside: either biking fast, playing Spikeball or\nwandering the neighborhood listening to a podcast.<\/p>\n"
       }
     ]
   },
@@ -4206,8 +4206,8 @@
           "affiliation": "http://www.tcbanalytics.com"
         },
         "username": "tanya215",
-        "photo": "/assets/img/2022Conf/_talks/22191_tanya-cashorali.jpg",
-        "bio": "Tanya Cashorali is the founder of TCB Analytics, a boutique data and\nanalytics consultancy. She hosts a world-wide community network of\nover 500 data enthusiasts, has helped universities launch data science\nprograms, and is a frequent speaker at tech conferences.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22191_tanya-cashorali.jpg",
+        "bio": "<p>Tanya Cashorali is the founder of TCB Analytics, a boutique data and\nanalytics consultancy. She hosts a world-wide community network of\nover 500 data enthusiasts, has helped universities launch data science\nprograms, and is a frequent speaker at tech conferences.<\/p>\n"
       }
     ]
   },
@@ -4249,8 +4249,8 @@
           "affiliation": "https://flex.com/"
         },
         "username": "prabhat1",
-        "photo": "/assets/img/2022Conf/_talks/22169_prabhakar-thanikasalam.jpg",
-        "bio": "Prabhakar (Prabha) Thanikasalam has 16+ years of experience in data,\noptimization and analytics focused areas for various organizations\nand industries. This experience includes supply-chain focused\nanalytics in the automotive, food, electronics, consumer goods and\nclean energy among other industry verticals. Prabha leads a global\nteam of Data Scientists, Data Analysts, Software Developers and\nSupply Chain Analysts in at Flex. Prabhakar’s responsibility includes\nsetting the vision and execution of the data and analytics needs of\nthe Supply Chain organization. He is a recognized leader at Flex in\nData Science & Advanced Analytics initiatives. Prabha holds a Master\nof Science Degree in Industrial Engineering/Operations Research from\nVirginia Tech (USA) and a Bachelor of Engineering Degree in Mechanical\nEngineering from College of Engineering Guindy (Chennai, India).\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22169_prabhakar-thanikasalam.jpg",
+        "bio": "<p>Prabhakar (Prabha) Thanikasalam has 16+ years of experience in data,\noptimization and analytics focused areas for various organizations\nand industries. This experience includes supply-chain focused\nanalytics in the automotive, food, electronics, consumer goods and\nclean energy among other industry verticals. Prabha leads a global\nteam of Data Scientists, Data Analysts, Software Developers and\nSupply Chain Analysts in at Flex. Prabhakar’s responsibility includes\nsetting the vision and execution of the data and analytics needs of\nthe Supply Chain organization. He is a recognized leader at Flex in\nData Science &amp; Advanced Analytics initiatives. Prabha holds a Master\nof Science Degree in Industrial Engineering/Operations Research from\nVirginia Tech (USA) and a Bachelor of Engineering Degree in Mechanical\nEngineering from College of Engineering Guindy (Chennai, India).<\/p>\n"
       }
     ]
   },
@@ -4293,8 +4293,8 @@
           "affiliation": "https://www.norc.org/"
         },
         "username": "weihuang_wong",
-        "photo": "/assets/img/2022Conf/_talks/22075_weihuang-wong.jpg",
-        "bio": "Weihuang (Wei) Wong is a Senior Research Methodologist at NORC, where\nhe develops tools that help researchers and analysts produce high\nquality and timely research. At NORC, Wei has worked on projects\nacross the education and health sectors. He earned his PhD in\npolitical science from MIT.\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22075_weihuang-wong.jpg",
+        "bio": "<p>Weihuang (Wei) Wong is a Senior Research Methodologist at NORC, where\nhe develops tools that help researchers and analysts produce high\nquality and timely research. At NORC, Wei has worked on projects\nacross the education and health sectors. He earned his PhD in\npolitical science from MIT.<\/p>\n"
       },
       {
         "name": "Kiegan Rice",
@@ -4307,8 +4307,8 @@
           "affiliation": "https://www.norc.org/Pages/default.aspx"
         },
         "username": "kiegan_rice",
-        "photo": "/assets/img/2022Conf/_talks/22075_kiegan-rice.jpg",
-        "bio": "Kiegan is a Statistician at NORC at the University of Chicago\nspecializing in static and interactive data visualization,\nreproducible data analysis pipelines, and scientific communication.\nShe applies her skills in multiple research areas at NORC including\neducation, healthcare, and public health policy. Kiegan earned her\nPhD in Statistics from Iowa State University in 2021 where she studied\nstatistical and computational reproducibility in forensic evidence\nanalysis.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22075_kiegan-rice.jpg",
+        "bio": "<p>Kiegan is a Statistician at NORC at the University of Chicago\nspecializing in static and interactive data visualization,\nreproducible data analysis pipelines, and scientific communication.\nShe applies her skills in multiple research areas at NORC including\neducation, healthcare, and public health policy. Kiegan earned her\nPhD in Statistics from Iowa State University in 2021 where she studied\nstatistical and computational reproducibility in forensic evidence\nanalysis.<\/p>\n"
       }
     ]
   },
@@ -4352,8 +4352,8 @@
           "affiliation": null
         },
         "username": "nic_crane",
-        "photo": "/assets/img/2022Conf/_talks/22048_nic-crane.jpg",
-        "bio": "Nic Crane is an R developer, educator, and general enthusiast. They\nare a committer on Apache Arrow, and are passionate about developer\nexperience.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22048_nic-crane.jpg",
+        "bio": "<p>Nic Crane is an R developer, educator, and general enthusiast. They\nare a committer on Apache Arrow, and are passionate about developer\nexperience.<\/p>\n"
       }
     ]
   },
@@ -4395,8 +4395,8 @@
           "affiliation": "https://pcctc.org/"
         },
         "username": "travis_gerke",
-        "photo": "/assets/img/2022Conf/_talks/22165_travis-gerke.jpg",
-        "bio": "As academic faculty, I led cancer-focused research teams in the\napplication and development of tools for applied machine learning,\ncausal inference, and biostatistics. In the post-academic setting,\nI direct data science efforts in the oncology clinical trials space.\nI am a 13+ year R enthusiast, and an advocate for productive remote\nworking environments (I live and work in an RV). My favorite activity\nis helping other data scientists become successful.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22165_travis-gerke.jpg",
+        "bio": "<p>As academic faculty, I led cancer-focused research teams in the\napplication and development of tools for applied machine learning,\ncausal inference, and biostatistics. In the post-academic setting,\nI direct data science efforts in the oncology clinical trials space.\nI am a 13+ year R enthusiast, and an advocate for productive remote\nworking environments (I live and work in an RV). My favorite activity\nis helping other data scientists become successful.<\/p>\n"
       }
     ]
   },
@@ -4439,8 +4439,8 @@
           "affiliation": "https://rfortherestofus.com"
         },
         "username": "david_keyes",
-        "photo": "/assets/img/2022Conf/_talks/22037_david-keyes.jpg",
-        "bio": "David Keyes is the CEO and founder of R for the Rest of Us. Since\n2019, R for the Rest of Us has helped hundreds of people and dozens\nof organizations learn to use R. And in our consulting work, R for\nthe Rest of Us has created visually appealing reports that effectively\ncommunicate results to technical audiences and lay people alike.\nDespite this success growing R for the Rest of Us over the last three\nand a half years, David does not have a business background. A PhD\nanthropologist, David has learned about starting a business through\ntrial and error. Having distilled some of these lessons, David is\nexcited to share them with others interested in using their R skills\nto start their own businesses.\n\n\n"
+        "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22037_david-keyes.jpg",
+        "bio": "<p>David Keyes is the CEO and founder of R for the Rest of Us. Since\n2019, R for the Rest of Us has helped hundreds of people and dozens\nof organizations learn to use R. And in our consulting work, R for\nthe Rest of Us has created visually appealing reports that effectively\ncommunicate results to technical audiences and lay people alike.\nDespite this success growing R for the Rest of Us over the last three\nand a half years, David does not have a business background. A PhD\nanthropologist, David has learned about starting a business through\ntrial and error. Having distilled some of these lessons, David is\nexcited to share them with others interested in using their R skills\nto start their own businesses.<\/p>\n"
       }
     ]
   }

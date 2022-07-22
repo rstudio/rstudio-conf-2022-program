@@ -9,6 +9,17 @@ first_upper <- function(x) {
   x
 }
 
+prep_speaker <- function(speaker) {
+  speaker$photo <- paste0(
+    "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main",
+    speaker$photo
+  )
+  speaker$bio <- if_else(trimws(speaker$bio) == "NA", "", speaker$bio)
+  speaker$bio <- commonmark::markdown_html(speaker$bio)
+  speaker
+}
+
+
 # Gather talk data from .Rmds --------------------------------------------------
 
 talk_data <- read_talk_md(here("sessions"))
@@ -17,22 +28,11 @@ talks <-
   talk_data[c("yaml", "abstract")] |>
   as_tibble() |>
   unnest_wider(yaml) |>
-  mutate(talk_type = first_upper(talk_type))
-
-speakers <-
-  talks |>
-  select(talk_id, speakers) |>
-  unnest_longer(speakers) |>
-  unnest_wider(speakers) |>
-  unnest_wider(url, names_sep = "_") |>
   mutate(
-    photo = paste0(
-      "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main",
-      photo
-    ),
-    bio = if_else(trimws(bio) == "NA", "", bio),
-    bio = bio |> map_chr(commonmark::markdown_html),
+    talk_type = first_upper(talk_type),
+    speakers = map(speakers, map, prep_speaker)
   )
+
 
 # Combine with talk times to generate program -----------------------------
 
