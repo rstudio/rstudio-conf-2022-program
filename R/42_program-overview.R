@@ -98,9 +98,19 @@ workshops_summary <-
   mutate(
     instructor = coalesce(instructor, instructor_short),
     instructor = str_replace_all(instructor, " \\+ ", ", "),
-    across(room, as.character)
+    description = map_chr(`What will I learn?`, commonmark::markdown_html)
   ) |>
-  select(title, title_short, instructor, room) |>
+  select(-room) |>
+  left_join(rooms, by = c("shortlink-slug" = "track")) |>
+  select(
+    workshop_slug = `shortlink-slug`,
+    title,
+    title_short,
+    instructor,
+    room,
+    summary = Summary,
+    description
+  ) |>
   replace_na(list(room = "TBD"))
 
 
