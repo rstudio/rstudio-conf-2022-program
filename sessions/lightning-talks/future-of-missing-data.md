@@ -5,6 +5,7 @@ talk_slug: future-of-missing-data
 talk_type: lightning
 talk_tags: [tool]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11ia4
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "The Future of missing data"

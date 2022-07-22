@@ -5,6 +5,7 @@ talk_slug: webr-r-compiled-for-webassembly
 talk_type: lightning
 talk_tags: [programming,interop,tool]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/123PB
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "WebR: R compiled for WebAssembly and running in the browser"

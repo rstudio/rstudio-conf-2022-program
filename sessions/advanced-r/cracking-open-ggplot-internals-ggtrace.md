@@ -5,6 +5,7 @@ talk_slug: cracking-open-ggplot-internals-ggtrace
 talk_type: regular
 talk_tags: [programming, tool, visualisation]
 session_slug: advanced-r
+sched_url: https://rstudioconf2022.sched.com/event/11ibT
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Cracking open ggplot internals with {ggtrace}"

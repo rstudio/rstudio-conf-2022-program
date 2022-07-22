@@ -5,6 +5,7 @@ talk_slug: summarizing-projects-to-setting-tags
 talk_type: regular
 talk_tags: [programming, recreational, tool]
 session_slug: advanced-r
+sched_url: https://rstudioconf2022.sched.com/event/11ibc
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "From summarizing projects to setting tags, uses of parsing R files"

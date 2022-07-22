@@ -5,6 +5,7 @@ talk_slug: how-to-be-pollinator
 talk_type: regular
 talk_tags: [communication, community, interop]
 session_slug: working-with-people
+sched_url: https://rstudioconf2022.sched.com/event/11iaV
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "How to be a pollinatoR"

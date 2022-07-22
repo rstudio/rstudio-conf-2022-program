@@ -5,6 +5,7 @@ talk_slug: dbcooper-turn-database-r-python
 talk_type: regular
 talk_tags: [databases, interop, process, tool]
 session_slug: databases
+sched_url: https://rstudioconf2022.sched.com/event/11iZi
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "dbcooper: Turn any database into an R or Python package"

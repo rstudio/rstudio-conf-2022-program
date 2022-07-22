@@ -5,6 +5,7 @@ talk_slug: advocating-for-automation
 talk_type: regular
 talk_tags: [career-development, champion, interop]
 session_slug: makeovers
+sched_url: https://rstudioconf2022.sched.com/event/11iZ2
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Advocating for Automation: Adapting Current Tools in Environmental Science through R"

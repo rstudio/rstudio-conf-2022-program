@@ -5,6 +5,7 @@ talk_slug: save-ocean-of-time-streamline
 talk_type: regular
 talk_tags: [champion, process, story]
 session_slug: bringing-people-together
+sched_url: https://rstudioconf2022.sched.com/event/11ib4
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Save an ocean of time: streamline data wrangling with R"

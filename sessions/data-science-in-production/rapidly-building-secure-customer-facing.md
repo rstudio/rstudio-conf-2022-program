@@ -5,6 +5,7 @@ talk_slug: rapidly-building-secure-customer-facing
 talk_type: regular
 talk_tags: [communication, pro-products, process]
 session_slug: data-science-in-production
+sched_url: https://rstudioconf2022.sched.com/event/11iYn
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Data science in your customers hands on a budget and a deadline: Publishing Customer Facing Products with RStudio Connect"

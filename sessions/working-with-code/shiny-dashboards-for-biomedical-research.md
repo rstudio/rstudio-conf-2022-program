@@ -5,6 +5,7 @@ talk_slug: shiny-dashboards-for-biomedical-research
 talk_type: regular
 talk_tags: [champion, public-sector, shiny]
 session_slug: working-with-code
+sched_url: https://rstudioconf2022.sched.com/event/11ibK
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Small Team Large Organization: Building Impactful Shiny Dashboards at NIH"

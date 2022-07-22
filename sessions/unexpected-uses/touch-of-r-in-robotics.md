@@ -5,6 +5,7 @@ talk_slug: touch-of-r-in-robotics
 talk_type: regular
 talk_tags: [champion, interop, recreational]
 session_slug: unexpected-uses
+sched_url: https://rstudioconf2022.sched.com/event/11iaY
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "A touch of R in Robotics"

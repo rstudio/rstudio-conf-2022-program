@@ -5,6 +5,7 @@ talk_slug: making-data-pipelines-in-r
 talk_type: regular
 talk_tags: [career-development, communication, story]
 session_slug: data-quality
+sched_url: https://rstudioconf2022.sched.com/event/11iZI
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Making Data Pipelines in R: A Story From A “Self-Taught” Perspective"

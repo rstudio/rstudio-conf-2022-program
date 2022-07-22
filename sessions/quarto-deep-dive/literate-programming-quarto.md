@@ -5,6 +5,7 @@ talk_slug: literate-programming-quarto
 talk_type: regular
 talk_tags: [communication, interop, Quarto]
 session_slug: quarto-deep-dive
+sched_url: https://rstudioconf2022.sched.com/event/11ibe
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Literate Programming With Jupyter Notebooks and Quarto"

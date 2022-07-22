@@ -5,6 +5,7 @@ talk_slug: new-way-to-build-shiny
 talk_type: regular
 talk_tags: [design, shiny]
 session_slug: shiny-app-design
+sched_url: https://rstudioconf2022.sched.com/event/11ib7
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "A new way to build your Shiny app's UI"

@@ -5,6 +5,7 @@ talk_slug: introduction-to-apple-health-export
 talk_type: regular
 talk_tags: [interop, recreational, story]
 session_slug: unexpected-uses
+sched_url: https://rstudioconf2022.sched.com/event/11ia0
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "An Introduction to the Apple Health Export"

@@ -5,6 +5,7 @@ talk_slug: exploratory-spatial-data-analysis
 talk_type: lightning
 talk_tags: [spatial, tidyverse, tool]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11iad
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Exploratory Spatial Data Analysis in the tidyverse"

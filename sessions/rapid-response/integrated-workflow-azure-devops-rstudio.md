@@ -5,6 +5,7 @@ talk_slug: integrated-workflow-azure-devops-rstudio
 talk_type: regular
 talk_tags: [pro-products, process, public-sector]
 session_slug: rapid-response
+sched_url: https://rstudioconf2022.sched.com/event/11iZF
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "An Integrated Workflow: Microsoft Azure DevOps, RStudio Workbench, RStudio Connect"

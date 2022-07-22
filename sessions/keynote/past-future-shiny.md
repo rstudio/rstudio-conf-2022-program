@@ -5,6 +5,7 @@ talk_slug: past-future-shiny
 talk_type: keynote
 talk_tags: [shiny, story]
 session_slug: keynote
+sched_url: https://rstudioconf2022.sched.com/event/11iZl
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "The Past and Future of Shiny"

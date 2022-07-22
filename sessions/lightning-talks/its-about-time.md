@@ -5,6 +5,7 @@ talk_slug: its-about-time
 talk_type: lightning
 talk_tags: [programming, tool]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11iZu
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "It's about time"

@@ -5,6 +5,7 @@ talk_slug: optimal-allocation-of-covid-19
 talk_type: regular
 talk_tags: [data-for-good, process, shiny]
 session_slug: rapid-response
+sched_url: https://rstudioconf2022.sched.com/event/11iYx
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Optimal allocation of COVID-19 vaccines in west Africa - A Shiny success story"

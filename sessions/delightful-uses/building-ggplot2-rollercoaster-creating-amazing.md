@@ -5,6 +5,7 @@ talk_slug: building-ggplot2-rollercoaster-creating-amazing
 talk_type: regular
 talk_tags: [recreational, visualisation]
 session_slug: delightful-uses
+sched_url: https://rstudioconf2022.sched.com/event/11ibS
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Building a ggplot2 rollercoaster: Creating amazing 3D data visualizations in R"

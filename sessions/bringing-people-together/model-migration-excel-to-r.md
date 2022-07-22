@@ -5,6 +5,7 @@ talk_slug: model-migration-excel-to-r
 talk_type: regular
 talk_tags: [interop, modeling, story]
 session_slug: bringing-people-together
+sched_url: https://rstudioconf2022.sched.com/event/11ibD
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Model Migration: from Excel to R"

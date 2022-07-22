@@ -5,6 +5,7 @@ talk_slug: shinyslack-connecting-slack-teams
 talk_type: lightning
 talk_tags: [community, shiny]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11iaL
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "{shinyslack}: Connecting Slack Teams to Shiny Apps"

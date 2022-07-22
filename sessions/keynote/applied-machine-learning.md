@@ -5,6 +5,7 @@ talk_slug: applied-machine-learning
 talk_type: keynote
 talk_tags: [modeling]
 session_slug: keynote
+sched_url: https://rstudioconf2022.sched.com/event/11iYE
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Good practices for applied machine learning - from model development to model deployment"

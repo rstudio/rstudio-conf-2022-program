@@ -5,6 +5,7 @@ talk_slug: shinytest2-unit-testing-for-shiny
 talk_type: regular
 talk_tags: [programming, shiny]
 session_slug: big-shiny-apps
+sched_url: https://rstudioconf2022.sched.com/event/11ibY
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "{shinytest2}: Unit testing for Shiny applications"

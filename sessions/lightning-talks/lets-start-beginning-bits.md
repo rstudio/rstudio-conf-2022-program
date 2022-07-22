@@ -5,6 +5,7 @@ talk_slug: lets-start-beginning-bits
 talk_type: lightning
 talk_tags: [programming]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11ia1
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Let's start at the beginning - bits to character encoding in R"

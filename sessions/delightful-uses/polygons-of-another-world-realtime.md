@@ -5,6 +5,7 @@ talk_slug: polygons-of-another-world-realtime
 talk_type: regular
 talk_tags: [recreational, tool, visualisation]
 session_slug: delightful-uses
+sched_url: https://rstudioconf2022.sched.com/event/11ibb
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "The Polygons of Another World - realtime interactive rendering in R"

@@ -5,6 +5,7 @@ talk_slug: implications-of-r-syntax
 talk_type: lightning
 talk_tags: [design, teaching, tidyverse]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11ian
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Implications of R syntax in intro stats"

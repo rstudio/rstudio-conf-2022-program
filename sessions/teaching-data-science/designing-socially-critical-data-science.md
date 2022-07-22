@@ -5,6 +5,7 @@ talk_slug: designing-socially-critical-data-science
 talk_type: regular
 talk_tags: [data-for-good, teaching]
 session_slug: teaching-data-science
+sched_url: https://rstudioconf2022.sched.com/event/11iYY
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Designing a Socially-Critical Data Science Course"

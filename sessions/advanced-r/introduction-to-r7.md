@@ -5,6 +5,7 @@ talk_slug: introduction-to-r7
 talk_type: regular
 talk_tags: [programming, tool]
 session_slug: advanced-r
+sched_url: https://rstudioconf2022.sched.com/event/11ibi
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "An introduction to R7"

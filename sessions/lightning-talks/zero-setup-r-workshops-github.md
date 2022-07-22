@@ -5,6 +5,7 @@ talk_slug: zero-setup-r-workshops-github
 talk_type: lightning
 talk_tags: [community, teaching, tool]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11iag
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Zero-setup R workshops with GitHub Codespaces"

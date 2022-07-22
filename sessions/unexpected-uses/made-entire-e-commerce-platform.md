@@ -5,6 +5,7 @@ talk_slug: made-entire-e-commerce-platform
 talk_type: regular
 talk_tags: [process, recreational, shiny, visualisation]
 session_slug: unexpected-uses
+sched_url: https://rstudioconf2022.sched.com/event/11iak
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "I made an entire e-commerce platform on Shiny"

@@ -5,6 +5,7 @@ talk_slug: you-should-use-renv
 talk_type: regular
 talk_tags: [production, tool]
 session_slug: working-with-code
+sched_url: https://rstudioconf2022.sched.com/event/11ib2
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "You should be using renv"

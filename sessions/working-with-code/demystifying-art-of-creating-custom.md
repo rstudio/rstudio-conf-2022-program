@@ -5,6 +5,7 @@ talk_slug: demystifying-art-of-creating-custom
 talk_type: regular
 talk_tags: [communication, process, programming, tool]
 session_slug: working-with-code
+sched_url: https://rstudioconf2022.sched.com/event/11iav
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Demystifying the art of creating custom libraries for your organization"

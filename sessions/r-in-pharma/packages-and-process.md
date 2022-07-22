@@ -5,6 +5,7 @@ talk_slug: packages-and-process
 talk_type: regular
 talk_tags: [design, pharma, process]
 session_slug: r-in-pharma
+sched_url: https://rstudioconf2022.sched.com/event/11iYK
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Packages and Process"

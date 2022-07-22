@@ -5,6 +5,7 @@ talk_slug: anchorage-built-alaskas-vaccine-finder
 talk_type: regular
 talk_tags: [interop, process, production, story]
 session_slug: rapid-response
+sched_url: https://rstudioconf2022.sched.com/event/11iYq
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "How Anchorage Built Alaska’s Vaccine Finder with R"

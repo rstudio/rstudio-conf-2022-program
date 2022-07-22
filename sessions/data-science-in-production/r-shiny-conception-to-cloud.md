@@ -5,6 +5,7 @@ talk_slug: r-shiny-conception-to-cloud
 talk_type: regular
 talk_tags: [process, production, shiny]
 session_slug: data-science-in-production
+sched_url: https://rstudioconf2022.sched.com/event/11iZ5
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "R Shiny - From Conception to the Cloud"

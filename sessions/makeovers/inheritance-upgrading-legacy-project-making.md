@@ -5,6 +5,7 @@ talk_slug: inheritance-upgrading-legacy-project-making
 talk_type: regular
 talk_tags: [process, story]
 session_slug: makeovers
+sched_url: https://rstudioconf2022.sched.com/event/11iYl
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Oddly Satisfying - Find delight in the mundane"

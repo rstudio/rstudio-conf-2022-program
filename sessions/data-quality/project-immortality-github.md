@@ -5,6 +5,7 @@ talk_slug: project-immortality-github
 talk_type: regular
 talk_tags: [process, production, programming]
 session_slug: data-quality
+sched_url: https://rstudioconf2022.sched.com/event/11iYz
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Project Immortality: Using GitHub To Make Your Work Live Forever"

@@ -5,6 +5,7 @@ talk_slug: worlds-smallest-r-environment-running
 talk_type: regular
 talk_tags: [access, programming, recreational]
 session_slug: unexpected-uses
+sched_url: https://rstudioconf2022.sched.com/event/11iaF
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "The worlds smallest R environment? Running R on a $15 computer"

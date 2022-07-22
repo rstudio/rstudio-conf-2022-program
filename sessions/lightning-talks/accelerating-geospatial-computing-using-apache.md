@@ -5,6 +5,7 @@ talk_slug: accelerating-geospatial-computing-using-apache
 talk_type: lightning
 talk_tags: [interop, production, spatial]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11iab
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Accelerating geospatial computing using Apache Arrow"

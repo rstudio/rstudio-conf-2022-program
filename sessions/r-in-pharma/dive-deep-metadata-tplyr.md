@@ -5,6 +5,7 @@ talk_slug: dive-deep-metadata-tplyr
 talk_type: regular
 talk_tags: [medicine, pharma, process, tool]
 session_slug: r-in-pharma
+sched_url: https://rstudioconf2022.sched.com/event/11iYV
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Dive Deep into Metadata with Tplyr"

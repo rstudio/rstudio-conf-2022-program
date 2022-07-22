@@ -5,6 +5,7 @@ talk_slug: cultivating-r-ecosystem-solo-contributor
 talk_type: regular
 talk_tags: [career-development, champion, communication, interop, production]
 session_slug: working-with-code
+sched_url: https://rstudioconf2022.sched.com/event/11ibA
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Cultivating Your Own R Ecosystem as a Solo Contributor"

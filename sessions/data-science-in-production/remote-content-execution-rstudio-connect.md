@@ -5,6 +5,7 @@ talk_slug: remote-content-execution-rstudio-connect
 talk_type: regular
 talk_tags: [interop, pro-products, production]
 session_slug: data-science-in-production
+sched_url: https://rstudioconf2022.sched.com/event/11iZC
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Remote Content Execution with RStudio Connect and Kubernetes"

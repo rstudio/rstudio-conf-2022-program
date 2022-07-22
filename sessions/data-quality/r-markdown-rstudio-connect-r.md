@@ -5,6 +5,7 @@ talk_slug: r-markdown-rstudio-connect-r
 talk_type: regular
 talk_tags: [communication, pro-products, process]
 session_slug: data-quality
+sched_url: https://rstudioconf2022.sched.com/event/11iZ8
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "R Markdown + RStudio Connect + R Shiny: A Recipe for Automated Data Processing, Error Logging, and Process Monitoring"

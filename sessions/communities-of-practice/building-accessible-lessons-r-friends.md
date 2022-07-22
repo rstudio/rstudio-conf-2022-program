@@ -5,6 +5,7 @@ talk_slug: building-accessible-lessons-r-friends
 talk_type: regular
 talk_tags: [access, communication, community, teaching, tool]
 session_slug: communities-of-practice
+sched_url: https://rstudioconf2022.sched.com/event/11ibJ
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Building Accessible Lessons with R and Friends"

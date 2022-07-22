@@ -5,6 +5,7 @@ talk_slug: developing-internal-tools-multilingual
 talk_type: regular
 talk_tags: [design, interop, process, tool]
 session_slug: python
+sched_url: https://rstudioconf2022.sched.com/event/11iaR
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Developing internal tools for multi-lingual teams"

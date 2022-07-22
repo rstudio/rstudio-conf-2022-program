@@ -5,6 +5,7 @@ talk_slug: data-science-training
 talk_type: keynote
 talk_tags: [career-development, access, data-for-good]
 session_slug: keynote
+sched_url: https://rstudioconf2022.sched.com/event/11ibk
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Data science training in communities with limited technology resources and opportunities"

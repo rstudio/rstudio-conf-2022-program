@@ -5,6 +5,7 @@ talk_slug: tidyverse-power-bi-match-made
 talk_type: regular
 talk_tags: [interop, tidyverse]
 session_slug: business-intelligence
+sched_url: https://rstudioconf2022.sched.com/event/11iYH
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Tidyverse and Power BI:  A Match Made in Heaven"

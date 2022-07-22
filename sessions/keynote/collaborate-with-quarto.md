@@ -5,6 +5,7 @@ talk_slug: collaborate-with-quarto
 talk_type: keynote
 talk_tags: [communication, interop, Quarto]
 session_slug: keynote
+sched_url: https://rstudioconf2022.sched.com/event/11iZo
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Hello Quarto: Share • Collaborate • Teach • Reimagine"

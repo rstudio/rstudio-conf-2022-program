@@ -5,6 +5,7 @@ talk_slug: journey-to-data-science-tools
 talk_type: regular
 talk_tags: [access, career-development, community, story]
 session_slug: communities-of-practice
+sched_url: https://rstudioconf2022.sched.com/event/11ib8
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "A Journey to Data Science: Tools for Equity and Diversity in STEM"

@@ -5,6 +5,7 @@ talk_slug: benefit-of-talking-to-non-datas
 talk_type: regular
 talk_tags: [access, career-development, communication, community]
 session_slug: working-with-people
+sched_url: https://rstudioconf2022.sched.com/event/11iaC
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "The Benefit of Talking to the \"Non-Datas\""

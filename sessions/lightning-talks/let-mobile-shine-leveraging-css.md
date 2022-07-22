@@ -5,6 +5,7 @@ talk_slug: let-mobile-shine-leveraging-css
 talk_type: lightning
 talk_tags: [design, html/css/js, shiny]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11iaO
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Let your mobile shine - Leveraging CSS concepts to make shiny apps mobile responsive"

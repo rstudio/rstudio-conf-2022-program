@@ -5,6 +5,7 @@ talk_slug: wtf-teach-you-starting-business
 talk_type: regular
 talk_tags: [career-development, champion, story]
 session_slug: wtf-career
+sched_url: https://rstudioconf2022.sched.com/event/11iZX
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "What they forgot to teach you about starting a business with R"

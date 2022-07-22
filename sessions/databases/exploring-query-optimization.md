@@ -5,6 +5,7 @@ talk_slug: exploring-query-optimization
 talk_type: regular
 talk_tags: [communication, databases, story]
 session_slug: databases
+sched_url: https://rstudioconf2022.sched.com/event/11iZT
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Exploring Query Optimization: How a few lines of code can save hours of time"

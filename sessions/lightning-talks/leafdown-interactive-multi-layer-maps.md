@@ -5,6 +5,7 @@ talk_slug: leafdown-interactive-multi-layer-maps
 talk_type: lightning
 talk_tags: [shiny, spatial]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11iaa
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "leafdown: Interactive multi-layer maps in Shiny apps"

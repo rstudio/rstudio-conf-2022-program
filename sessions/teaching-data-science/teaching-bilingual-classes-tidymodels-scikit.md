@@ -5,6 +5,7 @@ talk_slug: teaching-bilingual-classes-tidymodels-scikit
 talk_type: regular
 talk_tags: [interop, python, teaching]
 session_slug: teaching-data-science
+sched_url: https://rstudioconf2022.sched.com/event/11iYN
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Translating from {tidymodels} and scikit-learn: Lessons from a 'bilingual' course."

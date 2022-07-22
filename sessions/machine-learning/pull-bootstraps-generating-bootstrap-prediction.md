@@ -5,6 +5,7 @@ talk_slug: pull-bootstraps-generating-bootstrap-prediction
 talk_type: regular
 talk_tags: [modeling, tool]
 session_slug: machine-learning
+sched_url: https://rstudioconf2022.sched.com/event/11iZW
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Introducing workboots: Generate prediction intervals from tidymodel workflows"

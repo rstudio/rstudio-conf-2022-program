@@ -5,6 +5,7 @@ talk_slug: dashboard-builder
 talk_type: regular
 talk_tags: [shiny, tool, visualisation]
 session_slug: shiny-app-design
+sched_url: https://rstudioconf2022.sched.com/event/11ibG
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Dashboard-Builder: Building Shiny Apps without writing any code"

@@ -5,6 +5,7 @@ talk_slug: visualizing-distributions-uncertainty-using-ggdist
 talk_type: lightning
 talk_tags: [modeling, tool, visualisation]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11iaS
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Visualizing distributions and uncertainty using ggdist"

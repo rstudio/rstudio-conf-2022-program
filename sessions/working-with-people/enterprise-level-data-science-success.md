@@ -5,6 +5,7 @@ talk_slug: enterprise-level-data-science-success
 talk_type: regular
 talk_tags: [career-development, champion]
 session_slug: working-with-people
+sched_url: https://rstudioconf2022.sched.com/event/11iZx
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Enterprise-Level Data Science Success"

@@ -5,6 +5,7 @@ talk_slug: robust-framework-for-automated-shiny
 talk_type: regular
 talk_tags: [production, programming, shiny]
 session_slug: big-shiny-apps
+sched_url: https://rstudioconf2022.sched.com/event/11ibQ
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "A Robust Framework for Automated Shiny App Testing"

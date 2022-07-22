@@ -5,6 +5,7 @@ talk_slug: quilting-in-r-becoming-creative
 talk_type: regular
 talk_tags: [recreational, story]
 session_slug: delightful-uses
+sched_url: https://rstudioconf2022.sched.com/event/11ibh
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Becoming Creative: How I Designed a Quilt with R"
