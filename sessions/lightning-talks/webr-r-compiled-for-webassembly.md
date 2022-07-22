@@ -10,7 +10,7 @@ sched_url: https://rstudioconf2022.sched.com/event/123PB
 # The title of your talk
 talk_title: "WebR: R compiled for WebAssembly and running in the browser"
 # A short version of the title, suitable for small displays
-talk_title_short:"WebR: R running in the browser"
+talk_title_short: "WebR: R running in the browser"
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
