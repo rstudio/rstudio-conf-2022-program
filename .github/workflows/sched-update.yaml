@@ -53,3 +53,14 @@ jobs:
           SCHED_UPDATE_SPEAKERS: ${{ github.event.inputs.speakers }}
         run: Rscript 'R/01_talks.R'
 
+      - name: '[json] Update program.json'
+        if: ${{ github.event_name != 'pull_request' }}
+        run: Rscript 'R/44_program-data.R'
+
+      - name: '[json] Commit and push program.json'
+        if: ${{ github.event_name != 'pull_request' }}
+        run: |
+          git config --local user.name "$GITHUB_ACTOR"
+          git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
+          git add program.json && git commit -m "Update program.json" || echo "No program.json"
+          git push origin main || echo "No updates to push"
