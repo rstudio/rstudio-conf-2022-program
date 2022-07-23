@@ -8,7 +8,7 @@ session_slug: big-shiny-apps
 sched_url: https://rstudioconf2022.sched.com/event/11ibY
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "{shinytest2}: Unit testing for Shiny applications"
+talk_title: "{shinytest2}: Regression testing for Shiny applications"
 # A short version of the title, suitable for small displays
 talk_title_short: "{shinytest2}"
 # A link to your talk's materials, when ready
