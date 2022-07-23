@@ -60,11 +60,11 @@ jobs:
       - name: '[json] Commit and push program.json'
         if: ${{ github.event_name != 'pull_request' }}
         env:
-          # Requires peronal token to get around branch protections on `main`
+          # Requires personal token to get around branch protections on `main`
           # This token has "repo" scope and a limited lifetime
           GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
         run: |
-          git config --local user.name "gadenbuie"
-          git config --local user.email "gadenbuie@users.noreply.github.com"
+          git config --local user.name "rstudio-conf-bot"
+          git config --local user.email "rstudio-conf-bot@users.noreply.github.com"
           git add program.json && git commit -m "Update program.json" || echo "No program.json"
-          git push origin main || echo "No updates to push"
+          git push https://${GITHUB_TOKEN}@github.com/rstudio/rstudio-conf-2022-program.git main || echo "No updates to push"
