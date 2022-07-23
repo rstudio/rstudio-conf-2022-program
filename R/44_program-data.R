@@ -62,7 +62,7 @@ session_times <-
     session_end = max(end),
     .groups = "drop"
   ) |>
-  mutate(across(c(session_start, session_end), strftime, "%FT%TZ%Z"))
+  mutate(across(c(session_start, session_end), strftime, "%FT%TZ%Z", tz = "America/New_York"))
 
 talk_times <-
   all_times |>
@@ -70,7 +70,7 @@ talk_times <-
   left_join(rooms, by = "track") |>
   mutate(
     day = strftime(start, "%F", tz = "America/New_York"),
-    across(c(start, end), strftime, "%FT%TZ%Z")
+    across(c(start, end), strftime, "%FT%TZ%Z", tz = "America/New_York")
   )
 
 # Build Program -----------------------------------------------------------
