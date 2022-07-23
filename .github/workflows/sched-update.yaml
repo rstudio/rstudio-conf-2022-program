@@ -29,13 +29,13 @@ jobs:
       SCHED_CONF_2022: ${{ secrets.SCHED_CONF_2022 }}
 
     steps:
-      - name: [pr] Checkout repo
+      - name: '[pr] Checkout repo'
         uses: actions/checkout@v2
         if: ${{ github.event_name == 'pull_request' }}
         with:
           fetch-depth: 0
 
-      - name: [main] Checkout repo
+      - name: '[main] Checkout repo'
         uses: actions/checkout@v2
         if: ${{ github.event_name != 'pull_request' }}
         with:
