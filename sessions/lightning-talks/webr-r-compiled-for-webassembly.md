@@ -12,7 +12,7 @@ talk_title: "WebR: R compiled for WebAssembly and running in the browser"
 # A short version of the title, suitable for small displays
 talk_title_short: "WebR: R running in the browser"
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/rstudio/rstudio-conf/blob/master/2022/georgestagg/webr%20-%20George%20Stagg.pdf
 speakers:
 - name: George Stagg
   affiliation: RStudio

@@ -12,7 +12,7 @@ talk_title: "Let's start at the beginning - bits to character encoding in R"
 # A short version of the title, suitable for small displays
 talk_title_short: Let's start at the beginning - bits to character encoding in R
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/rstudio/rstudio-conf/blob/master/2022/alexfarach/bits_to_character_in_R_RSTUDIO%20-%20Alex%20F.pdf
 speakers:
 - name: Alex Farach
   affiliation: Accenture Federal Services
