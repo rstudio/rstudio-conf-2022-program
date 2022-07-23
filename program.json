@@ -15,16 +15,16 @@
       "materials_url": "https://github.com/yjunechoe/ggtrace-rstudioconf2022",
       "abstract": "<p>The inner workings of {ggplot2} are difficult to grasp even for experienced\nusers because its internal object-oriented (ggproto) system is hidden from user-\nfacing functions, by design. This is exacerbated by the foreignness of ggproto\nitself, which remains the largest hurdle in the user-to-developer transition.\nHowever this needs not to be the case: ggplot internals have clear parallels to\ndata wrangling, where data is passed between methods that take inputs and return\noutputs. Capitalizing on this connection, package {ggtrace} exposes the familiar\nfunctional programming logic of ggplot with functions that inspect, capture, or\nmodify steps in a ggplot object's execution pipeline, enabling users to learn\nthe internals through trial-and-error.<\/p>\n<p>Talk materials are available at <a href=\"https://github.com/yjunechoe/ggtrace-rstudioconf2022\" target=\"_blank\">https://github.com/yjunechoe/ggtrace-rstudioconf2022<\/a>.",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T15:40:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T19:40:00ZUTC"
     },
     "session": {
       "slug": "advanced-r",
       "title": "Just typing R code: advanced R programming",
       "room": "National Harbor 10+11",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -58,16 +58,16 @@
       "materials_url": null,
       "abstract": "<p>The R7 package is a new OOP system designed to be a successor to S3 and S4. It\nhas been designed and implemented collaboratively by the RConsortium Object-\nOriented Programming Working Group, which includes representatives from R-Core,\nBioConductor, RStudio/tidyverse, and the wider R community.<\/p>\n<p>In this talk, I'll introduce R7 to the wider world. Attendees will learn why we\ncreated R7 and how they can use it to create new classes and packages. I hope to\ninspire folks to download, try it out, and give us the feedback we need to make\nit better.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T16:00:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T20:00:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "session": {
       "slug": "advanced-r",
       "title": "Just typing R code: advanced R programming",
       "room": "National Harbor 10+11",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -102,16 +102,16 @@
       "materials_url": null,
       "abstract": "<p>Three possible applications of parsing code files for a typical R user (outside\nof background checks on syntax, dependencies, etc.) are:<\/p>\n<ol>\n<li>\n<p>Creating a reference manual With so many #rstats learning materials out\nthere, it's often helpful to parse-out the functions from a project and create a\nsummary table that complements your notes.<\/p>\n<\/li>\n<li>\n<p>Analyzing files A network visualization of the functions/packages (or other\ntype of) analysis provides insights as to which files/projects are most related\nto one another as well as which packages are most central to a body of work.<\/p>\n<\/li>\n<li>\n<p>Setting tags Picking good consistent tags for your blogdown website is\nhard. It's easier to just parse out the packages in each post and use those to\norganize your website.<\/p>\n<\/li>\n<\/ol>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:40:00ZEDT",
-      "end": "2022-07-28T16:00:00ZEDT"
+      "start": "2022-07-28T19:40:00ZUTC",
+      "end": "2022-07-28T20:00:00ZUTC"
     },
     "session": {
       "slug": "advanced-r",
       "title": "Just typing R code: advanced R programming",
       "room": "National Harbor 10+11",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -146,16 +146,16 @@
       "materials_url": null,
       "abstract": "<p>R and Shiny are ready for production use in Enterprise. As Appsilon, we have\nworked with tens of top global companies on their Shiny projects. Emphasis\non UI, monitoring users’ behavior, and solid engineering principles made the\ndifference. These are some of the practices that made projects impactful.\nWe want to help ourselves and the community to leverage best practices that\nhave worked for us so far. That’s why we built Rhino - the new framework for\nShiny in Enterprise. Kamil Żyła is a senior software engineer at Appsilon and\nRhino’s creator. He will share our experiences in ensuring the success of Shiny\nprojects. You will see why you may want to try Rhino in your next (or current)\nproject!<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T15:40:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T19:40:00ZUTC"
     },
     "session": {
       "slug": "big-shiny-apps",
       "title": "I like big apps: shiny apps that scale",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -190,16 +190,16 @@
       "materials_url": null,
       "abstract": "<p>For production-grade Shiny applications, regression testing ensures that the\napplication maintains its core functionality as new features are added to the\napp. With the help of various R and Python tools that programmatically interact\nwith the UI and examine UI outputs, regression test logic can be represented\nprogrammatically and can run as often as needed. This gives the development team\nan opportunity to catch and fix bugs before they are pushed to production.<\/p>\n<p>In this talk, I will introduce a framework for automated testing of Shiny\napplications both (1) during the development phase and (2) after the app is\ndeployed. I will share a demo Shiny app along with relevant shinytest2 and\nSelenium code.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:40:00ZEDT",
-      "end": "2022-07-28T16:00:00ZEDT"
+      "start": "2022-07-28T19:40:00ZUTC",
+      "end": "2022-07-28T20:00:00ZUTC"
     },
     "session": {
       "slug": "big-shiny-apps",
       "title": "I like big apps: shiny apps that scale",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -230,19 +230,19 @@
       "sched_url": "https://rstudioconf2022.sched.com/event/11ibY",
       "title": "{shinytest2}: Unit testing for Shiny applications",
       "title_short": "{shinytest2}",
-      "materials_url": null,
-      "abstract": "<p>Manually testing Shiny applications is often laborious, inconsistent, and\ndoesn’t scale well. Whether you are developing new features, fixing bug(s),\nor simply upgrading dependencies, it is critical to know when regressions are\nintroduced. The new {shinytest2} R package provides a toolkit for unit testing\nShiny apps and seamlessly integrates with {testthat}. Under the hood, it uses\nthe new {chromote} R package to render apps in a headless Chrome browser with\nfeatures such as live preview and built in debugging tools. In this talk,\nyou’ll learn how to test Shiny apps by simply recording your actions as code\nand extending it to test more particular aspects of your app, resulting in fewer\nbugs and more confidence in future development.<\/p>\n",
+      "materials_url": "https://bit.ly/shinytest2-conf22",
+      "abstract": "<p>Manually testing Shiny applications is often laborious, inconsistent, and\ndoesn’t scale well. Whether you are developing new features, fixing bug(s),\nor simply upgrading dependencies, it is critical to know when regressions are\nintroduced. The new {shinytest2} R package provides a toolkit for unit testing\nShiny apps and seamlessly integrates with {testthat}. Under the hood, it uses\nthe new {chromote} R package to render apps in a headless Chrome browser with\nfeatures such as live preview and built in debugging tools. In this talk,\nyou’ll learn how to test Shiny apps by simply recording your actions as code\nand extending it to test more particular aspects of your app, resulting in fewer\nbugs and more confidence in future development.<\/p>\n<p>Talk materials are available at <a href=\"https://bit.ly/shinytest2-conf22\" target=\"_blank\">https://bit.ly/shinytest2-conf22<\/a>.",
       "day": "2022-07-28",
-      "start": "2022-07-28T16:00:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T20:00:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "session": {
       "slug": "big-shiny-apps",
       "title": "I like big apps: shiny apps that scale",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -278,16 +278,16 @@
       "materials_url": null,
       "abstract": "<p>How does a US federal agency analyze tens of millions of records across\n30,000 sites in over 50 countries analyze these data efficiently and\neffectively? Five years ago, our team ventured beyond the confines of (largely)\nExcel and towards leveraging R to be more efficient in our analysis and\nworkflows since data is instrumental to the mission of ending the global HIV\nepidemic. We have created our own 'pit of success', providing analysts the\ninfrastructure and support needed to ease the learning of and working with R in\nour specific context. We will be sharing our experiences in digging this 'pit\nof success' that organizations would benefit from.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T14:10:00ZEDT",
-      "end": "2022-07-28T14:30:00ZEDT"
+      "start": "2022-07-28T18:10:00ZUTC",
+      "end": "2022-07-28T18:30:00ZUTC"
     },
     "session": {
       "slug": "bringing-people-together",
       "title": "Cat herding: solving big problems by bringing people together",
       "room": "Potomac C",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -322,16 +322,16 @@
       "materials_url": null,
       "abstract": "<p>Many companies within the insurance and financial sector maintain a large\nnumber of legacy models in the platform Microsoft Excel. With the advent of\ndata analytics, many of these same companies are now looking to migrate their\nexisting models from an Excel environment into an R environment. This process,\nhowever, is not foolproof. I should know as I have had to do it several times!\nHaving made many mistakes myself, I would like to provide some tips to help\nfuture analysts and companies outside of the technology industry overcome some\ncommon pitfalls that they may encounter during the model migration process.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T13:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T17:50:00ZUTC"
     },
     "session": {
       "slug": "bringing-people-together",
       "title": "Cat herding: solving big problems by bringing people together",
       "room": "Potomac C",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -363,19 +363,19 @@
       "sched_url": "https://rstudioconf2022.sched.com/event/11ib4",
       "title": "Save an ocean of time: streamline data wrangling with R",
       "title_short": "Save an ocean of time",
-      "materials_url": null,
-      "abstract": "<p>My organization currently has over 250 oceanographic sensors deployed around\nthe coast of Nova Scotia, Canada. Together, these generate around 4 million\nrows of data every year. I was shocked when I discovered my colleagues\nmanually compiled, formatted, and analyzed these data using hundreds of\nExcel spreadsheets. This was highly time consuming, error prone, and lacked\ntraceability. To improve this workflow, I developed an R package that reduced\nprocessing time by 95%. The package has since become integral to our data\npipeline, including quality control, analysis, visualization, and report\ngeneration in RMarkdown. The resulting datasets have already proven invaluable\nto industry leaders looking to invest in Nova Scotia’s coastal resources.<\/p>\n",
+      "materials_url": "https://github.com/dempsey-CMAR/2022_rstudio_conf",
+      "abstract": "<p>My organization currently has over 250 oceanographic sensors deployed around\nthe coast of Nova Scotia, Canada. Together, these generate around 4 million\nrows of data every year. I was shocked when I discovered my colleagues\nmanually compiled, formatted, and analyzed these data using hundreds of\nExcel spreadsheets. This was highly time consuming, error prone, and lacked\ntraceability. To improve this workflow, I developed an R package that reduced\nprocessing time by 95%. The package has since become integral to our data\npipeline, including quality control, analysis, visualization, and report\ngeneration in RMarkdown. The resulting datasets have already proven invaluable\nto industry leaders looking to invest in Nova Scotia’s coastal resources.<\/p>\n<p>Talk materials are available at <a href=\"https://github.com/dempsey-CMAR/2022_rstudio_conf\" target=\"_blank\">https://github.com/dempsey-CMAR/2022_rstudio_conf<\/a>.",
       "day": "2022-07-28",
-      "start": "2022-07-28T14:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T18:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "session": {
       "slug": "bringing-people-together",
       "title": "Cat herding: solving big problems by bringing people together",
       "room": "Potomac C",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -383,7 +383,7 @@
         "affiliation": "Centre for Marine Applied Research",
         "url": {
           "webpage": null,
-          "twitter": null,
+          "twitter": "https://twitter.com/Dr_DDempsey",
           "github": "https://github.com/dempsey-CMAR",
           "linkedin": "https://www.linkedin.com/in/danielledempsey/",
           "affiliation": "https://cmar.ca/"
@@ -411,16 +411,16 @@
       "materials_url": null,
       "abstract": "<p>California Integrated Travel Project’s mission is to make transit across\nCalifornia simpler and more affordable. As part of this, we created an open\nsource data warehouse to allow easy analysis of the travel data people often\ninteract with every day.<\/p>\n<p>In this talk we’ll discuss two big challenges we faced:<\/p>\n<p>Creating tidy representations of daily schedules and payments data across 200\ntransit agencies. Enabling people with a range of backgrounds (R, SQL, and\npython) and experience to quickly analyze the data.<\/p>\n<p>Tidy data allowed us to turn equal focus on agencies running a single bus, and\nthose serving entire metropolitan areas.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:50:00ZEDT",
-      "end": "2022-07-28T14:10:00ZEDT"
+      "start": "2022-07-28T17:50:00ZUTC",
+      "end": "2022-07-28T18:10:00ZUTC"
     },
     "session": {
       "slug": "bringing-people-together",
       "title": "Cat herding: solving big problems by bringing people together",
       "room": "Potomac C",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -455,16 +455,16 @@
       "materials_url": null,
       "abstract": "<p>With the Dutch Mortgage Portfolio Management Group we built a client portal for\ntheir customers wanting insights into their mortgage investment portfolio. This\nwas done with a Shiny app that runs in Azure App Service, with plumber APIs\nserving portfolio reports, and embedded power bi reports with clear and easy to\nmaintain dashboards.<\/p>\n<p>Last year we saw a lot of great content on how to combine Tableau with Rstudio\nConnect, in this talk we have answers for the Power BI users. An interesting\nexample of combining self-service BI with serious data science.<\/p>\n<p>When Microsoft itself mentions\n<a href=\"https://www.youtube.com/watch?v=07j22d4B_hA&amp;t=3517s\">&quot;we did not know how to do this<\/a>,\nyou know you have an interesting topic for rstudio::conf.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:40:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:40:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "session": {
       "slug": "business-intelligence",
       "title": "Business intelligence",
       "room": "Potomac C",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "speakers": [
       {
@@ -512,16 +512,16 @@
       "materials_url": null,
       "abstract": "<p>Users often want access to more advanced analytic capabilities in their Tableau\ndashboards. Together we will walk through an example that highlights how new\nopen-source packages enable R, Python, Tableau, and RStudio Connect to work\ntogether to enhance business intelligence and deliver real-time insight.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:20:00ZEDT",
-      "end": "2022-07-27T11:40:00ZEDT"
+      "start": "2022-07-27T15:20:00ZUTC",
+      "end": "2022-07-27T15:40:00ZUTC"
     },
     "session": {
       "slug": "business-intelligence",
       "title": "Business intelligence",
       "room": "Potomac C",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "speakers": [
       {
@@ -555,16 +555,16 @@
       "materials_url": null,
       "abstract": "<p>Power BI is a multi-faceted business intelligence tool with built-in data\ningestion, transformation, and visualization features. The learning curve\nfor Power BI can be steep for many, but fortunately, R users can shorten the\nlearning curve by leveraging the Tidyverse. In this talk, attendees will get\nintroduced to how the Tidyverse can shorten the Power BI learning curve and\nenable them to perform tasks in Power BI that are not possible using its native\nfunctionality.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T11:20:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T15:20:00ZUTC"
     },
     "session": {
       "slug": "business-intelligence",
       "title": "Business intelligence",
       "room": "Potomac C",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "speakers": [
       {
@@ -601,16 +601,16 @@
       "materials_url": "https://github.com/zkamvar/rstudio-conf-2022",
       "abstract": "<p>The Carpentries is a global community of volunteers who collaboratively develop\nand deliver lessons to build capacity in data and coding skills to researchers\nworldwide. In the recent redesign of our lesson infrastructure (serving &gt;100\nlessons, used daily by &gt;5K learners), we replaced embedded Jekyll templates\nwith a workbench of modular and accessible packages using R and Pandoc. By\nleveraging renv and knitr for R-based lessons, we provide a seamless and\ncollaborative lesson development experience that maximizes reproducibility and\nminimizes frustration so authors can focus on the contents, not the tooling.\nWe demonstrate how anyone can use our infrastructure to build customised and\naccessible sites for their own lessons or tutorials.<\/p>\n<p>Talk materials are available at <a href=\"https://github.com/zkamvar/rstudio-conf-2022\" target=\"_blank\">https://github.com/zkamvar/rstudio-conf-2022<\/a>.",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:50:00ZEDT",
-      "end": "2022-07-28T14:10:00ZEDT"
+      "start": "2022-07-28T17:50:00ZUTC",
+      "end": "2022-07-28T18:10:00ZUTC"
     },
     "session": {
       "slug": "communities-of-practice",
       "title": "It takes a village: building communities of practice",
       "room": "Cherry Blossom",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -645,16 +645,16 @@
       "materials_url": null,
       "abstract": "<p>In community conversations at the Data Science Hangout, we’ve talked about\nmisalignment between what recruiters are looking for and who is actually a great\nfit for a role. At one point, people started sharing their own degrees in the\nchat: sociology, political science, finance, psychology, no degree, etc.<\/p>\n<p>What makes us good at our jobs is so much more than the degree that we have.<\/p>\n<p>I’m not a data scientist. When I think about my own role though, much of my\nintuition comes from growing up in a restaurant and watching my mom create a\ncommunity among customers.<\/p>\n<p>This talk will share a few community building tips to get you started and\nperhaps a little inspiration to consider the other skills that qualify you for\nwhat you want to do.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T14:10:00ZEDT",
-      "end": "2022-07-28T14:30:00ZEDT"
+      "start": "2022-07-28T18:10:00ZUTC",
+      "end": "2022-07-28T18:30:00ZUTC"
     },
     "session": {
       "slug": "communities-of-practice",
       "title": "It takes a village: building communities of practice",
       "room": "Cherry Blossom",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -690,16 +690,16 @@
       "materials_url": null,
       "abstract": "<p>Data suggests that less than 3% of data scientists are women of color. My\njourney and that of many other women who fall at the intersection of being\nunderrepresented in this field is one that is often filled with pitfalls and\ncurves that can result in continued exclusion in these spaces. My journey as a\nhistorically excluded double minority in STEM is one of triumph, but not without\nthe community educational tools, online platforms and genuinely inclusive\nmembers of the R Studio and open science communities. My work explores how we\ncan build on these tools and further propel the use of open science as a tool\nfor equity and diversity in STEM, now more than ever.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T13:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T17:50:00ZUTC"
     },
     "session": {
       "slug": "communities-of-practice",
       "title": "It takes a village: building communities of practice",
       "room": "Cherry Blossom",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -735,16 +735,16 @@
       "materials_url": null,
       "abstract": "<p>In this presentation, I will share my experiences at the intersection of the\nR and Kaggle communities. As Kaggle's first Notebooks Grandmaster, I will talk\nabout how R users can contribute and thrive in an increasingly Python dominated\ncommunity. A strong focus will be on the art of building insightful and engaging\nKaggle notebooks and exploratory data analyses in general. I will share my\nlessons from running a weekly series aimed at promoting underrated Kaggle\nnotebooks and their authors. And I will talk about organising a Kaggle insights\ncompetition aimed at exploring this dataset of 100 episodes, and what it taught\nme about community dynamics, different approaches to exploratory challenges, and\nthe creativity of the participants.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T14:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T18:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "session": {
       "slug": "communities-of-practice",
       "title": "It takes a village: building communities of practice",
       "room": "Cherry Blossom",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -779,16 +779,16 @@
       "materials_url": null,
       "abstract": "<p>No matter the requirements of the project, data are rarely ready for analysis\nwithout some intervention up front, often described as cleaning or tidying up\nyour data. Researchers and data professionals employ many tools to make their\ndata usable for their needs; but, there exist data that are so far beneath the\nthreshold for usefulness that they cannot be used responsibly for analysis or\ndecision-making, i.e. “bad data.” This talk proposes a framework for identifying\nbad data, with examples from both academic and industry; identifies challenges\nyou might face from stakeholders when you identify bad data; and suggests\nconcrete steps you can take to overcome those challenges now and in the future.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:50:00ZEDT",
-      "end": "2022-07-27T14:10:00ZEDT"
+      "start": "2022-07-27T17:50:00ZUTC",
+      "end": "2022-07-27T18:10:00ZUTC"
     },
     "session": {
       "slug": "data-quality",
       "title": "Generating high quality data",
       "room": "National Harbor 10+11",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -823,16 +823,16 @@
       "materials_url": null,
       "abstract": "<p>When people first learn about R’s capabilities to create fully integrated\nsystems, automated visuals, and seamless data pipelines, the reaction can span\nfrom disbelief to amazement. R’s expansive capabilities can leave some feeling\noverwhelmed when tasked with larger projects like data pipelines. This talk\ninvites the participant to hear the perspective of a self-taught R user who used\ncuriosity and patience to create a functional data pipeline in R for a local\nhealth department. Specifically, this talk will touch on the following concepts:<\/p>\n<ul>\n<li>Surveying Data Landscapes<\/li>\n<li>File Structures<\/li>\n<li>Saving Yourself with Data Validation<\/li>\n<li>Modularizing Code and Connecting R Scripts<\/li>\n<li>Thinking about Pipeline Sustainability<\/li>\n<li>Remaining Calm in Unfamiliar R Territories<\/li>\n<\/ul>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T13:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T17:50:00ZUTC"
     },
     "session": {
       "slug": "data-quality",
       "title": "Generating high quality data",
       "room": "National Harbor 10+11",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -867,16 +867,16 @@
       "materials_url": "https://github.com/tanho63/project_immortality_with_github/",
       "abstract": "<p>If you've invested a lot of time and energy on a data science project, you might be\nready to move on to new and exciting things. Don't let your old projects wither away\nand die! There are some powerful and free resources from GitHub that you can leverage\nto help pay it forward to the next person looking to use your work.<\/p>\n<p>In this talk, I'll showcase how you can transform ordinary R scripts into self-sufficient,\nrobust projects by converting your code into a package, adding some GitHub Actions, and\nstoring data into GitHub Releases. This will help your projects more useful - now and long\nafter you've stopped working on the project!<\/p>\n<p>Talk materials are available at <a href=\"https://github.com/tanho63/project_immortality_with_github/\" target=\"_blank\">https://github.com/tanho63/project_immortality_with_github/<\/a>.",
       "day": "2022-07-27",
-      "start": "2022-07-27T14:10:00ZEDT",
-      "end": "2022-07-27T14:30:00ZEDT"
+      "start": "2022-07-27T18:10:00ZUTC",
+      "end": "2022-07-27T18:30:00ZUTC"
     },
     "session": {
       "slug": "data-quality",
       "title": "Generating high quality data",
       "room": "National Harbor 10+11",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -911,16 +911,16 @@
       "materials_url": null,
       "abstract": "<p>R is more than just a tool for data analysis– it can help streamline and\nautomate processes, including managing and monitoring data pipelines. This\npresentation highlights how R Markdown, RStudio Connect, and R Shiny can be\nutilized to automate data processing, error logging, and process monitoring. By\nthe end of the presentation, attendees will better understand: (1) how RStudio\nConnect paired with R Markdown can be used to automate data processing, (2) that\npackages such as blastula and loggit can be used within R Markdown documents\nscheduled on RStudio Connect to email users when an error is encountered during\ndata processing and log those errors, and (3) that the resulting logs can be fed\nto a Shiny app to enhance process monitoring.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T14:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T18:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "session": {
       "slug": "data-quality",
       "title": "Generating high quality data",
       "room": "National Harbor 10+11",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -969,16 +969,16 @@
       "materials_url": null,
       "abstract": "<p>I will share how we published an R Shiny application to AWS, the decisions we\nmade, and what we learned in the process.<\/p>\n<p>One challenge we faced was figuring out how we could develop collaboratively. We\nneeded to define our development workflow, including version control, dependency\nmanagement, and quality assurance.<\/p>\n<p>Then, we needed to define the deployment method. R Studio is great for\ndevelopment, but it may hide many of the aspects that break the application. We\nused CI/CD workflows as much as possible to make sure our code was robust before\npushing the changes to production.<\/p>\n<p>Lastly, our infrastructure team designed a framework that is replicable, so we\nare ready to deploy new R Shiny applications quickly and focus on data analysis.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T14:10:00ZEDT",
-      "end": "2022-07-27T14:30:00ZEDT"
+      "start": "2022-07-27T18:10:00ZUTC",
+      "end": "2022-07-27T18:30:00ZUTC"
     },
     "session": {
       "slug": "data-science-in-production",
       "title": "Data science in production",
       "room": "Potomac D",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -1013,16 +1013,16 @@
       "materials_url": null,
       "abstract": "<p>Benjy Braun, Chief Architect for 202 Group, shows why he and the 202 Group\nteam decided to use RStudio Connect to build customer facing applications and secure websites while focusing on\ndata science and not having to worry about hiring for—or learning—a bunch of web\ntools like JavaScript and php. With well organized git repos and Rmarkdown,\nyou can build websites for customers with embedded shiny apps and dynamic\nvisualizations and publish and deploy them using RStudio Connect. Using this\nmethod, you won’t confine your analysis to static documents like PowerPoint\nand pdfs and your customers will always see the latest and most up do date\ninformation. The tools are out there to do this and it’s easy to start and\niterate with more features overtime.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:50:00ZEDT",
-      "end": "2022-07-27T14:10:00ZEDT"
+      "start": "2022-07-27T17:50:00ZUTC",
+      "end": "2022-07-27T18:10:00ZUTC"
     },
     "session": {
       "slug": "data-science-in-production",
       "title": "Data science in production",
       "room": "Potomac D",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -1057,16 +1057,16 @@
       "materials_url": null,
       "abstract": "<p>This summer the RStudio Connect team will announce a feature which has been over\ntwo years in the making: “Remote” off-host content execution with launcher in\nKubernetes.<\/p>\n<p>We have been quietly beta testing the Launcher feature with select partners and\ncustomers for several months while we prepare for the public announcement.<\/p>\n<p>This talk will highlight why someone might want to use this new execution\nmode with Connect, show just how seamless it is to get everything configured\nin a fresh environment on EKS, and finally set some critical context for what\npublishers and administrators should expect by addressing the anticipated FAQs.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T13:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T17:50:00ZUTC"
     },
     "session": {
       "slug": "data-science-in-production",
       "title": "Data science in production",
       "room": "Potomac D",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -1101,16 +1101,16 @@
       "materials_url": null,
       "abstract": "<p>R is often maligned as a poor fit for production deployment systems. At dv01 we\ndeploy Plumber API that serves machine learning models to Tape Cracker, a client\nfacing web application. With R in production we use the same codebase throughout\nthe data science pipeline, saving time and resources while reducing the chance\nfor bugs in the hand-off. To accomplish this we use industry standard continuous\nintegration and deployment tools to deploy our API to compute clusters in the\ncloud. Our pipeline progresses stepwise through staging, release and production\nenvironments. Automated integration testing at each step enables a robust and\nreliable deployment. In this talk R users will learn strategies to deploy R code\nin production environments.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T14:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T18:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "session": {
       "slug": "data-science-in-production",
       "title": "Data science in production",
       "room": "Potomac D",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -1146,16 +1146,16 @@
       "materials_url": null,
       "abstract": "<p>The first step of any data analysis is importing data, but for tables in a\ndatabase this can be a surprisingly challenging step that takes analysts out\nof their workflow. The dbcooper package turns a database connection into a\ncollection of accessor functions, letting users take advantage of autocomplete\nas they browse a database in the same ways they would engage with local tables.\nI'll walk through how dbcooper can be used to build a database-specific package,\nwhether for an organization's internal use or to wrap a public data source. The\ndbcooper package supports both R (built on top of dbplyr) and Python (built on\ntop of siuba), and in either language makes it easy and intuitive to extract\ninsights from a database.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T16:00:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T20:00:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "session": {
       "slug": "databases",
       "title": "Databases",
       "room": "National Harbor 10+11",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -1190,16 +1190,16 @@
       "materials_url": null,
       "abstract": "<p>dm bridges the gap in the data pipeline between standalone data frames and\nrelational databases. Implementing a &quot;grammar of joined tables&quot;, it provides a\nconsistent set of verbs for consuming, creating, and deploying relational data\nmodels. In this talk I present a short overview of how dm can help your data\nanalysis and ETL processes, and highlight recent developments.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:40:00ZEDT",
-      "end": "2022-07-27T16:00:00ZEDT"
+      "start": "2022-07-27T19:40:00ZUTC",
+      "end": "2022-07-27T20:00:00ZUTC"
     },
     "session": {
       "slug": "databases",
       "title": "Databases",
       "room": "National Harbor 10+11",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -1234,16 +1234,16 @@
       "materials_url": null,
       "abstract": "<p>If you find yourself waiting hours for your queries to run, this talk is for you.\nLearn from my query mistakes and avoid crashing your database.<br />\nIn this talk, you'll learn about minor code changes that can dramatically improve query run time.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T15:40:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T19:40:00ZUTC"
     },
     "session": {
       "slug": "databases",
       "title": "Databases",
       "room": "National Harbor 10+11",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -1277,16 +1277,16 @@
       "materials_url": null,
       "abstract": "<p>Have you ever had so much fun building a data visualization that it felt like\na thrill ride? What if your dataviz actually WAS a thrill ride—a 3D virtual\nreality rollercoaster through your dataset? In this talk, I’ll show you how\nto create incredibly engaging and informative 3D visualizations in R, and\ndemonstrate what makes a good 3D dataviz. Using the rayrender package, you’ll\nsee how you can interactively fly through 3D scenes in real-time, without ever\nleaving RStudio. Learn how you can use code to create 3D structures, plot data,\nand even make generative art: visualizing everything from the smallest molecule\nto the vast reaches of space, in only a few lines of code.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:40:00ZEDT",
-      "end": "2022-07-28T16:00:00ZEDT"
+      "start": "2022-07-28T19:40:00ZUTC",
+      "end": "2022-07-28T20:00:00ZUTC"
     },
     "session": {
       "slug": "delightful-uses",
       "title": "Eye candy: surprising and delightful uses of R",
       "room": "Cherry Blossom",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -1321,16 +1321,16 @@
       "materials_url": null,
       "abstract": "<p>In this talk I want to discuss my R port of the 1991 action adventure game\n&quot;Another World&quot;.<\/p>\n<p>The porting of this game is a 'moonshot' project as I try to discover/write the\ntechniques/tools needed for realtime (&gt;20fps) interactive (keyboard + mouse)\nrendering to R graphics devices. A further constraint is that I want all this to\nbe done in plain R - avoiding any C or javascript as much as possible.<\/p>\n<p>I will discuss the many challenges I faced: event programming, graphics device\nspeed, sound rendering, virtual machine implementation, translation of C to R,\netc.<\/p>\n<p>I will also highlight some of the changes needed to the R graphics device\nframework to help make realtime interactive applications more common and easier\nto develop.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T16:00:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T20:00:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "session": {
       "slug": "delightful-uses",
       "title": "Eye candy: surprising and delightful uses of R",
       "room": "Cherry Blossom",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -1364,16 +1364,16 @@
       "materials_url": "https://github.com/awalsh17/quiltR",
       "abstract": "<p>When someone asks about essential skills for data careers, I often hear\nresponses like R, Python, and machine learning. However, I argue that creativity\nis an underrated skill that you can and should practice. In this talk, I want\nto tell you a story about a project I did to stretch my creative brain and use\nmy favorite tool, R. I designed a quilt in R using generative art ideas. Then\nI created individual blocks that make up the larger design. I used foundation\npaper piecing, a method that allows for intricate designs but has geometrical\nconstraints. I hope my talk will entertain and inspire folks to exercise their\ncreative muscles to improve their performance and enjoyment of their day jobs.<\/p>\n<p>Talk materials are available at <a href=\"https://github.com/awalsh17/quiltR\" target=\"_blank\">https://github.com/awalsh17/quiltR<\/a>.",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T15:40:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T19:40:00ZUTC"
     },
     "session": {
       "slug": "delightful-uses",
       "title": "Eye candy: surprising and delightful uses of R",
       "room": "Cherry Blossom",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -1406,16 +1406,16 @@
       "materials_url": null,
       "abstract": "<p>The <a href=\"https://www.tidymodels.org\">tidymodels framework<\/a> is a collection of R\npackages for modeling and machine learning using tidyverse principles. Whether\nyou are just starting out today or have years of experience with ML, tidymodels\noffers a consistent, flexible framework for your work. In this talk, learn how\ntidymodels has been designed to promote <strong>ergonomic<\/strong>, <strong>effective<\/strong>, and\n<strong>safe<\/strong> modeling practice. We will discuss how to think about the steps of\nbuilding a model from beginning to end, how to fluently use different modeling\nand feature engineering approaches, how to avoid common pitfalls of modeling\nlike overfitting and data leakage, and how to version and deploy reliable models\ntrained in R.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T09:00:00ZEDT",
-      "end": "2022-07-27T10:30:00ZEDT"
+      "start": "2022-07-27T13:00:00ZUTC",
+      "end": "2022-07-27T14:30:00ZUTC"
     },
     "session": {
       "slug": "applied-machine-learning",
       "title": "Keynote: Good practices for applied machine learning - from model development to model deployment",
       "room": "Potomac A+B",
       "day": "2022-07-27",
-      "start": "2022-07-27T09:00:00ZEDT",
-      "end": "2022-07-27T10:30:00ZEDT"
+      "start": "2022-07-27T13:00:00ZUTC",
+      "end": "2022-07-27T14:30:00ZUTC"
     },
     "speakers": [
       {
@@ -1464,16 +1464,16 @@
       "materials_url": null,
       "abstract": "<p>What is Quarto? In this talk, in four acts, we will discuss how Quarto unifies and extends the R Markdown ecosystem. Through our work with NASA Openscapes, Duke University, and RStudio, we will share our experiences sharing, teaching, collaborating, and reimagining with Quarto. Full of demos with Quarto in RStudio and Jupyter and weaving together narrative and code, this talk will help you get the most out of Quarto regardless of your background with R Markdown, the computing language(s) you may use, and your tool of choice for authoring.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T09:00:00ZEDT",
-      "end": "2022-07-28T10:00:00ZEDT"
+      "start": "2022-07-28T13:00:00ZUTC",
+      "end": "2022-07-28T14:00:00ZUTC"
     },
     "session": {
       "slug": "collaborate-with-quarto",
       "title": "Keynote: Hello Quarto: Share • Collaborate • Teach • Reimagine",
       "room": "Potomac A+B",
       "day": "2022-07-28",
-      "start": "2022-07-28T09:00:00ZEDT",
-      "end": "2022-07-28T10:00:00ZEDT"
+      "start": "2022-07-28T13:00:00ZUTC",
+      "end": "2022-07-28T14:00:00ZUTC"
     },
     "speakers": [
       {
@@ -1522,16 +1522,16 @@
       "materials_url": null,
       "abstract": "<p>I'm so excited to be back with the data science community at rstudio::conf!\nData science is a field that touches nearly every part of our modern lives - from the shows we watch, to our jobs, to the economy, to sports and entertainment.\nMoreover, modern technologies like cloud computing and access to increasing volumes of data have opened the door to incredible new opportunities for those with data skill.\n<a href=\"https://rladies.org/\">RLadies<\/a>, <a href=\"https://bioconductor.org/\">Bioconductor<\/a>, <a href=\"https://datacarpentry.org/\">Data Carpentry<\/a>, and <a href=\"https://rstudio.com\">RStudio<\/a> have also done an incredible job of creating a supportive community for these new data scientists to flourish.\nBut not everyone gets equal access to the training that can pull them into this field.<\/p>\n<p>In this talk I will describe a collaborative effort to build <a href=\"https://www.datatrail.org/\">DataTrail<\/a> - a data science program created in partnership with local non-profits in Baltimore that seeks to spread awareness, knowledge, and opportunities into historically under-resourced and under-served communities.\nI will highlight the incredible work of the partners who made this training program possible, show examples of the achievements of DataTrail participants, discuss successes and challenges with the program, and talk about the rewards of being a part of community-based data science education.\nFinally, I will highlight opportunities to be a part of our DataTrail community or build a new DataTrail in yours.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T16:30:00ZEDT",
-      "end": "2022-07-28T17:30:00ZEDT"
+      "start": "2022-07-28T20:30:00ZUTC",
+      "end": "2022-07-28T21:30:00ZUTC"
     },
     "session": {
       "slug": "data-science-training",
       "title": "Keynote: Data science training in communities with limited technology resources and opportunities",
       "room": "Potomac A+B",
       "day": "2022-07-28",
-      "start": "2022-07-28T16:30:00ZEDT",
-      "end": "2022-07-28T17:30:00ZEDT"
+      "start": "2022-07-28T20:30:00ZUTC",
+      "end": "2022-07-28T21:30:00ZUTC"
     },
     "speakers": [
       {
@@ -1565,16 +1565,16 @@
       "materials_url": null,
       "abstract": "<p><a href=\"https://shiny.rstudio.com\">Shiny<\/a> is a package that makes it easy to create\ninteractive web apps using R. It's hard to believe, but it's been ten whole\nyears since the launch of Shiny! I'll mark the occasion by sharing some stories\nabout the creation of Shiny, the conditions that have made it a success over the\nyears, and our plans for the near future.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T16:30:00ZEDT",
-      "end": "2022-07-27T17:30:00ZEDT"
+      "start": "2022-07-27T20:30:00ZUTC",
+      "end": "2022-07-27T21:30:00ZUTC"
     },
     "session": {
       "slug": "past-future-shiny",
       "title": "Keynote: The Past and Future of Shiny",
       "room": "Potomac A+B",
       "day": "2022-07-27",
-      "start": "2022-07-27T16:30:00ZEDT",
-      "end": "2022-07-27T17:30:00ZEDT"
+      "start": "2022-07-27T20:30:00ZUTC",
+      "end": "2022-07-27T21:30:00ZUTC"
     },
     "speakers": [
       {
@@ -1609,16 +1609,16 @@
       "materials_url": null,
       "abstract": "<p>The ‘arrow’ R package and wider Apache Arrow ecosystem provide an end-to-\nend solution for querying and computing on in-memory and bigger-than-memory\ndata sets using the Apache Arrow C++ library. In this talk we introduce the\n‘geoarrow’ package, which extends Arrow to provide efficient columnar storage\nfor spatial types and functions to support spatial queries in the Arrow compute\nengine. We focus on a workflow where (1) data are stored in multiple files\nthat can be hosted remotely (e.g., on S3-compatible storage), (2) queries are\nprocessed batchwise and in parallel allowing for efficient processing of bigger-\nthan-memory geospatial data and (3) results can be passed without copying to\nRust, Python, or other R packages for further analysis.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:50:00ZEDT",
-      "end": "2022-07-28T10:55:00ZEDT"
+      "start": "2022-07-28T14:50:00ZUTC",
+      "end": "2022-07-28T14:55:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -1653,16 +1653,16 @@
       "materials_url": null,
       "abstract": "<p>Even when we run the simplest of R scripts, we are using dozens of R packages.\nWe use packages for data cleaning, writing reports, graphics and modelling. One\nof the strengths of R, is the depth of packages.<\/p>\n<p>Unfortunately, packages change and break our code. Not all R packages have NEWS\nfile, and even those that do, it might not be complete.<\/p>\n<p>The diffify service aims to make comparing between package versions easier.\nFor example, is there a new Import? Or perhaps a package has been removed from\nSuggests? Maybe the arguments of a function have changed? Or a function is no\nlonger exported. Diffify can help.<\/p>\n<p>NB: We have completed the back-end infrastructure, and are currently working on\nthe front-end. Expected launch: ~May 1st<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:30:00ZEDT",
-      "end": "2022-07-28T11:35:00ZEDT"
+      "start": "2022-07-28T15:30:00ZUTC",
+      "end": "2022-07-28T15:35:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -1697,16 +1697,16 @@
       "materials_url": null,
       "abstract": "<p>R has come quite a long way to enable spatial analysis over the past few years.\nPackages such as sf have made spatial analysis and mapping easier for many.\nHowever, adoption of R for spatial statistics and econometrics has been limited.\nMany spatial analysts, researchers, and practitioners lean on Python libraries\nsuch as pysal.<\/p>\n<p>In this talk I briefly discuss my journey through spatial analysis and introduce\na new package sfdep which provides a tidy interface to spatial statistics and\nnoteably exploratory spatial data analysis. sfdep is an interface to the spdep\npackage as well as implements other common exploratory spatial statistics.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T10:35:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T14:35:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -1739,16 +1739,16 @@
       "materials_url": null,
       "abstract": "<p>If you do data analysis, you encounter missing data. Missing data upsets data\nanalysis workflow because you have to make decisions on how to deal with it -\ndo you impute the values? Remove them? These each have consequences! The data we\noften encounter does not always arrive with a research question in mind, so how\ndo you understand why you have missing values? When I first encountered missing\ndata I was incredibly frustrated at how hard it was to understand and explore\nit. This frustration led me to create two R packages to explore missing data,\n{naniar} and {visdat}. In this talk I will showcase how to use these tools to\nexplore missing data, as well as new features that have not been presented, and\nplanned advances.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:40:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T15:40:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -1783,16 +1783,16 @@
       "materials_url": null,
       "abstract": "<p>This talk reports on a head-to-head comparison of the formula and tidyverse\nsyntaxes in a full semester introductory statistics course, providing data to\nhelp guide other instructors in their pedagogical decision-making. The formula\nversion of the class used the mosaic package for summary statistics, ggformula\nfor graphics, and base functions such as t.test for inference. The tidyverse\nsection used base functions inside summarize() calls for summary statistics,\nggplot2 for graphics, and functions such as infer::t_test for inference.\nAnalysis of materials allows us to determine the number of functions students\nwere exposed to in each section, which functions they actually used, and how\nmuch time they spent on their assignments in each class.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:25:00ZEDT",
-      "end": "2022-07-28T11:30:00ZEDT"
+      "start": "2022-07-28T15:25:00ZUTC",
+      "end": "2022-07-28T15:30:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -1826,16 +1826,16 @@
       "materials_url": "https://speakerdeck.com/davisvaughan/2022-rstudio-conf-its-about-time",
       "abstract": "<p>Dealing with date-times is hard. Dealing with date-times without the proper\ntooling is even harder! clock is an R package that aims to provide comprehensive\nand safe handling of date-times. It goes beyond the date and date-time types\nthat base R provides, implementing new types for year-month, year-quarter, ISO\nyear-week, and many other date-like formats, all with up to nanosecond\nprecision. In this talk, you'll see how clock emphasizes &quot;safety first&quot; when\nmanipulating date-times, and how these new date-time types can be used in your\nown work.<\/p>\n<p>Talk materials are available at <a href=\"https://speakerdeck.com/davisvaughan/2022-rstudio-conf-its-about-time\" target=\"_blank\">https://speakerdeck.com/davisvaughan/2022-rstudio-conf-its-about-time<\/a>.",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:40:00ZEDT",
-      "end": "2022-07-28T10:45:00ZEDT"
+      "start": "2022-07-28T14:40:00ZUTC",
+      "end": "2022-07-28T14:45:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -1869,16 +1869,16 @@
       "materials_url": null,
       "abstract": "<p>Interactive maps are indispensable tools for exploring spatial datasets\nbecause of their real-world context and intuitiveness. For a comprehensive\nunderstanding of the data, it is often necessary to switch between\nseveral map layers (such as states and counties) and to analyze multiple\nvariables simultaneously - both of which are challenging. In this talk,\nI will show how we can overcome these challenges using the\nleafdown package, which allows us to create multi-layer maps embedded\nin Shiny apps.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:10:00ZEDT",
-      "end": "2022-07-28T11:15:00ZEDT"
+      "start": "2022-07-28T15:10:00ZUTC",
+      "end": "2022-07-28T15:15:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -1913,16 +1913,16 @@
       "materials_url": null,
       "abstract": "<p>As shiny developers, we spend a lot of time working on the server side, and\nless time on the UI/UX part. According to the Engineering Production-Grade Shiny\nApps book by the ThinkR team, no matter how complex and innovative your back-\nend is, your application is bad if your user experience (UX) is bad. People\nspend more time on the internet from their mobile phones, so it is important to\nensure that our shiny apps are mobile responsive. At the beginning of this year,\nI was tasked with creating a mobile version of an already made shiny app in the\nshortest time possible. In this talk, as much as this work is tied to an NDA, I\nwill highlight a few css tricks that I used to achieve this.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:45:00ZEDT",
-      "end": "2022-07-28T10:50:00ZEDT"
+      "start": "2022-07-28T14:45:00ZUTC",
+      "end": "2022-07-28T14:50:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -1955,16 +1955,16 @@
       "materials_url": null,
       "abstract": "<p>Attendees will recieve a broad overview of the encoding and decoding process\nin the human-to-computer loop, how bits are used, and the math that gets us\nto common bit values. A brief history of ASCII, Latin-1, and UTF-8 will be\nprovided as well.<\/p>\n<p>Attendees will also be exposed to how character encoding works in R and in\nthe tidyverse.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:20:00ZEDT",
-      "end": "2022-07-28T11:25:00ZEDT"
+      "start": "2022-07-28T15:20:00ZUTC",
+      "end": "2022-07-28T15:25:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -1999,16 +1999,16 @@
       "materials_url": "https://beatrizmilz.github.io/rstudioconf2022/",
       "abstract": "<p>This talk is an introduction to GitHub Actions (GHA), which is a feature\nfrom GitHub that allows us to automate several tasks in R. In this\npresentation, I aim to answer these questions: &quot;What is GitHub Actions?\nHow can I run R Scripts with it?&quot;. I will list supplementary materials that\nare helpful to learn how to start automating tasks in R projects and packages.<\/p>\n<p>Talk materials are available at <a href=\"https://beatrizmilz.github.io/rstudioconf2022/\" target=\"_blank\">https://beatrizmilz.github.io/rstudioconf2022/<\/a>.",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:00:00ZEDT",
-      "end": "2022-07-28T11:05:00ZEDT"
+      "start": "2022-07-28T15:00:00ZUTC",
+      "end": "2022-07-28T15:05:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -2044,16 +2044,16 @@
       "materials_url": "https://nrennie.rbind.io/talks/2022-july-rstudio-conf/",
       "abstract": "<p>Multilingual shiny apps are not straightforward to build. Translation affects\nalmost every single aspect of an app. Although there are a few packages designed\nto automate the translation process, they tend to only work for the most widely\nspoken languages.<\/p>\n<p>Using a bilingual English-Welsh shiny app we developed to present public health\ndata as a case study, this talk will discuss:<\/p>\n<ul>\n<li>how we built a multilingual shiny app;<\/li>\n<li>how translation affected design decisions;<\/li>\n<li>how we overcame the main issues faced;<\/li>\n<li>and most importantly, what we'd do differently next time.<\/li>\n<\/ul>\n<p>By the end of this talk, you will have a better understanding of how to\ntranslate your Shiny app to help you to share your app with a much wider\naudience.<\/p>\n<p>Talk materials are available at <a href=\"https://nrennie.rbind.io/talks/2022-july-rstudio-conf/\" target=\"_blank\">https://nrennie.rbind.io/talks/2022-july-rstudio-conf/<\/a>.",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:15:00ZEDT",
-      "end": "2022-07-28T11:20:00ZEDT"
+      "start": "2022-07-28T15:15:00ZUTC",
+      "end": "2022-07-28T15:20:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -2087,16 +2087,16 @@
       "materials_url": null,
       "abstract": "<p>Slack is a useful communication tool for communities and businesses. Integrating\nit with Shiny can make it even more useful. I'll show how my {shinyslack}\npackage allows for connections between Shiny apps and Slack teams. I’ll show\nhow users can wrap their existing Shiny UIs to quickly and easily add Slack\nauthentication to their Shiny apps. I'll also demonstrate how we’ve used\n{shinyslack} to manage and streamline the R4DS Online Learning Community, and\nhow other R users might make the most of their Slack workspaces.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:05:00ZEDT",
-      "end": "2022-07-28T11:10:00ZEDT"
+      "start": "2022-07-28T15:05:00ZUTC",
+      "end": "2022-07-28T15:10:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -2131,16 +2131,16 @@
       "materials_url": null,
       "abstract": "<p>I propose a talk on visualizing distributions and uncertainty using {ggdist}.\nI will describe how to think systematically about distributional visualization\nas mappings of PDFs, CDFs, and quantile functions onto aesthetics, and how\nsupport for this enables creative and easy exploration of the space of possible\nuncertainty visualizations. I will highlight features like true gradient support\nin R 4.1, support for distribution vector datatypes, and the automatic binwidth-\nselecting geom_dots(). I expect to leave the audience with: (1) a systemic\nway to think about visualizing distributions and uncertainty in the grammar of\ngraphics and (2) an understanding of how to actually do it using ggdist.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:35:00ZEDT",
-      "end": "2022-07-28T11:40:00ZEDT"
+      "start": "2022-07-28T15:35:00ZUTC",
+      "end": "2022-07-28T15:40:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -2175,16 +2175,16 @@
       "materials_url": null,
       "abstract": "<p>In this talk I introduce webR, a port of R to WebAssembly using Emscripten.\nWebR brings a full R environment to the browser, enabling R code execution,\nnumerical analysis, loading packages and more. No local or cloud-based R\nservers are required as all computation is performed within the browser.\nI give a brief overview of our build process for webR, describing the toolchain\nand some of the issues we encountered. A publicly available web-based R session\nis demonstrated, with package and plotting support.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:35:00ZEDT",
-      "end": "2022-07-28T10:40:00ZEDT"
+      "start": "2022-07-28T14:35:00ZUTC",
+      "end": "2022-07-28T14:40:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -2219,16 +2219,16 @@
       "materials_url": null,
       "abstract": "<p>If you've ever tried to run a workshop using R, you'll be aware of the\nchallenges of getting everyone's laptop set up to able to run your R scripts,\nRmarkdown documents, or Jupyter Notebooks without errors.<\/p>\n<p>What if you could host a workshop using R that required no setup from the\nparticipants at all? With GitHub Codespaces, a GitHub repository becomes a\ncloud-based engine for running R in a container with a single click. Every\nparticipant, regardless of the power, configuration or operating system of their\nlaptop will have the same experience, all with NO setup in advance.<\/p>\n<p>In this talk, I'll describe the process and share tips for setting up a GitHub\nrepository for an R-based workshop to take advantage of GitHub Codespaces.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:55:00ZEDT",
-      "end": "2022-07-28T11:00:00ZEDT"
+      "start": "2022-07-28T14:55:00ZUTC",
+      "end": "2022-07-28T15:00:00ZUTC"
     },
     "session": {
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:45:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:45:00ZUTC"
     },
     "speakers": [
       {
@@ -2265,16 +2265,16 @@
       "materials_url": null,
       "abstract": "<p>Machine learning models, applied in the real world, can have unanticipated,\nharmful side effects. Recommended counter-measures include structured\ndocumentation of models (&quot;Model Cards for Model Reporting&quot;) and training data\nused (&quot;Data Sheets for Datasets&quot;).<\/p>\n<p>In this talk, I'd like to propose a similar, multi-dimensional approach to\nanalyzing the &quot;solution&quot; as a whole - &quot;solution&quot; as in &quot;tech solutionism&quot;, the\ncommon term for technical &quot;fixes&quot; that have unintended, harmful consequences.<\/p>\n<p>The idea here is that, by asking WHAT a solution is doing, WHO is providing\nit and WHY, as well as WHERE and HOW it will be used, we should be able to\nsystematically assess whether we are, in fact, confronted with an instance of\ntech solutionism.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T15:40:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T19:40:00ZUTC"
     },
     "session": {
       "slug": "machine-learning",
       "title": "Machine learning",
       "room": "Potomac D",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -2308,16 +2308,16 @@
       "materials_url": "https://github.com/markjrieke/rstudio-conf-2022",
       "abstract": "<p>Sometimes, we want a model that generates a range of possible outcomes around\neach prediction. Other times, we just care about point predictions and may\nopt to use a fancy model like XGBoost. But what if we want the best of both\nworlds: getting a range of predictions while still using a fancy model? That’s\nwhere bootstrapping comes to the rescue! By using bootstrap resampling, we can\ncreate many models that produce a prediction distribution – regardless of the\nmodel type! In this talk, I’ll give an overview of bootstrap resampling for\nprediction, the pros/cons of this method, and how to implement it as a part of a\ntidymodel workflow with the workboots package.<\/p>\n<p>Talk materials are available at <a href=\"https://github.com/markjrieke/rstudio-conf-2022\" target=\"_blank\">https://github.com/markjrieke/rstudio-conf-2022<\/a>.",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:40:00ZEDT",
-      "end": "2022-07-27T16:00:00ZEDT"
+      "start": "2022-07-27T19:40:00ZUTC",
+      "end": "2022-07-27T20:00:00ZUTC"
     },
     "session": {
       "slug": "machine-learning",
       "title": "Machine learning",
       "room": "Potomac D",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -2351,16 +2351,16 @@
       "materials_url": null,
       "abstract": "<p>Society benefits when leaders make more evidence-based decisions, but growing\nprivacy concerns hamper researchers’ ability to understand and improve the\nworld. Fully synthetic data, pseudo data generated by models, can protect\nconfidentiality and produce statistically valid analysis. This talk shares how\nthe Urban Institute collaborates with the IRS to create fully synthetic tax data\nfor tax policy research. We built an R package called tidysynthesis to create\nmachine learning models for each variable in the data. tidysynthesis leverages\nthe power of tidymodels and allows users to run a sequences of machine learning\nmodels with different recipes, engines, and samplers while adding additional\nnoise and enforcing logical constraints.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T16:00:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T20:00:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "session": {
       "slug": "machine-learning",
       "title": "Machine learning",
       "room": "Potomac D",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -2395,16 +2395,16 @@
       "materials_url": "https://github.com/hannahpodzorski/advocating-for-automation",
       "abstract": "<p>Increasing quantity and types of available data and the need for more advance analyses are outpacing current tools in environmental science. R allows us to efficiently manipulate and analyze complex data; however, taking the first leap from a current workflow to automation can be challenging. This talk will focus on how to advocate for automation in a team with diverse skillsets. We’ll start with examples of small changes that can be made using {officer} and {openxlsx} to meet your team members where they are by presenting results in a manner familiar to them; and finish by presenting a case study of how we used R to automate software from a regulatory agency.<\/p>\n<p>Talk materials are available at <a href=\"https://github.com/hannahpodzorski/advocating-for-automation\" target=\"_blank\">https://github.com/hannahpodzorski/advocating-for-automation<\/a>.",
       "day": "2022-07-27",
-      "start": "2022-07-27T14:10:00ZEDT",
-      "end": "2022-07-27T14:30:00ZEDT"
+      "start": "2022-07-27T18:10:00ZUTC",
+      "end": "2022-07-27T18:30:00ZUTC"
     },
     "session": {
       "slug": "makeovers",
       "title": "Take a sad process and make it better: project and process makeovers",
       "room": "Potomac C",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -2439,16 +2439,16 @@
       "materials_url": null,
       "abstract": "<p>The Belmaker lab fieldwork involves underwater surveys where we document the\nobserved marine species. Historically, Microsoft’s Access was used for data\ninput. But as the number of surveyors increased, a new user-friendly platform\nwas needed to avoid bottlenecks. In this talk, I share my experience of\ndeveloping such a platform for the lab using tidyverse packages. This experience\ndemonstrates the concept of Minimum Viable Products as the use of Google Sheets\nevolved from manually creating the sheets to a single line of code. We encourage\nother researchers to expand their use of R to create a tailor made data\nprocessing workflow - from the data input stage.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T13:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T17:50:00ZUTC"
     },
     "session": {
       "slug": "makeovers",
       "title": "Take a sad process and make it better: project and process makeovers",
       "room": "Potomac C",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -2482,16 +2482,16 @@
       "materials_url": "https://lizroten.com/oddly",
       "abstract": "<p>It happens to us all - a request to &quot;just re-run the code&quot; turns into a project nightmare.\nThe materials left to you are poorly documented and scattered across Word, Excel, ArcGIS,\nand PDF reports. In this talk, I show you how to turn any project into a point of pride.\nUsing a worked example, I provide guidance on how to complete a project intake, find your\nopportunity to shine, and how to work efficiently and reproducibly through thoughtful documentation.\nFinally, I cover how to set up the project for future success.\nLearn how to take the messy project you dread and make it inexplicably satisfying.<\/p>\n<p>Talk materials are available at <a href=\"https://lizroten.com/oddly\" target=\"_blank\">https://lizroten.com/oddly<\/a>.",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:50:00ZEDT",
-      "end": "2022-07-27T14:10:00ZEDT"
+      "start": "2022-07-27T17:50:00ZUTC",
+      "end": "2022-07-27T18:10:00ZUTC"
     },
     "session": {
       "slug": "makeovers",
       "title": "Take a sad process and make it better: project and process makeovers",
       "room": "Potomac C",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -2527,16 +2527,16 @@
       "materials_url": "https://tigertang.org/rst_conf_2022_talk/",
       "abstract": "<p>There are many benefits to using R and no lack of packages that help you solve technical difficulties, but you may still get stuck at selling it to decision-makers or implementing it at work. Tiger's recommendation is to start a project that focuses on automating work with R and gets everyone involved. Once the value of R has been established, selecting RStudio Workbench and RStudio Connect for streamlining tasks would not be a difficult choice.<\/p>\n<p>Several years ago, Tiger's organization moved away from SAS in favor of R for modeling projects, but there wasn’t much initiative taken company-wide to move everything to a new tool. To help change that, he started a work automation project using R that has saved 12K+ hours of manual work.<\/p>\n<p>In this talk, he will share the key parts of the project, lessons learned, and a structure you can follow if you would like to do something similar in your organization.<\/p>\n<p>Talk materials are available at <a href=\"https://tigertang.org/rst_conf_2022_talk/\" target=\"_blank\">https://tigertang.org/rst_conf_2022_talk/<\/a>.",
       "day": "2022-07-27",
-      "start": "2022-07-27T14:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T18:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "session": {
       "slug": "makeovers",
       "title": "Take a sad process and make it better: project and process makeovers",
       "room": "Potomac C",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -2572,16 +2572,16 @@
       "materials_url": "https://github.com/melissavanbussel/rstudio-conf-2022",
       "abstract": "<p>Some of my best friends use Python...and all of my coworkers use SAS.<\/p>\n<p>Statistics Canada is the official statistical agency of Canada and employs\nover 6,000 employees. Statistics Canada has a legal obligation to ensure\nthat personal information collected for statistical purposes is kept strictly\nconfidential. An internal system which prevents the release of confidential\ninformation is only implemented in SAS. As such, many Analysts and Data\nScientists at Statistics Canada must use the SAS programming language as part of\ntheir workflow. It is therefore imperative to find ways to work with open source\nprogramming languages and SAS seamlessly. I will present a method for achieving\na harmonious workflow between R, Python, and SAS, all within RStudio.<\/p>\n<p>Talk materials are available at <a href=\"https://github.com/melissavanbussel/rstudio-conf-2022\" target=\"_blank\">https://github.com/melissavanbussel/rstudio-conf-2022<\/a>.",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:50:00ZEDT",
-      "end": "2022-07-28T11:10:00ZEDT"
+      "start": "2022-07-28T14:50:00ZUTC",
+      "end": "2022-07-28T15:10:00ZUTC"
     },
     "session": {
       "slug": "python",
       "title": "Some of my best friends use Python",
       "room": "Potomac C",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "speakers": [
       {
@@ -2616,16 +2616,16 @@
       "materials_url": null,
       "abstract": "<p>Are you a bilingual data scientist who wants to use Python in RStudio products? Or do you have colleagues who use Python for data science? In this talk, we will present an end to end data science use case including automated jobs, model training and monitoring, APIs, and interactive dashboards, entirely built and deployed in Python with RStudio Pro products.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:10:00ZEDT",
-      "end": "2022-07-28T11:30:00ZEDT"
+      "start": "2022-07-28T15:10:00ZUTC",
+      "end": "2022-07-28T15:30:00ZUTC"
     },
     "session": {
       "slug": "python",
       "title": "Some of my best friends use Python",
       "room": "Potomac C",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "speakers": [
       {
@@ -2675,16 +2675,16 @@
       "materials_url": null,
       "abstract": "<p>Internal packages are great for boosting productivity and promoting good\npractice, but what kinds of challenges do we face when designing solutions\nfor multi-lingual teams? Here I will advocate for a design approach we are\nusing at Bumble to build Python and R packages with the same foundations.\nI will discuss the benefits of this approach for the developer and the\nwider organisation.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T10:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T14:50:00ZUTC"
     },
     "session": {
       "slug": "python",
       "title": "Some of my best friends use Python",
       "room": "Potomac C",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "speakers": [
       {
@@ -2719,16 +2719,16 @@
       "materials_url": null,
       "abstract": "<p>Details to come.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T15:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "session": {
       "slug": "python",
       "title": "Some of my best friends use Python",
       "room": "Potomac C",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "speakers": [
       {
@@ -2763,16 +2763,16 @@
       "materials_url": "https://github.com/fastai/nbdev-demo",
       "abstract": "<p>Jupyter Notebooks play a critical role in in the workflow of many users. Notebooks are used to document existing code, to quickly prototype and iterate on ideas, and as a medium of technical communication. However, package developers typically use an entirely separate set of more traditional development tools, and the context switching between these tools and notebooks can be frustrating. Not only do you lose the ability to iterate fast, but you lose the ability to document and test your code in-situ, requiring you to create documentation and tests separately from source code.<\/p>\n<p><a href=\"https://github.com/fastai/nbdev\">Nbdev<\/a> is a <a href=\"https://en.wikipedia.org/wiki/Literate_programming\">literate programming framework<\/a> that allows you to develop Python libraries within Jupyter Notebooks. In this talk, Hamel will describe the integration between Nbdev amd Quarto, which enables library developers to author their documentation right alongside their code, and automatically produce a Quarto website for their package. The result is a seamless workflow for developing, documenting, and testing software packages all within Jupyter Notebooks, with no context-switching required.<\/p>\n<p>Talk materials are available at <a href=\"https://github.com/fastai/nbdev-demo\" target=\"_blank\">https://github.com/fastai/nbdev-demo<\/a>.",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:40:00ZEDT",
-      "end": "2022-07-28T16:00:00ZEDT"
+      "start": "2022-07-28T19:40:00ZUTC",
+      "end": "2022-07-28T20:00:00ZUTC"
     },
     "session": {
       "slug": "quarto-deep-dive",
       "title": "Quarto deep dive",
       "room": "Potomac C",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -2806,16 +2806,16 @@
       "materials_url": null,
       "abstract": "<p>Quarto is the next generation of RMarkdown, and comes with a new presentation\nformat, revealjs. In this talk, I’ll show a few of my favorite things about\nmaking interactive HTML presentations with Quarto. Along the way you’ll\nlearn about the visual editor, multiple columns, delivering an effective talk\nwith speaker notes and mode, making your presentations pop with transitions,\neffective ways to incorporate code into your presentation, beautiful themes\n(and how to match your corporate style guide), and sharing it as pdf and HTML.\nI’ll finish off with a brief look at generating a powerpoint presentation from a\ntemplate.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T15:40:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T19:40:00ZUTC"
     },
     "session": {
       "slug": "quarto-deep-dive",
       "title": "Quarto deep dive",
       "room": "Potomac C",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -2849,16 +2849,16 @@
       "materials_url": null,
       "abstract": "<p>A number of packages have emerged in the R ecosystem to help create websites\n(hugodown), books (bookdown), and blogs (blogdown). In this talk, I'll show\nyou how Quarto handles creating these types of content and more. Whether you're\na grad student considering your first blog post about R, or a python expert\nabout to write a technical book, I'll show you how Quarto enables you to focus\non content while it takes care of the rest. In addition, I'll show the RStudio\nteam is making it as easy as possible to publish and share content within your\norganization and to the whole community.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T16:00:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T20:00:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "session": {
       "slug": "quarto-deep-dive",
       "title": "Quarto deep dive",
       "room": "Potomac C",
       "day": "2022-07-28",
-      "start": "2022-07-28T15:20:00ZEDT",
-      "end": "2022-07-28T16:20:00ZEDT"
+      "start": "2022-07-28T19:20:00ZUTC",
+      "end": "2022-07-28T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -2894,16 +2894,16 @@
       "materials_url": null,
       "abstract": "<p>Back in 2020, Atorus first released our package Tplyr. The aim of Tplyr was\nto build a reusable framework that makes all the data preparation for clinical\nreporting simple – and takes the hassle out of tedious things like decimal and\nparentheses alignment. But from the beginning, Tplyr was always meant to be\nmore. Tplyr captures metadata about the table being built, and in Tplyr 1.0.0\nwe can leverage that metadata to its full advantage. Tplyr now let’s you dive\nin, and for any result provides the traceability of how that result was derived,\nand the data used to do-so. In our talk, we will explore this new functionality\nbuilt into Tplyr, the mechanics that make it work, and how these new features\nare useful in the clinical world and beyond.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:20:00ZEDT",
-      "end": "2022-07-27T11:40:00ZEDT"
+      "start": "2022-07-27T15:20:00ZUTC",
+      "end": "2022-07-27T15:40:00ZUTC"
     },
     "session": {
       "slug": "r-in-pharma",
       "title": "Drugs not bugs: effective use of R in pharma",
       "room": "Cherry Blossom",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "speakers": [
       {
@@ -2938,16 +2938,16 @@
       "materials_url": null,
       "abstract": "<p>Data Scientists have a unique position to drive change and efficiency within\norganizations workflows. By simplifying workflows to its core expectations,\nwe can design with purpose. Process and software are harmonized to reduce\nrisk and streamline the overall system. At GSK, we are developing capabilities\nand challenging traditional processes. We must do this while still meeting\nregulatory compliance requirements that can be complicated by historical\ninertia. I will talk about how my team is using this approach to develop R\npackages in tandem with process changes that are leading to wins. Attendees of\nmy talk with leave with an understanding of how to do the same.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:40:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:40:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "session": {
       "slug": "r-in-pharma",
       "title": "Drugs not bugs: effective use of R in pharma",
       "room": "Cherry Blossom",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "speakers": [
       {
@@ -2982,16 +2982,16 @@
       "materials_url": null,
       "abstract": "<p>As R users, we make choices daily about what packages to use in our work.\nAfter discovering a package that may suit our needs, we consider its qualities\nand make a judgement about whether to invest in its use. Here at GSK, we are\ncurrently forging a path to using R in regulatory settings, which involves\ncareful curation and assessment of R packages for use on clinical trials\ndata. While this exercise is formalized for those of us in pharma, attendees\nwill learn about how related principles can better inform decisions they make\ntheir own workflows, regardless of industry or experience. They will take away\nspecific qualities that indicate trustworthiness, as well as the importance of\nconsidering the ecosystem as a whole.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T11:20:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T15:20:00ZUTC"
     },
     "session": {
       "slug": "r-in-pharma",
       "title": "Drugs not bugs: effective use of R in pharma",
       "room": "Cherry Blossom",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "speakers": [
       {
@@ -3027,16 +3027,16 @@
       "materials_url": null,
       "abstract": "<p>In January 2021, Alaska residents seeking a COVID-19 vaccine appointment faced\na convoluted maze of websites. The software was made for providers—not for\nresidents.<\/p>\n<p>The Anchorage Innovation Team built a fast, and mobile vaccine finder website\nfor Alaska using R. What started as a web scraping prototype launched statewide\none week later and ultimately connected tens of thousands of Alaskans to a\nvaccine.<\/p>\n<p>This talk will cover how we used R to build Alaska's vaccine finder. Including:<\/p>\n<ul>\n<li>Scraping and http packages (rvest &amp; httr)<\/li>\n<li>Using Heroku and S3 to run R jobs 24/7<\/li>\n<li>Creating a flexible data service with R<\/li>\n<\/ul>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T13:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T17:50:00ZUTC"
     },
     "session": {
       "slug": "rapid-response",
       "title": "Rapidly responding to world events with R",
       "room": "Cherry Blossom",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -3071,16 +3071,16 @@
       "materials_url": null,
       "abstract": "<p>The California Department of Public Health’s (CDPH) COVID-19 response has\nrequired processing and communicating large amounts of data with quick\nturnaround times to inform strategic resource deployment in the state.\nTo achieve this goal, the COVID-19 Data Processing and Informatics Section developed an integrated workflow\nthat includes a combination of tools: Microsoft Azure DevOps, RStudio Workbench, and RStudio\nConnect. Attendees will walk away with an understanding of how these three tools helped\nour team prioritize, collaborate, decrease turnaround time, and scale our efforts\nto deploy and automate mission critical procedures and products.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T14:10:00ZEDT",
-      "end": "2022-07-27T14:30:00ZEDT"
+      "start": "2022-07-27T18:10:00ZUTC",
+      "end": "2022-07-27T18:30:00ZUTC"
     },
     "session": {
       "slug": "rapid-response",
       "title": "Rapidly responding to world events with R",
       "room": "Cherry Blossom",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -3115,16 +3115,16 @@
       "materials_url": null,
       "abstract": "<p>In 2022, African countries need to vaccinate most of their population against\nCOVID-19. With an influx of millions of doses, countries need to plan in near\nreal-time, considering constraints at every step of the supply chain. Our\nShiny app provides a low-cost decision-making tool for the Ministry of Health\nin Côté d’Ivoire. Using lpSolve library, we optimize for factors like eligible\npopulation in catchment area of vaccination sites, types and number of vaccine\ndoses, expiration date of vaccine does, availability of trained healthcare\nstaff, and presence of cold storage facility. The app maximizes number of people\nvaccinated while minimizing vaccine wastage across thousands of vaccination\nsites. (App development will end on May 31)<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T14:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T18:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "session": {
       "slug": "rapid-response",
       "title": "Rapidly responding to world events with R",
       "room": "Cherry Blossom",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -3158,16 +3158,16 @@
       "materials_url": null,
       "abstract": "<p>During the pandemic, epidemiologists have been forced to adapt to the\nunprecedented scale of the data and high cadence of reporting.<\/p>\n<p>At the UK Health Security Agency, we have created a platform for teams to easily\ndeploy R and/or Python tasks onto our High-Performance Computing resources,\nscheduling their execution, and allowing previously unthinkable workloads to\nbe executed with ease. Thanks to Kubernetes, git, Docker, and Airflow, our\nepidemiologists can stop worrying about their laptop's memory and bandwidth, and\nfocus on answering the crucial questions of the pandemic. We'd like to tell you\nhow we did it.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:50:00ZEDT",
-      "end": "2022-07-27T14:10:00ZEDT"
+      "start": "2022-07-27T17:50:00ZUTC",
+      "end": "2022-07-27T18:10:00ZUTC"
     },
     "session": {
       "slug": "rapid-response",
       "title": "Rapidly responding to world events with R",
       "room": "Cherry Blossom",
       "day": "2022-07-27",
-      "start": "2022-07-27T13:30:00ZEDT",
-      "end": "2022-07-27T14:50:00ZEDT"
+      "start": "2022-07-27T17:30:00ZUTC",
+      "end": "2022-07-27T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -3201,16 +3201,16 @@
       "materials_url": null,
       "abstract": "<p>In this talk, I will highlight a few selected new features of the knitr package\nintroduced in the past two years including: 1) the new way to write chunk\noptions as &quot;#|&quot; comments in the chunk body; 2) new ways to reuse both chunk body\nand chunk options from another code chunk; 3) a few useful new engines, namely\n<code>comment<\/code> (comment out arbitrary content), <code>verbatim<\/code> (write arbitrary verbatim\ncontent), <code>embed<\/code> (embed external files and display their content verbatim), and\n<code>exec<\/code> (execute an arbitrary command); and 4) a few new chunk options such as\n<code>file<\/code> (to include external files as the chunk body) and <code>lang<\/code>. Hopefully these\nnew features can help both knitr users and developers make better use of knitr.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T16:00:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T20:00:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "session": {
       "slug": "rmarkdown-quarto",
       "title": "RMarkdown and Quarto",
       "room": "Potomac C",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -3245,16 +3245,16 @@
       "materials_url": null,
       "abstract": "<p>Are you curious about Quarto? Maybe you saw it on Twitter or the RStudio::conf\nagenda. Perhaps this raised questions like: What exactly is Quarto? What about\nRMarkdown? (don’t worry it’s not going away!) What features does Quarto add?\nWhat should I do with my existing Rmd/ipynb files?<\/p>\n<p>This talk will answer all of those questions and more! I’ll present Quarto as\na next-gen version of RMarkdown, compare the similarities, and then discuss the\nnew features in Quarto for publishing documents, presentations, blog posts, lab\nnotebooks and more! Lastly, I’ll cover what this means for our customers using\nRStudio Team, and the exciting new world for Python users.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T15:40:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T19:40:00ZUTC"
     },
     "session": {
       "slug": "rmarkdown-quarto",
       "title": "RMarkdown and Quarto",
       "room": "Potomac C",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -3288,16 +3288,16 @@
       "materials_url": null,
       "abstract": "<p>This talk will trace the evolution of a report from a mostly text free dashboard\ninto a text heavy R markdown report with dynamic text blocks. The report in\nquestion is provided to the largest financial institutions in the U.S., but the\naudience for the data largely is composed of compliance experts and lawyers.<\/p>\n<p>The interface between data products, and people who make decisions is often the\nmost difficult piece in a project. Frequently, what your audience really needs\nis words! This talk will help you recognize when you need more narrative and\nwill provide some helpful technical advice to get you there, including how to\nuse existing word templates and how to use <code>whisker::<\/code> and <code>glue::<\/code> to help you\ndynamically generate text.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:40:00ZEDT",
-      "end": "2022-07-27T16:00:00ZEDT"
+      "start": "2022-07-27T19:40:00ZUTC",
+      "end": "2022-07-27T20:00:00ZUTC"
     },
     "session": {
       "slug": "rmarkdown-quarto",
       "title": "RMarkdown and Quarto",
       "room": "Potomac C",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -3331,16 +3331,16 @@
       "materials_url": null,
       "abstract": "<p>A design system is a set of standards to manage design at scale by reducing\nredundancy while creating a shared language and visual consistency across\ndifferent pages and channels. This talk will go into detail about the history\nof design systems, what components to include when creating a design system, and\nlastly various examples of implementation. By the end of the talk, you should\nhave the tools to create your own design system within Shiny/RMarkdown to be\nused by yourself, your brand, or your company.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T14:10:00ZEDT",
-      "end": "2022-07-28T14:30:00ZEDT"
+      "start": "2022-07-28T18:10:00ZUTC",
+      "end": "2022-07-28T18:30:00ZUTC"
     },
     "session": {
       "slug": "shiny-app-design",
       "title": "Pour some glitter on it: polishing the design of your shiny apps",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -3375,16 +3375,16 @@
       "materials_url": null,
       "abstract": "<p><em>I would like to create (more) Shiny Dashboards, but...<\/em><\/p>\n<ul>\n<li><em>I don't know how<\/em><\/li>\n<li><em>I can't write R code<\/em><\/li>\n<li><em>it's too complex<\/em><\/li>\n<li><em>I don't have enough time (even though I know how to build them)<\/em><\/li>\n<\/ul>\n<p>If this sounds familiar, this talk is for you. We present our latest project, the <strong>dashboard-builder<\/strong> that allows users to create full Shiny dashboards without writing a single line of code. You can find a <a href=\"https://youtu.be/oOKJLMAkEiw\">demonstration video here<\/a><\/p>\n<p>This drag&amp;drop dashboard-builder allows you to interactively create native Shiny dashboards. Lowering the entry barrier for new users starting their data-science journey. They can begin to visualize their datasets without prior knowledge of R. More experienced users can use the dashboard-builder to quickly sketch out their ideas and export them to act as a foundation for more complex dashboards.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T14:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T18:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "session": {
       "slug": "shiny-app-design",
       "title": "Pour some glitter on it: polishing the design of your shiny apps",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -3418,16 +3418,16 @@
       "materials_url": null,
       "abstract": "<p>Shiny helps data scientists create web applications without requiring web development experience. However, there's still a steep learning curve for writing the Ui portion of an app. Unlike an app's server code, which typically only uses a few different Shiny-specific functions, the app's UI code is almost entirely made up of functions with strange syntaxes and often surprising interactions with each other. This paradigm requires a very different mindset than your typical R Script. This talk introduces a new tool to help both new and experienced Shiny developers spend less time writing their app's UI and more time doing data science.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T13:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T17:50:00ZUTC"
     },
     "session": {
       "slug": "shiny-app-design",
       "title": "Pour some glitter on it: polishing the design of your shiny apps",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -3462,16 +3462,16 @@
       "materials_url": null,
       "abstract": "<p>Shiny users can prototype an app in minutes, but... What if it also looked\nbetter almost immediately? In this talk, we'll walk through a new look for\nShiny's UI, as well as some new functionality.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:50:00ZEDT",
-      "end": "2022-07-28T14:10:00ZEDT"
+      "start": "2022-07-28T17:50:00ZUTC",
+      "end": "2022-07-28T18:10:00ZUTC"
     },
     "session": {
       "slug": "shiny-app-design",
       "title": "Pour some glitter on it: polishing the design of your shiny apps",
       "room": "Potomac D",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -3505,16 +3505,16 @@
       "materials_url": null,
       "abstract": "<p>I'll discuss designing a socially-conscious and socially-critical data science\ncourse. This talk will be interesting to anyone who designs or delivers\neducational opportunities for young data scientists. The topic is important\nbecause data science is not value neutral. Learners should understand how\ndata and data analyses can encode biases and assumptions. Particularly when\nwe collect data from or about people, we should ask who is privileged or\ndisadvantaged by how we gather and analyze that data? Attendees will learn\nhow I’ve come to design and teach data science courses that emphasize morality\nand ethics. They’ll also learn how I design for inclusion and work to create\nreflective learning environments.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:40:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:40:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "session": {
       "slug": "teaching-data-science",
       "title": "Teaching data science",
       "room": "National Harbor 10+11",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "speakers": [
       {
@@ -3550,16 +3550,16 @@
       "materials_url": null,
       "abstract": "<p>This talk discusses how we used R to solve some of the challenges we faced when\nall classes were emergency onlined as a result of COVID. Instructors improvised\ntypically defaulting to zoom, and survey data showed that more than half of\nour student population did not have access to a laptop or computer, but all\ndid have a smartphone. We set out to mitigate this by creating a mobile app\nwhich facilitates a feedback-loop between students and instructors and provides\nanalytics of this interaction.Starting as a shiny-app with {shinymobile},\nwe applied linguistic and social network analysis to provide the instructor\nwith analyses. As the pandemic dragged on the system evolved and became more\nintegrated with google cloud and the Andoid ecosystem.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:20:00ZEDT",
-      "end": "2022-07-27T11:40:00ZEDT"
+      "start": "2022-07-27T15:20:00ZUTC",
+      "end": "2022-07-27T15:40:00ZUTC"
     },
     "session": {
       "slug": "teaching-data-science",
       "title": "Teaching data science",
       "room": "National Harbor 10+11",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "speakers": [
       {
@@ -3594,16 +3594,16 @@
       "materials_url": null,
       "abstract": "<p>The friendly competition between R and python has gifted us with two stellar\npackages for workflow-style predictive modeling: tidymodels in R, and scikit-\nlearn in python. When I had to choose between them for a Machine Learning\nCourse, I said: ¿Porque no los dos? (Why not both?)<\/p>\n<p>In this talk, I will share how the differences in structure and syntax\nbetween tidymodels and scikit-learn impacted student understanding. Can a\nhelper function hide an important decision about tuning parameters?  Can a\nslight change in argument input influence the way we describe a model? The\nanswer is a resounding, &quot;¡Sí!&quot;<\/p>\n<p>Don't despair, though, because I will also provide advice for avoiding\npitfalls when switching between languages or implementations. Together,\nlet's think about the power that programming choices has to shape the\nmental model of the user, and the ways that we can responsibly document\nour modeling decisions to increase cross-language reproducibility.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T11:20:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T15:20:00ZUTC"
     },
     "session": {
       "slug": "teaching-data-science",
       "title": "Teaching data science",
       "room": "National Harbor 10+11",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "speakers": [
       {
@@ -3637,16 +3637,16 @@
       "materials_url": null,
       "abstract": "<p>tidymodels is extending support for survival analysis and censored is a new\nparsnip extension package for survival models. It offers various types of\nmodels: parametric models, semi-parametric models like the Cox model, and tree-\nbased models like decision trees, boosted trees, and random forests. They\nall come with the consistent parsnip interface so that you can focus on the\nmodelling instead of details of the syntax. Happy modelling!<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T11:20:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T15:20:00ZUTC"
     },
     "session": {
       "slug": "tidymodels",
       "title": "Updates from the tidymodels team",
       "room": "Potomac D",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "speakers": [
       {
@@ -3682,16 +3682,16 @@
       "materials_url": null,
       "abstract": "<p>Data scientists have an intuition of what goes into training a machine learning\nmodel, but building an MLOps strategy to deploy that model can sound daunting\nfor data science teams. Model services are not one-size-fits-all, so it is\nimperative to know a range of tools available. One option, Vetiver, is a\nframework for R and Python created to make model deployment feel like a natural\nextension of a data scientist’s skill set.<\/p>\n<p>This talk offers a high-level overview of what MLOps options are available for\nmodel operationalization, but also shows a practical example of an end-to-end\nMLOps deployment of a model-aware REST API using Vetiver.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:40:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:40:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "session": {
       "slug": "tidymodels",
       "title": "Updates from the tidymodels team",
       "room": "Potomac D",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "speakers": [
       {
@@ -3725,16 +3725,16 @@
       "materials_url": null,
       "abstract": "<p>This talk marks the grand introduction of tidyclust, a new package that provides\na tidy unified interface to clustering model within the tidymodels framework.<\/p>\n<p>While tidymodels has been a leap forward in making machine learning methods\naccessible to a general audience in R, it is currently limited to the realm of\nsupervised learning. tidyclust, by Emil Hvitfeldt and Kelly Bodwin, builds upon\nthe interfaces familiar to tidymodels users to make unsupervised clustering\nmodels equally approachable.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:20:00ZEDT",
-      "end": "2022-07-27T11:40:00ZEDT"
+      "start": "2022-07-27T15:20:00ZUTC",
+      "end": "2022-07-27T15:40:00ZUTC"
     },
     "session": {
       "slug": "tidymodels",
       "title": "Updates from the tidymodels team",
       "room": "Potomac D",
       "day": "2022-07-27",
-      "start": "2022-07-27T11:00:00ZEDT",
-      "end": "2022-07-27T12:00:00ZEDT"
+      "start": "2022-07-27T15:00:00ZUTC",
+      "end": "2022-07-27T16:00:00ZUTC"
     },
     "speakers": [
       {
@@ -3769,16 +3769,16 @@
       "materials_url": "https://www.johngoldin.com/blog/2022-07-notes-apple-health-export/",
       "abstract": "<p>After a visit to the ER, I discovered an ocean of personal data: more than 3\nmillion rows of data about one of my favorite subjects: me. My watch averages\nalmost 5,000 measurements a day. That experience led me to explore the Apple\nHealth Export in more detail. It’s the largest dataset I’ve ever worked with.\nThe variety of sources and the quantity data can be overwhelming. I will\ndescribe the basic measurements that are available and some of the things\none needs to be on the lookout for. A ggplot of a full day of heart rate data\nprovided me (and my doctor) important context on two occasions when I went to\nthe ER. Fortunately there’s no great medical drama involved, but the plots are\npretty neat and actually turned out to be helpful.<\/p>\n<p>Talk materials are available at <a href=\"https://www.johngoldin.com/blog/2022-07-notes-apple-health-export/\" target=\"_blank\">https://www.johngoldin.com/blog/2022-07-notes-apple-health-export/<\/a>.",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T15:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "session": {
       "slug": "unexpected-uses",
       "title": "Unexpected uses of R",
       "room": "National Harbor 10+11",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "speakers": [
       {
@@ -3814,16 +3814,16 @@
       "materials_url": "https://link.jnolis.com/rstudio22-slides",
       "abstract": "<p>E-commerce requires passing data between many components like managing a\nshopping cart, taking payment, fulfilling orders, and sending emails. I've\nsuccessfully created a full e-commerce platform entirely in R for a quirky side\nproject. The R package ggirl lets users order ggplot2 plots as postcards and\nmore via R functions. Those R functions pass data to a separate Shiny app, which\nthen passes data other services like Stripe payment APIs and printing APIs. In\nthis talk I will walk through how to use packages like httr, callr, and brochure\nto have your Shiny apps call external services and do many tasks in parallel.\nYou’ll leave the talk with more ways to use Shiny than dashboards plus the\nknowledge to monetize your existing dashboards!<\/p>\n<p>Talk materials are available at <a href=\"https://link.jnolis.com/rstudio22-slides\" target=\"_blank\">https://link.jnolis.com/rstudio22-slides<\/a>.",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T10:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T14:50:00ZUTC"
     },
     "session": {
       "slug": "unexpected-uses",
       "title": "Unexpected uses of R",
       "room": "National Harbor 10+11",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "speakers": [
       {
@@ -3858,16 +3858,16 @@
       "materials_url": null,
       "abstract": "<p>Over the years, the R community has experienced an increase in the number,\ndiversity and domain background of users. However, incorporation of R in the\nfield of Robotics is still not fully exploited even though the actuation of\nmanipulators such as robotic arms is based on streams of input data gathered\nfrom sensors. With R constantly evolving and redefining how to turn data into\nactionable insights, any domain that produces data now has the potential to use\nR. What if this actionable insight means actuating a robotic arm? The aim of\nthis talk is to connect two previously separated worlds: robotic application\ndevelopment and the data manipulation capabilities of R by demonstrating how to\nactuate a Robotic arm using R and Arduino.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:10:00ZEDT",
-      "end": "2022-07-28T11:30:00ZEDT"
+      "start": "2022-07-28T15:10:00ZUTC",
+      "end": "2022-07-28T15:30:00ZUTC"
     },
     "session": {
       "slug": "unexpected-uses",
       "title": "Unexpected uses of R",
       "room": "National Harbor 10+11",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "speakers": [
       {
@@ -3916,16 +3916,16 @@
       "materials_url": null,
       "abstract": "<p>Is it possible to do meaningful work in R on a $35 computer? How about a $15\ncomputer? And what does that mean for education, data science, and computing\non small devices? In this talk, Mark introduces the R4Pi.org project, its\nbackground and why on earth you'd even want to run R at the opposite end of\n&quot;scale&quot; from everyone else.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:50:00ZEDT",
-      "end": "2022-07-28T11:10:00ZEDT"
+      "start": "2022-07-28T14:50:00ZUTC",
+      "end": "2022-07-28T15:10:00ZUTC"
     },
     "session": {
       "slug": "unexpected-uses",
       "title": "Unexpected uses of R",
       "room": "National Harbor 10+11",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "speakers": [
       {
@@ -3962,16 +3962,16 @@
       "materials_url": "https://meghan.rbind.io/talk/rstudioconf/",
       "abstract": "<p>It can be daunting to start using R when no one else in your office is!\nUsing a case study from an administrative higher education office, learn how\nyou can begin to build your own R ecosystem, step by step, to increase the\nefficiency and impact of your work, even as a solo contributor. Start from\nscratch and get small wins by replacing common Excel tasks with reproducible\ncode, and then continue to develop iteratively, incorporating more of R’s\ncapabilities into your workflow until you’re humming along with internal\npackages and parameterized reporting. We’ll discuss how R can ease the burden\nof documentation and how to handle common challenges like when you can’t control\nhow you get your data or in which tool it is ultimately presented.<\/p>\n<p>Talk materials are available at <a href=\"https://meghan.rbind.io/talk/rstudioconf/\" target=\"_blank\">https://meghan.rbind.io/talk/rstudioconf/<\/a>.",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T13:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T17:50:00ZUTC"
     },
     "session": {
       "slug": "working-with-code",
       "title": "Working with code is hard",
       "room": "National Harbor 10+11",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -4007,16 +4007,16 @@
       "materials_url": null,
       "abstract": "<p>Demystifying the Art of creating custom Libraries for your organization. Imagine\na world where a company has its own R library, this stores the most common\nfunctions an analytical team uses. From connecting to the Database to reading\nin SQL from a SQL file to creating custom graphs that only take in a few inputs.\nIn today's world, we find that code is siloed on many Analyst machines. Even\nthough the same code is being used over and over again by the same person or\nmultiple people carry on with this architecture. We scramble to figure out where\nwe save that nice code chunk so that we can use it on another package. Instead,\nwe can all leverage creating our own libraries that store and document the cool\nfeatures we've created.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:50:00ZEDT",
-      "end": "2022-07-28T14:10:00ZEDT"
+      "start": "2022-07-28T17:50:00ZUTC",
+      "end": "2022-07-28T18:10:00ZUTC"
     },
     "session": {
       "slug": "working-with-code",
       "title": "Working with code is hard",
       "room": "National Harbor 10+11",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -4051,16 +4051,16 @@
       "materials_url": null,
       "abstract": "<p>It can be difficult for small teams to make an impact in large organizations. In this talk I will discuss how my small team, at the National Institute of Allergy and Infectious Diseases (NIAID) has used Shiny to increase efficiency, enhance collaboration, and track biomedical research funding. In light of the recent pandemic, and the ongoing threat of emerging infectious diseases, our ability to understand a complex research portfolio and adapt quickly to changing research priorities has become increasingly important. I will highlight how automated workflows and Shiny dashboards have allowed my team to become more efficient and enabled us to have an outsized impact on our organization.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T14:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T18:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "session": {
       "slug": "working-with-code",
       "title": "Working with code is hard",
       "room": "National Harbor 10+11",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -4094,16 +4094,16 @@
       "materials_url": null,
       "abstract": "<p>Dependencies don't have to be hell. In this talk we'll discuss how renv makes it\neasier to diagnose problems, move projects between environments, and collaborate\nwith other R users.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T14:10:00ZEDT",
-      "end": "2022-07-28T14:30:00ZEDT"
+      "start": "2022-07-28T18:10:00ZUTC",
+      "end": "2022-07-28T18:30:00ZUTC"
     },
     "session": {
       "slug": "working-with-code",
       "title": "Working with code is hard",
       "room": "National Harbor 10+11",
       "day": "2022-07-28",
-      "start": "2022-07-28T13:30:00ZEDT",
-      "end": "2022-07-28T14:50:00ZEDT"
+      "start": "2022-07-28T17:30:00ZUTC",
+      "end": "2022-07-28T18:50:00ZUTC"
     },
     "speakers": [
       {
@@ -4139,16 +4139,16 @@
       "materials_url": null,
       "abstract": "<p>Data literacy is a tool to build understanding- of the world and ourselves.\nData, AI and tech are sometimes portrayed as scary and unknowable; however,\ndata can be for everyone. Data, and decisions based off data, have enormous\nimplications in our daily lives. We (data practitioners) likely have some\nbaseline understanding of numbers and how to read a chart. But others, whether\nour friends, family members or coworkers, might not have the same level of\nunderstanding.<\/p>\n<p>This talk will address how to talk to these seemingly &quot;non-data&quot; people, the\nbenefits of talking data with them, and (hopefully) encourage more curiosity and\nwonder at the creativity of data. We will also briefly cover what data literacy\nis and why we ought to care about it.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T10:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T14:50:00ZUTC"
     },
     "session": {
       "slug": "working-with-people",
       "title": "Working with people is hard",
       "room": "Cherry Blossom",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "speakers": [
       {
@@ -4183,16 +4183,16 @@
       "materials_url": null,
       "abstract": "<p>This session highlights two anomaly detection use cases in production:\nidentification of problematic life sciences manufacturing units and\nidentification of significant newsworthy events. With both solutions, Shiny is\nintegrated with live data to provide early detection for proactive intervention.\nShiny’s intuitive user interface also allows for interaction with the data\nbehind anomalies to uncover potential causes and paths to action or resolution.<\/p>\n<p>The session also briefly highlights a rapid prototyping development approach\nwith Shiny. This technique allows for collaborative refinement of the underlying\nanomaly detection model in R, quickly incorporating user feedback, where end\nusers may not have in-depth machine learning knowledge.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T15:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "session": {
       "slug": "working-with-people",
       "title": "Working with people is hard",
       "room": "Cherry Blossom",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "speakers": [
       {
@@ -4226,16 +4226,16 @@
       "materials_url": null,
       "abstract": "<p>Enterprise-Level Data Science Success includes many factors beyond the nuts\nand bolts of core data science work. It is not just about data, databases, data\nwrangling and model outputs anymore! The ‘soft’(art) aspect of establishing\na successful data science practice in a large organization includes building\nthe right partnerships with various stakeholders within the enterprise, hiring\nand growing teams and people management, being a tireless advocate for value/\nstrategy creation with the use of data and analytics, fighting for the right\nlevel attention with executive leadership and keeping the focus of the data\nscience teams business-oriented goals. This talk will touch on these above\ntopics in the data science journey at Flex.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T11:10:00ZEDT",
-      "end": "2022-07-28T11:30:00ZEDT"
+      "start": "2022-07-28T15:10:00ZUTC",
+      "end": "2022-07-28T15:30:00ZUTC"
     },
     "session": {
       "slug": "working-with-people",
       "title": "Working with people is hard",
       "room": "Cherry Blossom",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "speakers": [
       {
@@ -4270,16 +4270,16 @@
       "materials_url": null,
       "abstract": "<p>R users are part of data ecosystems comprising both statistical and non-\nstatistical applications. We may work with SAS or Stata datafiles; non-R users\nmay help run R scripts; or we may need to generate outputs in Word or Excel.\nJust as pollinators support biodiversity, we believe R users can be constructive\nmembers of diverse data ecosystems. Our talk will: (1) outline what it means to\nbe constructive, (2) highlight tools that can help R users contribute to their\necosystems, and (3) describe practices that can improve workflows involving\ndiverse groups of staff and software. We hope our talk will inspire R users\nto think creatively and empathetically about how R can be a force for good in\ndiverse data ecosystems.<\/p>\n",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:50:00ZEDT",
-      "end": "2022-07-28T11:10:00ZEDT"
+      "start": "2022-07-28T14:50:00ZUTC",
+      "end": "2022-07-28T15:10:00ZUTC"
     },
     "session": {
       "slug": "working-with-people",
       "title": "Working with people is hard",
       "room": "Cherry Blossom",
       "day": "2022-07-28",
-      "start": "2022-07-28T10:30:00ZEDT",
-      "end": "2022-07-28T11:50:00ZEDT"
+      "start": "2022-07-28T14:30:00ZUTC",
+      "end": "2022-07-28T15:50:00ZUTC"
     },
     "speakers": [
       {
@@ -4329,16 +4329,16 @@
       "materials_url": null,
       "abstract": "<p>Getting involved in open source is an amazing learning experience and helps\nyou grow your skills as a developer, but to a new contributor there are so\nmany unknown factors about open source projects. In this talk, I'm going to\ndiscuss my journey from occasional open source contributor to full time project\nmaintainer, and answer questions such as: what does it look like from the inside\nof an open-source project? What's a good way to get involved, and really learn\nthe internals of an R package? How can I navigate the social dynamics of an open source\nproject? How do contributions look entirely different from the point of view of\na contributor versus a maintainer?<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:40:00ZEDT",
-      "end": "2022-07-27T16:00:00ZEDT"
+      "start": "2022-07-27T19:40:00ZUTC",
+      "end": "2022-07-27T20:00:00ZUTC"
     },
     "session": {
       "slug": "wtf-career",
       "title": "What they forgot to teach you about your career",
       "room": "Cherry Blossom",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -4372,16 +4372,16 @@
       "materials_url": null,
       "abstract": "<p>This talk presents a gathering of resources from the RStudio community for\nindustry job-seekers who are transitioning from academia. Examples include\npackages for resume-building and cover letter writing, quick starts for personal\nwebsites and GitHub profiles, and helpful R networks. A new website named after\nthe talk (wtf-aita.com) will showcase and link to the discussed resources, and\nis open to further community contributions.<\/p>\n",
       "day": "2022-07-27",
-      "start": "2022-07-27T16:00:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T20:00:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "session": {
       "slug": "wtf-career",
       "title": "What they forgot to teach you about your career",
       "room": "Cherry Blossom",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "speakers": [
       {
@@ -4416,16 +4416,16 @@
       "materials_url": "https://dgkeyes.com/rbusiness",
       "abstract": "<p>Lots of people I meet want to start their own business. &quot;I know how to use R,&quot;\nthey figure, &quot;so I should be able to go out on my own, find clients, and work\nfor myself.&quot;<\/p>\n<p>The reality for many people is very different. They spend weeks on a business\nplan, website, and social media strategy. Then they sit down at their desk,\nwaiting for the flood of clients. But the clients never come.<\/p>\n<p>Since starting R for the Rest of Us in 2019, I've learned a lot of lessons along\nthe way about (and how <em>not<\/em>) to run a business using R. In this talk, I'll\nshare some of these lessons.<\/p>\n<p>Whether you have dreams to start a huge business or want to freelance using R,\nthis talk will help you get started with the next chapter of your career.<\/p>\n<p>Talk materials are available at <a href=\"https://dgkeyes.com/rbusiness\" target=\"_blank\">https://dgkeyes.com/rbusiness<\/a>.",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T15:40:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T19:40:00ZUTC"
     },
     "session": {
       "slug": "wtf-career",
       "title": "What they forgot to teach you about your career",
       "room": "Cherry Blossom",
       "day": "2022-07-27",
-      "start": "2022-07-27T15:20:00ZEDT",
-      "end": "2022-07-27T16:20:00ZEDT"
+      "start": "2022-07-27T19:20:00ZUTC",
+      "end": "2022-07-27T20:20:00ZUTC"
     },
     "speakers": [
       {
