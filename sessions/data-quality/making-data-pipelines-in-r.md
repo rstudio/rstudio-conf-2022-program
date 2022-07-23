@@ -12,7 +12,7 @@ talk_title: "Making Data Pipelines in R: A Story From A “Self-Taught” Perspe
 # A short version of the title, suitable for small displays
 talk_title_short: Making Data Pipelines in R
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/Meghansaha/pipelines_in_R
 speakers:
 - name: Meghan S Harris
   affiliation: PCCTC @ Memorial Sloan Kettering
