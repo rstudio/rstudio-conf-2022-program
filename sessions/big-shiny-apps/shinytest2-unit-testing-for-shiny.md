@@ -12,7 +12,7 @@ talk_title: "{shinytest2}: Unit testing for Shiny applications"
 # A short version of the title, suitable for small displays
 talk_title_short: "{shinytest2}"
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://bit.ly/shinytest2-conf22
 speakers:
 - name: Barret Schloerke
   affiliation: RStudio
