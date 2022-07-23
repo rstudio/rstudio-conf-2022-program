@@ -12,13 +12,13 @@ talk_title: "Save an ocean of time: streamline data wrangling with R"
 # A short version of the title, suitable for small displays
 talk_title_short: Save an ocean of time
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/dempsey-CMAR/2022_rstudio_conf
 speakers:
 - name: Danielle Dempsey
   affiliation: Centre for Marine Applied Research
   url:
     webpage: ~
-    twitter: ~
+    twitter: @Dr_DDempsey
     github: https://github.com/dempsey-CMAR
     linkedin: https://www.linkedin.com/in/danielledempsey/
     affiliation: https://cmar.ca/
