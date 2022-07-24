@@ -12,7 +12,7 @@ talk_title: "Let your mobile shine - Leveraging CSS concepts to make shiny apps 
 # A short version of the title, suitable for small displays
 talk_title_short: "Let your mobile shine: Making shiny apps mobile responsive"
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://docs.google.com/presentation/d/1HKcMBQiFo6oC5Cj3OFf6wlGuSGQxADyxJMG_74cNwaU/edit#slide=id.g116406a1a2a_2_135
 speakers:
 - name: Shelmith Nyagathiri Kariuki
   affiliation: Data Analytics Consultant

@@ -12,7 +12,7 @@ talk_title: "leafdown: Interactive multi-layer maps in Shiny apps"
 # A short version of the title, suitable for small displays
 talk_title_short: "leafdown: Interactive multi-layer maps in Shiny apps"
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/rstudio/rstudio-conf/blob/master/2022/andreashofheinz/leafdown_presentation%20-%20Andreas%20H.pdf
 speakers:
 - name: Andreas Hofheinz
   affiliation: ~

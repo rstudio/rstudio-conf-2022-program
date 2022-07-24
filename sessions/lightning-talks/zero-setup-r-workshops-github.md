@@ -12,7 +12,7 @@ talk_title: "Zero-setup R workshops with GitHub Codespaces"
 # A short version of the title, suitable for small displays
 talk_title_short: Zero-setup R workshops with GitHub Codespaces
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/rstudio/rstudio-conf/blob/master/2022/davidsmith/Zero%20Setup%20Workshops%20RStudioConf%202022%20-%20David%20Smith.pdf
 speakers:
 - name: David Smith
   affiliation: Microsoft

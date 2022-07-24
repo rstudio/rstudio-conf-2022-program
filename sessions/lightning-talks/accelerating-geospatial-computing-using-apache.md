@@ -12,7 +12,7 @@ talk_title: "Accelerating geospatial computing using Apache Arrow"
 # A short version of the title, suitable for small displays
 talk_title_short: Accelerating geospatial computing using Apache Arrow
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/rstudio/rstudio-conf/blob/master/2022/deweydunnington/Accelerating%20geospatial%20computing%20using%20Apache%20Arrow%20-%20Dewey%20Dunnington.pdf
 speakers:
 - name: Dewey Dunnington
   affiliation: Voltron Data
