@@ -6,7 +6,9 @@ source(here::here("R/00_sched-api.R"))
 # Some rooms are pushed to the front since they're used for keynotes/talks.
 # Below we'll ensure that the sched venue name is consistent for those rooms.
 rooms <- source(here::here("R/00_rooms.R"))$value |>
-  select(venue = room, room = room_name)
+  select(venue = room, room = room_name) |>
+  filter(!is.na(venue)) |>
+  distinct()
 
 gs4_auth("*@rstudio.com")
 
