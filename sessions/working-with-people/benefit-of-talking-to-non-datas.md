@@ -12,7 +12,7 @@ talk_title: "The Benefit of Talking to the \"Non-Datas\""
 # A short version of the title, suitable for small displays
 talk_title_short: The Benefit of Talking to the "Non-Datas"
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://rconf-2022-caro-buck.netlify.app/#/section
 speakers:
 - name: Caro Buck
   affiliation: Wunderman Thompson
