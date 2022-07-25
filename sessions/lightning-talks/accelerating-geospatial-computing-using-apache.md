@@ -5,13 +5,14 @@ talk_slug: accelerating-geospatial-computing-using-apache
 talk_type: lightning
 talk_tags: [interop, production, spatial]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11iab
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Accelerating geospatial computing using Apache Arrow"
 # A short version of the title, suitable for small displays
 talk_title_short: Accelerating geospatial computing using Apache Arrow
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/rstudio/rstudio-conf/blob/master/2022/deweydunnington/Accelerating%20geospatial%20computing%20using%20Apache%20Arrow%20-%20Dewey%20Dunnington.pdf
 speakers:
 - name: Dewey Dunnington
   affiliation: Voltron Data

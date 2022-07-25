@@ -5,11 +5,12 @@ talk_slug: dm-analyze-build-deploy-relational
 talk_type: regular
 talk_tags: [databases, interop, tool]
 session_slug: databases
+sched_url: https://rstudioconf2022.sched.com/event/11iZZ
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "dm: Analyze, build and deploy relational data models"
 # A short version of the title, suitable for small displays
-talk_title_short: dm
+talk_title_short: "dm: Analyze, build and deploy relational data models"
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:

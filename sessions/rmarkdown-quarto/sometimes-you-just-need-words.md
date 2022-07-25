@@ -5,6 +5,7 @@ talk_slug: sometimes-you-just-need-words
 talk_type: regular
 talk_tags: [communication, interop]
 session_slug: rmarkdown-quarto
+sched_url: https://rstudioconf2022.sched.com/event/11iZU
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Sometimes you just need words"

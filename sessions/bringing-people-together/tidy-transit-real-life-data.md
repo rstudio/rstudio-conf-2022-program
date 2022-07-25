@@ -5,6 +5,7 @@ talk_slug: tidy-transit-real-life-data
 talk_type: regular
 talk_tags: [design, interop, process, tidyverse]
 session_slug: bringing-people-together
+sched_url: https://rstudioconf2022.sched.com/event/11iap
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Tidy Transit: Real Life Data Modeling for Public Transportation"

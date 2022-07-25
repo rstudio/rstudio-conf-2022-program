@@ -5,11 +5,12 @@ talk_slug: bad-data-what-to-do
 talk_type: regular
 talk_tags: [career-development, process, story]
 session_slug: data-quality
+sched_url: https://rstudioconf2022.sched.com/event/11iYr
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Bad Data, And What To Do About Them (Don't Panic!)"
+talk_title: "Garbage Data, And What To Do About Them"
 # A short version of the title, suitable for small displays
-talk_title_short: Bad Data, And What To Do About Them (Don't Panic!)
+talk_title_short: Garbage Data
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:

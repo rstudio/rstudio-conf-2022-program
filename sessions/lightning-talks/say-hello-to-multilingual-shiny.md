@@ -5,13 +5,14 @@ talk_slug: say-hello-to-multilingual-shiny
 talk_type: lightning
 talk_tags: [access, interop, shiny, story]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11iaI
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Say Hello! to Multilingual Shiny Apps"
 # A short version of the title, suitable for small displays
 talk_title_short: Say Hello! to Multilingual Shiny Apps
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://nrennie.rbind.io/talks/2022-july-rstudio-conf/
 speakers:
 - name: Nicola Rennie
   affiliation: Jumping Rivers

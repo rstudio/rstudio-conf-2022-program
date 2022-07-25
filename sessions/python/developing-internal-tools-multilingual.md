@@ -1,15 +1,16 @@
 ---
 # Do not edit
 talk_id: 22038
-talk_slug: designing-internal-tools-for-multi
+talk_slug: developing-internal-tools-multilingual
 talk_type: regular
 talk_tags: [design, interop, process, tool]
 session_slug: python
+sched_url: https://rstudioconf2022.sched.com/event/11iaR
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Designing internal tools for multi-lingual teams"
+talk_title: "Developing internal tools for multi-lingual teams"
 # A short version of the title, suitable for small displays
-talk_title_short: Designing internal tools for multi-lingual teams
+talk_title_short: Developing internal tools for multi-lingual teams
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:
@@ -40,7 +41,6 @@ Please write abstract below. You may use simple markdown (links, code style, bol
 Internal packages are great for boosting productivity and promoting good
 practice, but what kinds of challenges do we face when designing solutions
 for multi-lingual teams? Here I will advocate for a design approach we are
-using at Bumble to build Python and R packages with objects and functions that
-are directly comparable. I will discuss the benefits of this approach for the
-developer and the wider organisation, and how guiding principles like the Zen of
-Python and the Tidyverse style guide have helped us along the way.
+using at Bumble to build Python and R packages with the same foundations. 
+I will discuss the benefits of this approach for the developer and the 
+wider organisation. 

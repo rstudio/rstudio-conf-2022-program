@@ -5,13 +5,14 @@ talk_slug: zero-setup-r-workshops-github
 talk_type: lightning
 talk_tags: [community, teaching, tool]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11iag
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Zero-setup R workshops with GitHub Codespaces"
 # A short version of the title, suitable for small displays
 talk_title_short: Zero-setup R workshops with GitHub Codespaces
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/rstudio/rstudio-conf/blob/master/2022/davidsmith/Zero%20Setup%20Workshops%20RStudioConf%202022%20-%20David%20Smith.pdf
 speakers:
 - name: David Smith
   affiliation: Microsoft

@@ -5,6 +5,7 @@ talk_slug: saving-1000-hours-rstudio
 talk_type: regular
 talk_tags: [champion, pro-products, production, story]
 session_slug: makeovers
+sched_url: https://rstudioconf2022.sched.com/event/11iYt
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Saving 1,000 hours with RStudio: selling R in your workplace"

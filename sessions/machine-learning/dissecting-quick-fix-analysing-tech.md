@@ -5,6 +5,7 @@ talk_slug: dissecting-quick-fix-analysing-tech
 talk_type: regular
 talk_tags: [career-development, community, data-for-good, modeling, production]
 session_slug: machine-learning
+sched_url: https://rstudioconf2022.sched.com/event/11iZc
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Dissecting the quick fix: Analysing tech-solutionist solutions"

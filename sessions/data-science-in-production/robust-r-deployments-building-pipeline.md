@@ -5,6 +5,7 @@ talk_slug: robust-r-deployments-building-pipeline
 talk_type: regular
 talk_tags: [html/css/js, interop, production]
 session_slug: data-science-in-production
+sched_url: https://rstudioconf2022.sched.com/event/11iYu
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Robust R Deployments: Building a Pipeline from RStudio to Production"

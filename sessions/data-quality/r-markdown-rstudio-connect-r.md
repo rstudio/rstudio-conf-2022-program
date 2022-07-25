@@ -5,6 +5,7 @@ talk_slug: r-markdown-rstudio-connect-r
 talk_type: regular
 talk_tags: [communication, pro-products, process]
 session_slug: data-quality
+sched_url: https://rstudioconf2022.sched.com/event/11iZ8
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "R Markdown + RStudio Connect + R Shiny: A Recipe for Automated Data Processing, Error Logging, and Process Monitoring"
@@ -14,7 +15,7 @@ talk_title_short: R Markdown + RStudio Connect + R Shiny
 talk_materials_url: ~
 speakers:
 - name: Kolbi Parrish
-  affiliation: California Dept. Public Health & UCSF
+  affiliation: California Dept. Public Health + UCSF
   url:
     webpage: ~
     twitter: ~
@@ -24,7 +25,7 @@ speakers:
   username: kolbi_parrish
   photo: /assets/img/2022Conf/_talks/22221_kolbi-parrish.jpg
   bio: |+
-    Kolbi Parrish is an Informatics Specialist working at the California
+    Kolbi Parrish is an Informatics Specialist working at the California
     Department of Public Health (CDPH) through the University of
     California, San Francisco. She has worked in public health for over
     10 years, has a Master’s degree in Industrial and Organizational
@@ -32,7 +33,7 @@ speakers:
     further public health goals.
 
 - name: Andy Pham
-  affiliation: UCSF & CA Dept. Public Health
+  affiliation: UCSF + California Dept. Public Health
   url:
     webpage: ~
     twitter: ~

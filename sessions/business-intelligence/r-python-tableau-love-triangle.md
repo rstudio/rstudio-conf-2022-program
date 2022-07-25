@@ -5,6 +5,7 @@ talk_slug: r-python-tableau-love-triangle
 talk_type: regular
 talk_tags: [interop, pro-products]
 session_slug: business-intelligence
+sched_url: https://rstudioconf2022.sched.com/event/11iYQ
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "R, Python, and Tableau: A Love Triangle"

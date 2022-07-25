@@ -3,8 +3,9 @@
 talk_id: 22044
 talk_slug: my-favorite-things-quarto-presentations
 talk_type: regular
-talk_tags: [communication]
+talk_tags: [communication, Quarto]
 session_slug: quarto-deep-dive
+sched_url: https://rstudioconf2022.sched.com/event/11ibN
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "These are a few of my favorite things (about Quarto presentations)"

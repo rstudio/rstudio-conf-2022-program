@@ -5,13 +5,14 @@ talk_slug: leafdown-interactive-multi-layer-maps
 talk_type: lightning
 talk_tags: [shiny, spatial]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11iaa
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "leafdown: Interactive multi-layer maps in Shiny apps"
 # A short version of the title, suitable for small displays
-talk_title_short: leafdown
+talk_title_short: "leafdown: Interactive multi-layer maps in Shiny apps"
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/rstudio/rstudio-conf/blob/master/2022/andreashofheinz/leafdown_presentation%20-%20Andreas%20H.pdf
 speakers:
 - name: Andreas Hofheinz
   affiliation: ~

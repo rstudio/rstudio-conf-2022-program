@@ -5,6 +5,7 @@ talk_slug: tidyclust-expanding-tidymodels-to-clustering
 talk_type: regular
 talk_tags: [access, modeling]
 session_slug: tidymodels
+sched_url: https://rstudioconf2022.sched.com/event/11iYJ
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "tidyclust - expanding tidymodels to clustering"

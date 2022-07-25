@@ -5,6 +5,7 @@ talk_slug: pull-bootstraps-generating-bootstrap-prediction
 talk_type: regular
 talk_tags: [modeling, tool]
 session_slug: machine-learning
+sched_url: https://rstudioconf2022.sched.com/event/11iZW
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Introducing workboots: Generate prediction intervals from tidymodel workflows"
@@ -16,15 +17,15 @@ speakers:
 - name: Mark Rieke
   affiliation: Memorial Hermann Health System
   url:
-    webpage: https://markjrieke.github.io/workboots/
+    webpage: https://www.thedatadiary.net/about/
     twitter: https://twitter.com/markjrieke
-    github: ~
-    linkedin: ~
-    affiliation: ~
+    github: https://github.com/markjrieke
+    linkedin: https://www.linkedin.com/in/mark-j-rieke-ab4b0ab4/
+    affiliation: https://www.memorialhermann.org/
   username: mark_rieke
   photo: /assets/img/2022Conf/_talks/22033_mark-rieke.png
   bio: |+
-    I am the senior consumer experience (CX) analyst at Memorial Hermann
+    I am a senior consumer experience (CX) analyst at Memorial Hermann
     Health System where I use R and tidymodels to provide actionable
     insights from patient satisfaction survey data. I love making
     beautiful charts, working on home improvement projects, and playing

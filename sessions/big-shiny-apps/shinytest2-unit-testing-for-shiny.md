@@ -5,13 +5,14 @@ talk_slug: shinytest2-unit-testing-for-shiny
 talk_type: regular
 talk_tags: [programming, shiny]
 session_slug: big-shiny-apps
+sched_url: https://rstudioconf2022.sched.com/event/11ibY
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "{shinytest2}: Unit testing for Shiny applications"
 # A short version of the title, suitable for small displays
-talk_title_short: {shinytest2}
+talk_title_short: "{shinytest2}"
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://bit.ly/shinytest2-conf22
 speakers:
 - name: Barret Schloerke
   affiliation: RStudio

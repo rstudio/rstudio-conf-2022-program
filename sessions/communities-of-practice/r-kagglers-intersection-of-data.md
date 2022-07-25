@@ -5,6 +5,7 @@ talk_slug: r-kagglers-intersection-of-data
 talk_type: regular
 talk_tags: [communication, community, story, tidyverse]
 session_slug: communities-of-practice
+sched_url: https://rstudioconf2022.sched.com/event/11iaz
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "We R KaggleRs - At the Intersection of Data Science Communities"

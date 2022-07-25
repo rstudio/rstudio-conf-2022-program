@@ -5,21 +5,22 @@ talk_slug: made-entire-e-commerce-platform
 talk_type: regular
 talk_tags: [process, recreational, shiny, visualisation]
 session_slug: unexpected-uses
+sched_url: https://rstudioconf2022.sched.com/event/11iak
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "I made an entire e-commerce platform on Shiny"
 # A short version of the title, suitable for small displays
 talk_title_short: I made an entire e-commerce platform on Shiny
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://link.jnolis.com/rstudio22-slides
 speakers:
 - name: Jacqueline Nolis
   affiliation: Saturn Cloud
   url:
     webpage: https://jnolis.com
-    twitter: https://github.com/jnolis/ggirl
+    twitter: https://twitter.com/skyetetra
     github: https://github.com/jnolis/ggirl
-    linkedin: ~
+    linkedin: https://linkedin.com/in/jnolis
     affiliation: ~
   username: jacqueline_nolis
   photo: /assets/img/2022Conf/_talks/22065_jacqueline-nolis.jpg

@@ -5,6 +5,7 @@ talk_slug: everything-learned-community-building-learned
 talk_type: regular
 talk_tags: [career-development, community, story]
 session_slug: communities-of-practice
+sched_url: https://rstudioconf2022.sched.com/event/11iat
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Everything I learned about community building, I learned from growing up in a restaurant"

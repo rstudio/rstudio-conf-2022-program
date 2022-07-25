@@ -5,6 +5,7 @@ talk_slug: highlights-of-knitr-package-past
 talk_type: regular
 talk_tags: [communication, programming]
 session_slug: rmarkdown-quarto
+sched_url: https://rstudioconf2022.sched.com/event/11iZK
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Highlights of the knitr package from the past two years"

@@ -5,9 +5,10 @@ talk_slug: integrated-workflow-azure-devops-rstudio
 talk_type: regular
 talk_tags: [pro-products, process, public-sector]
 session_slug: rapid-response
+sched_url: https://rstudioconf2022.sched.com/event/11iZF
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "An Integrated Workflow: Azure DevOps, RStudio IDE, RStudio Connect"
+talk_title: "An Integrated Workflow: Microsoft Azure DevOps, RStudio Workbench, RStudio Connect"
 # A short version of the title, suitable for small displays
 talk_title_short: An Integrated Workflow
 # A link to your talk's materials, when ready
@@ -25,7 +26,8 @@ speakers:
   photo: /assets/img/2022Conf/_talks/22227_lawrence-y-tello.jpg
   bio: |+
     Lawrence is an informatics specialist at the California Department
-    of Public Health working on products that contribute to California’s
+    of Public Health within the Data Processing and Informatics Section  
+    working on products that contribute to California’s
     COVID-19 response. He spent some time working on psychology and
     neuroscience projects prior to finding public health, all the while
     aided by R. Lawrence is a fan of using snake_case, destigmatizing
@@ -41,9 +43,8 @@ Please write abstract below. You may use simple markdown (links, code style, bol
 The California Department of Public Health’s (CDPH) COVID-19 response has
 required processing and communicating large amounts of data with quick
 turnaround times to inform strategic resource deployment in the state.
-To achieve this goal, we developed an integrated workflow that includes a
-combination of tools: Microsoft Azure DevOps, RStudio IDE Server, and RStudio
-Connect. Attendees will walk away with an understanding of the philosophy and
-tools of Azure DevOps, how a git workflow works within RStudio to connect to
-Azure DevOps, and how our team at CDPH leveraged all three products to deploy
-and automate mission critical procedures or products.
+To achieve this goal, the COVID-19 Data Processing and Informatics Section developed an integrated workflow 
+that includes a combination of tools: Microsoft Azure DevOps, RStudio Workbench, and RStudio
+Connect. Attendees will walk away with an understanding of how these three tools helped 
+our team prioritize, collaborate, decrease turnaround time, and scale our efforts 
+to deploy and automate mission critical procedures and products.

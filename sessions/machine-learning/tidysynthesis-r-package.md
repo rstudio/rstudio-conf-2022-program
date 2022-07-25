@@ -5,6 +5,7 @@ talk_slug: tidysynthesis-r-package
 talk_type: regular
 talk_tags: [modeling, tool]
 session_slug: machine-learning
+sched_url: https://rstudioconf2022.sched.com/event/11iZN
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "The tidysynthesis R package"

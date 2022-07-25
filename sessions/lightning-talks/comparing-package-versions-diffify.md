@@ -5,13 +5,14 @@ talk_slug: comparing-package-versions-diffify
 talk_type: lightning
 talk_tags: [career-development, programming, shiny]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11ia3
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Comparing package versions with Diffify"
 # A short version of the title, suitable for small displays
 talk_title_short: Comparing package versions with Diffify
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/rstudio/rstudio-conf/blob/master/2022/colingillespie/2022-07-27_rstudio-conf%20-%20Colin%20Gillespie.pdf
 speakers:
 - name: Colin Gillespie
   affiliation: Jumping Rivers

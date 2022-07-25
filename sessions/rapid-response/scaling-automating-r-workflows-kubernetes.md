@@ -5,6 +5,7 @@ talk_slug: scaling-automating-r-workflows-kubernetes
 talk_type: regular
 talk_tags: [interop, production]
 session_slug: rapid-response
+sched_url: https://rstudioconf2022.sched.com/event/11iZ6
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Scaling and automating R workflows with Kubernetes and Airflow"

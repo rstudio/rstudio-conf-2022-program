@@ -5,6 +5,7 @@ talk_slug: robust-framework-for-automated-shiny
 talk_type: regular
 talk_tags: [production, programming, shiny]
 session_slug: big-shiny-apps
+sched_url: https://rstudioconf2022.sched.com/event/11ibQ
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "A Robust Framework for Automated Shiny App Testing"
@@ -53,5 +54,5 @@ an opportunity to catch and fix bugs before they are pushed to production.
 
 In this talk, I will introduce a framework for automated testing of Shiny
 applications both (1) during the development phase and (2) after the app is
-deployed. I will share a demo Shiny app along with relevant shinytest and
+deployed. I will share a demo Shiny app along with relevant shinytest2 and
 Selenium code.

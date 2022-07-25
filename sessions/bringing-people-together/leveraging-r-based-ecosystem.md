@@ -5,6 +5,7 @@ talk_slug: leveraging-r-based-ecosystem
 talk_type: regular
 talk_tags: [process, story, tidyverse, tool]
 session_slug: bringing-people-together
+sched_url: https://rstudioconf2022.sched.com/event/11iaw
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Digging a Pit of Success for Your Organization: Embracing a R-based ecosystem in the US federal government"

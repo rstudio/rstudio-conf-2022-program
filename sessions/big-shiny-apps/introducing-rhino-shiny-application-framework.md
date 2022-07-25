@@ -5,6 +5,7 @@ talk_slug: introducing-rhino-shiny-application-framework
 talk_type: regular
 talk_tags: [production, shiny, tool]
 session_slug: big-shiny-apps
+sched_url: https://rstudioconf2022.sched.com/event/11ibf
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Introducing Rhino: Shiny application framework for enterprise"

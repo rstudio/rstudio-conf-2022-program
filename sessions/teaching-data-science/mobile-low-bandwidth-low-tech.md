@@ -5,6 +5,7 @@ talk_slug: mobile-low-bandwidth-low-tech
 talk_type: regular
 talk_tags: [data-for-good, interop, story, teaching]
 session_slug: teaching-data-science
+sched_url: https://rstudioconf2022.sched.com/event/11iYi
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Mobile, Low-Bandwidth and Low-Tech. The Story of Chi-Square Mobile."

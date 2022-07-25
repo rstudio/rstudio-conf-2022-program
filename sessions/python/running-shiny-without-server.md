@@ -5,6 +5,7 @@ talk_slug: running-shiny-without-server
 talk_type: regular
 talk_tags: [python, shiny, tool]
 session_slug: python
+sched_url: https://rstudioconf2022.sched.com/event/11iZr
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Running Shiny without a server"

@@ -3,13 +3,14 @@
 talk_id: 22149
 talk_slug: quarto-for-rmarkdown-users
 talk_type: regular
-talk_tags: [communication, tool]
+talk_tags: [communication, tool, Quarto]
 session_slug: rmarkdown-quarto
+sched_url: https://rstudioconf2022.sched.com/event/11iZa
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "Quarto for RMarkdown Users"
+talk_title: "Quarto for the Curious"
 # A short version of the title, suitable for small displays
-talk_title_short: Quarto for RMarkdown Users
+talk_title_short: Quarto for the Curious
 # A link to your talk's materials, when ready
 talk_materials_url: ~
 speakers:

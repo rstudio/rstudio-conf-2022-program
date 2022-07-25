@@ -5,13 +5,14 @@ talk_slug: benefit-of-talking-to-non-datas
 talk_type: regular
 talk_tags: [access, career-development, communication, community]
 session_slug: working-with-people
+sched_url: https://rstudioconf2022.sched.com/event/11iaC
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "The Benefit of Talking to the \"Non-Datas\""
 # A short version of the title, suitable for small displays
 talk_title_short: The Benefit of Talking to the "Non-Datas"
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://rconf-2022-caro-buck.netlify.app/#/section
 speakers:
 - name: Caro Buck
   affiliation: Wunderman Thompson

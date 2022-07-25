@@ -7,9 +7,9 @@ on:
         description: Comma-separated list of sched usernames for speakers to update
         required: false
         default: ''
-  # push:
-  #   branches: [main]
-  #   paths: ['sessions/**.md', 'assets/**']
+  push:
+    branches: [main]
+    paths: ['sessions/**.md']
   pull_request:
     branches: [main]
     paths: ['sessions/**.md', 'assets/**']
@@ -19,14 +19,30 @@ name: sched-update
 jobs:
   sched-update:
     runs-on: ubuntu-20.04
+
+    # Only run one deploy-to-sched workflow at a time on main
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.event.pull_request.number || 'main' }}
+
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
       SCHED_CONF_2022: ${{ secrets.SCHED_CONF_2022 }}
+
     steps:
-      - name: Checkout repo
+      - name: '[pr] Checkout repo'
         uses: actions/checkout@v2
+        if: ${{ github.event_name == 'pull_request' }}
         with:
           fetch-depth: 0
+
+      - name: '[main] Checkout repo'
+        uses: actions/checkout@v2
+        if: ${{ github.event_name != 'pull_request' }}
+        with:
+          fetch-depth: 0
+          # Requires personal token to get around branch protections on `main`
+          # This token has "repo" scope and a limited lifetime
+          token: ${{ secrets.TOKEN_GITHUB }}
 
       - uses: r-lib/actions/setup-pandoc@v2
 
@@ -47,11 +63,15 @@ jobs:
           SCHED_UPDATE_SPEAKERS: ${{ github.event.inputs.speakers }}
         run: Rscript 'R/01_talks.R'
 
-      ### Disabled for now, requires access to Google Sheets ###
-      # - name: [sched] Update workshops
-      #   if: ${{ github.event_name != 'pull_request' }}
-      #   run: Rscript 'R/02_workshops.R'
-      #
-      # - name: [sched] Update social events
-      #   if: ${{ github.event_name != 'pull_request' }}
-      #   run: Rscript 'R/03_social-bof.R'
+      - name: '[json] Update program.json'
+        if: ${{ github.event_name != 'pull_request' }}
+        run: Rscript 'R/44_program-data.R'
+
+      - name: '[json] Commit and push program.json'
+        if: ${{ github.event_name != 'pull_request' }}
+
+        run: |
+          git config --local user.name "rstudio-conf-bot"
+          git config --local user.email "rstudio-conf-bot@users.noreply.github.com"
+          git add program.json && git commit -m "Update program.json" || echo "No program.json"
+          git push origin main || echo "No updates to push"

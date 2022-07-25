@@ -5,13 +5,14 @@ talk_slug: let-mobile-shine-leveraging-css
 talk_type: lightning
 talk_tags: [design, html/css/js, shiny]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11iaO
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Let your mobile shine - Leveraging CSS concepts to make shiny apps mobile responsive"
 # A short version of the title, suitable for small displays
 talk_title_short: "Let your mobile shine: Making shiny apps mobile responsive"
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://docs.google.com/presentation/d/1HKcMBQiFo6oC5Cj3OFf6wlGuSGQxADyxJMG_74cNwaU/edit#slide=id.g116406a1a2a_2_135
 speakers:
 - name: Shelmith Nyagathiri Kariuki
   affiliation: Data Analytics Consultant

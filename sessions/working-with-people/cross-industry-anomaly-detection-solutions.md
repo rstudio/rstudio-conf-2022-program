@@ -5,6 +5,7 @@ talk_slug: cross-industry-anomaly-detection-solutions
 talk_type: regular
 talk_tags: [access, modeling, shiny]
 session_slug: working-with-people
+sched_url: https://rstudioconf2022.sched.com/event/11iaj
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Cross-Industry Anomaly Detection Solutions with R and Shiny"

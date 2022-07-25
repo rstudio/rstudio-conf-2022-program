@@ -5,13 +5,14 @@ talk_slug: future-of-missing-data
 talk_type: lightning
 talk_tags: [tool]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11ia4
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "The Future of missing data"
 # A short version of the title, suitable for small displays
 talk_title_short: The Future of missing data
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/rstudio/rstudio-conf/blob/master/2022/nicholastierney/The%20Future%20of%20NA%20Data.pdf
 speakers:
 - name: Nicholas Tierney
   affiliation: Telethon Kids Institute, Perth, Australia

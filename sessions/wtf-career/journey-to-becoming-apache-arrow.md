@@ -5,6 +5,7 @@ talk_slug: journey-to-becoming-apache-arrow
 talk_type: regular
 talk_tags: [career-development, community, programming, story]
 session_slug: wtf-career
+sched_url: https://rstudioconf2022.sched.com/event/11iZf
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "What they forgot to teach you about becoming an open source contributor"

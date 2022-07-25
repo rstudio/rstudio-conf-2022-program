@@ -5,6 +5,7 @@ talk_slug: anchorage-built-alaskas-vaccine-finder
 talk_type: regular
 talk_tags: [interop, process, production, story]
 session_slug: rapid-response
+sched_url: https://rstudioconf2022.sched.com/event/11iYq
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "How Anchorage Built Alaska’s Vaccine Finder with R"
@@ -49,8 +50,6 @@ vaccine.
 
 This talk will cover how we used R to build Alaska's vaccine finder. Including:
 
--Scraping and http packages (rvest &httr) -Using Heroku and S3 to run R jobs
-24/7 -Creating a flexible data service with R
-
-Ben Matheson is the Data Analyst for the Anchorage Innovation Team, a startup
-inside city government in Anchorage, AK.
+- Scraping and http packages (rvest & httr)
+- Using Heroku and S3 to run R jobs 24/7 
+- Creating a flexible data service with R

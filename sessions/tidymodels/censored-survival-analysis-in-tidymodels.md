@@ -5,6 +5,7 @@ talk_slug: censored-survival-analysis-in-tidymodels
 talk_type: regular
 talk_tags: [modeling, tool]
 session_slug: tidymodels
+sched_url: https://rstudioconf2022.sched.com/event/11iYT
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "censored - Survival Analysis in tidymodels"

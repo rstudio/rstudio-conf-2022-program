@@ -5,13 +5,14 @@ talk_slug: exploratory-spatial-data-analysis
 talk_type: lightning
 talk_tags: [spatial, tidyverse, tool]
 session_slug: lightning-talks
+sched_url: https://rstudioconf2022.sched.com/event/11iad
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Exploratory Spatial Data Analysis in the tidyverse"
 # A short version of the title, suitable for small displays
 talk_title_short: Exploratory Spatial Data Analysis in the tidyverse
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/rstudio/rstudio-conf/blob/master/2022/josiahparry/rstudio__conf(2022L)%20-%20Josiah%20Parry.pdf
 speakers:
 - name: Josiah Parry
   affiliation: The NPD Group

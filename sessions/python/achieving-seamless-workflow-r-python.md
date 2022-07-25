@@ -5,6 +5,7 @@ talk_slug: achieving-seamless-workflow-r-python
 talk_type: regular
 talk_tags: [interop, modeling, public-sector, story]
 session_slug: python
+sched_url: https://rstudioconf2022.sched.com/event/11ia6
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Achieving a seamless workflow between R, Python and SAS from within RStudio"

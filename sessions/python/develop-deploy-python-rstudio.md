@@ -5,6 +5,7 @@ talk_slug: develop-deploy-python-rstudio
 talk_type: regular
 talk_tags: [interop, pro-products, python]
 session_slug: python
+sched_url: https://rstudioconf2022.sched.com/event/11iae
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Yes, you can use Python with RStudio Team!"

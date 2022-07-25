@@ -5,6 +5,7 @@ talk_slug: r-package-assessment-lessons-pharma
 talk_type: regular
 talk_tags: [pharma, process, programming]
 session_slug: r-in-pharma
+sched_url: https://rstudioconf2022.sched.com/event/11iYh
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "R Package Assessment: Lessons from Pharma"

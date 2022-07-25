@@ -1,10 +1,11 @@
 ---
 # Do not edit
 talk_id: 22234
-talk_slug: websites-books-blogs-oh-creating
+talk_slug: sessions/quarto-deep-dive/websites-books-blogs-quarto.md
 talk_type: regular
-talk_tags: [communication]
+talk_tags: [communication, Quarto]
 session_slug: quarto-deep-dive
+sched_url: https://rstudioconf2022.sched.com/event/11ibV
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Websites & Books & Blogs, oh my! Creating Rich Content with Quarto"

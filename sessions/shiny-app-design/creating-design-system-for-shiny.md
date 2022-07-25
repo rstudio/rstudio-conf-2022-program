@@ -5,6 +5,7 @@ talk_slug: creating-design-system-for-shiny
 talk_type: regular
 talk_tags: [design, shiny]
 session_slug: shiny-app-design
+sched_url: https://rstudioconf2022.sched.com/event/11iay
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Creating a Design System for Shiny and RMarkdown"

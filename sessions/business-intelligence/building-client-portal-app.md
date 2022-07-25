@@ -5,6 +5,7 @@ talk_slug: building-client-portal-app
 talk_type: regular
 talk_tags: [finance, interop, shiny]
 session_slug: business-intelligence
+sched_url: https://rstudioconf2022.sched.com/event/11iYb
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Building a client portal app for a mortgage management group with embedded Power BI reports"

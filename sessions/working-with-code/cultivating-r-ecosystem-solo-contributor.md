@@ -5,13 +5,14 @@ talk_slug: cultivating-r-ecosystem-solo-contributor
 talk_type: regular
 talk_tags: [career-development, champion, communication, interop, production]
 session_slug: working-with-code
+sched_url: https://rstudioconf2022.sched.com/event/11ibA
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Cultivating Your Own R Ecosystem as a Solo Contributor"
 # A short version of the title, suitable for small displays
 talk_title_short: Cultivating Your Own R Ecosystem as a Solo Contributor
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://meghan.rbind.io/talk/rstudioconf/
 speakers:
 - name: Meghan Hall
   affiliation: Brown University

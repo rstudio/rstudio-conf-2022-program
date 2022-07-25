@@ -5,6 +5,7 @@ talk_slug: wtf-teach-you-industry
 talk_type: regular
 talk_tags: [career-development, story]
 session_slug: wtf-career
+sched_url: https://rstudioconf2022.sched.com/event/11iZQ
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "What they forgot to teach you about industry transitions from academia (WTF AITA)"

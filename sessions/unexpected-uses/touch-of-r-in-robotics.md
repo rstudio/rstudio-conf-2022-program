@@ -5,6 +5,7 @@ talk_slug: touch-of-r-in-robotics
 talk_type: regular
 talk_tags: [champion, interop, recreational]
 session_slug: unexpected-uses
+sched_url: https://rstudioconf2022.sched.com/event/11iaY
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "A touch of R in Robotics"
@@ -24,16 +25,12 @@ speakers:
   username: eric_wanjau
   photo: /assets/img/2022Conf/_talks/22132_eric-wanjau.png
   bio: |+
-    Eric is an Early Career Researcher who continually seeks to tackle
-    real-world challenges using applied research, data analytics and
-    machine learning; all wrapped in unbridled empathy and enthusiasm. He
-    is currently a Researcher/Data Scientist at the Leeds Institute for
-    Data Analytics (LIDA) in the University of Leeds. He has also done
-    research in robotics, computer vision and speech processing in Japan
-    and Kenya, aimed at creating safe working environments and exploring
-    human-robot interaction in board games. Eric is a co-founder and co-
-    organizer of DekutR data science club at Dedan Kimathi University of
-    Technology, Kenya. He plays the guitar (terribly but passionately).
+    Eric is an Early Career Researcher at the Leeds Institute for
+    Data Analytics (LIDA) in the University of Leeds. His research interests
+    span domains such as robotics, computer vision, and signal processing.
+    Eric is a co-founder and co-organizer of DekutR data science club at
+    Dedan Kimathi University of Technology, Kenya.
+    He plays the guitar (terribly but passionately).
 
 - name: Ian Muchiri
   affiliation: Dedan Kimathi University of Technology

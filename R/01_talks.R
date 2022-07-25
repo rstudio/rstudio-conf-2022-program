@@ -2,8 +2,6 @@
 # https://rstudioconf2022.sched.com/editor
 # https://sched.com/api
 
-# TODO: replace generic track names with real room names
-
 library(lubridate)
 library(tidyverse)
 library(purrr)
@@ -20,7 +18,9 @@ talks <-
   select(talk_id, talk_title, talk_materials_url, speakers) |>
   mutate(
     abstract = talk_data$abstract,
-    talk_tags = map(talk_data$yaml, "talk_tags") |> map_chr(paste, collapse = ", ")
+    talk_tags = map(talk_data$yaml, "talk_tags")|>
+      map(c, "live stream") |>
+      map_chr(paste, collapse = ", ")
   )
 
 speakers <-
@@ -40,18 +40,17 @@ speakers <-
 
 # Combine with talk times to generate program -----------------------------
 
-# Made up room names for now
-rooms <- tribble(
-  ~ track, ~ room,
-  "plenary", "Nile",
-  "A", "Amazon",
-  "B", "Yangtze",
-  "C", "Mississippi",
-  "D", "Yenisey"
-)
+rooms <- source(here("R/00_rooms.R"))$value |> select(track, room, room_name)
 
-sessions <- read_csv(here("_data/28-session-slug-titles_synched.csv"), col_types = list()) |>
-  select(session_slug = slug, session_title = title)
+sessions <-
+  here("_data/28-session-slug-titles_synched.csv") |>
+  read_csv(col_types = list()) |>
+  select(session_slug = slug, session_title = title) |>
+  mutate(session_title = if_else(
+    str_detect(session_title, "R be nimble"),
+    "Rapidly responding to world events with R",
+    session_title
+  ))
 
 first_upper <- function(x) {
   str_sub(x, 1, 1) <- str_to_upper(str_sub(x, 1, 1))
@@ -80,7 +79,9 @@ program_sched <- program %>%
     session_key = talk_id,
     name = talk_title,
     description = abstract,
-    session_type = ifelse(talk_type == "Keynote", "Keynote", paste0("Track ", track)),
+    # give paragraphs some room to breathe on sched
+    description = gsub("\n<(ul|p|ol)>", "<br><\\1>", description),
+    session_type = ifelse(talk_type == "Keynote", "Keynote", paste("Track", room_name)),
     session_subtype = ifelse(talk_type == "Regular", session_title, NA),
     session_start = start,
     session_end = end,
@@ -118,6 +119,7 @@ speaker_sched <-
 updated_speakers <- Sys.getenv("SCHED_UPDATE_SPEAKERS", "")
 
 if (nzchar(updated_speakers)) {
+  message("Updating speakers: ", updated_speakers)
   # only update requested speakers
   updated_speakers <- strsplit(updated_speakers, "\\s*,\\s*")[[1]]
 

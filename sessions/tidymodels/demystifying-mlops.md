@@ -5,6 +5,7 @@ talk_slug: demystifying-mlops
 talk_type: regular
 talk_tags: [interop, modeling, programming, tool]
 session_slug: tidymodels
+sched_url: https://rstudioconf2022.sched.com/event/11iYe
 # ---- Edit information below this line ----
 # The title of your talk
 talk_title: "Demystifying MLOps"
