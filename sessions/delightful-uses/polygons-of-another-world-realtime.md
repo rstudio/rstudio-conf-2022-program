@@ -8,11 +8,11 @@ session_slug: delightful-uses
 sched_url: https://rstudioconf2022.sched.com/event/11ibb
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "The Polygons of Another World - realtime interactive rendering in R"
+talk_title: "The Polygons of Another World - interactive graphics rendering in R"
 # A short version of the title, suitable for small displays
-talk_title_short: The Polygons of Another World - realtime interactive rendering in R
+talk_title_short: The Polygons of Another World - interactive graphics rendering in R
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/coolbutuseless/RStudioConf-2022
 speakers:
 - name: Mike Cheng
   affiliation: ~
@@ -25,7 +25,7 @@ speakers:
   username: mike_cheng
   photo: /assets/img/2022Conf/_talks/22135_mike-cheng.png
   bio: |+
-    TBD. Will write this when I get the chance
+    I code in R in pharma for living.  I enjoy exploring the limits of R.
 
 
 ---
