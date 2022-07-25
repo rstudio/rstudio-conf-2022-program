@@ -12,7 +12,7 @@ talk_title: "Digging a Pit of Success for Your Organization: Embracing a R-based
 # A short version of the title, suitable for small displays
 talk_title_short: Digging a Pit of Success for Your Organization
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://speakerdeck.com/achafetz/digging-a-pit-of-success-for-your-organization
 speakers:
 - name: Aaron Chafetz
   affiliation: US Agency for International Development
