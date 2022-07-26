@@ -1318,8 +1318,8 @@
       "sched_url": "https://rstudioconf2022.sched.com/event/11ibb",
       "title": "The Polygons of Another World - realtime interactive rendering in R",
       "title_short": "The Polygons of Another World - realtime interactive rendering in R",
-      "materials_url": null,
-      "abstract": "<p>In this talk I want to explore R's capabilities for fast, interactive graphical applications.  This exploration is driven by my ongoing port of the 1991 action adventure game &quot;Another World&quot;, but these capabilities also open up possibilities for new visualisations and applications in R.<\/p>\n<p>The porting of this game is a 'moonshot' project as I try to discover the techniques and tools needed for fast (&gt;20fps) interactive (keyboard + mouse) rendering to R graphics devices. A further constraint is that I want all this to be done in plain R - avoiding any C or javascript as much as possible.<\/p>\n<p>I will discuss three of the key challenges faced: graphics device speed, fast double-buffered rendering and event-driven programming for interactivity.<\/p>\n<p>I will showcase the capability of R to render 5000 moving sprites using the <code>nara<\/code> package, an interactive drum machine with the <code>eventloop<\/code> package, and my progress with the 'Another World' game engine with animation, keyboard control and synchronised sound.<\/p>\n",
+      "materials_url": "https://github.com/coolbutuseless/RStudioConf-2022",
+      "abstract": "<p>In this talk I want to explore R's capabilities for fast, interactive graphical applications.  This exploration is driven by my ongoing port of the 1991 action adventure game &quot;Another World&quot;, but these capabilities also open up possibilities for new visualisations and applications in R.<\/p>\n<p>The porting of this game is a 'moonshot' project as I try to discover the techniques and tools needed for fast (&gt;20fps) interactive (keyboard + mouse) rendering to R graphics devices. A further constraint is that I want all this to be done in plain R - avoiding any C or javascript as much as possible.<\/p>\n<p>I will discuss three of the key challenges faced: graphics device speed, fast double-buffered rendering and event-driven programming for interactivity.<\/p>\n<p>I will showcase the capability of R to render 5000 moving sprites using the <code>nara<\/code> package, an interactive drum machine with the <code>eventloop<\/code> package, and my progress with the 'Another World' game engine with animation, keyboard control and synchronised sound.<\/p>\n<p>Talk materials are available at <a href=\"https://github.com/coolbutuseless/RStudioConf-2022\" target=\"_blank\">https://github.com/coolbutuseless/RStudioConf-2022<\/a>.",
       "day": "2022-07-28",
       "start": "2022-07-28T16:00:00ZEDT",
       "end": "2022-07-28T16:20:00ZEDT"
@@ -1345,7 +1345,7 @@
         },
         "username": "mike_cheng",
         "photo": "https://raw.githubusercontent.com/rstudio/rstudio-conf-2022-program/main/assets/img/2022Conf/_talks/22135_mike-cheng.png",
-        "bio": "<p>TBD. Will write this when I get the chance<\/p>\n"
+        "bio": "<p>I code in R in pharma for living.  I enjoy exploring the limits of R.<\/p>\n"
       }
     ]
   },
@@ -3285,8 +3285,8 @@
       "sched_url": "https://rstudioconf2022.sched.com/event/11iZU",
       "title": "Sometimes you just need words",
       "title_short": "Sometimes you just need words",
-      "materials_url": null,
-      "abstract": "<p>This talk will trace the evolution of a report from a mostly text free dashboard\ninto a text heavy R markdown report with dynamic text blocks. The report in\nquestion is provided to the largest financial institutions in the U.S., but the\naudience for the data largely is composed of compliance experts and lawyers.<\/p>\n<p>The interface between data products, and people who make decisions is often the\nmost difficult piece in a project. Frequently, what your audience really needs\nis words! This talk will help you recognize when you need more narrative and\nwill provide some helpful technical advice to get you there, including how to\nuse existing word templates and how to use <code>whisker::<\/code> and <code>glue::<\/code> to help you\ndynamically generate text.<\/p>\n",
+      "materials_url": "https://github.com/lmkirvan/presentation",
+      "abstract": "<p>This talk will trace the evolution of a report from a mostly text free dashboard\ninto a text heavy R markdown report with dynamic text blocks. The report in\nquestion is provided to the largest financial institutions in the U.S., but the\naudience for the data largely is composed of compliance experts and lawyers.<\/p>\n<p>The interface between data products, and people who make decisions is often the\nmost difficult piece in a project. Frequently, what your audience really needs\nis words! This talk will help you recognize when you need more narrative and\nwill provide some helpful technical advice to get you there, including how to\nuse existing word templates and how to use <code>whisker::<\/code> and <code>glue::<\/code> to help you\ndynamically generate text.<\/p>\n<p>Talk materials are available at <a href=\"https://github.com/lmkirvan/presentation\" target=\"_blank\">https://github.com/lmkirvan/presentation<\/a>.",
       "day": "2022-07-27",
       "start": "2022-07-27T15:40:00ZEDT",
       "end": "2022-07-27T16:00:00ZEDT"
