@@ -12,7 +12,7 @@ talk_title: "Sometimes you just need words"
 # A short version of the title, suitable for small displays
 talk_title_short: Sometimes you just need words
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/lmkirvan/presentation
 speakers:
 - name: Lewis Kirvan
   affiliation: Consumer Financial Protection Bureau
