@@ -12,7 +12,7 @@ talk_title: "Exploring Query Optimization: How a few lines of code can save hour
 # A short version of the title, suitable for small displays
 talk_title_short: Exploring Query Optimization
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: ~https://github.com/bhadi26/rstudio-conf-2022-slides/blob/main/rebecca-hadi-r-studio-presentation-2022.pptx
 speakers:
 - name: Rebecca Hadi
   affiliation: Lyn Health
