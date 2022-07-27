@@ -2128,8 +2128,8 @@
       "sched_url": "https://rstudioconf2022.sched.com/event/11iaS",
       "title": "Visualizing distributions and uncertainty using ggdist",
       "title_short": "Visualizing distributions and uncertainty using ggdist",
-      "materials_url": null,
-      "abstract": "<p>I propose a talk on visualizing distributions and uncertainty using {ggdist}.\nI will describe how to think systematically about distributional visualization\nas mappings of PDFs, CDFs, and quantile functions onto aesthetics, and how\nsupport for this enables creative and easy exploration of the space of possible\nuncertainty visualizations. I will highlight features like true gradient support\nin R 4.1, support for distribution vector datatypes, and the automatic binwidth-\nselecting geom_dots(). I expect to leave the audience with: (1) a systemic\nway to think about visualizing distributions and uncertainty in the grammar of\ngraphics and (2) an understanding of how to actually do it using ggdist.<\/p>\n",
+      "materials_url": "https://www.mjskay.com/presentations/rstudio-conf-2022-talk.pdf",
+      "abstract": "<p>I propose a talk on visualizing distributions and uncertainty using {ggdist}.\nI will describe how to think systematically about distributional visualization\nas mappings of PDFs, CDFs, and quantile functions onto aesthetics, and how\nsupport for this enables creative and easy exploration of the space of possible\nuncertainty visualizations. I will highlight features like true gradient support\nin R 4.1, support for distribution vector datatypes, and the automatic binwidth-\nselecting geom_dots(). I expect to leave the audience with: (1) a systemic\nway to think about visualizing distributions and uncertainty in the grammar of\ngraphics and (2) an understanding of how to actually do it using ggdist.<\/p>\n<p>Talk materials are available at <a href=\"https://www.mjskay.com/presentations/rstudio-conf-2022-talk.pdf\" target=\"_blank\">https://www.mjskay.com/presentations/rstudio-conf-2022-talk.pdf<\/a>.",
       "day": "2022-07-28",
       "start": "2022-07-28T11:35:00ZEDT",
       "end": "2022-07-28T11:40:00ZEDT"
