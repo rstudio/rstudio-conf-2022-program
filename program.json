@@ -22,6 +22,7 @@
       "slug": "advanced-r",
       "title": "Just typing R code: advanced R programming",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-28",
       "start": "2022-07-28T15:20:00ZEDT",
       "end": "2022-07-28T16:20:00ZEDT"
@@ -65,6 +66,7 @@
       "slug": "advanced-r",
       "title": "Just typing R code: advanced R programming",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-28",
       "start": "2022-07-28T15:20:00ZEDT",
       "end": "2022-07-28T16:20:00ZEDT"
@@ -109,6 +111,7 @@
       "slug": "advanced-r",
       "title": "Just typing R code: advanced R programming",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-28",
       "start": "2022-07-28T15:20:00ZEDT",
       "end": "2022-07-28T16:20:00ZEDT"
@@ -153,6 +156,7 @@
       "slug": "big-shiny-apps",
       "title": "I like big apps: shiny apps that scale",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T15:20:00ZEDT",
       "end": "2022-07-28T16:20:00ZEDT"
@@ -197,6 +201,7 @@
       "slug": "big-shiny-apps",
       "title": "I like big apps: shiny apps that scale",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T15:20:00ZEDT",
       "end": "2022-07-28T16:20:00ZEDT"
@@ -240,6 +245,7 @@
       "slug": "big-shiny-apps",
       "title": "I like big apps: shiny apps that scale",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T15:20:00ZEDT",
       "end": "2022-07-28T16:20:00ZEDT"
@@ -285,6 +291,7 @@
       "slug": "bringing-people-together",
       "title": "Cat herding: solving big problems by bringing people together",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -329,6 +336,7 @@
       "slug": "bringing-people-together",
       "title": "Cat herding: solving big problems by bringing people together",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -373,6 +381,7 @@
       "slug": "bringing-people-together",
       "title": "Cat herding: solving big problems by bringing people together",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -418,6 +427,7 @@
       "slug": "bringing-people-together",
       "title": "Cat herding: solving big problems by bringing people together",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -462,6 +472,7 @@
       "slug": "business-intelligence",
       "title": "Business intelligence",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-27",
       "start": "2022-07-27T11:00:00ZEDT",
       "end": "2022-07-27T12:00:00ZEDT"
@@ -519,6 +530,7 @@
       "slug": "business-intelligence",
       "title": "Business intelligence",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-27",
       "start": "2022-07-27T11:00:00ZEDT",
       "end": "2022-07-27T12:00:00ZEDT"
@@ -562,6 +574,7 @@
       "slug": "business-intelligence",
       "title": "Business intelligence",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-27",
       "start": "2022-07-27T11:00:00ZEDT",
       "end": "2022-07-27T12:00:00ZEDT"
@@ -608,6 +621,7 @@
       "slug": "communities-of-practice",
       "title": "It takes a village: building communities of practice",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -652,6 +666,7 @@
       "slug": "communities-of-practice",
       "title": "It takes a village: building communities of practice",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -697,6 +712,7 @@
       "slug": "communities-of-practice",
       "title": "It takes a village: building communities of practice",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -742,6 +758,7 @@
       "slug": "communities-of-practice",
       "title": "It takes a village: building communities of practice",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -786,6 +803,7 @@
       "slug": "data-quality",
       "title": "Generating high quality data",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -830,6 +848,7 @@
       "slug": "data-quality",
       "title": "Generating high quality data",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -874,6 +893,7 @@
       "slug": "data-quality",
       "title": "Generating high quality data",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -918,6 +938,7 @@
       "slug": "data-quality",
       "title": "Generating high quality data",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -976,6 +997,7 @@
       "slug": "data-science-in-production",
       "title": "Data science in production",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -1020,6 +1042,7 @@
       "slug": "data-science-in-production",
       "title": "Data science in production",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -1064,6 +1087,7 @@
       "slug": "data-science-in-production",
       "title": "Data science in production",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -1108,6 +1132,7 @@
       "slug": "data-science-in-production",
       "title": "Data science in production",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -1153,6 +1178,7 @@
       "slug": "databases",
       "title": "Databases",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-27",
       "start": "2022-07-27T15:20:00ZEDT",
       "end": "2022-07-27T16:20:00ZEDT"
@@ -1197,6 +1223,7 @@
       "slug": "databases",
       "title": "Databases",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-27",
       "start": "2022-07-27T15:20:00ZEDT",
       "end": "2022-07-27T16:20:00ZEDT"
@@ -1241,6 +1268,7 @@
       "slug": "databases",
       "title": "Databases",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-27",
       "start": "2022-07-27T15:20:00ZEDT",
       "end": "2022-07-27T16:20:00ZEDT"
@@ -1284,6 +1312,7 @@
       "slug": "delightful-uses",
       "title": "Eye candy: surprising and delightful uses of R",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-28",
       "start": "2022-07-28T15:20:00ZEDT",
       "end": "2022-07-28T16:20:00ZEDT"
@@ -1328,6 +1357,7 @@
       "slug": "delightful-uses",
       "title": "Eye candy: surprising and delightful uses of R",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-28",
       "start": "2022-07-28T15:20:00ZEDT",
       "end": "2022-07-28T16:20:00ZEDT"
@@ -1371,6 +1401,7 @@
       "slug": "delightful-uses",
       "title": "Eye candy: surprising and delightful uses of R",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-28",
       "start": "2022-07-28T15:20:00ZEDT",
       "end": "2022-07-28T16:20:00ZEDT"
@@ -1413,6 +1444,7 @@
       "slug": "applied-machine-learning",
       "title": "Keynote: Good practices for applied machine learning - from model development to model deployment",
       "room": "Potomac A+B",
+      "slido": "https://sli.do/RKEYNOTE",
       "day": "2022-07-27",
       "start": "2022-07-27T09:00:00ZEDT",
       "end": "2022-07-27T10:30:00ZEDT"
@@ -1471,6 +1503,7 @@
       "slug": "collaborate-with-quarto",
       "title": "Keynote: Hello Quarto: Share • Collaborate • Teach • Reimagine",
       "room": "Potomac A+B",
+      "slido": "https://sli.do/RKEYNOTE",
       "day": "2022-07-28",
       "start": "2022-07-28T09:00:00ZEDT",
       "end": "2022-07-28T10:00:00ZEDT"
@@ -1529,6 +1562,7 @@
       "slug": "data-science-training",
       "title": "Keynote: Data science training in communities with limited technology resources and opportunities",
       "room": "Potomac A+B",
+      "slido": "https://sli.do/RKEYNOTE",
       "day": "2022-07-28",
       "start": "2022-07-28T16:30:00ZEDT",
       "end": "2022-07-28T17:30:00ZEDT"
@@ -1572,6 +1606,7 @@
       "slug": "past-future-shiny",
       "title": "Keynote: The Past and Future of Shiny",
       "room": "Potomac A+B",
+      "slido": "https://sli.do/RKEYNOTE",
       "day": "2022-07-27",
       "start": "2022-07-27T16:30:00ZEDT",
       "end": "2022-07-27T17:30:00ZEDT"
@@ -1616,6 +1651,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -1660,6 +1696,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -1704,6 +1741,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -1746,6 +1784,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -1790,6 +1829,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -1833,6 +1873,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -1876,6 +1917,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -1920,6 +1962,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -1962,6 +2005,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -2006,6 +2050,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -2051,6 +2096,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -2094,6 +2140,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -2138,6 +2185,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -2182,6 +2230,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -2226,6 +2275,7 @@
       "slug": "lightning-talks",
       "title": "Lightning talks",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:45:00ZEDT"
@@ -2272,6 +2322,7 @@
       "slug": "machine-learning",
       "title": "Machine learning",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-27",
       "start": "2022-07-27T15:20:00ZEDT",
       "end": "2022-07-27T16:20:00ZEDT"
@@ -2315,6 +2366,7 @@
       "slug": "machine-learning",
       "title": "Machine learning",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-27",
       "start": "2022-07-27T15:20:00ZEDT",
       "end": "2022-07-27T16:20:00ZEDT"
@@ -2358,6 +2410,7 @@
       "slug": "machine-learning",
       "title": "Machine learning",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-27",
       "start": "2022-07-27T15:20:00ZEDT",
       "end": "2022-07-27T16:20:00ZEDT"
@@ -2402,6 +2455,7 @@
       "slug": "makeovers",
       "title": "Take a sad process and make it better: project and process makeovers",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -2446,6 +2500,7 @@
       "slug": "makeovers",
       "title": "Take a sad process and make it better: project and process makeovers",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -2489,6 +2544,7 @@
       "slug": "makeovers",
       "title": "Take a sad process and make it better: project and process makeovers",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -2534,6 +2590,7 @@
       "slug": "makeovers",
       "title": "Take a sad process and make it better: project and process makeovers",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -2579,6 +2636,7 @@
       "slug": "python",
       "title": "Some of my best friends use Python",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:50:00ZEDT"
@@ -2623,6 +2681,7 @@
       "slug": "python",
       "title": "Some of my best friends use Python",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:50:00ZEDT"
@@ -2682,6 +2741,7 @@
       "slug": "python",
       "title": "Some of my best friends use Python",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:50:00ZEDT"
@@ -2726,6 +2786,7 @@
       "slug": "python",
       "title": "Some of my best friends use Python",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:50:00ZEDT"
@@ -2770,6 +2831,7 @@
       "slug": "quarto-deep-dive",
       "title": "Quarto deep dive",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-28",
       "start": "2022-07-28T15:20:00ZEDT",
       "end": "2022-07-28T16:20:00ZEDT"
@@ -2813,6 +2875,7 @@
       "slug": "quarto-deep-dive",
       "title": "Quarto deep dive",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-28",
       "start": "2022-07-28T15:20:00ZEDT",
       "end": "2022-07-28T16:20:00ZEDT"
@@ -2856,6 +2919,7 @@
       "slug": "quarto-deep-dive",
       "title": "Quarto deep dive",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-28",
       "start": "2022-07-28T15:20:00ZEDT",
       "end": "2022-07-28T16:20:00ZEDT"
@@ -2901,6 +2965,7 @@
       "slug": "r-in-pharma",
       "title": "Drugs not bugs: effective use of R in pharma",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-27",
       "start": "2022-07-27T11:00:00ZEDT",
       "end": "2022-07-27T12:00:00ZEDT"
@@ -2945,6 +3010,7 @@
       "slug": "r-in-pharma",
       "title": "Drugs not bugs: effective use of R in pharma",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-27",
       "start": "2022-07-27T11:00:00ZEDT",
       "end": "2022-07-27T12:00:00ZEDT"
@@ -2989,6 +3055,7 @@
       "slug": "r-in-pharma",
       "title": "Drugs not bugs: effective use of R in pharma",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-27",
       "start": "2022-07-27T11:00:00ZEDT",
       "end": "2022-07-27T12:00:00ZEDT"
@@ -3034,6 +3101,7 @@
       "slug": "rapid-response",
       "title": "Rapidly responding to world events with R",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -3078,6 +3146,7 @@
       "slug": "rapid-response",
       "title": "Rapidly responding to world events with R",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -3122,6 +3191,7 @@
       "slug": "rapid-response",
       "title": "Rapidly responding to world events with R",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -3165,6 +3235,7 @@
       "slug": "rapid-response",
       "title": "Rapidly responding to world events with R",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T14:50:00ZEDT"
@@ -3208,6 +3279,7 @@
       "slug": "rmarkdown-quarto",
       "title": "RMarkdown and Quarto",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-27",
       "start": "2022-07-27T15:20:00ZEDT",
       "end": "2022-07-27T16:20:00ZEDT"
@@ -3252,6 +3324,7 @@
       "slug": "rmarkdown-quarto",
       "title": "RMarkdown and Quarto",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-27",
       "start": "2022-07-27T15:20:00ZEDT",
       "end": "2022-07-27T16:20:00ZEDT"
@@ -3295,6 +3368,7 @@
       "slug": "rmarkdown-quarto",
       "title": "RMarkdown and Quarto",
       "room": "Potomac C",
+      "slido": "https://sli.do/R4DS",
       "day": "2022-07-27",
       "start": "2022-07-27T15:20:00ZEDT",
       "end": "2022-07-27T16:20:00ZEDT"
@@ -3338,6 +3412,7 @@
       "slug": "shiny-app-design",
       "title": "Pour some glitter on it: polishing the design of your shiny apps",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -3382,6 +3457,7 @@
       "slug": "shiny-app-design",
       "title": "Pour some glitter on it: polishing the design of your shiny apps",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -3425,6 +3501,7 @@
       "slug": "shiny-app-design",
       "title": "Pour some glitter on it: polishing the design of your shiny apps",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -3469,6 +3546,7 @@
       "slug": "shiny-app-design",
       "title": "Pour some glitter on it: polishing the design of your shiny apps",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -3512,6 +3590,7 @@
       "slug": "teaching-data-science",
       "title": "Teaching data science",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-27",
       "start": "2022-07-27T11:00:00ZEDT",
       "end": "2022-07-27T12:00:00ZEDT"
@@ -3557,6 +3636,7 @@
       "slug": "teaching-data-science",
       "title": "Teaching data science",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-27",
       "start": "2022-07-27T11:00:00ZEDT",
       "end": "2022-07-27T12:00:00ZEDT"
@@ -3601,6 +3681,7 @@
       "slug": "teaching-data-science",
       "title": "Teaching data science",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-27",
       "start": "2022-07-27T11:00:00ZEDT",
       "end": "2022-07-27T12:00:00ZEDT"
@@ -3644,6 +3725,7 @@
       "slug": "tidymodels",
       "title": "Updates from the tidymodels team",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-27",
       "start": "2022-07-27T11:00:00ZEDT",
       "end": "2022-07-27T12:00:00ZEDT"
@@ -3689,6 +3771,7 @@
       "slug": "tidymodels",
       "title": "Updates from the tidymodels team",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-27",
       "start": "2022-07-27T11:00:00ZEDT",
       "end": "2022-07-27T12:00:00ZEDT"
@@ -3732,6 +3815,7 @@
       "slug": "tidymodels",
       "title": "Updates from the tidymodels team",
       "room": "Potomac D",
+      "slido": "https://sli.do/INSPIRE",
       "day": "2022-07-27",
       "start": "2022-07-27T11:00:00ZEDT",
       "end": "2022-07-27T12:00:00ZEDT"
@@ -3776,6 +3860,7 @@
       "slug": "unexpected-uses",
       "title": "Unexpected uses of R",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:50:00ZEDT"
@@ -3821,6 +3906,7 @@
       "slug": "unexpected-uses",
       "title": "Unexpected uses of R",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:50:00ZEDT"
@@ -3865,6 +3951,7 @@
       "slug": "unexpected-uses",
       "title": "Unexpected uses of R",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:50:00ZEDT"
@@ -3923,6 +4010,7 @@
       "slug": "unexpected-uses",
       "title": "Unexpected uses of R",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:50:00ZEDT"
@@ -3969,6 +4057,7 @@
       "slug": "working-with-code",
       "title": "Working with code is hard",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -4014,6 +4103,7 @@
       "slug": "working-with-code",
       "title": "Working with code is hard",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -4058,6 +4148,7 @@
       "slug": "working-with-code",
       "title": "Working with code is hard",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -4101,6 +4192,7 @@
       "slug": "working-with-code",
       "title": "Working with code is hard",
       "room": "National Harbor 10+11",
+      "slido": "https://sli.do/DCA",
       "day": "2022-07-28",
       "start": "2022-07-28T13:30:00ZEDT",
       "end": "2022-07-28T14:50:00ZEDT"
@@ -4146,6 +4238,7 @@
       "slug": "working-with-people",
       "title": "Working with people is hard",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:50:00ZEDT"
@@ -4190,6 +4283,7 @@
       "slug": "working-with-people",
       "title": "Working with people is hard",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:50:00ZEDT"
@@ -4233,6 +4327,7 @@
       "slug": "working-with-people",
       "title": "Working with people is hard",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:50:00ZEDT"
@@ -4277,6 +4372,7 @@
       "slug": "working-with-people",
       "title": "Working with people is hard",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-28",
       "start": "2022-07-28T10:30:00ZEDT",
       "end": "2022-07-28T11:50:00ZEDT"
@@ -4336,6 +4432,7 @@
       "slug": "wtf-career",
       "title": "What they forgot to teach you about your career",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-27",
       "start": "2022-07-27T15:20:00ZEDT",
       "end": "2022-07-27T16:20:00ZEDT"
@@ -4379,6 +4476,7 @@
       "slug": "wtf-career",
       "title": "What they forgot to teach you about your career",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-27",
       "start": "2022-07-27T15:20:00ZEDT",
       "end": "2022-07-27T16:20:00ZEDT"
@@ -4423,6 +4521,7 @@
       "slug": "wtf-career",
       "title": "What they forgot to teach you about your career",
       "room": "Cherry Blossom",
+      "slido": "https://sli.do/CONNECTED",
       "day": "2022-07-27",
       "start": "2022-07-27T15:20:00ZEDT",
       "end": "2022-07-27T16:20:00ZEDT"

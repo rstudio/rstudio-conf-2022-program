@@ -35,8 +35,11 @@ talks <-
 
 
 # Combine with talk times to generate program -----------------------------
+slido <- read_csv(here("R/slido.csv"))
 
-rooms <- source(here("R/00_rooms.R"))$value |> select(track, room = room_name)
+rooms <- source(here("R/00_rooms.R"))$value |>
+  left_join(slido, by = "room_name") |>
+  select(track, room = room_name, slido)
 
 sessions <-
   here("_data/28-session-slug-titles_synched.csv") |>
@@ -81,7 +84,7 @@ program <-
   left_join(talk_times, by = "talk_id") |>
   left_join(session_times, by = "session_slug") |>
   mutate(session_title = if_else(talk_type == "Keynote", paste("Keynote:", talk_title), session_title)) |>
-  rename(talk_abstract = abstract, session_room = room) |>
+  rename(talk_abstract = abstract, session_room = room, session_slido = slido) |>
   rename_with(~ paste0("talk_", .x), c(day, start, end, sched_url)) |>
   nest(
     session = contains("session"),

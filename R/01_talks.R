@@ -40,7 +40,11 @@ speakers <-
 
 # Combine with talk times to generate program -----------------------------
 
-rooms <- source(here("R/00_rooms.R"))$value |> select(track, room, room_name)
+slido <- read_csv(here("R/slido.csv"), show_col_types = FALSE)
+
+rooms <- source(here("R/00_rooms.R"))$value |>
+  select(track, room, room_name) |>
+  left_join(slido, by = "room_name")
 
 sessions <-
   here("_data/28-session-slug-titles_synched.csv") |>
@@ -87,6 +91,7 @@ program_sched <- program %>%
     session_end = end,
     tags = talk_tags,
     `Talk Materials` = talk_materials_url,
+    `Slido` = slido,
     venue = room
   )
 program_sched
