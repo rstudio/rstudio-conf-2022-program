@@ -65,7 +65,10 @@ session_times <-
     session_end = max(end),
     .groups = "drop"
   ) |>
-  mutate(across(c(session_start, session_end), strftime, "%FT%TZ%Z", tz = "America/New_York"))
+  mutate(
+    across(c(session_start, session_end), list(local = ~ strftime(.x, "%I:%M %p", tz = "America/New_York"))),
+    across(c(session_start, session_end), strftime, "%FT%TZ%Z", tz = "America/New_York")
+  )
 
 talk_times <-
   all_times |>
@@ -73,6 +76,7 @@ talk_times <-
   left_join(rooms, by = "track") |>
   mutate(
     day = strftime(start, "%F", tz = "America/New_York"),
+    across(c(start, end), list(local = ~ strftime(.x, "%I:%M %p", tz = "America/New_York"))),
     across(c(start, end), strftime, "%FT%TZ%Z", tz = "America/New_York")
   )
 
@@ -85,7 +89,7 @@ program <-
   left_join(session_times, by = "session_slug") |>
   mutate(session_title = if_else(talk_type == "Keynote", paste("Keynote:", talk_title), session_title)) |>
   rename(talk_abstract = abstract, session_room = room, session_slido = slido) |>
-  rename_with(~ paste0("talk_", .x), c(day, start, end, sched_url)) |>
+  rename_with(~ paste0("talk_", .x), c(day, start, start_local, end, end_local, sched_url)) |>
   nest(
     session = contains("session"),
     talk = c(contains("talk_")),
