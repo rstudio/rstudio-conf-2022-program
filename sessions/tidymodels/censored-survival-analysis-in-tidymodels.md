@@ -8,11 +8,11 @@ session_slug: tidymodels
 sched_url: https://rstudioconf2022.sched.com/event/11iYT
 # ---- Edit information below this line ----
 # The title of your talk
-talk_title: "censored - Survival Analysis in tidymodels"
+talk_title: "censored - A tidymodels package for survival models"
 # A short version of the title, suitable for small displays
-talk_title_short: censored - Survival Analysis in tidymodels
+talk_title_short: censored - A tidymodels package for survival models
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://hfrick.github.io/rstudio-conf-2022
 speakers:
 - name: Hannah Frick
   affiliation: RStudio
