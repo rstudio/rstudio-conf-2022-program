@@ -92,6 +92,7 @@ program_sched <- program %>%
     tags = talk_tags,
     `Talk Materials` = talk_materials_url,
     `Slido` = slido,
+    `Live Stream` = "https://www.rstudio.com/conference/stream/",
     venue = room
   )
 program_sched
