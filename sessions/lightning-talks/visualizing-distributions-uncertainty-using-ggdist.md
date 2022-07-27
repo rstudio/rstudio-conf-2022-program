@@ -12,7 +12,7 @@ talk_title: "Visualizing distributions and uncertainty using ggdist"
 # A short version of the title, suitable for small displays
 talk_title_short: Visualizing distributions and uncertainty using ggdist
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://www.mjskay.com/presentations/rstudio-conf-2022-talk.pdf
 speakers:
 - name: Matthew Kay
   affiliation: Northwestern University
