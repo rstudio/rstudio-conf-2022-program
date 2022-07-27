@@ -12,7 +12,7 @@ talk_title: "Making awesome automations with GitHub Actions"
 # A short version of the title, suitable for small displays
 talk_title_short: Making awesome automations with GitHub Actions
 # A link to your talk's materials, when ready
-talk_materials_url: https://beatrizmilz.github.io/rstudioconf2022/
+talk_materials_url: https://beamilz.com/talks/en/2022-rstudio-conf/
 speakers:
 - name: Beatriz Milz
   affiliation: Curso-R, R-Ladies São Paulo and University of Sao Paulo
