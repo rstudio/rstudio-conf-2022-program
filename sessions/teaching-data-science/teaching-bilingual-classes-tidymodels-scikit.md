@@ -12,7 +12,7 @@ talk_title: "Translating from {tidymodels} and scikit-learn: Lessons from a 'bil
 # A short version of the title, suitable for small displays
 talk_title_short: Translating from {tidymodels} and scikit-learn
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://www.kelly-bodwin.com/talks/rsconf22/
 speakers:
 - name: Kelly Bodwin
   affiliation: California Polytechnic State University
