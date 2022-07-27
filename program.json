@@ -1996,8 +1996,8 @@
       "sched_url": "https://rstudioconf2022.sched.com/event/11ia9",
       "title": "Making awesome automations with GitHub Actions",
       "title_short": "Making awesome automations with GitHub Actions",
-      "materials_url": "https://beatrizmilz.github.io/rstudioconf2022/",
-      "abstract": "<p>This talk is an introduction to GitHub Actions (GHA), which is a feature\nfrom GitHub that allows us to automate several tasks in R. In this\npresentation, I aim to answer these questions: &quot;What is GitHub Actions?\nHow can I run R Scripts with it?&quot;. I will list supplementary materials that\nare helpful to learn how to start automating tasks in R projects and packages.<\/p>\n<p>Talk materials are available at <a href=\"https://beatrizmilz.github.io/rstudioconf2022/\" target=\"_blank\">https://beatrizmilz.github.io/rstudioconf2022/<\/a>.",
+      "materials_url": "https://beamilz.com/talks/en/2022-rstudio-conf/",
+      "abstract": "<p>This talk is an introduction to GitHub Actions (GHA), which is a feature\nfrom GitHub that allows us to automate several tasks in R. In this\npresentation, I aim to answer these questions: &quot;What is GitHub Actions?\nHow can I run R Scripts with it?&quot;. I will list supplementary materials that\nare helpful to learn how to start automating tasks in R projects and packages.<\/p>\n<p>Talk materials are available at <a href=\"https://beamilz.com/talks/en/2022-rstudio-conf/\" target=\"_blank\">https://beamilz.com/talks/en/2022-rstudio-conf/<\/a>.",
       "day": "2022-07-28",
       "start": "2022-07-28T11:00:00ZEDT",
       "end": "2022-07-28T11:05:00ZEDT"
