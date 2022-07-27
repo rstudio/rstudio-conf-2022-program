@@ -12,7 +12,7 @@ talk_title: "censored - Survival Analysis in tidymodels"
 # A short version of the title, suitable for small displays
 talk_title_short: censored - Survival Analysis in tidymodels
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://hfrick.github.io/rstudio-conf-2022
 speakers:
 - name: Hannah Frick
   affiliation: RStudio
