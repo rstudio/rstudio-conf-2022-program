@@ -12,7 +12,7 @@ talk_title: "Remote Content Execution with RStudio Connect and Kubernetes"
 # A short version of the title, suitable for small displays
 talk_title_short: Remote Content Execution with RStudio Connect and Kubernetes
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://kelly.quarto.pub/rstudioconf-talk-2022/
 speakers:
 - name: Kelly O'Briant
   affiliation: RStudio
