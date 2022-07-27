@@ -1054,8 +1054,8 @@
       "sched_url": "https://rstudioconf2022.sched.com/event/11iZC",
       "title": "Remote Content Execution with RStudio Connect and Kubernetes",
       "title_short": "Remote Content Execution with RStudio Connect and Kubernetes",
-      "materials_url": null,
-      "abstract": "<p>This summer the RStudio Connect team will announce a feature which has been over\ntwo years in the making: “Remote” off-host content execution with launcher in\nKubernetes.<\/p>\n<p>We have been quietly beta testing the Launcher feature with select partners and\ncustomers for several months while we prepare for the public announcement.<\/p>\n<p>This talk will highlight why someone might want to use this new execution\nmode with Connect, show just how seamless it is to get everything configured\nin a fresh environment on EKS, and finally set some critical context for what\npublishers and administrators should expect by addressing the anticipated FAQs.<\/p>\n",
+      "materials_url": "https://kelly.quarto.pub/rstudioconf-talk-2022/",
+      "abstract": "<p>This summer the RStudio Connect team will announce a feature which has been over\ntwo years in the making: “Remote” off-host content execution with launcher in\nKubernetes.<\/p>\n<p>We have been quietly beta testing the Launcher feature with select partners and\ncustomers for several months while we prepare for the public announcement.<\/p>\n<p>This talk will highlight why someone might want to use this new execution\nmode with Connect, show just how seamless it is to get everything configured\nin a fresh environment on EKS, and finally set some critical context for what\npublishers and administrators should expect by addressing the anticipated FAQs.<\/p>\n<p>Talk materials are available at <a href=\"https://kelly.quarto.pub/rstudioconf-talk-2022/\" target=\"_blank\">https://kelly.quarto.pub/rstudioconf-talk-2022/<\/a>.",
       "day": "2022-07-27",
       "start": "2022-07-27T13:30:00ZEDT",
       "end": "2022-07-27T13:50:00ZEDT"
@@ -1231,8 +1231,8 @@
       "sched_url": "https://rstudioconf2022.sched.com/event/11iZT",
       "title": "Exploring Query Optimization: How a few lines of code can save hours of time",
       "title_short": "Exploring Query Optimization",
-      "materials_url": null,
-      "abstract": "<p>If you find yourself waiting hours for your queries to run, this talk is for you.\nLearn from my query mistakes and avoid crashing your database.<br />\nIn this talk, you'll learn about minor code changes that can dramatically improve query run time.<\/p>\n",
+      "materials_url": "~https://github.com/bhadi26/rstudio-conf-2022-slides/blob/main/rebecca-hadi-r-studio-presentation-2022.pptx",
+      "abstract": "<p>If you find yourself waiting hours for your queries to run, this talk is for you.\nLearn from my query mistakes and avoid crashing your database.<br />\nIn this talk, you'll learn about minor code changes that can dramatically improve query run time.<\/p>\n<p>Talk materials are available at <a href=\"~https://github.com/bhadi26/rstudio-conf-2022-slides/blob/main/rebecca-hadi-r-studio-presentation-2022.pptx\" target=\"_blank\">~https://github.com/bhadi26/rstudio-conf-2022-slides/blob/main/rebecca-hadi-r-studio-presentation-2022.pptx<\/a>.",
       "day": "2022-07-27",
       "start": "2022-07-27T15:20:00ZEDT",
       "end": "2022-07-27T15:40:00ZEDT"
