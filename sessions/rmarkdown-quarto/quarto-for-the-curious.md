@@ -12,7 +12,7 @@ talk_title: "Quarto for the Curious"
 # A short version of the title, suitable for small displays
 talk_title_short: Quarto for the Curious
 # A link to your talk's materials, when ready
-talk_materials_url: https://jthomasmock.github.io/quarto-presentation
+talk_materials_url: https://thomasmock.quarto.pub/quarto-curious/
 speakers:
 - name: Tom Mock
   affiliation: RStudio, PBC
