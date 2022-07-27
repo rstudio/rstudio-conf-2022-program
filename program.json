@@ -3634,8 +3634,8 @@
       "sched_url": "https://rstudioconf2022.sched.com/event/11iYT",
       "title": "censored - Survival Analysis in tidymodels",
       "title_short": "censored - Survival Analysis in tidymodels",
-      "materials_url": null,
-      "abstract": "<p>tidymodels is extending support for survival analysis and censored is a new\nparsnip extension package for survival models. It offers various types of\nmodels: parametric models, semi-parametric models like the Cox model, and tree-\nbased models like decision trees, boosted trees, and random forests. They\nall come with the consistent parsnip interface so that you can focus on the\nmodelling instead of details of the syntax. Happy modelling!<\/p>\n",
+      "materials_url": "https://hfrick.github.io/rstudio-conf-2022",
+      "abstract": "<p>tidymodels is extending support for survival analysis and censored is a new\nparsnip extension package for survival models. It offers various types of\nmodels: parametric models, semi-parametric models like the Cox model, and tree-\nbased models like decision trees, boosted trees, and random forests. They\nall come with the consistent parsnip interface so that you can focus on the\nmodelling instead of details of the syntax. Happy modelling!<\/p>\n<p>Talk materials are available at <a href=\"https://hfrick.github.io/rstudio-conf-2022\" target=\"_blank\">https://hfrick.github.io/rstudio-conf-2022<\/a>.",
       "day": "2022-07-27",
       "start": "2022-07-27T11:00:00ZEDT",
       "end": "2022-07-27T11:20:00ZEDT"
