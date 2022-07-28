@@ -12,7 +12,7 @@ talk_title: "Cross-Industry Anomaly Detection Solutions with R and Shiny"
 # A short version of the title, suitable for small displays
 talk_title_short: Cross-Industry Anomaly Detection Solutions with R and Shiny
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://docs.google.com/presentation/d/e/2PACX-1vTE7Ee2QIUGDUmfEKmF8l_WTQPVgnGaLJLGuuMquio57bXojeeb5YYSjuzO-xzYxMHxuX2cm_QNC2y-/pub?start=false&loop=false&delayms=60000&slide=id.gbb68c6dbe2_1_44
 speakers:
 - name: Tanya Cashorali
   affiliation: TCB Analytics
