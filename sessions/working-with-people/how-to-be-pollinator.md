@@ -12,7 +12,7 @@ talk_title: "How to be a pollinatoR"
 # A short version of the title, suitable for small displays
 talk_title_short: How to be a pollinatoR
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://rsconnect.norc.org/rstudioconf-pollinator
 speakers:
 - name: Weihuang Wong
   affiliation: NORC at the University of Chicago
