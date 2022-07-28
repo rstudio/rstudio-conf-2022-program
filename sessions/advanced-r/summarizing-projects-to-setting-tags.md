@@ -12,7 +12,7 @@ talk_title: "From summarizing projects to setting tags, uses of parsing R files"
 # A short version of the title, suitable for small displays
 talk_title_short: From summarizing projects to setting tags, uses of parsing R files
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/brshallo/funspotr-rstudioconf2022
 speakers:
 - name: Bryan Shalloway
   affiliation: NetApp
@@ -45,17 +45,8 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-Three possible applications of parsing code files for a typical R user (outside
-of background checks on syntax, dependencies, etc.) are:
+I'll walk through a few potential uses of parsing out the functions and packages in projects. 
 
-1. Creating a reference manual With so many #rstats learning materials out
-there, it's often helpful to parse-out the functions from a project and create a
-summary table that complements your notes.
-
-2. Analyzing files A network visualization of the functions/packages (or other
-type of) analysis provides insights as to which files/projects are most related
-to one another as well as which packages are most central to a body of work.
-
-3. Setting tags Picking good consistent tags for your blogdown website is
-hard. It's easier to just parse out the packages in each post and use those to
-organize your website.
+* Creating a reference table: With so many #rstats learning materials out there, it's often helpful to parse-out the functions from a project and create a lookup table that complements your notes.  
+* Analyzing files: A network visualization of the packages may provide insights as to which files or projects are most related to one another as well as which packages are most central to a body of work.  
+* Setting tags: Picking good consistent tags for your blogdown website is hard. It's easier to just parse out the packages in each post and use those to organize your website.  
