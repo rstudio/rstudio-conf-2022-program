@@ -12,7 +12,7 @@ talk_title: "Developing internal tools for multi-lingual teams"
 # A short version of the title, suitable for small displays
 talk_title_short: Developing internal tools for multi-lingual teams
 # A link to your talk's materials, when ready
-talk_materials_url: ~
+talk_materials_url: https://github.com/jamie-ralph/rstudio-conf-2022
 speakers:
 - name: Jamie Ralph
   affiliation: Bumble
