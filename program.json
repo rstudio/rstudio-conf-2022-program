@@ -253,7 +253,7 @@
         "shiny"
       ],
       "sched_url": "https://rstudioconf2022.sched.com/event/11ibY",
-      "title": "{shinytest2}: Unit testing for Shiny applications",
+      "title": "{shinytest2}: Regression testing for Shiny applications",
       "title_short": "{shinytest2}",
       "materials_url": "https://bit.ly/shinytest2-conf22",
       "abstract": "<p>Manually testing Shiny applications is often laborious, inconsistent, and\ndoesn’t scale well. Whether you are developing new features, fixing bug(s),\nor simply upgrading dependencies, it is critical to know when regressions are\nintroduced. The new {shinytest2} R package provides a toolkit for unit testing\nShiny apps and seamlessly integrates with {testthat}. Under the hood, it uses\nthe new {chromote} R package to render apps in a headless Chrome browser with\nfeatures such as live preview and built in debugging tools. In this talk,\nyou’ll learn how to test Shiny apps by simply recording your actions as code\nand extending it to test more particular aspects of your app, resulting in fewer\nbugs and more confidence in future development.<\/p>\n<p>Talk materials are available at <a href=\"https://bit.ly/shinytest2-conf22\" target=\"_blank\">https://bit.ly/shinytest2-conf22<\/a>.",
@@ -610,7 +610,7 @@
         "tidyverse"
       ],
       "sched_url": "https://rstudioconf2022.sched.com/event/11iYH",
-      "title": "Tidyverse and Power BI:  A Match Made in Heaven",
+      "title": "The R integration in Power BI:  Why R developers should be Interested",
       "title_short": "Tidyverse and Power BI",
       "materials_url": null,
       "abstract": "<p>Power BI is a multi-faceted business intelligence tool with built-in data\ningestion, transformation, and visualization features. The learning curve\nfor Power BI can be steep for many, but fortunately, R users can shorten the\nlearning curve by leveraging the Tidyverse. In this talk, attendees will get\nintroduced to how the Tidyverse can shorten the Power BI learning curve and\nenable them to perform tasks in Power BI that are not possible using its native\nfunctionality.<\/p>\n",
