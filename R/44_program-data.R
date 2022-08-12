@@ -20,6 +20,10 @@ prep_speaker <- function(speaker) {
 }
 
 
+# Video URLs --------------------------------------------------------------
+videos <- read_csv(here("_data/talk-links.csv")) %>%
+  rename(talk_video = link)
+
 # Gather talk data from .Rmds --------------------------------------------------
 
 talk_data <- read_talk_md(here("sessions"))
@@ -31,7 +35,8 @@ talks <-
   mutate(
     talk_type = first_upper(talk_type),
     speakers = map(speakers, map, prep_speaker)
-  )
+  ) |>
+  left_join(videos, by = "talk_id")
 
 
 # Combine with talk times to generate program -----------------------------
