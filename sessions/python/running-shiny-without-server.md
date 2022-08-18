@@ -38,4 +38,6 @@ speakers:
 Please write abstract below. You may use simple markdown (links, code style, bold, italics)
 -->
 
-Details to come.
+Shiny for Python has the ability to be deployed without a server that runs Python. These applications can be served by any web hosting service. They are easily deployed and can scale to handle large amounts of traffic.
+
+This mode of deployment is called **Shinylive**. It works by running Python in the user’s web browser, using Pyodide, which is a version of Python that is compiled to WebAssembly. Shinylive opens up new possibilities for how Shiny applications can be used. In this talk I discuss the advantages and the limitations of Shinylive applications.
