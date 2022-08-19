@@ -115,6 +115,13 @@ program_list <-
 
 names(program_list) <- program_list |> map("talk") |> map_chr("slug")
 
+program_list[["rstudio-2022-beyond"]] <-
+  jsonlite::fromJSON(
+    here("_data/rstudio-2022-beyond.json"),
+    simplifyVector = TRUE,
+    simplifyDataFrame = FALSE
+  )
+
 jsonlite::write_json(
   program_list,
   here("program.json"),

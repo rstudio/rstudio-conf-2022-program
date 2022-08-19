@@ -5037,6 +5037,66 @@
         "bio": "<p>David Keyes is the CEO and founder of R for the Rest of Us. Since\n2019, R for the Rest of Us has helped hundreds of people and dozens\nof organizations learn to use R. And in our consulting work, R for\nthe Rest of Us has created visually appealing reports that effectively\ncommunicate results to technical audiences and lay people alike.\nDespite this success growing R for the Rest of Us over the last three\nand a half years, David does not have a business background. A PhD\nanthropologist, David has learned about starting a business through\ntrial and error. Having distilled some of these lessons, David is\nexcited to share them with others interested in using their R skills\nto start their own businesses.<\/p>\n"
       }
     ]
+  },
+  "rstudio-2022-beyond": {
+    "talk": {
+      "id": 22301,
+      "slug": "rstudio-2022-beyond",
+      "type": "Keynote",
+      "tags": "modeling",
+      "sched_url": null,
+      "title": "RStudio: 2022 and Beyond",
+      "title_short": "RStudio: 2022 and Beyond",
+      "materials_url": null,
+      "abstract": null,
+      "video": "vkf3pbgpk6",
+      "day": "2022-07-27",
+      "start": "2022-07-27T09:00:00ZEDT",
+      "end": "2022-07-27T09:30:00ZEDT",
+      "start_local": "09:00 AM",
+      "end_local": "09:30 AM"
+    },
+    "session": {
+      "slug": "rstudio-2022-beyond",
+      "title": "RStudio: 2022 and Beyond",
+      "room": "Potomac A+B",
+      "slido": "https://sli.do/RKEYNOTE",
+      "day": "2022-07-27",
+      "start": "2022-07-27T09:00:00ZEDT",
+      "end": "2022-07-27T10:30:00ZEDT",
+      "start_local": "09:00 AM",
+      "end_local": "10:30 AM"
+    },
+    "speakers": [
+      {
+        "name": "Hadley Wickham",
+        "affiliation": "RStudio",
+        "url": {
+          "webpage": null,
+          "twitter": null,
+          "github": null,
+          "linkedin": null,
+          "affiliation": null
+        },
+        "username": null,
+        "photo": "/assets/img/2022Conf/tile-hadley.jpg",
+        "bio": "<p>Hadley Wickham is the Chief Scientist at RStudio, a member of the R Foundation, and Adjunct Professor at Stanford University and the University of Auckland. He builds tools (both computational and cognitive) to make data science easier, faster, and more fun. You may be familiar with his packages for data science (the tidyverse: including ggplot2, dplyr, tidyr, purrr, and readr) and principled software development (roxygen2, testthat, devtools, pkgdown). Much of the material for the course is drawn from two of his existing books, Advanced R and R Packages, but the course also includes a lot of new material that will eventually become a book called “Tidy tools”.<\/p>\n"
+      },
+      {
+        "name": "JJ Allaire",
+        "affiliation": "RStudio, PBC",
+        "url": {
+          "webpage": null,
+          "twitter": null,
+          "github": null,
+          "linkedin": null,
+          "affiliation": null
+        },
+        "username": null,
+        "photo": "/assets/img/2022Conf/tile-jj.jpg",
+        "bio": "<p>JJ Allaire is a software engineer and entrepreneur who has created a wide variety of products including ColdFusion Open Live Writer Lose It! and RStudio.<\/p>\n"
+      }
+    ]
   }
 }
 
