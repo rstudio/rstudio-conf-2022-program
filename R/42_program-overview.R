@@ -77,7 +77,7 @@ speaker_with_affiliation <- function(speaker) {
 talks <-
   tibble(yaml = talk_data$yaml) |>
   unnest_wider(yaml) |>
-  select(talk_id, talk_title, talk_title_short, speakers) |>
+  select(talk_id, talk_slug, talk_title, talk_title_short, speakers) |>
   mutate(
     talk_title_short = map_chr(talk_title_short, paste, collapse = " "),
     talk_title_short = recode(talk_title_short, "NULL" = NA_character_),
@@ -85,11 +85,18 @@ talks <-
     speakers = map(speakers, map_chr, speaker_with_affiliation)
   ) |>
   unnest(speakers) |>
-  group_by(talk_id, talk_title, talk_title_short) |>
+  group_by(talk_id, talk_slug, talk_title, talk_title_short) |>
   summarize(speakers = paste(speakers, collapse = " & "), .groups = "drop")
 
+talk_abstracts <-
+  talk_data$abstract %>%
+  enframe("path", "abstract") %>%
+  mutate(talk_slug = path %>% fs::path_file() %>% fs::path_ext_remove()) %>%
+  select(talk_slug, abstract)
+
 talks_summary <-
-  left_join(talk_times, talks, by = "talk_id")
+  left_join(talk_times, talks, by = "talk_id") %>%
+  left_join(talk_abstracts, by = "talk_slug")
 
 # Workshops ---------------------------------------------------------------
 
