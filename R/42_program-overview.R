@@ -19,6 +19,7 @@ first_upper <- function(x) {
 talk_data <- read_talk_md()
 workshops <- read_sheet("1wW2vkBxbV-AYUOA4wRrFPNSodIABWUiHSEL3LDPCgNs")
 times <- read_sheet("14cupdpbOj_aDQdiee-Db3Gde77JN9HWik73nZW7xMGs")
+talk_links <- read_csv(here::here("_data", "talk-links.csv"))
 
 sessions <-
   here::here("_data/28-session-slug-titles_synched.csv") |>
@@ -96,7 +97,10 @@ talk_abstracts <-
 
 talks_summary <-
   left_join(talk_times, talks, by = "talk_id") %>%
-  left_join(talk_abstracts, by = "talk_slug")
+  left_join(talk_abstracts, by = "talk_slug") %>%
+  left_join(talk_links, by = "talk_id") %>%
+  mutate(link = glue::glue("https://rstudio.wistia.com/medias/{link}")) %>%
+  rename(wistia = link)
 
 # Workshops ---------------------------------------------------------------
 
