@@ -1,7 +1,7 @@
 ---
 # Do not edit
 talk_id: 22234
-talk_slug: sessions/quarto-deep-dive/websites-books-blogs-quarto.md
+talk_slug: websites-books-blogs-quarto
 talk_type: regular
 talk_tags: [communication, Quarto]
 session_slug: quarto-deep-dive

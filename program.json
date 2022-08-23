@@ -3212,10 +3212,10 @@
       }
     ]
   },
-  "sessions/quarto-deep-dive/websites-books-blogs-quarto.md": {
+  "websites-books-blogs-quarto": {
     "talk": {
       "id": 22234,
-      "slug": "sessions/quarto-deep-dive/websites-books-blogs-quarto.md",
+      "slug": "websites-books-blogs-quarto",
       "type": "Regular",
       "tags": [
         "communication",
